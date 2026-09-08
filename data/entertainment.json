@@ -1,0 +1,2298 @@
+﻿[
+{
+"id": "ent_001",
+"question": "Which movie won the Academy Award for Best Picture in 2024?",
+"options": [
+"Oppenheimer",
+"Barbie",
+"Poor Things",
+"The Holdovers"
+],
+"correctAnswer": "Oppenheimer",
+"category": "Entertainment",
+"difficulty": "easy",
+"explanation": "Oppenheimer, directed by Christopher Nolan, dominated the 96th Academy Awards, winning seven Oscars including Best Picture.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"movies",
+"oscars"
+]
+},
+{
+"id": "ent_002",
+"question": "Who plays the character of Wednesday Addams in the Netflix series 'Wednesday'?",
+"options": [
+"Jenna Ortega",
+"Christina Ricci",
+"Sadie Sink",
+"Millie Bobby Brown"
+],
+"correctAnswer": "Jenna Ortega",
+"category": "Entertainment",
+"difficulty": "easy",
+"explanation": "Jenna Ortega played the titular role in the hit 2022 Netflix streaming series directed by Tim Burton.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"netflix",
+"tv-shows"
+]
+},
+{
+"id": "ent_003",
+"question": "Which pop star released the record-breaking album 'Midnights' in late 2022?",
+"options": [
+"Taylor Swift",
+"Beyoncé",
+"Adele",
+"Ariana Grande"
+],
+"correctAnswer": "Taylor Swift",
+"category": "Entertainment",
+"difficulty": "easy",
+"explanation": "Taylor Swift's 'Midnights' became an instant commercial juggernaut, spawning hits like 'Anti-Hero'.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"music",
+"pop"
+]
+},
+{
+"id": "ent_004",
+"question": "What is the fictional kingdom where Disney's 'Frozen' takes place?",
+"options": [
+"Arendelle",
+"Corona",
+"Genovia",
+"Duloc"
+],
+"correctAnswer": "Arendelle",
+"category": "Entertainment",
+"difficulty": "easy",
+"explanation": "Elsa and Anna are the princesses, and later queens, of the fictional Scandinavian-inspired kingdom of Arendelle.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"disney",
+"animation"
+]
+},
+{
+"id": "ent_005",
+"question": "Which actor portrayed Tony Stark / Iron Man in the Marvel Cinematic Universe?",
+"options": [
+"Robert Downey Jr.",
+"Chris Evans",
+"Chris Hemsworth",
+"Mark Ruffalo"
+],
+"correctAnswer": "Robert Downey Jr.",
+"category": "Entertainment",
+"difficulty": "easy",
+"explanation": "Robert Downey Jr. launched the MCU with his portrayal of Tony Stark in the 2008 film 'Iron Man'.",
+"imageUrl": "https://images.unsplash.com/photo-1608889174637-3c44f6326f2a?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"marvel",
+"cinema"
+]
+},
+{
+"id": "ent_006",
+"question": "What is the name of the longest-running American animated sitcom?",
+"options": [
+"The Simpsons",
+"Family Guy",
+"South Park",
+"Bob's Burgers"
+],
+"correctAnswer": "The Simpsons",
+"category": "Entertainment",
+"difficulty": "easy",
+"explanation": "Created by Matt Groening, The Simpsons has been airing since 1989 and has surpassed 750 episodes.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"animation",
+"tv-shows"
+]
+},
+{
+"id": "ent_007",
+"question": "Which band released the iconic rock song 'Bohemian Rhapsody' in 1975?",
+"options": [
+"Queen",
+"Led Zeppelin",
+"The Rolling Stones",
+"Pink Floyd"
+],
+"correctAnswer": "Queen",
+"category": "Entertainment",
+"difficulty": "easy",
+"explanation": "Written by Freddie Mercury for the album 'A Night at the Opera', Bohemian Rhapsody is celebrated for its unique operatic structure.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"music",
+"rock"
+]
+},
+{
+"id": "ent_008",
+"question": "In 'The Lord of the Rings' film trilogy, who directs the journey to destroy the One Ring?",
+"options": [
+"Peter Jackson",
+"Steven Spielberg",
+"Guillermo del Toro",
+"Christopher Nolan"
+],
+"correctAnswer": "Peter Jackson",
+"category": "Entertainment",
+"difficulty": "easy",
+"explanation": "New Zealand director Peter Jackson helmed the highly acclaimed epic fantasy trilogy filmed entirely in his home country.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"movies",
+"lotr"
+]
+},
+{
+"id": "ent_009",
+"question": "Which singer is frequently referred to as the 'Queen of Pop'?",
+"options": [
+"Madonna",
+"Britney Spears",
+"Whitney Houston",
+"Lady Gaga"
+],
+"correctAnswer": "Madonna",
+"category": "Entertainment",
+"difficulty": "easy",
+"explanation": "Madonna has held the undisputed moniker 'Queen of Pop' due to her ongoing cultural influence and record-shattering career since the 1980s.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"music",
+"pop"
+]
+},
+{
+"id": "ent_010",
+"question": "How many Harry Potter books were successfully adapted into the official Warner Bros. film franchise?",
+"options": [
+"7",
+"8",
+"6",
+"9"
+],
+"correctAnswer": "7",
+"category": "Entertainment",
+"difficulty": "easy",
+"explanation": "There are 7 original books written by J.K. Rowling, though they were split into 8 separate cinematic film installments.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"harry-potter",
+"movies"
+]
+},
+{
+"id": "ent_011",
+"question": "What is the name of the main protagonist in Nintendo's iconic 'The Legend of Zelda' video game series?",
+"options": [
+"Link",
+"Zelda",
+"Mario",
+"Ganon"
+],
+"correctAnswer": "Link",
+"category": "Entertainment",
+"difficulty": "easy",
+"explanation": "While the series is named after Princess Zelda, players control the green-clad Hylian hero named Link.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"gaming",
+"nintendo"
+]
+},
+{
+"id": "ent_012",
+"question": "Which streaming service produced and distributes the sci-fi horror series 'Stranger Things'?",
+"options": [
+"Netflix",
+"Hulu",
+"Amazon Prime Video",
+"Disney+"
+],
+"correctAnswer": "Netflix",
+"category": "Entertainment",
+"difficulty": "easy",
+"explanation": "'Stranger Things' debuted in 2016 as a flagship original property for Netflix.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"netflix",
+"stranger-things"
+]
+},
+{
+"id": "ent_013",
+"question": "Who won the Academy Award for Best Actor for his role in the 2019 film 'Joker'?",
+"options": [
+"Joaquin Phoenix",
+"Heath Ledger",
+"Robert De Niro",
+"Christian Bale"
+],
+"correctAnswer": "Joaquin Phoenix",
+"category": "Entertainment",
+"difficulty": "easy",
+"explanation": "Joaquin Phoenix won his first Best Actor Oscar for his disturbing, physical portrayal of Arthur Fleck.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"movies",
+"oscars"
+]
+},
+{
+"id": "ent_014",
+"question": "Which of these is NOT one of the central four houses in Hogwarts School of Witchcraft and Wizardry?",
+"options": [
+"Voldemort",
+"Gryffindor",
+"Hufflepuff",
+"Ravenclaw"
+],
+"correctAnswer": "Voldemort",
+"category": "Entertainment",
+"difficulty": "easy",
+"explanation": "Voldemort is the primary antagonist of the series. The four houses are Gryffindor, Hufflepuff, Ravenclaw, and Slytherin.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"harry-potter"
+]
+},
+{
+"id": "ent_015",
+"question": "What is the name of the fictional city protected by Batman?",
+"options": [
+"Gotham City",
+"Metropolis",
+"Central City",
+"Star City"
+],
+"correctAnswer": "Gotham City",
+"category": "Entertainment",
+"difficulty": "easy",
+"explanation": "Gotham City is the dark, crime-ridden metropolitan backdrop for almost all core Batman narratives.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"dc",
+"comics"
+]
+},
+{
+"id": "ent_016",
+"question": "Which iconic sitcom features the characters Rachel, Monica, Phoebe, Joey, Chandler, and Ross?",
+"options": [
+"Friends",
+"How I Met Your Mother",
+"The Big Bang Theory",
+"Seinfeld"
+],
+"correctAnswer": "Friends",
+"category": "Entertainment",
+"difficulty": "easy",
+"explanation": "Friends ran for 10 seasons from 1994 to 2004 and remains one of the most widely watched television series globally.",
+"imageUrl": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"sitcom",
+"tv-shows"
+]
+},
+{
+"id": "ent_017",
+"question": "Which game became a massive global phenomenon in 2020, featuring colorful crewmates completing tasks on a spaceship while avoiding 'Impostors'?",
+"options": [
+"Among Us",
+"Fall Guys",
+"Fortnite",
+"Minecraft"
+],
+"correctAnswer": "Among Us",
+"category": "Entertainment",
+"difficulty": "easy",
+"explanation": "Innersloth's 'Among Us' exploded in popularity during pandemic lockdowns due to popular live-streamers.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"gaming"
+]
+},
+{
+"id": "ent_018",
+"question": "What is the highest-grossing film of all time (unadjusted for inflation)?",
+"options": [
+"Avatar",
+"Avengers: Endgame",
+"Titanic",
+"Star Wars: The Force Awakens"
+],
+"correctAnswer": "Avatar",
+"category": "Entertainment",
+"difficulty": "easy",
+"explanation": "James Cameron's 2009 sci-fi epic 'Avatar' holds the global box office record with over $2.9 billion.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"movies",
+"box-office"
+]
+},
+{
+"id": "ent_019",
+"question": "Which musician is well-known for his custom, distinct lightning bolt face paint design on the 'Aladdin Sane' album cover?",
+"options": [
+"David Bowie",
+"Prince",
+"Elton John",
+"Freddie Mercury"
+],
+"correctAnswer": "David Bowie",
+"category": "Entertainment",
+"difficulty": "easy",
+"explanation": "David Bowie adopted the iconic lightning bolt makeup look in 1973 for his legendary studio album.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"music",
+"rock"
+]
+},
+{
+"id": "ent_020",
+"question": "Who is the main villain in the classic 1977 space fantasy film 'Star Wars: A New Hope'?",
+"options": [
+"Darth Vader",
+"Emperor Palpatine",
+"Kylo Ren",
+"Darth Maul"
+],
+"correctAnswer": "Darth Vader",
+"category": "Entertainment",
+"difficulty": "easy",
+"explanation": "Darth Vader acts as the main physical antagonist hunting Princess Leia and fighting Obi-Wan Kenobi in the original film.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"star-wars",
+"movies"
+]
+},
+{
+"id": "ent_021",
+"question": "Which of these characters is NOT an original Avenger in the 2012 Marvel Studios cinematic movie?",
+"options": [
+"Spider-Man",
+"Iron Man",
+"Thor",
+"Black Widow"
+],
+"correctAnswer": "Spider-Man",
+"category": "Entertainment",
+"difficulty": "easy",
+"explanation": "The initial lineup consisted of Iron Man, Captain America, Thor, Hulk, Black Widow, and Hawkeye. Spider-Man joined later.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"marvel",
+"movies"
+]
+},
+{
+"id": "ent_022",
+"question": "What is the name of the island park where genetically engineered dinosaurs run amok in a 1993 Steven Spielberg classic?",
+"options": [
+"Isla Nublar",
+"Isla Sorna",
+"Skull Island",
+"Amon Sul"
+],
+"correctAnswer": "Isla Nublar",
+"category": "Entertainment",
+"difficulty": "easy",
+"explanation": "Jurassic Park is built on the fictional island of Isla Nublar, located off the Pacific coast of Costa Rica.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"movies",
+"sci-fi"
+]
+},
+{
+"id": "ent_023",
+"question": "Which premium cable network produced 'Game of Thrones', 'The Sopranos', and 'Succession'?",
+"options": [
+"HBO",
+"Showtime",
+"FX",
+"Starz"
+],
+"correctAnswer": "HBO",
+"category": "Entertainment",
+"difficulty": "easy",
+"explanation": "Home Box Office (HBO) is renowned for creating these prestige drama series that defined modern television eras.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"tv-shows",
+"hbo"
+]
+},
+{
+"id": "ent_024",
+"question": "What primary instrument does Lizzo play during her live music performances?",
+"options": [
+"Flute",
+"Saxophone",
+"Violin",
+"Trumpet"
+],
+"correctAnswer": "Flute",
+"category": "Entertainment",
+"difficulty": "easy",
+"explanation": "Lizzo is a classically trained flutist and frequently incorporates intricate flute solos into her pop rap tracks.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"music",
+"pop"
+]
+},
+{
+"id": "ent_025",
+"question": "What is the name of the multi-day music and arts festival held annually in the Colorado Desert of California?",
+"options": [
+"Coachella",
+"Lollapalooza",
+"Glastonbury",
+"Tomorrowland"
+],
+"correctAnswer": "Coachella",
+"category": "Entertainment",
+"difficulty": "easy",
+"explanation": "The Coachella Valley Music and Arts Festival is famous for its star-studded lineups and high-profile fashion trends.",
+"imageUrl": "https://images.unsplash.com/photo-1506157786151-b8491531f063?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"music",
+"festivals"
+]
+},
+{
+"id": "ent_026",
+"question": "In the Pixar film 'Finding Nemo', what kind of fish is Nemo?",
+"options": [
+"Clownfish",
+"Blue Tang",
+"Goldfish",
+"Angelfish"
+],
+"correctAnswer": "Clownfish",
+"category": "Entertainment",
+"difficulty": "easy",
+"explanation": "Nemo and his father Marlin are orange-and-white ocellaris clownfish who live in a protective sea anemone.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"pixar",
+"animation"
+]
+},
+{
+"id": "ent_027",
+"question": "Who wrote the musical stage plays 'Hamilton' and 'In the Heights'?",
+"options": [
+"Lin-Manuel Miranda",
+"Andrew Lloyd Webber",
+"Stephen Sondheim",
+"Benj Pasek"
+],
+"correctAnswer": "Lin-Manuel Miranda",
+"category": "Entertainment",
+"difficulty": "easy",
+"explanation": "Lin-Manuel Miranda wrote the music, lyrics, and book for both acclaimed award-winning Broadway productions.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"broadway",
+"theater"
+]
+},
+{
+"id": "ent_028",
+"question": "Which social media application popularized short-form vertical videos with music overlays globally in the late 2010s?",
+"options": [
+"TikTok",
+"Vine",
+"Snapchat",
+"Tumblr"
+],
+"correctAnswer": "TikTok",
+"category": "Entertainment",
+"difficulty": "easy",
+"explanation": "Owned by ByteDance, TikTok became an unprecedented global entertainment engine by prioritizing rapid algorithmic media cycles.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"trends",
+"social-media"
+]
+},
+{
+"id": "ent_029",
+"question": "Which asset must players aggressively manage in the tactical indie strategy game 'Five Nights at Freddy's'?",
+"options": [
+"Electrical Power",
+"Oxygen Levels",
+"Ammunition",
+"Money"
+],
+"correctAnswer": "Electrical Power",
+"category": "Entertainment",
+"difficulty": "easy",
+"explanation": "Players act as a night guard who must systematically preserve limited generator power to keep automated blast doors shut.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"gaming",
+"horror"
+]
+},
+{
+"id": "ent_030",
+"question": "Who directed the iconic 1994 dark crime thriller film 'Pulp Fiction'?",
+"options": [
+"Quentin Tarantino",
+"Martin Scorsese",
+"David Fincher",
+"Coen Brothers"
+],
+"correctAnswer": "Quentin Tarantino",
+"category": "Entertainment",
+"difficulty": "easy",
+"explanation": "Quentin Tarantino won the Palme d'Or and an Oscar for Best Original Screenplay for his highly influential non-linear movie.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"movies",
+"cinema"
+]
+},
+{
+"id": "ent_031",
+"question": "Which video game holds the absolute title for the single best-selling standalone video game in history?",
+"options": [
+"Minecraft",
+"Grand Theft Auto V",
+"Tetris",
+"Wii Sports"
+],
+"correctAnswer": "Minecraft",
+"category": "Entertainment",
+"difficulty": "easy",
+"explanation": "Minecraft has sold over 300 million copies across dozens of software operating systems and console generations.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"gaming"
+]
+},
+{
+"id": "ent_032",
+"question": "What is the name of the annual award event that honors excellent artistic achievements in the American theater industry?",
+"options": [
+"Tony Awards",
+"Grammy Awards",
+"Emmy Awards",
+"Oscars"
+],
+"correctAnswer": "Tony Awards",
+"category": "Entertainment",
+"difficulty": "easy",
+"explanation": "The Antoinette Perry Awards for Excellence in Theatre, known colloquially as the Tony Awards, recognize high-tier Broadway theater.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"broadway",
+"awards"
+]
+},
+{
+"id": "ent_033",
+"question": "Which legendary artist released the highly influential visual pop-R&B concept album 'Lemonade' in 2016?",
+"options": [
+"Beyoncé",
+"Rihanna",
+"SZA",
+"Janelle Monáe"
+],
+"correctAnswer": "Beyoncé",
+"category": "Entertainment",
+"difficulty": "easy",
+"explanation": "Beyoncé released 'Lemonade' alongside an HBO film, exploring theme lines of generation structural healing and black womanhood.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"music",
+"pop"
+]
+},
+{
+"id": "ent_034",
+"question": "What is the primary language spoken in the critically acclaimed Oscar-winning 2019 black comedy thriller 'Parasite'?",
+"options": [
+"Korean",
+"Japanese",
+"Mandarin",
+"Vietnamese"
+],
+"correctAnswer": "Korean",
+"category": "Entertainment",
+"difficulty": "easy",
+"explanation": "Bong Joon Ho's 'Parasite' made cinema history as the first non-English language film to win Best Picture at the Oscars.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"movies",
+"foreign-film"
+]
+},
+{
+"id": "ent_035",
+"question": "In the hit comedy series 'The Office' (US), what is the name of the paper company where the characters work?",
+"options": [
+"Dunder Mifflin",
+"Initech",
+"Wernham Hogg",
+"Sabre"
+],
+"correctAnswer": "Dunder Mifflin",
+"category": "Entertainment",
+"difficulty": "easy",
+"explanation": "The mockumentary series centers around the Scranton, Pennsylvania regional branch of the corporate Dunder Mifflin Paper Company.",
+"imageUrl": "https://images.unsplash.com/photo-1542744094-3a31f103e35f?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"sitcom",
+"tv-shows"
+]
+},
+{
+"id": "ent_036",
+"question": "Which of these iconic figures is well known for hosting the popular syndicated game show 'Jeopardy!' for over 36 years?",
+"options": [
+"Alex Trebek",
+"Bob Barker",
+"Pat Sajak",
+"Steve Harvey"
+],
+"correctAnswer": "Alex Trebek",
+"category": "Entertainment",
+"difficulty": "easy",
+"explanation": "Alex Trebek hosted the beloved trivia program from its revival format launch in 1984 until his passing in late 2020.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"tv-shows",
+"trivia"
+]
+},
+{
+"id": "ent_037",
+"question": "Which character in 'SpongeBob SquarePants' lives inside a hollowed-out sea rock?",
+"options": [
+"Patrick Star",
+"Squidward Tentacles",
+"Sandy Cheeks",
+"Mr. Krabs"
+],
+"correctAnswer": "Patrick Star",
+"category": "Entertainment",
+"difficulty": "easy",
+"explanation": "Patrick Star, SpongeBob's slow-witted best friend, resides under a brown rock next door to Squidward's Easter Island Moai head house.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"animation",
+"cartoons"
+]
+},
+{
+"id": "ent_038",
+"question": "What is the name of the main fictional world setting where the high fantasy franchise 'World of Warcraft' takes place?",
+"options": [
+"Azeroth",
+"Tamriel",
+"Sanctuary",
+"Hyrule"
+],
+"correctAnswer": "Azeroth",
+"category": "Entertainment",
+"difficulty": "easy",
+"explanation": "Azeroth is the primary planet and setting for Blizzard Entertainment's massive multiplayer online role-playing game franchise.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"gaming",
+"warcraft"
+]
+},
+{
+"id": "ent_039",
+"question": "Which movie studio produced the iconic animated feature films 'Toy Story', 'Monsters, Inc.', and 'Up'?",
+"options": [
+"Pixar Animation Studios",
+"DreamWorks Animation",
+"Walt Disney Animation Studios",
+"Illumination"
+],
+"correctAnswer": "Pixar Animation Studios",
+"category": "Entertainment",
+"difficulty": "easy",
+"explanation": "Pixar revolutionized the cinematic animation industry starting with 'Toy Story' in 1995 using advanced computer graphics architecture.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"pixar",
+"animation"
+]
+},
+{
+"id": "ent_040",
+"question": "Which of these singers achieved massive chart dominance in 2019 with her alt-pop debut hit single 'Bad Guy'?",
+"options": [
+"Billie Eilish",
+"Olivia Rodrigo",
+"Lordes",
+"Dua Lipa"
+],
+"correctAnswer": "Billie Eilish",
+"category": "Entertainment",
+"difficulty": "easy",
+"explanation": "Billie Eilish alongside brother Finneas swept the core four categories at the Grammy Awards with her whisper-pop production style.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"music",
+"pop"
+]
+},
+{
+"id": "ent_041",
+"question": "What structural element must be destroyed to permanently defeat a Lich in fantasy worlds like 'Dungeons & Dragons'?",
+"options": [
+"Phylactery",
+"Horcrux",
+"Amulet of Power",
+"Sacred Tome"
+],
+"correctAnswer": "Phylactery",
+"category": "Entertainment",
+"difficulty": "medium",
+"explanation": "A Lich stores their life essence inside a magical container object called a phylactery. If left undamaged, they will continually resurrect.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"dnd",
+"tabletop"
+]
+},
+{
+"id": "ent_042",
+"question": "Which director directed the modern psychological horror films 'Get Out' (2017) and 'Nope' (2022)?",
+"options": [
+"Jordan Peele",
+"Ari Aster",
+"Robert Eggers",
+"James Wan"
+],
+"correctAnswer": "Jordan Peele",
+"category": "Entertainment",
+"difficulty": "medium",
+"explanation": "Jordan Peele successfully transitioned from sketch comedy to prestige horror cinema, winning an Oscar for Best Original Screenplay for 'Get Out'.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"horror",
+"movies"
+]
+},
+{
+"id": "ent_043",
+"question": "In the Marvel Comics universe, what rare fictional metal is bonded to Wolverine's entire skeletal structure?",
+"options": [
+"Adamantium",
+"Vibranium",
+"Mithril",
+"Uru"
+],
+"correctAnswer": "Adamantium",
+"category": "Entertainment",
+"difficulty": "medium",
+"explanation": "Wolverine was subjected to Weapon X testing where the virtually indestructible metal alloy Adamantium was fused to his bones.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"marvel",
+"comics"
+]
+},
+{
+"id": "ent_044",
+"question": "Which electronic music duo, known for performing in distinct robot helmets, officially announced their breakup in 2021?",
+"options": [
+"Daft Punk",
+"The Chemical Brothers",
+"Justice",
+"Disclosure"
+],
+"correctAnswer": "Daft Punk",
+"category": "Entertainment",
+"difficulty": "medium",
+"explanation": "Thomas Bangalter and Guy-Manuel de Homem-Christo of Daft Punk ended their iconic 28-year career with an 8-minute video titled 'Epilogue'.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"music",
+"electronic"
+]
+},
+{
+"id": "ent_045",
+"question": "What is the name of the complex historical continent framework where the core timeline of 'The Witcher' series takes place?",
+"options": [
+"The Continent",
+"The Lands Between",
+"Eos",
+"Thedas"
+],
+"correctAnswer": "The Continent",
+"category": "Entertainment",
+"difficulty": "medium",
+"explanation": "In Andrzej Sapkowski's fantasy saga (and subsequent video games and show), the landmass is simply referred to as 'The Continent'.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"gaming",
+"fantasy"
+]
+},
+{
+"id": "ent_046",
+"question": "Which television drama series features the competitive, multi-faceted corporate power struggles of the Roy family?",
+"options": [
+"Succession",
+"Billions",
+"Yellowstone",
+"The Crown"
+],
+"correctAnswer": "Succession",
+"category": "Entertainment",
+"difficulty": "medium",
+"explanation": "HBO's Succession follows the media conglomerate patriarch Logan Roy and the backstabbing maneuvers of his children.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"tv-shows",
+"hbo"
+]
+},
+{
+"id": "ent_047",
+"question": "What specific type of vintage mechanical camera was famously utilized to create the gritty, tracking visual style of the 1999 horror film 'The Blair Witch Project'?",
+"options": [
+"Hi8 Camcorder",
+"Super 8mm",
+"IMAX 70mm",
+"Betacam SP"
+],
+"correctAnswer": "Hi8 Camcorder",
+"category": "Entertainment",
+"difficulty": "medium",
+"explanation": "The found-footage aesthetic relied heavily on consumer-grade RCA Hi8 camcorders paired with 16mm black-and-white film cameras.",
+"imageUrl": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"movies",
+"horror"
+]
+},
+{
+"id": "ent_048",
+"question": "Which prominent video game developer created the post-apocalyptic role-playing franchises 'Fallout 3' and 'The Elder Scrolls V: Skyrim'?",
+"options": [
+"Bethesda Game Studios",
+"BioWare",
+"Obsidian Entertainment",
+"CD Projekt Red"
+],
+"correctAnswer": "Bethesda Game Studios",
+"category": "Entertainment",
+"difficulty": "medium",
+"explanation": "Bethesda, led by executive producer Todd Howard, is iconic for its massive open-world sandbox structure engines.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"gaming",
+"rpg"
+]
+},
+{
+"id": "ent_049",
+"question": "What is the subtitle of the second cinematic installment in the 'Dune' film adaptation directed by Denis Villeneuve?",
+"options": [
+"Part Two",
+"The Prophet",
+"The Desert War",
+"Messiah"
+],
+"correctAnswer": "Part Two",
+"category": "Entertainment",
+"difficulty": "medium",
+"explanation": "Released to critical acclaim in early 2024, the film covers the remaining half of Frank Herbert's initial 1965 sci-fi epic novel under the name 'Dune: Part Two'.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"movies",
+"sci-fi"
+]
+},
+{
+"id": "ent_050",
+"question": "Which artist holds the historical record for winning the most cumulative Grammy Awards in the history of the event?",
+"options": [
+"Beyoncé",
+"Georg Solti",
+"Quincy Jones",
+"Alison Krauss"
+],
+"correctAnswer": "Beyoncé",
+"category": "Entertainment",
+"difficulty": "medium",
+"explanation": "Beyoncé surpassed classical conductor Georg Solti at the 2023 ceremony, bringing her lifetime individual award total up past 32 wins.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"music",
+"awards"
+]
+},
+{
+"id": "ent_051",
+"question": "In the animated television series 'Avatar: The Last Airbender', what specialized sub-element control technique does Toph Beifong invent?",
+"options": [
+"Metalbending",
+"Lavabending",
+"Sandbending",
+"Lightning Generation"
+],
+"correctAnswer": "Metalbending",
+"category": "Entertainment",
+"difficulty": "medium",
+"explanation": "While captured in a metal cage, Toph locates unrefined earth impurities inside the refined iron walls to pioneer Metalbending.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"animation",
+"avatar"
+]
+},
+{
+"id": "ent_052",
+"question": "Which software engine serves as the underlying technical foundation for epic games like 'Fortnite' and 'Unreal Tournament'?",
+"options": [
+"Unreal Engine",
+"Unity",
+"Frostbite",
+"Source 2"
+],
+"correctAnswer": "Unreal Engine",
+"category": "Entertainment",
+"difficulty": "medium",
+"explanation": "Epic Games licenses out its highly flexible Unreal Engine framework across both the interactive gaming and modern digital cinema industries.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"gaming",
+"tech"
+]
+},
+{
+"id": "ent_053",
+"question": "Who composed the iconic, structural symphonic music themes for 'Star Wars', 'Indiana Jones', and 'Jaws'?",
+"options": [
+"John Williams",
+"Hans Zimmer",
+"Danny Elfman",
+"Howard Shore"
+],
+"correctAnswer": "John Williams",
+"category": "Entertainment",
+"difficulty": "medium",
+"explanation": "John Williams' sweeping orchestral work over six decades has garnered him over 50 individual Academy Award nominations.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"movies",
+"music"
+]
+},
+{
+"id": "ent_054",
+"question": "What is the name of the fictional town setting where the bizarre events of 'Twin Peaks' occur?",
+"options": [
+"Twin Peaks",
+"Castle Rock",
+"Hawkins",
+"Wayward Pines"
+],
+"correctAnswer": "Twin Peaks",
+"category": "Entertainment",
+"difficulty": "medium",
+"explanation": "David Lynch and Mark Frost's foundational mystery series is set in the small, eerie logging town of Twin Peaks, Washington.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"tv-shows",
+"mystery"
+]
+},
+{
+"id": "ent_055",
+"question": "Which actress won back-to-back Lead Actress Academy Awards for her work in 'La La Land' (2016) and 'Poor Things' (2023)?",
+"options": [
+"Emma Stone",
+"Jennifer Lawrence",
+"Cate Blanchett",
+"Margot Robbie"
+],
+"correctAnswer": "Emma Stone",
+"category": "Entertainment",
+"difficulty": "medium",
+"explanation": "Emma Stone won her second Oscar for her bold performance as Bella Baxter in Yorgos Lanthimos' eccentric surrealist comedy.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"movies",
+"oscars"
+]
+},
+{
+"id": "ent_056",
+"question": "In the cult classic animated series 'Neon Genesis Evangelion', what are the giant biological mecha units officially designated as?",
+"options": [
+"EVAs",
+"Gundams",
+"Jaegers",
+"Mechs"
+],
+"correctAnswer": "EVAs",
+"category": "Entertainment",
+"difficulty": "medium",
+"explanation": "The Evangelions, or EVAs, are not traditional machines but cybernetically modified organic entities containing human soul components.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"anime",
+"sci-fi"
+]
+},
+{
+"id": "ent_057",
+"question": "Which of these multi-track studio albums by Pink Floyd features a visual prism refracting light on its iconic black cover?",
+"options": [
+"The Dark Side of the Moon",
+"The Wall",
+"Wish You Were Here",
+"Animals"
+],
+"correctAnswer": "The Dark Side of the Moon",
+"category": "Entertainment",
+"difficulty": "medium",
+"explanation": "Designed by Hipgnosis, the 1973 cover became one of the definitive symbols of progressive art rock culture history.",
+"imageUrl": "https://images.unsplash.com/photo-1614613535308-eb5fbd3d2c17?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"music",
+"rock"
+]
+},
+{
+"id": "ent_058",
+"question": "What is the historical primary gameplay focus of the competitive 'Counter-Strike' tactical PC gaming series?",
+"options": [
+"Bomb Defusal / Hostage Rescue",
+"Capture the Flag",
+"Battle Royale survival",
+"Team Deathmatch score rush"
+],
+"correctAnswer": "Bomb Defusal / Hostage Rescue",
+"category": "Entertainment",
+"difficulty": "medium",
+"explanation": "The foundational core loop of Valve's competitive shooter divides players into Terrorist and Counter-Terrorist structural objectives.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"gaming",
+"esports"
+]
+},
+{
+"id": "ent_059",
+"question": "Which actor plays the tragic antihero character Saul Goodman in the crime drama universes of 'Breaking Bad' and 'Better Call Saul'?",
+"options": [
+"Bob Odenkirk",
+"Bryan Cranston",
+"Aaron Paul",
+"Jonathan Banks"
+],
+"correctAnswer": "Bob Odenkirk",
+"category": "Entertainment",
+"difficulty": "medium",
+"explanation": "Bob Odenkirk masterfully expanded the sleazy comic relief lawyer into an intricate, deeply tragic persona over six full spin-off seasons.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"tv-shows",
+"breaking-bad"
+]
+},
+{
+"id": "ent_060",
+"question": "What is the structural title of the fictional internal intelligence bureau operating within the 'Cyberpunk 2077' video game lore?",
+"options": [
+"NetWatch",
+"Militech",
+"Arasaka Intel",
+"Trauma Team"
+],
+"correctAnswer": "NetWatch",
+"category": "Entertainment",
+"difficulty": "medium",
+"explanation": "NetWatch is an elite global task force dedicated to defending the digital Blackwall against rogue artificial intelligence clusters.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"gaming",
+"cyberpunk"
+]
+},
+{
+"id": "ent_061",
+"question": "In Christopher Nolan's 'Interstellar' (2014), what is the unique physical shape of the massive black hole 'Gargantua'?",
+"options": [
+"Spherical with an accretion disk",
+"A perfect flat 2D vortex hole",
+"A shifting tesseract matrix",
+"An infinitely thin cylinder strand"
+],
+"correctAnswer": "Spherical with an accretion disk",
+"category": "Entertainment",
+"difficulty": "medium",
+"explanation": "Nolan utilized authentic scientific gravitational equations to render Gargantua as a real three-dimensional glowing sphere.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"movies",
+"sci-fi"
+]
+},
+{
+"id": "ent_062",
+"question": "Which historical individual served as the lead designer behind the conceptualization of the iconic survival sandbox game 'Minecraft'?",
+"options": [
+"Markus Persson",
+"Jens Bergensten",
+"Gabe Newell",
+"Sid Meier"
+],
+"correctAnswer": "Markus Persson",
+"category": "Entertainment",
+"difficulty": "medium",
+"explanation": "Markus Persson, famously known online as 'Notch', independently structured and launched the initial alpha builds of Minecraft in 2009.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"gaming",
+"indie"
+]
+},
+{
+"id": "ent_063",
+"question": "What is the specific sub-genre classification given to early 2000s indie rock bands like Interpol, The Strokes, and Bloc Party?",
+"options": [
+"Post-Punk Revival",
+"Shoegaze",
+"Grunge",
+"Synthwave"
+],
+"correctAnswer": "Post-Punk Revival",
+"category": "Entertainment",
+"difficulty": "medium",
+"explanation": "These alternative acts systematically revitalized stripped-back guitar textures inspired by late 1970s post-punk movements.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"music",
+"indie-rock"
+]
+},
+{
+"id": "ent_064",
+"question": "Which prominent filmmaker directed the iconic historical samurai masterpieces 'Yojimbo' (1961) and 'Ran' (1985)?",
+"options": [
+"Akira Kurosawa",
+"Yasujiro Ozu",
+"Hayao Miyazaki",
+"Kenji Mizoguchi"
+],
+"correctAnswer": "Akira Kurosawa",
+"category": "Entertainment",
+"difficulty": "medium",
+"explanation": "Akira Kurosawa remains one of the most structurally influential masters of modern cinematic pacing and visual composition history.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"movies",
+"cinema"
+]
+},
+{
+"id": "ent_065",
+"question": "In the historical tactical fighting video game series 'Tekken', who is the biological father of Kazuya Mishima?",
+"options": [
+"Heihachi Mishima",
+"Jinpachi Mishima",
+"Jin Kazama",
+"Lars Alexandersson"
+],
+"correctAnswer": "Heihachi Mishima",
+"category": "Entertainment",
+"difficulty": "medium",
+"explanation": "Heihachi Mishima is Kazuya's ruthless father who infamously threw him off a cliff during early structural training childhood.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"gaming",
+"tekken"
+]
+},
+{
+"id": "ent_066",
+"question": "Which historical film holds the record for the most total individual Oscar nominations without a single win (11 nominations)?",
+"options": [
+"The Turning Point",
+"The Color Purple",
+"Gangs of New York",
+"The Irishman"
+],
+"correctAnswer": "The Turning Point",
+"category": "Entertainment",
+"difficulty": "medium",
+"explanation": "Both 'The Turning Point' (1977) and 'The Color Purple' (1985) share this bittersweet record of going 0-for-11 at the Academy Awards.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"movies",
+"oscars"
+]
+},
+{
+"id": "ent_067",
+"question": "What is the structural name of the high-stakes illegal underground racing network featured in 'Need for Speed: Most Wanted'?",
+"options": [
+"The Blacklist",
+"The Crew",
+"The Underground",
+"Speedhunters"
+],
+"correctAnswer": "The Blacklist",
+"category": "Entertainment",
+"difficulty": "medium",
+"explanation": "Players must sequentially race and defeat 15 elite drivers on 'The Blacklist' to reclaim their stolen BMW M3 GTR.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"gaming",
+"racing"
+]
+},
+{
+"id": "ent_068",
+"question": "Which legendary American jazz musician recorded the historically landmark avant-garde composition track 'A Love Supreme' in 1964?",
+"options": [
+"John Coltrane",
+"Miles Davis",
+"Thelonious Monk",
+"Charles Mingus"
+],
+"correctAnswer": "John Coltrane",
+"category": "Entertainment",
+"difficulty": "medium",
+"explanation": "Tenor saxophonist John Coltrane arranged 'A Love Supreme' as a deeply profound spiritual four-part suite performance.",
+"imageUrl": "https://images.unsplash.com/photo-1511192336575-5a79af67a629?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"music",
+"jazz"
+]
+},
+{
+"id": "ent_069",
+"question": "In the animated world of 'Sailor Moon', what is the name of Sailor Moon's loyal talking guardian cat who features a crescent moon on her forehead?",
+"options": [
+"Luna",
+"Artemis",
+"Diana",
+"Meimi"
+],
+"correctAnswer": "Luna",
+"category": "Entertainment",
+"difficulty": "medium",
+"explanation": "Luna is the dark purple feline mentor who discovers Usagi Tsukino and gives her the magical transformation brooch.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"anime",
+"classics"
+]
+},
+{
+"id": "ent_070",
+"question": "Who acted as the primary operational showrunner for the acclaimed 2019 historical tragedy miniseries 'Chernobyl'?",
+"options": [
+"Craig Mazin",
+"David Benioff",
+"Noah Hawley",
+"Vince Gilligan"
+],
+"correctAnswer": "Craig Mazin",
+"category": "Entertainment",
+"difficulty": "medium",
+"explanation": "Craig Mazin meticulously researched historical accounts to script the intensely harrowing HBO five-part docudrama series.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"tv-shows",
+"hbo"
+]
+},
+{
+"id": "ent_071",
+"question": "What is the structural name of the legendary recording studio setup in London where The Beatles tracked almost all their studio work?",
+"options": [
+"Abbey Road Studios",
+"Air Studios",
+"Trident Studios",
+"Olympic Studios"
+],
+"correctAnswer": "Abbey Road Studios",
+"category": "Entertainment",
+"difficulty": "medium",
+"explanation": "Originally EMI Studios, the complex was later officially renamed Abbey Road Studios following the historic 1969 Beatles LP release.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"music",
+"beatles"
+]
+},
+{
+"id": "ent_072",
+"question": "Which of these independent film distribution companies produced modern cinema hits like 'Everything Everywhere All at Once' and 'Hereditary'?",
+"options": [
+"A24",
+"Neon",
+"Blumhouse",
+"Annapurna Pictures"
+],
+"correctAnswer": "A24",
+"category": "Entertainment",
+"difficulty": "medium",
+"explanation": "A24 built a massive cinematic brand identity focusing on auteur-driven projects and avant-garde aesthetic styles.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"movies",
+"indie"
+]
+},
+{
+"id": "ent_073",
+"question": "What is the structural title of the internal competitive tournament framework featured in 'Harry Potter and the Goblet of Fire'?",
+"options": [
+"The Triwizard Tournament",
+"The Quidditch World Cup",
+"The House Cup Challenge",
+"The Wizengamot Trials"
+],
+"correctAnswer": "The Triwizard Tournament",
+"category": "Entertainment",
+"difficulty": "medium",
+"explanation": "The dangerous event brings three magical European wizarding schools together for a series of competitive athletic trials.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"harry-potter"
+]
+},
+{
+"id": "ent_074",
+"question": "Which hardware console holds the absolute title for the single highest-selling standalone gaming device ever released?",
+"options": [
+"PlayStation 2",
+"Nintendo DS",
+"Nintendo Switch",
+"Game Boy"
+],
+"correctAnswer": "PlayStation 2",
+"category": "Entertainment",
+"difficulty": "medium",
+"explanation": "Sony's historic PlayStation 2 system launched in 2000 and achieved over 155 million global unit shipments over its lifespan.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"gaming",
+"sony"
+]
+},
+{
+"id": "ent_075",
+"question": "Who directed the landmark neo-noir science fiction masterwork film 'Blade Runner' in 1982?",
+"options": [
+"Ridley Scott",
+"Denis Villeneuve",
+"James Cameron",
+"John Carpenter"
+],
+"correctAnswer": "Ridley Scott",
+"category": "Entertainment",
+"difficulty": "medium",
+"explanation": "Ridley Scott adapted Philip K. Dick's story into a moody dystopian cyberpunk cinematic vision featuring Harrison Ford.",
+"imageUrl": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"movies",
+"sci-fi"
+]
+},
+{
+"id": "ent_076",
+"question": "Which alternative rap collective was founded and led by Tyler, the Creator in Los Angeles during 2007?",
+"options": [
+"Odd Future",
+"Brockhampton",
+"A$AP Mob",
+"Pro Era"
+],
+"correctAnswer": "Odd Future",
+"category": "Entertainment",
+"difficulty": "medium",
+"explanation": "Odd Future (OFWGKTA) launched the high-profile careers of artists like Frank Ocean, Earl Sweatshirt, and Syd.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"music",
+"hip-hop"
+]
+},
+{
+"id": "ent_077",
+"question": "What is the structural title name of the fictional dystopian corporation that created the mechanical dinosaur enemies in 'Horizon Zero Dawn'?",
+"options": [
+"Faro Automated Solutions",
+"Ted Corp",
+"Cyberdyne Systems",
+"Aperture Science"
+],
+"correctAnswer": "Faro Automated Solutions",
+"category": "Entertainment",
+"difficulty": "medium",
+"explanation": "Faro Automated Solutions created the self-replicating military peacekeeper swarm that eventually triggered global life extinction.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"gaming",
+"lore"
+]
+},
+{
+"id": "ent_078",
+"question": "Which of these actresses plays the iconic lead character Eleven across all seasons of 'Stranger Things'?",
+"options": [
+"Millie Bobby Brown",
+"Sadie Sink",
+"Maya Hawke",
+"Natalia Dyer"
+],
+"correctAnswer": "Millie Bobby Brown",
+"category": "Entertainment",
+"difficulty": "medium",
+"explanation": "Millie Bobby Brown achieved global child stardom through her complex, telekinetic portrayal of experimental subject Eleven.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"tv-shows",
+"netflix"
+]
+},
+{
+"id": "ent_079",
+"question": "What unique physical element serves as the core narrative driving force in the puzzle platformer game 'Portal'?",
+"options": [
+"The Aperture Handheld Portal Device",
+"The Gravity Gun",
+"The Omni-Tool",
+"The Plasma Cutter"
+],
+"correctAnswer": "The Aperture Handheld Portal Device",
+"category": "Entertainment",
+"difficulty": "medium",
+"explanation": "Known simply as the 'Portal Gun', the device links spatial points in 3D physics environments.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"gaming",
+"valve"
+]
+},
+{
+"id": "ent_080",
+"question": "Who directed the groundbreaking 2001 psychological indie thriller film 'Mulholland Drive'?",
+"options": [
+"David Lynch",
+"David Fincher",
+"Darren Aronofsky",
+"Lars von Trier"
+],
+"correctAnswer": "David Lynch",
+"category": "Entertainment",
+"difficulty": "medium",
+"explanation": "David Lynch garnered a Best Director Oscar nomination for his complex, surreal, dreamlike breakdown of Hollywood structural corruption.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"movies",
+"indie"
+]
+},
+{
+"id": "ent_081",
+"question": "What was the very first feature-length motion picture historically animated entirely using computer-generated imagery (CGI)?",
+"options": [
+"Toy Story",
+"Antz",
+"A Bug's Life",
+"Shrek"
+],
+"correctAnswer": "Toy Story",
+"category": "Entertainment",
+"difficulty": "hard",
+"explanation": "Released by Pixar in late 1995, 'Toy Story' broke industrial ground as the absolute first fully computer-rendered film project.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"animation",
+"pixar"
+]
+},
+{
+"id": "ent_082",
+"question": "Which technical musical scale framework forms the harmonic basis for the structural layout of Miles Davis' iconic album 'Kind of Blue'?",
+"options": [
+"Modal Jazz",
+"Bebop Scale",
+"Twelve-tone Technique",
+"Whole-tone Scale"
+],
+"correctAnswer": "Modal Jazz",
+"category": "Entertainment",
+"difficulty": "hard",
+"explanation": "Davis systematically abandoned traditional complex chord progressions to focus improvisation around musical modes and scales.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"music",
+"jazz"
+]
+},
+{
+"id": "ent_083",
+"question": "In 'The Lord of the Rings' cinematic adaptations, what is the exact name of the specific historical blade utilized by Isildur to cut the One Ring from Sauron's hand?",
+"options": [
+"Narsil",
+"Andúril",
+"Glamdring",
+"Sting"
+],
+"correctAnswer": "Narsil",
+"category": "Entertainment",
+"difficulty": "hard",
+"explanation": "Isildur used the shattered shards of his father Elendil's legendary sword, Narsil, which was later reforged as Andúril for Aragorn.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"lotr",
+"movies"
+]
+},
+{
+"id": "ent_084",
+"question": "Which avant-garde visual artist directed the experimental, non-narrative 1929 surrealist short film 'Un Chien Andalou' alongside Salvador Dalí?",
+"options": [
+"Luis Buñuel",
+"Jean Cocteau",
+"Man Ray",
+"Sergei Eisenstein"
+],
+"correctAnswer": "Luis Buñuel",
+"category": "Entertainment",
+"difficulty": "hard",
+"explanation": "Spanish director Luis Buñuel worked intimately with Dalí to structuralize a dream-logic film devoid of rational narrative order.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"movies",
+"history"
+]
+},
+{
+"id": "ent_085",
+"question": "What is the structural code designation of the intricate virtual reality program designed to trace and track abnormal user activity in the classic anime film 'Ghost in the Shell'?",
+"options": [
+"Project 2501",
+"The Puppet Master",
+"Section 9 Firewall",
+"A.I. Tachikoma"
+],
+"correctAnswer": "Project 2501",
+"category": "Entertainment",
+"difficulty": "hard",
+"explanation": "The mysterious cyber-criminal known as the Puppet Master was originally a sentient corporate network program designated Project 2501.",
+"imageUrl": "https://images.unsplash.com/photo-1544256718-3bcf237f3974?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"anime",
+"cyberpunk"
+]
+},
+{
+"id": "ent_086",
+"question": "Which of these specialized engineering teams successfully developed the hardware sound structure architecture behind the historic 'Creative Labs Sound Blaster' 16 soundcard?",
+"options": [
+"Sim Wong Hoo",
+"Jay Miner",
+"Chuck Peddle",
+"Jack Tramiel"
+],
+"correctAnswer": "Sim Wong Hoo",
+"category": "Entertainment",
+"difficulty": "hard",
+"explanation": "Creative Labs founder Sim Wong Hoo spearheaded the audio interface innovations that standardized PC game sound systems in the 1990s.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"gaming",
+"retro"
+]
+},
+{
+"id": "ent_087",
+"question": "What complex operational micro-mechanic code dictates the random procedural layout distribution of items in rogue-like games like 'The Binding of Isaac'?",
+"options": [
+"Pseudo-Random Number Generation Seeds",
+"Markov Chain Matrices",
+"A* Pathfinding arrays",
+"Noise Map generation algorithms"
+],
+"correctAnswer": "Pseudo-Random Number Generation Seeds",
+"category": "Entertainment",
+"difficulty": "hard",
+"explanation": "Rogue-like engines leverage string values called seeds within PRNG equations to lock in complex procedural configurations accurately.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"gaming",
+"tech"
+]
+},
+{
+"id": "ent_088",
+"question": "Which studio visual arts animator created the iconic, controversial structural art aesthetic lines of the 1973 sci-fi movie 'Fantastic Planet'?",
+"options": [
+"Roland Topor",
+"René Laloux",
+"Jan Švankmajer",
+"Jiri Trnka"
+],
+"correctAnswer": "Roland Topor",
+"category": "Entertainment",
+"difficulty": "hard",
+"explanation": "While René Laloux directed the film, French illustrator Roland Topor hand-drew the surreal and disturbing visual art styles.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"movies",
+"animation"
+]
+},
+{
+"id": "ent_089",
+"question": "What is the structural title name of the legendary, unreleased multi-hour ambient record album tracked by Aphex Twin in 1994?",
+"options": [
+"Melodies from Mars",
+"Selected Ambient Works Volume II",
+"Drukqs",
+"Syro"
+],
+"correctAnswer": "Melodies from Mars",
+"category": "Entertainment",
+"difficulty": "hard",
+"explanation": "'Melodies from Mars' was recorded as an underground compilation demo tape, remaining unofficially unreleased for years.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"music",
+"electronic"
+]
+},
+{
+"id": "ent_090",
+"question": "Which prominent character actor famously underwent a grueling physical process to speak exclusively in a gravelly hiss for the role of the green goblin-like creature 'Gollum'?",
+"options": [
+"Andy Serkis",
+"Doug Jones",
+"Warwick Davis",
+"Ahmed Best"
+],
+"correctAnswer": "Andy Serkis",
+"category": "Entertainment",
+"difficulty": "hard",
+"explanation": "Andy Serkis redefined performance-capture technology, structuring his character's iconic vocal rasps around the sound of a cat coughing up furballs.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"movies",
+"lotr"
+]
+},
+{
+"id": "ent_091",
+"question": "What is the complex structural name of the specific recording interface architecture introduced to unify digital synthesizers in 1983?",
+"options": [
+"MIDI",
+"ADAT",
+"S/PDIF",
+"XLR"
+],
+"correctAnswer": "MIDI",
+"category": "Entertainment",
+"difficulty": "hard",
+"explanation": "Musical Instrument Digital Interface (MIDI) was conceptualized by Dave Smith to seamlessly bridge multi-brand keyboard data configurations.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"music",
+"tech"
+]
+},
+{
+"id": "ent_092",
+"question": "Which of these obscure historical game titles is credited as the true technical ancestor of modern online multi-user dungeons (MUDs) and MMORPGs?",
+"options": [
+"MUD1",
+"Habitat",
+"Island of Kesmai",
+"Plato dnd"
+],
+"correctAnswer": "MUD1",
+"category": "Entertainment",
+"difficulty": "hard",
+"explanation": "Roy Trubshaw and Richard Bartle programmed 'MUD1' at the University of Essex in 1978, codifying multiplayer network gameplay paths.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"gaming",
+"history"
+]
+},
+{
+"id": "ent_093",
+"question": "Which legendary director famously used a specialized ultra-wide anamorphic 70mm lens format to record 'The Hateful Eight' in 2015?",
+"options": [
+"Quentin Tarantino",
+"Christopher Nolan",
+"Paul Thomas Anderson",
+"Martin Scorsese"
+],
+"correctAnswer": "Quentin Tarantino",
+"category": "Entertainment",
+"difficulty": "hard",
+"explanation": "Tarantino resurrected the historic Ultra Panavision 70 lens layout to construct deep visual panoramas within single-room locations.",
+"imageUrl": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"movies",
+"cinema"
+]
+},
+{
+"id": "ent_094",
+"question": "What structural tracking mechanic tracks raw mathematical value alterations over a specified timeframe inside modern DAW sound software?",
+"options": [
+"Automation Envelopes",
+"MIDI CC mapping",
+"Phase cancellation charts",
+"Quantization grids"
+],
+"correctAnswer": "Automation Envelopes",
+"category": "Entertainment",
+"difficulty": "hard",
+"explanation": "Automation lines systematically manipulate parameter variables (volume, cutoff pan values) along chronological digital sequence matrices.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"music",
+"production"
+]
+},
+{
+"id": "ent_095",
+"question": "In the foundational text lines of classic anime 'Akira', what is the exact name of the secret government research project that generated Tetsuo's mutation?",
+"options": [
+"The Akira Project",
+"Neo-Tokyo Espers Initiative",
+"Project Olympus",
+"The Capsule Program"
+],
+"correctAnswer": "The Akira Project",
+"category": "Entertainment",
+"difficulty": "hard",
+"explanation": "The top-secret military science research sector systematically ran deep chemical neural adjustments on psychic test subjects.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"anime",
+"scifi"
+]
+},
+{
+"id": "ent_096",
+"question": "Which of these indie game projects relied entirely on complex binary text strings to render dynamic geological worlds in 2006?",
+"options": [
+"Dwarf Fortress",
+"NetHack",
+"Rogue",
+"Cataclysm: Dark Days Ahead"
+],
+"correctAnswer": "Dwarf Fortress",
+"category": "Entertainment",
+"difficulty": "hard",
+"explanation": "Tarn and Zach Adams built 'Dwarf Fortress' using pure customized CP437 text symbol structures to calculate structural simulation pathways.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"gaming",
+"indie"
+]
+},
+{
+"id": "ent_097",
+"question": "What structural camera perspective trick was utilized to make the small actors appear miniature next to larger stars in 'The Fellowship of the Ring'?",
+"options": [
+"Forced Perspective with Moving Sets",
+"Green-screen overlay plates",
+"Digital structural scaling down",
+"Split-diopter focal tricks"
+],
+"correctAnswer": "Forced Perspective with Moving Sets",
+"category": "Entertainment",
+"difficulty": "hard",
+"explanation": "Peter Jackson constructed specialized tracking dollies that systematically shifted set elements in sync with camera pans.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"movies",
+"lotr"
+]
+},
+{
+"id": "ent_098",
+"question": "Which avant-garde electronic group tracked the historically dense concept LP 'Geogaddi' using buried esoteric samples in 2002?",
+"options": [
+"Boards of Canada",
+"Autechre",
+"The Future Sound of London",
+"Squarepusher"
+],
+"correctAnswer": "Boards of Canada",
+"category": "Entertainment",
+"difficulty": "hard",
+"explanation": "Scottish brothers Michael Sandison and Marcus Eoin engineered 'Geogaddi' utilizing hidden geometric structures and subliminal media loops.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"music",
+"electronic"
+]
+},
+{
+"id": "ent_099",
+"question": "What is the structural title of the foundational framework paper released to standardize spatial surround sound structures in 1992?",
+"options": [
+"Dolby Digital AC-3",
+"DTS Coherent Acoustics",
+"Sony Dynamic Digital Sound",
+"THX Sound System Specification"
+],
+"correctAnswer": "Dolby Digital AC-3",
+"category": "Entertainment",
+"difficulty": "hard",
+"explanation": "Dolby Digital revolutionized cinematic multi-channel sound fields, premiering globally during theatrical runs of 'Batman Returns'.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"movies",
+"tech"
+]
+},
+{
+"id": "ent_100",
+"question": "Which indie developer spent nearly a full decade writing complex mathematical custom code architectures to render an infinite galaxy universe for 'No Man's Sky'?",
+"options": [
+"Sean Murray",
+"Jonathan Blow",
+"Lucas Pope",
+"Eric Barone"
+],
+"correctAnswer": "Sean Murray",
+"category": "Entertainment",
+"difficulty": "hard",
+"explanation": "Hello Games lead Sean Murray designed the foundational code math formulas that systematically instantiate 18 quintillion planet environments.",
+"imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"gaming",
+"tech"
+]
+}
+]

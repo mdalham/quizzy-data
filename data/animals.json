@@ -1,0 +1,4648 @@
+﻿[
+{
+"id": "anim_001",
+"question": "What is the largest mammal in the world?",
+"options": [
+"African Elephant",
+"Blue Whale",
+"Colossal Squid",
+"Giraffe"
+],
+"correctAnswer": "Blue Whale",
+"category": "Animals",
+"difficulty": "easy",
+"explanation": "The blue whale is the largest known animal to have ever lived, reaching lengths of up to 100 feet and weights of over 150 tons.",
+"imageUrl": "https://images.unsplash.com/photo-1568430462989-44163eb1752f?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"mammals",
+"marine-life",
+"records"
+]
+},
+{
+"id": "anim_002",
+"question": "Which bird is known for its ability to mimic human speech and other sounds with high accuracy?",
+"options": [
+"African Grey Parrot",
+"Bald Eagle",
+"Ostrich",
+"Peregrine Falcon"
+],
+"correctAnswer": "African Grey Parrot",
+"category": "Animals",
+"difficulty": "easy",
+"explanation": "African Grey Parrots are highly intelligent birds famous for their exceptional ability to mimic human speech and environmental sounds.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"birds",
+"intelligence"
+]
+},
+{
+"id": "anim_003",
+"question": "What is a group of lions called?",
+"options": [
+"Pack",
+"Herd",
+"Pride",
+"Flock"
+],
+"correctAnswer": "Pride",
+"category": "Animals",
+"difficulty": "easy",
+"explanation": "Lions live in highly social groups called prides, which typically consist of related females, their offspring, and a small coalition of males.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"mammals",
+"big-cats",
+"terminology"
+]
+},
+{
+"id": "anim_004",
+"question": "Which of these animals is a marsupial?",
+"options": [
+"Kangaroo",
+"Platypus",
+"Dolphin",
+"Grizzly Bear"
+],
+"correctAnswer": "Kangaroo",
+"category": "Animals",
+"difficulty": "easy",
+"explanation": "Kangaroos are marsupials, meaning their young are born relatively undeveloped and complete their development in a pouch.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"marsupials",
+"australia"
+]
+},
+{
+"id": "anim_005",
+"question": "What is the only mammal capable of true and sustained flight?",
+"options": [
+"Flying Squirrel",
+"Bat",
+"Sugar Glider",
+"Colugo"
+],
+"correctAnswer": "Bat",
+"category": "Animals",
+"difficulty": "easy",
+"explanation": "Bats are the only mammals capable of sustained, flapping flight. Others like flying squirrels only glide.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"mammals",
+"flight"
+]
+},
+{
+"id": "anim_006",
+"question": "How many arms does a typical octopus have?",
+"options": [
+"6",
+"8",
+"10",
+"12"
+],
+"correctAnswer": "8",
+"category": "Animals",
+"difficulty": "easy",
+"explanation": "An octopus typically has eight arms equipped with suction cups that it uses for moving and capturing prey.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"marine-life",
+"invertebrates"
+]
+},
+{
+"id": "anim_007",
+"question": "Which animal is known as the 'Ship of the Desert'?",
+"options": [
+"Camel",
+"Horse",
+"Donkey",
+"Llama"
+],
+"correctAnswer": "Camel",
+"category": "Animals",
+"difficulty": "easy",
+"explanation": "Camels are nicknamed the 'Ship of the Desert' due to their ability to carry heavy loads across harsh, arid environments without needing frequent water.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"mammals",
+"desert"
+]
+},
+{
+"id": "anim_008",
+"question": "What is the fastest land animal in the world?",
+"options": [
+"Pronghorn",
+"Cheetah",
+"Lion",
+"Quarter Horse"
+],
+"correctAnswer": "Cheetah",
+"category": "Animals",
+"difficulty": "easy",
+"explanation": "The cheetah is the fastest land mammal, capable of reaching speeds between 60 and 70 mph in short bursts.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"records",
+"big-cats"
+]
+},
+{
+"id": "anim_009",
+"question": "Which of these animals is cold-blooded?",
+"options": [
+"Eagle",
+"Crocodile",
+"Whale",
+"Tiger"
+],
+"correctAnswer": "Crocodile",
+"category": "Animals",
+"difficulty": "easy",
+"explanation": "Crocodiles are ectothermic (cold-blooded) reptiles that rely on external temperatures to regulate their body heat.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"reptiles",
+"biology"
+]
+},
+{
+"id": "anim_010",
+"question": "What is the main diet of giant pandas?",
+"options": [
+"Fish",
+"Bamboo",
+"Insects",
+"Berries"
+],
+"correctAnswer": "Bamboo",
+"category": "Animals",
+"difficulty": "easy",
+"explanation": "Giant pandas are specialized herbivores whose diet consists almost entirely (over 99%) of various bamboo species.",
+"imageUrl": "https://images.unsplash.com/photo-1564349683136-77e08dba1ef7?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"bears",
+"diet"
+]
+},
+{
+"id": "anim_011",
+"question": "Which bird cannot fly but is an excellent swimmer?",
+"options": [
+"Penguin",
+"Ostrich",
+"Kiwi",
+"Emu"
+],
+"correctAnswer": "Penguin",
+"category": "Animals",
+"difficulty": "easy",
+"explanation": "Penguins are flightless birds highly adapted to marine life, using their wings as flippers to swim efficiently.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"birds",
+"marine-life"
+]
+},
+{
+"id": "anim_012",
+"question": "What type of animal is a regular garden snail?",
+"options": [
+"Mollusk",
+"Arthropod",
+"Amphibian",
+"Annelid"
+],
+"correctAnswer": "Mollusk",
+"category": "Animals",
+"difficulty": "easy",
+"explanation": "Garden snails belong to the phylum Mollusca and the class Gastropoda, characterized by a soft body and a protective shell.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"invertebrates",
+"mollusks"
+]
+},
+{
+"id": "anim_013",
+"question": "Which animal is famous for building dams along rivers?",
+"options": [
+"Otter",
+"Beaver",
+"Platypus",
+"Muskrat"
+],
+"correctAnswer": "Beaver",
+"category": "Animals",
+"difficulty": "easy",
+"explanation": "Beavers alter their environment by cutting down trees and constructing complex wooden dams to create safe, flooded habitats.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"mammals",
+"rodents"
+]
+},
+{
+"id": "anim_014",
+"question": "What is a baby dog officially called?",
+"options": [
+"Kitten",
+"Cub",
+"Puppy",
+"Calf"
+],
+"correctAnswer": "Puppy",
+"category": "Animals",
+"difficulty": "easy",
+"explanation": "A young canine or baby dog is called a puppy until it approaches adulthood.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"pets",
+"terminology"
+]
+},
+{
+"id": "anim_015",
+"question": "Which ocean creature has blue blood and three hearts?",
+"options": [
+"Great White Shark",
+"Octopus",
+"Sea Turtle",
+"Jellyfish"
+],
+"correctAnswer": "Octopus",
+"category": "Animals",
+"difficulty": "easy",
+"explanation": "Octopuses have copper-rich hemocyanin in their blood (making it blue) and three hearts to pump blood through their bodies and gills.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"marine-life",
+"anatomy"
+]
+},
+{
+"id": "anim_016",
+"question": "What is the tallest land animal alive today?",
+"options": [
+"African Elephant",
+"Giraffe",
+"Ostrich",
+"Moose"
+],
+"correctAnswer": "Giraffe",
+"category": "Animals",
+"difficulty": "easy",
+"explanation": "Giraffes are the tallest terrestrial animals, with males reaching heights up to 19 feet, primarily due to their exceptionally long necks.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"mammals",
+"records"
+]
+},
+{
+"id": "anim_017",
+"question": "Which insect produces honey?",
+"options": [
+"Wasp",
+"Honeybee",
+"Bumblebee",
+"Hornet"
+],
+"correctAnswer": "Honeybee",
+"category": "Animals",
+"difficulty": "easy",
+"explanation": "Honeybees gather nectar from flowers and process it within their hives to make honey, storing it as a food source.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"insects",
+"nature"
+]
+},
+{
+"id": "anim_018",
+"question": "What kind of animal is a komodo dragon?",
+"options": [
+"Snake",
+"Lizard",
+"Amphibian",
+"Crocodilian"
+],
+"correctAnswer": "Lizard",
+"category": "Animals",
+"difficulty": "easy",
+"explanation": "The Komodo dragon is the largest living species of lizard, found in the Indonesian islands.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"reptiles",
+"lizards"
+]
+},
+{
+"id": "anim_019",
+"question": "What do bees collect from flowers to make food?",
+"options": [
+"Sap",
+"Nectar",
+"Leaves",
+"Petals"
+],
+"correctAnswer": "Nectar",
+"category": "Animals",
+"difficulty": "easy",
+"explanation": "Bees collect sweet liquid nectar from flowers, which they transport back to the hive and convert into honey.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"insects",
+"diet"
+]
+},
+{
+"id": "anim_020",
+"question": "Which of these birds can fly backwards?",
+"options": [
+"Hummingbird",
+"Sparrow",
+"Swallow",
+"Pigeon"
+],
+"correctAnswer": "Hummingbird",
+"category": "Animals",
+"difficulty": "easy",
+"explanation": "Hummingbirds have a unique wing anatomy that allows them to fly forward, backward, upside down, and hover in mid-air.",
+"imageUrl": "https://images.unsplash.com/photo-1551085254-e96b210db58a?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"birds",
+"flight"
+]
+},
+{
+"id": "anim_021",
+"question": "What color is a polar bear's skin underneath its white fur?",
+"options": [
+"White",
+"Pink",
+"Black",
+"Brown"
+],
+"correctAnswer": "Black",
+"category": "Animals",
+"difficulty": "easy",
+"explanation": "A polar bear's skin is actually black, which helps it absorb heat from the sun to stay warm in arctic climates.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"bears",
+"anatomy"
+]
+},
+{
+"id": "anim_022",
+"question": "What is the primary physical characteristic of a vertebrate?",
+"options": [
+"Exoskeleton",
+"Backbone",
+"Gills",
+"Warm blood"
+],
+"correctAnswer": "Backbone",
+"category": "Animals",
+"difficulty": "easy",
+"explanation": "Vertebrates are defined by the presence of a vertebral column or backbone enclosing a spinal cord.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"biology",
+"classification"
+]
+},
+{
+"id": "anim_023",
+"question": "Which farm animal is known to roll in mud to keep cool and prevent sunburn?",
+"options": [
+"Cow",
+"Pig",
+"Sheep",
+"Goat"
+],
+"correctAnswer": "Pig",
+"category": "Animals",
+"difficulty": "easy",
+"explanation": "Pigs lack functional sweat glands, so they roll in mud ('wallowing') to lower their body temperature and protect their skin.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"mammals",
+"behavior"
+]
+},
+{
+"id": "anim_024",
+"question": "What is the collective noun used for a group of fish?",
+"options": [
+"Herd",
+"Pack",
+"School",
+"Flock"
+],
+"correctAnswer": "School",
+"category": "Animals",
+"difficulty": "easy",
+"explanation": "A group of fish swimming together in a synchronized manner is called a school or a shoal.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"fish",
+"terminology"
+]
+},
+{
+"id": "anim_025",
+"question": "Which of these is a flightless bird native to New Zealand?",
+"options": [
+"Kiwi",
+"Emu",
+"Ostrich",
+"Cassowary"
+],
+"correctAnswer": "Kiwi",
+"category": "Animals",
+"difficulty": "easy",
+"explanation": "The kiwi is a small, flightless bird endemic to New Zealand and is a well-known national symbol of the country.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"birds",
+"new-zealand"
+]
+},
+{
+"id": "anim_026",
+"question": "What defensive physical trait belongs to a porcupine?",
+"options": [
+"Venomous fangs",
+"Sharp quills",
+"Hard shell",
+"Ink cloud"
+],
+"correctAnswer": "Sharp quills",
+"category": "Animals",
+"difficulty": "easy",
+"explanation": "Porcupines possess sharp, modified hairs called quills that detach easily and embed into potential predators as a defense.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"mammals",
+"defense"
+]
+},
+{
+"id": "anim_027",
+"question": "What kind of animal is a frog?",
+"options": [
+"Reptile",
+"Amphibian",
+"Fish",
+"Mammal"
+],
+"correctAnswer": "Amphibian",
+"category": "Animals",
+"difficulty": "easy",
+"explanation": "Frogs are amphibians, characterized by their semi-aquatic lifestyle, moist skin, and a life cycle that usually involves aquatic larvae.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"amphibians",
+"biology"
+]
+},
+{
+"id": "anim_028",
+"question": "Which mammal is known for spending most of its life hanging upside down from trees?",
+"options": [
+"Koala",
+"Sloth",
+"Chimpanzee",
+"Opossum"
+],
+"correctAnswer": "Sloth",
+"category": "Animals",
+"difficulty": "easy",
+"explanation": "Sloths are arboreal mammals famous for their slow movements and spending almost all their time hanging upside down in rainforest trees.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"mammals",
+"behavior"
+]
+},
+{
+"id": "anim_029",
+"question": "How many legs does a spider typically have?",
+"options": [
+"6",
+"8",
+"10",
+"12"
+],
+"correctAnswer": "8",
+"category": "Animals",
+"difficulty": "easy",
+"explanation": "Spiders are arachnids, a class of arthropods that consistently feature eight walking legs.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"arachnids",
+"invertebrates"
+]
+},
+{
+"id": "anim_030",
+"question": "What is the primary food of a koala?",
+"options": [
+"Bamboo leaves",
+"Eucalyptus leaves",
+"Insects",
+"Fruit"
+],
+"correctAnswer": "Eucalyptus leaves",
+"category": "Animals",
+"difficulty": "easy",
+"explanation": "Koalas are specialized herbivores that feed almost exclusively on the leaves of specific eucalyptus tree species.",
+"imageUrl": "https://images.unsplash.com/photo-1546182990-dffeafbe841d?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"marsupials",
+"diet"
+]
+},
+{
+"id": "anim_031",
+"question": "Which of these big cats has a pattern of stripes rather than spots?",
+"options": [
+"Leopard",
+"Cheetah",
+"Tiger",
+"Jaguar"
+],
+"correctAnswer": "Tiger",
+"category": "Animals",
+"difficulty": "easy",
+"explanation": "Tigers are easily distinguished by their dark vertical stripes overlaying reddish-orange fur.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"big-cats",
+"mammals"
+]
+},
+{
+"id": "anim_032",
+"question": "What is a group of wolves called?",
+"options": [
+"Flock",
+"Pack",
+"Herd",
+"Mob"
+],
+"correctAnswer": "Pack",
+"category": "Animals",
+"difficulty": "easy",
+"explanation": "Wolves are highly social pack animals that hunt, travel, and raise their pups within a structured family unit called a pack.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"mammals",
+"canines",
+"terminology"
+]
+},
+{
+"id": "anim_033",
+"question": "Which animal is known for having a highly specialized pouch to carry its young?",
+"options": [
+"Chimpanzee",
+"Kangaroo",
+"Sloth",
+"Platypus"
+],
+"correctAnswer": "Kangaroo",
+"category": "Animals",
+"difficulty": "easy",
+"explanation": "Female kangaroos have a pouch (marsupium) on their abdomen containing mammary glands where their young continue developing.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"marsupials",
+"anatomy"
+]
+},
+{
+"id": "anim_034",
+"question": "Which bird is historically associated with delivering newborn babies in European folklore?",
+"options": [
+"White Stork",
+"Pelican",
+"Swan",
+"Owl"
+],
+"correctAnswer": "White Stork",
+"category": "Animals",
+"difficulty": "easy",
+"explanation": "In European folklore, the White Stork is traditionally credited with bringing newborn babies to their parents.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"birds",
+"folklore"
+]
+},
+{
+"id": "anim_035",
+"question": "What type of animal is a tarantula?",
+"options": [
+"Insect",
+"Crustacean",
+"Spider",
+"Centipede"
+],
+"correctAnswer": "Spider",
+"category": "Animals",
+"difficulty": "easy",
+"explanation": "Tarantulas are a family of large and often hairy spiders belonging to the family Theraphosidae.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"arachnids",
+"invertebrates"
+]
+},
+{
+"id": "anim_036",
+"question": "What is the baby of a cat called?",
+"options": [
+"Puppy",
+"Cub",
+"Kitten",
+"Fawn"
+],
+"correctAnswer": "Kitten",
+"category": "Animals",
+"difficulty": "easy",
+"explanation": "A young domesticated cat is formally referred to as a kitten.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"pets",
+"terminology"
+]
+},
+{
+"id": "anim_037",
+"question": "Which of these birds is the largest living bird species?",
+"options": [
+"Albatross",
+"Ostrich",
+"Emperor Penguin",
+"Harpy Eagle"
+],
+"correctAnswer": "Ostrich",
+"category": "Animals",
+"difficulty": "easy",
+"explanation": "The ostrich is the largest and heaviest living bird species; because of its size, it is completely flightless.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"birds",
+"records"
+]
+},
+{
+"id": "anim_038",
+"question": "What do camels store in their humps?",
+"options": [
+"Water",
+"Fat",
+"Muscle",
+"Bones"
+],
+"correctAnswer": "Fat",
+"category": "Animals",
+"difficulty": "easy",
+"explanation": "Camels store fatty tissue in their humps, which acts as an energy reserve that can be metabolized into nutrients and water when needed.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"mammals",
+"anatomy"
+]
+},
+{
+"id": "anim_039",
+"question": "Which creature is a domesticated descendant of the wild wolf?",
+"options": [
+"Fox",
+"Jackal",
+"Dog",
+"Hyena"
+],
+"correctAnswer": "Dog",
+"category": "Animals",
+"difficulty": "easy",
+"explanation": "Domestic dogs are descendants of an extinct wolf species and were the first animals to be domesticated by humans.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"pets",
+"canines"
+]
+},
+{
+"id": "anim_040",
+"question": "What color is the tongue of a healthy Giraffe?",
+"options": [
+"Pink",
+"Red",
+"Bluish-Black",
+"White"
+],
+"correctAnswer": "Bluish-Black",
+"category": "Animals",
+"difficulty": "easy",
+"explanation": "Giraffes have prehensile tongues that are colored dark bluish-black or purple, which helps protect them from getting sunburned while stripping leaves from trees.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"mammals",
+"anatomy"
+]
+},
+{
+"id": "anim_041",
+"question": "Which mammal is known to use tools, such as rocks, to crack open shellfish while floating on its back?",
+"options": [
+"Sea Otter",
+"Dolphin",
+"Walrus",
+"Manatee"
+],
+"correctAnswer": "Sea Otter",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "Sea otters frequently use rocks as anvils or hammers resting on their stomachs to crack open hard-shelled prey like clams and urchins.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"mammals",
+"marine-life",
+"intelligence"
+]
+},
+{
+"id": "anim_042",
+"question": "What is the only species of deer where both males and females grow antlers?",
+"options": [
+"Elk",
+"Reindeer",
+"Moose",
+"White-tailed deer"
+],
+"correctAnswer": "Reindeer",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "In reindeer (also known as caribou), both males and females grow antlers, unlike other deer species where typically only males have them.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"mammals",
+"cervids"
+]
+},
+{
+"id": "anim_043",
+"question": "What is the primary function of a flamingo's specialized bill?",
+"options": [
+"Spearing fish",
+"Filter feeding",
+"Cracking nuts",
+"Digging burrows"
+],
+"correctAnswer": "Filter feeding",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "Flamingos use their heads upside down to filter feed. Their bills contain comb-like structures called lamellae that trap small organisms like shrimp and algae.",
+"imageUrl": "https://images.unsplash.com/photo-1510525009512-ad7fc13eefab?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"birds",
+"diet"
+]
+},
+{
+"id": "anim_044",
+"question": "How do honeybees communicate the location of a food source to other bees in their hive?",
+"options": [
+"High-pitched buzzing",
+"Pheromone trails",
+"Waggle dance",
+"Antenna tapping"
+],
+"correctAnswer": "Waggle dance",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "Honeybees perform a specialized 'waggle dance' inside the hive to communicate the direction and distance to profitable flower patches.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"insects",
+"behavior"
+]
+},
+{
+"id": "anim_045",
+"question": "Which of these marine animals is actually classified as a true predatory mammal?",
+"options": [
+"Great White Shark",
+"Orca",
+"Manta Ray",
+"Sailfish"
+],
+"correctAnswer": "Orca",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "The Orca (or killer whale) is a warm-blooded marine mammal belonging to the oceanic dolphin family.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"marine-life",
+"mammals"
+]
+},
+{
+"id": "anim_046",
+"question": "What unique anatomical feature allows owls to rotate their heads up to 270 degrees?",
+"options": [
+"Multiple extra neck vertebrae",
+"Specialized blood vessel reservoirs and bone adaptations",
+"A ball-and-socket joint at the base of the skull",
+"Elastic tendons that stretch without tearing"
+],
+"correctAnswer": "Specialized blood vessel reservoirs and bone adaptations",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "Owls possess extra bone cavities and blood pooling systems that keep blood flowing to their brain even when turning their necks to extreme angles.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"birds",
+"anatomy"
+]
+},
+{
+"id": "anim_047",
+"question": "Which species is considered an egg-laying mammal (monotreme)?",
+"options": [
+"Platypus",
+"Opossum",
+"Koala",
+"Wombat"
+],
+"correctAnswer": "Platypus",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "The platypus is one of the very few extant monotremes, which are mammals that lay eggs instead of giving birth to live young.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"monotremes",
+"mammals"
+]
+},
+{
+"id": "anim_048",
+"question": "What enables a chameleon to rapidly change its skin color?",
+"options": [
+"Shifting micro-pigments via specialized sweat glands",
+"Adjusting crystal structural spacing within iridophore cells",
+"Shedding its transparent outer skin layer",
+"Rapidly filling subcutaneous blood vessels"
+],
+"correctAnswer": "Adjusting crystal structural spacing within iridophore cells",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "Chameleons change color by restructuring nanocrystals inside a specialized lattice layer of skin cells called iridophores, reflecting different wavelengths of light.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"reptiles",
+"lizards"
+]
+},
+{
+"id": "anim_049",
+"question": "Which shark species is known for its ability to survive and tolerate prolonged periods in freshwater rivers?",
+"options": [
+"Great White Shark",
+"Tiger Shark",
+"Bull Shark",
+"Hammerhead Shark"
+],
+"correctAnswer": "Bull Shark",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "Bull sharks possess a highly adapted osmoregulation process that allows them to adjust their internal salt balance and navigate up freshwater rivers.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"sharks",
+"marine-life"
+]
+},
+{
+"id": "anim_050",
+"question": "What is unique about a seahorse's reproductive process?",
+"options": [
+"They reproduce through self-cloning",
+"The male broods the fertilized eggs in a pouch and gives birth",
+"They lay eggs exclusively inside coral polyps",
+"The young hatch instantly inside the mother's bloodstream"
+],
+"correctAnswer": "The male broods the fertilized eggs in a pouch and gives birth",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "Seahorses exhibit male pregnancy; the female transfers her eggs into the male's specialized abdominal pouch, where he fertilizes and carries them to term.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"marine-life",
+"reproduction"
+]
+},
+{
+"id": "anim_051",
+"question": "Which of these primates is native strictly to the island of Madagascar?",
+"options": [
+"Chimpanzee",
+"Lemur",
+"Gibbon",
+"Orangutan"
+],
+"correctAnswer": "Lemur",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "Lemurs are a unique clade of primates endemic solely to the island ecosystem of Madagascar.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"primates",
+"madagascar"
+]
+},
+{
+"id": "anim_052",
+"question": "What type of animal has the largest eyes relative to its overall body size?",
+"options": [
+"Colossal Squid",
+"Tarsier",
+"Owl",
+"Ostrich"
+],
+"correctAnswer": "Tarsier",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "While the colossal squid has the absolute largest eyes in the world, the tiny tarsier has the largest eyes relative to its own body size among mammals.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"records",
+"primates",
+"anatomy"
+]
+},
+{
+"id": "anim_053",
+"question": "What is the primary physical defense mechanism of a pufferfish?",
+"options": [
+"Releasing toxic ink",
+"Inflating its body with water or air and raising spines",
+"Detaching its tail to distract predators",
+"Camouflaging perfectly into sandy sea floors"
+],
+"correctAnswer": "Inflating its body with water or air and raising spines",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "Pufferfish can inflate their highly elastic stomachs with water or air to turn into a large, spike-covered ball that predators cannot swallow.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"marine-life",
+"defense"
+]
+},
+{
+"id": "anim_054",
+"question": "Which of these large birds is predatory and hunts other animals?",
+"options": [
+"Harpy Eagle",
+"Marabou Stork",
+"Turkey Vulture",
+"Andean Condor"
+],
+"correctAnswer": "Harpy Eagle",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "The Harpy Eagle is an apex predator of the rainforest canopy, hunting monkeys and sloths, whereas vultures and condors are primarily scavengers.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"birds",
+"raptors"
+]
+},
+{
+"id": "anim_055",
+"question": "What is a group of flamingos appropriately called?",
+"options": [
+"Flamboyance",
+"Murder",
+"Conspiracy",
+"Parliament"
+],
+"correctAnswer": "Flamboyance",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "A gathering of flamingos is collectively known as a flamboyance, matching their vibrant coloration and social behavior.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"birds",
+"terminology"
+]
+},
+{
+"id": "anim_056",
+"question": "How do snakes track the scent trails of their prey?",
+"options": [
+"Using highly acute nostrils",
+"Collecting scent molecules with their tongue and passing them to the Jacobson's organ",
+"Sensing thermal body heat differences via specialized skin patches",
+"Using microscopic taste buds lining the exterior of their lips"
+],
+"correctAnswer": "Collecting scent molecules with their tongue and passing them to the Jacobson's organ",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "Snakes flick their forked tongues to gather airborne particles, transferring them to the vomeronasal (Jacobson's) organ inside their mouth to detect smells.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"reptiles",
+"snakes",
+"anatomy"
+]
+},
+{
+"id": "anim_057",
+"question": "Which small mammal is famous for its resistance to venom and its aggressive hunting of venomous cobras?",
+"options": [
+"Meerkat",
+"Honey Badger",
+"Mongoose",
+"Weasel"
+],
+"correctAnswer": "Mongoose",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "The mongoose is famous for its agile combat skills and genetic mutations in acetylcholine receptors that render it highly resistant to snake neurotoxins.",
+"imageUrl": "https://images.unsplash.com/photo-1613143597334-0352efdf86bf?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"mammals",
+"defense"
+]
+},
+{
+"id": "anim_058",
+"question": "What structural feature characterizes the teeth of rodents?",
+"options": [
+"They have no roots and grow continuously throughout life",
+"They are highly prone to shedding and regrow weekly",
+"They are adapted only for crushing soft plant matter",
+"They are coated in a layer of flexible cartilaginous material"
+],
+"correctAnswer": "They have no roots and grow continuously throughout life",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "Rodents possess specialized upper and lower incisors that never stop growing, requiring constant gnawing to wear them down.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"rodents",
+"anatomy"
+]
+},
+{
+"id": "anim_059",
+"question": "Which marine invertebrate is known to have near-flawless camouflage capabilities, matching both color and texture?",
+"options": [
+"Cuttlefish",
+"Sea Anemone",
+"Horseshoe Crab",
+"Lobster"
+],
+"correctAnswer": "Cuttlefish",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "Cuttlefish are masters of disguise, utilizing complex nervous control over specialized skin chromatophores and papillae to match textures and colors instantly.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"marine-life",
+"invertebrates",
+"camouflage"
+]
+},
+{
+"id": "anim_060",
+"question": "What is the literal meaning of the name 'Hippopotamus' derived from ancient Greek?",
+"options": [
+"River Horse",
+"Water Pig",
+"Heavy Giant",
+"Mud Beast"
+],
+"correctAnswer": "River Horse",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "The word 'hippopotamus' comes from the ancient Greek words 'hippos' meaning horse, and 'potamos' meaning river.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"mammals",
+"terminology"
+]
+},
+{
+"id": "anim_061",
+"question": "Which of these birds can fly at diving speeds exceeding 200 miles per hour?",
+"options": [
+"Golden Eagle",
+"Peregrine Falcon",
+"Cheetah Falcon",
+"Albatross"
+],
+"correctAnswer": "Peregrine Falcon",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "The Peregrine Falcon is the fastest animal on earth, reaching recorded speeds of over 240 mph during its characteristic hunting dive (stoop).",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"birds",
+"records"
+]
+},
+{
+"id": "anim_062",
+"question": "What specialized feature do polar bears have on their paws to prevent slipping on arctic ice?",
+"options": [
+"Suction-cup like skin dimples",
+"Rough papillae and small bumps on their footpads",
+"Retractable ice-cleat bone spurs",
+"Thick layers of sticky chemical secretions"
+],
+"correctAnswer": "Rough papillae and small bumps on their footpads",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "Polar bear footpads are covered in small, sand-paper-like bumps called papillae that provide excellent friction and traction on slick ice.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"bears",
+"anatomy"
+]
+},
+{
+"id": "anim_063",
+"question": "What type of animal has the longest migration route of any known mammal?",
+"options": [
+"Humpback Whale",
+"Gray Whale",
+"Caribou",
+"African Elephant"
+],
+"correctAnswer": "Gray Whale",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "Gray whales complete an annual round-trip migration route of up to 12,000 miles between their arctic feeding grounds and Mexican breeding lagoons.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"marine-life",
+"mammals",
+"migration"
+]
+},
+{
+"id": "anim_064",
+"question": "Which classification of animals has a three-chambered heart?",
+"options": [
+"Mammals",
+"Birds",
+"Amphibians",
+"Insects"
+],
+"correctAnswer": "Amphibians",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "Amphibians (and most reptiles) possess a three-chambered heart consisting of two atria and one single ventricle, unlike the four-chambered hearts of mammals and birds.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"biology",
+"anatomy"
+]
+},
+{
+"id": "anim_065",
+"question": "What allows a gecko to climb vertically up smooth surfaces like walls and glass ceilings?",
+"options": [
+"Microscopic suction cavities on their feet",
+"Microscopic hairs called setae interacting via Van der Waals forces",
+"A sticky external mucus film recreated continuously",
+"Electrostatic charging of their skin surfaces"
+],
+"correctAnswer": "Microscopic hairs called setae interacting via Van der Waals forces",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "Gecko toes are lined with millions of microscopic hairs called setae. The proximity of these hairs to surfaces triggers intermolecular Van der Waals forces, creating strong adhesion.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"reptiles",
+"lizards",
+"physics"
+]
+},
+{
+"id": "anim_066",
+"question": "Which animal is officially recognized as the largest rodent in the entire world?",
+"options": [
+"Beaver",
+"Capybara",
+"Nutria",
+"Porcupine"
+],
+"correctAnswer": "Capybara",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "The capybara is a semi-aquatic rodent native to South America and is widely celebrated as the largest living rodent species.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"rodents",
+"records"
+]
+},
+{
+"id": "anim_067",
+"question": "What is unique about the vision of a mantis shrimp?",
+"options": [
+"They can only view objects in total pitch darkness",
+"They possess 16 distinct color receptive photoreceptors and see polarized light",
+"They are completely blind but sense electrical magnetic pulses",
+"They view things exclusively upside down due to dual lenses"
+],
+"correctAnswer": "They possess 16 distinct color receptive photoreceptors and see polarized light",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "Mantis shrimp possess one of the most complex visual systems ever discovered, utilizing up to 16 color receptors (compared to 3 in humans) and detecting multispectral light traits.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"marine-life",
+"crustaceans"
+]
+},
+{
+"id": "anim_068",
+"question": "How do wolves maintain structural pack bounds and declare territories?",
+"options": [
+"Scent marking and melodic chorused howling",
+"Leaving deep claw gouges on tree trunks",
+"Engaging in physical fights with every pack member daily",
+"Building elaborate mud cairns at border paths"
+],
+"correctAnswer": "Scent marking and melodic chorused howling",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "Wolves use complex vocalizations such as community howling to communicate over distances, warn rival packs, and maintain tight group bonds alongside urine marking.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"canines",
+"behavior"
+]
+},
+{
+"id": "anim_069",
+"question": "What evolutionary trait belongs exclusively to New World monkeys compared to Old World monkeys?",
+"options": [
+"Cheek pouches to store collected fruits",
+"Prehensile tails capable of grasping tree branches",
+"Trichromatic color vision matching human sights",
+"Hardened sitting pads on their rumps"
+],
+"correctAnswer": "Prehensile tails capable of grasping tree branches",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "Many New World monkeys have evolved fully prehensile tails that function like a fifth limb for hanging and climbing. Old World monkeys do not have this feature.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"primates",
+"evolution"
+]
+},
+{
+"id": "anim_070",
+"question": "Which of these deep sea creatures is known to withstand extreme heat pressures near hydrothermal vents?",
+"options": [
+"Pompeii Worm",
+"Blobfish",
+"Vampire Squid",
+"Giant Isopod"
+],
+"correctAnswer": "Pompeii Worm",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "The Pompeii worm is a deep-sea polychaete that thrives near hydrothermal vents, tolerating extreme temperatures up to 176°F (80°C).",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"marine-life",
+"extremophiles"
+]
+},
+{
+"id": "anim_071",
+"question": "What is the biological definition of a 'keystone species'?",
+"options": [
+"The most populated animal group in an ecosystem",
+"A species that has a disproportionately large effect on its natural environment relative to its abundance",
+"An apex predator that eats only other carnivores",
+"The first animal species to populate a brand new volcanic island"
+],
+"correctAnswer": "A species that has a disproportionately large effect on its natural environment relative to its abundance",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "A keystone species holds an ecosystem together; its removal can lead to drastic changes or the collapse of that entire ecosystem.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"ecology",
+"biology"
+]
+},
+{
+"id": "anim_072",
+"question": "Which continent is the only natural home to wild populations of lemurs?",
+"options": [
+"Africa (Madagascar)",
+"Asia",
+"Australia",
+"South America"
+],
+"correctAnswer": "Africa (Madagascar)",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "Lemurs are native only to the African island nation of Madagascar, where they evolved in isolation over millions of years.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"primates",
+"geography"
+]
+},
+{
+"id": "anim_073",
+"question": "What primary feature separates an alligator's head shape from a crocodile's head shape?",
+"options": [
+"Alligators have a wide, U-shaped snout; crocodiles have a narrower, V-shaped snout",
+"Crocodiles lack any teeth on their lower jaw structures",
+"Alligators possess prominent horn-like scales directly above their eyes",
+"Crocodiles have fixed eyes that cannot rotate independently"
+],
+"correctAnswer": "Alligators have a wide, U-shaped snout; crocodiles have a narrower, V-shaped snout",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "Alligators exhibit broader, rounded U-shaped snouts meant for crushing hard shells, while crocodiles feature pointed, V-shaped snouts.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"reptiles",
+"crocodilians"
+]
+},
+{
+"id": "anim_074",
+"question": "What organic element makes up the structural composition of a rhinoceros horn?",
+"options": [
+"Dense ivory bone matrix",
+"Keratin",
+"Calcified cartilage loops",
+"Chitin"
+],
+"correctAnswer": "Keratin",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "Rhinoceros horns are not made of bone; they are composed entirely of keratin, the same fibrous protein found in human hair and fingernails.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"mammals",
+"anatomy"
+]
+},
+{
+"id": "anim_075",
+"question": "Which of these animals is classified as a marine sirenian?",
+"options": [
+"Manatee",
+"Sea Lion",
+"Walrus",
+"Elephant Seal"
+],
+"correctAnswer": "Manatee",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "Sirenia is an order of fully aquatic, herbivorous mammals that includes manatees and dugongs, commonly referred to as sea cows.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"marine-life",
+"mammals"
+]
+},
+{
+"id": "anim_076",
+"question": "What mechanism allows some species of lizards, like geckos or skinks, to detach their own tails?",
+"options": [
+"Autotomy",
+"Regenerative shedding",
+"Molting",
+"Necrosis"
+],
+"correctAnswer": "Autotomy",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "Autotomy is the voluntary shedding of a body part, such as a tail, as a self-defense mechanism to escape a predator's grasp.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"reptiles",
+"defense"
+]
+},
+{
+"id": "anim_077",
+"question": "Which bird builds large, intricate communal nests that can house hundreds of individual birds for generations?",
+"options": [
+"Sociable Weaver",
+"Bowerbird",
+"Barn Swallow",
+"Tailorbird"
+],
+"correctAnswer": "Sociable Weaver",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "Sociable weavers build massive apartment-style communal nests that are among the largest structures built by any bird, providing thermal insulation.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"birds",
+"behavior"
+]
+},
+{
+"id": "anim_078",
+"question": "What color is the skin of a platypus bill?",
+"options": [
+"Bright yellow",
+"Black or dark grey",
+"Translucent pink",
+"Mottled green"
+],
+"correctAnswer": "Black or dark grey",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "The leathery bill of a platypus is black or dark grey and is packed with thousands of electroreceptors used to detect prey underwater.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"monotremes",
+"anatomy"
+]
+},
+{
+"id": "anim_079",
+"question": "What adaptation allows an electric eel to generate high-voltage discharges?",
+"options": [
+"Modified muscle cells called electrocytes",
+"Amplified nerve pathways linked to its scales",
+"Static friction built up by rapid swimming swimming patterns",
+"Chemical reactions within its specialized liver"
+],
+"correctAnswer": "Modified muscle cells called electrocytes",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "The electric eel's nervous system utilizes specialized electric organs packed with thousands of stacked electrocytes to generate powerful shocks up to 860 volts.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"fish",
+"anatomy"
+]
+},
+{
+"id": "anim_080",
+"question": "Which of these mammalian orders contains the highest number of unique species?",
+"options": [
+"Rodentia (Rodents)",
+"Chiroptera (Bats)",
+"Carnivora (Carnivores)",
+"Primates (Primates)"
+],
+"correctAnswer": "Rodentia (Rodents)",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "Rodentia is the largest order of mammals, accounting for over 40% of all mammalian species worldwide.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"mammals",
+"classification"
+]
+},
+{
+"id": "anim_081",
+"question": "What physiological condition allows the Wood Frog (Lithobates sylvaticus) to survive freezing temperatures during winter?",
+"options": [
+"Accumulating high concentrations of glucose and urea acting as cryoprotectants",
+"Migrating down to geothermal vents deep beneath lake bottoms",
+"Burrowing past the permafrost line to sleep in warm soil pockets",
+"Shedding its entire skin layer to form a dense insulating cocoon"
+],
+"correctAnswer": "Accumulating high concentrations of glucose and urea acting as cryoprotectants",
+"category": "Animals",
+"difficulty": "hard",
+"explanation": "Wood frogs accumulate glucose and urea in their tissues, which drastically lowers the freezing point of their cells, preventing lethal ice crystal damage while their blood freezes solid outside the cells.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"amphibians",
+"extremophiles",
+"adaptation"
+]
+},
+{
+"id": "anim_082",
+"question": "Which specific family does the unique, venomous primate known as the Slow Loris belong to?",
+"options": [
+"Lorisidae",
+"Lemuridae",
+"Galagidae",
+"Tarsiidae"
+],
+"correctAnswer": "Lorisidae",
+"category": "Animals",
+"difficulty": "hard",
+"explanation": "Slow lorises are strepsirrhine primates belonging to the family Lorisidae. They are the only known venomous primates, secreting a toxin from a gland on their arms.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"primates",
+"venom",
+"classification"
+]
+},
+{
+"id": "anim_083",
+"question": "What is the primary function of the asymmetric, spiral tusk found on male Narwhals?",
+"options": [
+"Spearing large cod and flatfish",
+"A sensory organ capable of detecting changes in water salinity and temperature",
+"Breaking thick polar ice caps from underneath",
+"Anchoring the whale to shallow coastal reefs during storms"
+],
+"correctAnswer": "A sensory organ capable of detecting changes in water salinity and temperature",
+"category": "Animals",
+"difficulty": "hard",
+"explanation": "The narwhal tusk is actually an exaggerated tooth embedded with millions of nerve endings, acting as a powerful sensory receptor to analyze water properties.",
+"imageUrl": "https://images.unsplash.com/photo-1518156677180-95a2893f3e9f?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"marine-life",
+"mammals",
+"anatomy"
+]
+},
+{
+"id": "anim_084",
+"question": "What specific feature distinguishes the respiratory system of birds from that of mammals?",
+"options": [
+"Unidirectional airflow through static lungs assisted by non-respiratory air sacs",
+"The complete absence of a trachea",
+"Direct gas exchange through internal skin linings rather than capillaries",
+"Lungs that expand and contract to twice their total volume"
+],
+"correctAnswer": "Unidirectional airflow through static lungs assisted by non-respiratory air sacs",
+"category": "Animals",
+"difficulty": "hard",
+"explanation": "Birds have a highly efficient respiratory system where air flows unidirectionally through the lungs in a continuous cycle, supported by posterior and anterior air sacs.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"birds",
+"anatomy",
+"biology"
+]
+},
+{
+"id": "anim_085",
+"question": "Which extant species is considered a living fossil and the closest living relative to land-dwelling tetrapods?",
+"options": [
+"Lungfish",
+"Coelacanth",
+"Hagfish",
+"Tuatara"
+],
+"correctAnswer": "Lungfish",
+"category": "Animals",
+"difficulty": "hard",
+"explanation": "While the coelacanth is a famous lobe-finned fish fossil relative, modern genetic and structural analyses identify the lungfish as the closest living fish relative to land tetrapods.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"evolution",
+"fish"
+]
+},
+{
+"id": "anim_086",
+"question": "What is unique about the jaw mechanism of a moray eel when capturing prey?",
+"options": [
+"They possess a secondary set of pharyngeal jaws that launch forward to drag food down",
+"Their jaws unlock completely to swallow prey up to five times their width",
+"They have no bones in their jaw, relying on a muscular suction tube",
+"Their upper jaw is completely fused to their skull and cannot move upward"
+],
+"correctAnswer": "They possess a secondary set of pharyngeal jaws that launch forward to drag food down",
+"category": "Animals",
+"difficulty": "hard",
+"explanation": "Moray eels utilize a remarkable dual-jaw system. After the primary jaws bite prey, a secondary set of pharyngeal jaws in the throat shoots forward to grab and pull it into the esophagus.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"marine-life",
+"anatomy"
+]
+},
+{
+"id": "anim_087",
+"question": "Which group of animals is characterized by possessing a 'radula'?",
+"options": [
+"Mollusks",
+"Echinoderms",
+"Arachnids",
+"Cnidarians"
+],
+"correctAnswer": "Mollusks",
+"category": "Animals",
+"difficulty": "hard",
+"explanation": "A radula is a specialized, minutely toothed chitinous ribbon used by most mollusks (except bivalves like clams) for scraping or cutting food.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"mollusks",
+"anatomy",
+"invertebrates"
+]
+},
+{
+"id": "anim_088",
+"question": "What evolutionary trait allows the Tuatara of New Zealand to stand out from all modern lizards?",
+"options": [
+"It possesses a well-developed parietal 'third eye' complete with a lens and retina",
+"It reproduces via internal spore sacs rather than shelled amniotic eggs",
+"It has a fully functional three-tier respiratory lung network",
+"Its bone structures contain no traces of calcium"
+],
+"correctAnswer": "It possesses a well-developed parietal 'third eye' complete with a lens and retina",
+"category": "Animals",
+"difficulty": "hard",
+"explanation": "The tuatara has a distinct parietal eye on the top of its head, which features a primitive lens, retina, and nerve endings, used likely for sensing light cycles.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"reptiles",
+"evolution",
+"new-zealand"
+]
+},
+{
+"id": "anim_089",
+"question": "What complex architectural feat is performed by the tiny marine organism known as a 'larvacean'?",
+"options": [
+"It secretes a massive disposable house made of mucus to filter food particles",
+"It carves intricate chambers deep within living basalt rock formations",
+"It spins underwater webs using silk similar to land-dwelling spiders",
+"It glues sand grains together to form a highly geometric pyramid shell"
+],
+"correctAnswer": "It secretes a massive disposable house made of mucus to filter food particles",
+"category": "Animals",
+"difficulty": "hard",
+"explanation": "Larvaceans build large, intricate, transparent 'houses' out of protein and mucus to filter-feed on tiny plankton. They discard and rebuild these structures daily.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"marine-life",
+"invertebrates",
+"behavior"
+]
+},
+{
+"id": "anim_090",
+"question": "Which biological phenomenon explains why unrelated desert animals like the North American kangaroo rat and the Australian hopping mouse look almost identical?",
+"options": [
+"Convergent evolution",
+"Divergent adaptation",
+"Sympatric speciation",
+"Genetic drift"
+],
+"correctAnswer": "Convergent evolution",
+"category": "Animals",
+"difficulty": "hard",
+"explanation": "Convergent evolution occurs when unrelated organisms independently evolve similar traits or structures as a result of having to adapt to similar environments or ecological niches.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"evolution",
+"biology"
+]
+},
+{
+"id": "anim_091",
+"question": "What is the primary substance secreted by the skin of hippopotamuses that functions as a natural sunscreen and antibiotic?",
+"options": [
+"Hipposudoric acid",
+"Squalene",
+"Lanolin",
+"Melanin fluid"
+],
+"correctAnswer": "Hipposudoric acid",
+"category": "Animals",
+"difficulty": "hard",
+"explanation": "Hippos red 'sweat' is actually a secretion of two pigments: hipposudoric acid and norhipposudoric acid. They absorb ultraviolet light and inhibit bacterial growth.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"mammals",
+"biology",
+"anatomy"
+]
+},
+{
+"id": "anim_092",
+"question": "Which of these birds practices obligate brood parasitism, completely relying on other bird species to raise its young?",
+"options": [
+"Common Cuckoo",
+"Barn Owl",
+"Bald Eagle",
+"Ruby-throated Hummingbird"
+],
+"correctAnswer": "Common Cuckoo",
+"category": "Animals",
+"difficulty": "hard",
+"explanation": "The Common Cuckoo is a classic obligate brood parasite, meaning it lays its eggs in the nests of other species, forcing the host birds to rear the cuckoo chick.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"birds",
+"behavior"
+]
+},
+{
+"id": "anim_093",
+"question": "What unique compound makes up the structural endoskeleton of deep-sea glass sponges?",
+"options": [
+"Silica (Silicon dioxide)",
+"Calcium carbonate",
+"Spongin protein chains",
+"Chitin fibers"
+],
+"correctAnswer": "Silica (Silicon dioxide)",
+"category": "Animals",
+"difficulty": "hard",
+"explanation": "Glass sponges (Hexactinellida) have skeletons made of intricate lattices of spicules composed entirely of silica, effectively forming a natural glass cage.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"marine-life",
+"invertebrates"
+]
+},
+{
+"id": "anim_094",
+"question": "Which of these venomous snakes has a unique defense mechanism that allows it to accurately spray venom into the eyes of threats from meters away?",
+"options": [
+"Mozambique Spitting Cobra",
+"King Cobra",
+"Black Mamba",
+"Inland Taipan"
+],
+"correctAnswer": "Mozambique Spitting Cobra",
+"category": "Animals",
+"difficulty": "hard",
+"explanation": "Spitting cobras have modified fangs with forward-facing openings that allow them to squeeze and project venom up to 8 feet with accurate aim toward a threat's eyes.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"reptiles",
+"snakes",
+"defense"
+]
+},
+{
+"id": "anim_095",
+"question": "How many distinct chambers are found within the stomach of ruminant animals like cows and giraffes?",
+"options": [
+"2",
+"3",
+"4",
+"5"
+],
+"correctAnswer": "4",
+"category": "Animals",
+"difficulty": "hard",
+"explanation": "Ruminants have a highly specialized complex stomach with four distinct chambers: the rumen, reticulum, omasum, and abomasum, to digest cellulose.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"mammals",
+"anatomy",
+"biology"
+]
+},
+{
+"id": "anim_096",
+"question": "Which marine animal is known to have the longest lifespan of any vertebrate, estimated to reach up to 400 years?",
+"options": [
+"Greenland Shark",
+"Bowhead Whale",
+"Galapagos Tortoise",
+"Rougheye Rockfish"
+],
+"correctAnswer": "Greenland Shark",
+"category": "Animals",
+"difficulty": "hard",
+"explanation": "Radiocarbon dating of eye lenses revealed that Greenland sharks can live for at least 272 years, with some specimens estimated to be up to 400 years old.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"marine-life",
+"records",
+"sharks"
+]
+},
+{
+"id": "anim_097",
+"question": "What structural modification allows the hummingbird to maintain a metabolic rate that demands hovering flight?",
+"options": [
+"An exceptionally massive heart relative to body size and a respiratory cycle operating at 1,000 bpm",
+"The utilization of specialized cold-fusion anaerobic muscle loops",
+"Lungs that wrap entirely around their core digestive tract",
+"An external bone frame that stores kinetic wind energy"
+],
+"correctAnswer": "An exceptionally massive heart relative to body size and a respiratory cycle operating at 1,000 bpm",
+"category": "Animals",
+"difficulty": "hard",
+"explanation": "Hummingbirds possess a massive heart making up roughly 2.5% of their body weight, capable of beating over 1,200 times per minute to sustain rapid wing action.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"birds",
+"anatomy"
+]
+},
+{
+"id": "anim_098",
+"question": "What is the function of the 'elytra' found on beetles (order Coleoptera)?",
+"options": [
+"Hardened forewings that protect the delicate hindwings underneath",
+"Specialized sensory organs that detect changes in barometric pressure",
+"Glands that secrete defensive pheromones",
+"Structures used to stridulate and produce mating calls"
+],
+"correctAnswer": "Hardened forewings that protect the delicate hindwings underneath",
+"category": "Animals",
+"difficulty": "hard",
+"explanation": "Elytra are the modified, hardened forewings of beetles. They are not used for flight, but rather serve as protective covers for the functional flight wings.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"insects",
+"anatomy"
+]
+},
+{
+"id": "anim_099",
+"question": "Which of these phyla contains animals characterized by a water vascular system and tube feet?",
+"options": [
+"Echinodermata",
+"Cnidaria",
+"Annelida",
+"Arthropoda"
+],
+"correctAnswer": "Echinodermata",
+"category": "Animals",
+"difficulty": "hard",
+"explanation": "Echinoderms (such as sea stars and sea urchins) possess a unique hydraulic water vascular system used for locomotion, food handling, and respiration.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"marine-life",
+"classification",
+"invertebrates"
+]
+},
+{
+"id": "anim_100",
+"question": "What is unique about the genetic structure of the male duck-billed platypus?",
+"options": [
+"It possesses 10 sex chromosomes (XXXXX/YYYYY)",
+"It has only a single chromosome in its entire genome",
+"Its DNA contains active avian genes for feather generation",
+"It undergoes spontaneous chromosomal mutation every season"
+],
+"correctAnswer": "It possesses 10 sex chromosomes (XXXXX/YYYYY)",
+"category": "Animals",
+"difficulty": "hard",
+"explanation": "The platypus has an extraordinary genetic layout with 10 sex chromosomes. Males have five X and five Y chromosomes, showing links to both mammalian and avian/reptile systems.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"monotremes",
+"genetics"
+]
+},
+{
+"id": "anim_101",
+"question": "Which animal is known as the 'Laughing Jackass' due to its distinct, laughter-like vocalization?",
+"options": [
+"Kookaburra",
+"Hyena",
+"Chimpanzee",
+"Green Woodhoopoe"
+],
+"correctAnswer": "Kookaburra",
+"category": "Animals",
+"difficulty": "easy",
+"explanation": "The Laughing Kookaburra, a bird native to Australia, is famous for its loud, distinctive call that sounds remarkably like echoing human laughter.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"birds",
+"australia"
+]
+},
+{
+"id": "anim_102",
+"question": "What is the only species of bear native to South America?",
+"options": [
+"Spectacled Bear",
+"Sun Bear",
+"Black Bear",
+"Sloth Bear"
+],
+"correctAnswer": "Spectacled Bear",
+"category": "Animals",
+"difficulty": "easy",
+"explanation": "The spectacled bear, also known as the Andean bear, is the only surviving bear species native to South America.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"bears",
+"mammals"
+]
+},
+{
+"id": "anim_103",
+"question": "Which of these birds lays the smallest egg relative to its body size?",
+"options": [
+"Hummingbird",
+"Ostrich",
+"Kiwi",
+"Robin"
+],
+"correctAnswer": "Ostrich",
+"category": "Animals",
+"difficulty": "easy",
+"explanation": "While an ostrich egg is the largest absolute egg, it is actually the smallest relative to the mother's massive body size (about 1% to 2%).",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"birds",
+"records"
+]
+},
+{
+"id": "anim_104",
+"question": "What kind of animal is a barnacle?",
+"options": [
+"Mollusk",
+"Crustacean",
+"Cnidarian",
+"Annelid"
+],
+"correctAnswer": "Crustacean",
+"category": "Animals",
+"difficulty": "easy",
+"explanation": "Despite their hard, shell-like appearance resembling mollusks, barnacles are actually sessile crustaceans related to crabs and lobsters.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"marine-life",
+"crustaceans"
+]
+},
+{
+"id": "anim_105",
+"question": "How many teeth can a Great White Shark grow and discard throughout its lifetime?",
+"options": [
+"Around 100",
+"Around 1,000",
+"Up to 30,000",
+"They never lose teeth"
+],
+"correctAnswer": "Up to 30,000",
+"category": "Animals",
+"difficulty": "easy",
+"explanation": "Sharks have a conveyor-belt system of teeth. As teeth wear down or break, new ones move forward, leading to tens of thousands lost in a lifetime.",
+"imageUrl": "https://images.unsplash.com/photo-1560275669-46c5a88d6a4c?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"sharks",
+"anatomy"
+]
+},
+{
+"id": "anim_106",
+"question": "What is the collective name for a group of crows?",
+"options": [
+"Pack",
+"School",
+"Murder",
+"Herd"
+],
+"correctAnswer": "Murder",
+"category": "Animals",
+"difficulty": "easy",
+"explanation": "A group of crows is poetically and formally referred to as a 'murder' of crows in English terminology.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"birds",
+"terminology"
+]
+},
+{
+"id": "anim_107",
+"question": "Which of these mammals can produce venom?",
+"options": [
+"Platypus",
+"Opossum",
+"Skunk",
+"Hedgehog"
+],
+"correctAnswer": "Platypus",
+"category": "Animals",
+"difficulty": "easy",
+"explanation": "Male platypuses have a sharp spur on each hind leg connected to a venom gland, which they use primarily during mating season battles.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"monotremes",
+"venom"
+]
+},
+{
+"id": "anim_108",
+"question": "What is the fastest swimming marine animal?",
+"options": [
+"Sailfish",
+"Blue Whale",
+"Dolphin",
+"Great White Shark"
+],
+"correctAnswer": "Sailfish",
+"category": "Animals",
+"difficulty": "easy",
+"explanation": "The sailfish is widely considered the fastest fish in the ocean, capable of leaping out of the water at speeds up to 68 mph.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"marine-life",
+"records"
+]
+},
+{
+"id": "anim_109",
+"question": "Which domestic animal belongs to the feline family?",
+"options": [
+"Cat",
+"Dog",
+"Rabbit",
+"Hamster"
+],
+"correctAnswer": "Cat",
+"category": "Animals",
+"difficulty": "easy",
+"explanation": "Domestic cats belong to the family Felidae (felines), which also includes wild species like lions, tigers, and leopards.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"pets",
+"classification"
+]
+},
+{
+"id": "anim_110",
+"question": "Where is a shrimp's heart located?",
+"options": [
+"In its head",
+"In its tail",
+"In its abdomen",
+"It doesn't have one"
+],
+"correctAnswer": "In its head",
+"category": "Animals",
+"difficulty": "easy",
+"explanation": "A shrimp's heart is located in its cephalothorax, which is the fused head and thorax region covered by its carapace.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"crustaceans",
+"anatomy"
+]
+},
+{
+"id": "anim_111",
+"question": "What is a group of owls called?",
+"options": [
+"Pack",
+"Parliament",
+"Conspiracy",
+"Flock"
+],
+"correctAnswer": "Parliament",
+"category": "Animals",
+"difficulty": "easy",
+"explanation": "A group of owls is traditionally called a parliament, a term popularized from C.S. Lewis's chronicles and traditional nature writing.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"birds",
+"terminology"
+]
+},
+{
+"id": "anim_112",
+"question": "What type of blooded animals are birds?",
+"options": [
+"Cold-blooded",
+"Warm-blooded",
+"Varies by species",
+"They have no blood"
+],
+"correctAnswer": "Warm-blooded",
+"category": "Animals",
+"difficulty": "easy",
+"explanation": "Birds are endothermic (warm-blooded) animals, meaning they generate internal metabolic heat to maintain a constant body temperature.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"birds",
+"biology"
+]
+},
+{
+"id": "anim_113",
+"question": "Which animal is the largest member of the cat family?",
+"options": [
+"Lion",
+"Leopard",
+"Tiger",
+"Jaguar"
+],
+"correctAnswer": "Tiger",
+"category": "Animals",
+"difficulty": "easy",
+"explanation": "The tiger is the largest of all wild cat species, with Siberian and Bengal tigers reaching the heaviest weights.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"big-cats",
+"records"
+]
+},
+{
+"id": "anim_114",
+"question": "What type of creature is a moray eel?",
+"options": [
+"Fish",
+"Reptile",
+"Amphibian",
+"Mammal"
+],
+"correctAnswer": "Fish",
+"category": "Animals",
+"difficulty": "easy",
+"explanation": "Moray eels are elongated, predatory bony fish belonging to the family Muraenidae.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"fish",
+"marine-life"
+]
+},
+{
+"id": "anim_115",
+"question": "What is a young swan called?",
+"options": [
+"Gosling",
+"Cygnet",
+"Duckling",
+"Fawn"
+],
+"correctAnswer": "Cygnet",
+"category": "Animals",
+"difficulty": "easy",
+"explanation": "A baby or juvenile swan is officially referred to as a cygnet.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"birds",
+"terminology"
+]
+},
+{
+"id": "anim_116",
+"question": "How many muscles are in each ear of a domestic cat?",
+"options": [
+"3",
+"6",
+"12",
+"32"
+],
+"correctAnswer": "32",
+"category": "Animals",
+"difficulty": "easy",
+"explanation": "Cats have 32 independent muscles in each outer ear, allowing them to rotate their ears 180 degrees to pinpoint sounds.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"pets",
+"anatomy"
+]
+},
+{
+"id": "anim_117",
+"question": "Which of these animals does not have a brain?",
+"options": [
+"Jellyfish",
+"Octopus",
+"Frog",
+"Shark"
+],
+"correctAnswer": "Jellyfish",
+"category": "Animals",
+"difficulty": "easy",
+"explanation": "Jellyfish do not have a centralized brain; instead, they navigate using a decentralized nerve net spread across their body.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"marine-life",
+"invertebrates"
+]
+},
+{
+"id": "anim_118",
+"question": "What is the primary defense mechanism of a skunk?",
+"options": [
+"Sharp claws",
+"Foul-smelling spray",
+"Camouflage",
+"Playing dead"
+],
+"correctAnswer": "Foul-smelling spray",
+"category": "Animals",
+"difficulty": "easy",
+"explanation": "Skunks possess anal scent glands that can accurately spray a highly noxious, sulfur-containing fluid to deter predators.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"mammals",
+"defense"
+]
+},
+{
+"id": "anim_119",
+"question": "Which land animal has the most powerful bite force relative to its size?",
+"options": [
+"Tasmanian Devil",
+"Lion",
+"Grizzly Bear",
+"Hyena"
+],
+"correctAnswer": "Tasmanian Devil",
+"category": "Animals",
+"difficulty": "easy",
+"explanation": "The Tasmanian Devil has an incredibly muscular jaw that delivers the strongest bite force relative to body mass among living mammalian carnivores.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"marsupials",
+"records"
+]
+},
+{
+"id": "anim_120",
+"question": "What type of animal is a leatherback?",
+"options": [
+"Sea Turtle",
+"Shark",
+"Whale",
+"Lizard"
+],
+"correctAnswer": "Sea Turtle",
+"category": "Animals",
+"difficulty": "easy",
+"explanation": "The leatherback is the largest of all living turtles, unique because it lacks a bony shell, possessing a leathery carapace instead.",
+"imageUrl": "https://images.unsplash.com/photo-1437622368342-7a3d73a34c8f?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"reptiles",
+"marine-life"
+]
+},
+{
+"id": "anim_121",
+"question": "What structural component makes up the glowing organ of a firefly?",
+"options": [
+"Luciferin reacting with oxygen",
+"Phosphorescent blood flow",
+"Symbiotic glowing algae",
+"Reflected ambient moonlight"
+],
+"correctAnswer": "Luciferin reacting with oxygen",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "Fireflies produce light through bioluminescence, a chemical reaction where the enzyme luciferase acts on the compound luciferin in the presence of oxygen.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"insects",
+"bioluminescence"
+]
+},
+{
+"id": "anim_122",
+"question": "Which of these mammals is known for practicing 'coprophagy' (eating its own droppings) to fully absorb nutrients?",
+"options": [
+"Rabbit",
+"Deer",
+"Raccoon",
+"Squirrel"
+],
+"correctAnswer": "Rabbit",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "Rabbits produce soft pellets called cecotropes, which they re-ingest directly to maximize nutrient and vitamin absorption from fiber.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"mammals",
+"diet"
+]
+},
+{
+"id": "anim_123",
+"question": "What adaptation allows owls to fly almost completely silently?",
+"options": [
+"Velvety, fringed edges on their flight feathers that break up turbulence",
+"An exceptionally low weight-to-wing-surface area ratio",
+"A coating of powdery wax across their wings",
+"The complete absence of hard wing quills"
+],
+"correctAnswer": "Velvety, fringed edges on their flight feathers that break up turbulence",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "Owl feathers feature soft, comb-like serrations on the leading edges that alter airflow and muffle the sound of wind friction during flight.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"birds",
+"flight"
+]
+},
+{
+"id": "anim_124",
+"question": "Which bird is known to create a 'bower' structure decorated with colorful, shiny objects to attract mates?",
+"options": [
+"Bowerbird",
+"Lyrebird",
+"Puffin",
+"Weaverbird"
+],
+"correctAnswer": "Bowerbird",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "Male bowerbirds construct elaborate pathways or structures out of sticks, decorating them intensely with blue or shiny objects to impress visiting females.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"birds",
+"behavior"
+]
+},
+{
+"id": "anim_125",
+"question": "What is unique about the teeth of a generic snail?",
+"options": [
+"They are arranged in rows on a tongue-like structure called a radula",
+"They have only two massive ivory front plates",
+"They completely dissolve and regrow every 48 hours",
+"Snails do not have any teeth-like elements"
+],
+"correctAnswer": "They are arranged in rows on a tongue-like structure called a radula",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "Snails possess thousands of microscopic chitinous teeth organized on a raspy, ribbon-like structure called a radula, used to scrape food.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"mollusks",
+"anatomy"
+]
+},
+{
+"id": "anim_126",
+"question": "Which of these snakes kills its prey primarily through constriction rather than venom?",
+"options": [
+"Anconda",
+"King Cobra",
+"Black Mamba",
+"Sea Snake"
+],
+"correctAnswer": "Anconda",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "Ancondas are non-venomous constrictors that wrap their powerful muscular bodies around prey, stopping circulatory blood flow.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"reptiles",
+"snakes"
+]
+},
+{
+"id": "anim_127",
+"question": "How do walruses efficiently forage for clams and shellfish along the murky ocean floor?",
+"options": [
+"Using their highly sensitive whiskers (vibrissae)",
+"Using powerful sonar echo location pulses",
+"By digging random trenches with their tusks",
+"Relying entirely on tracking moving shadows"
+],
+"correctAnswer": "Using their highly sensitive whiskers (vibrissae)",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "Walruses have hundreds of stiff, quill-like whiskers called vibrissae packed with nerves that allow them to feel out small prey in pitch-black, muddy water.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"marine-life",
+"mammals",
+"anatomy"
+]
+},
+{
+"id": "anim_128",
+"question": "What is the primary function of a pelican's large throat pouch (gular pouch)?",
+"options": [
+"To scoop up fish along with water like a net",
+"To store food for several weeks of flight",
+"To amplify its mating calls across oceans",
+"To act as a floatation device while sleeping"
+],
+"correctAnswer": "To scoop up fish along with water like a net",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "A pelican uses its elastic gular pouch primarily to catch fish, draining out the water before swallowing the prey whole.",
+"imageUrl": "https://images.unsplash.com/photo-1470116945706-e6bf5d5a53ca?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"birds",
+"diet"
+]
+},
+{
+"id": "anim_129",
+"question": "Which mammal is covered in hard, protective keratin scales and rolls into a ball when threatened?",
+"options": [
+"Pangolin",
+"Armadillo",
+"Echidna",
+"Porcupine"
+],
+"correctAnswer": "Pangolin",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "Pangolins are the only mammals wholly covered in large keratin scales. Armadillos also armor up, but their shell is composed of bony plates.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"mammals",
+"defense"
+]
+},
+{
+"id": "anim_130",
+"question": "How do sea otters keep from drifting away into the open ocean while they sleep?",
+"options": [
+"They wrap themselves in giant kelp fronds",
+"They lock claws with predatory sharks",
+"They wedge themselves into underwater rock caves",
+"They never sleep while floating on water"
+],
+"correctAnswer": "They wrap themselves in giant kelp fronds",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "Sea otters often anchor themselves by wrapping kelp around their bodies, or they hold paws with each other to stay clustered in a group called a raft.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"marine-life",
+"behavior"
+]
+},
+{
+"id": "anim_131",
+"question": "What biological order do domestic and wild rabbits belong to?",
+"options": [
+"Lagomorpha",
+"Rodentia",
+"Carnivora",
+"Insectivora"
+],
+"correctAnswer": "Lagomorpha",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "Rabbits, hares, and pikas belong to the order Lagomorpha. They differ from rodents (Rodentia) by having four incisor teeth instead of two.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"classification",
+"mammals"
+]
+},
+{
+"id": "anim_132",
+"question": "Which of these animals is a specialized cave-dwelling predator that is completely blind and lacks skin pigment?",
+"options": [
+"Olm (Proteus anguinus)",
+"Axolotl",
+"Hellbender",
+"Mudpuppy"
+],
+"correctAnswer": "Olm (Proteus anguinus)",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "The olm is an aquatic cave-dwelling salamander native to Europe that features complete blindness and a ghostly white skin tone due to its dark habitat.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"amphibians",
+"adaptation"
+]
+},
+{
+"id": "anim_133",
+"question": "What is unique about the coloration of a newborn tapir?",
+"options": [
+"They have white stripes and spots for camouflage",
+"They are born completely jet black",
+"They match the exact shade of grey as their parents",
+"They change color based on water temperature"
+],
+"correctAnswer": "They have white stripes and spots for camouflage",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "Baby tapirs are born with a striking coat patterned with white spots and stripes that resembles a watermelon, helping them hide in forest shadows.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"mammals",
+"camouflage"
+]
+},
+{
+"id": "anim_134",
+"question": "How many eyelids does a camel have on each eye?",
+"options": [
+"1",
+"2",
+"3",
+"4"
+],
+"correctAnswer": "3",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "Camels have three eyelids. Two have long eyelashes to block sand, and the third is a translucent nictitating membrane that sweeps away dust.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"mammals",
+"anatomy"
+]
+},
+{
+"id": "anim_135",
+"question": "Which sea bird is famous for its bright blue webbed feet used in elaborate courtship dances?",
+"options": [
+"Blue-footed Booby",
+"Atlantic Puffin",
+"Albatross",
+"King Penguin"
+],
+"correctAnswer": "Blue-footed Booby",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "The blue-footed booby displays its vibrant cerulean feet by lifting them up and down during a highly synchronized strutting mating dance.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"birds",
+"behavior"
+]
+},
+{
+"id": "anim_136",
+"question": "What family do domestic ferrets belong to?",
+"options": [
+"Mustelidae",
+"Felidae",
+"Canidae",
+"Rodentia"
+],
+"correctAnswer": "Mustelidae",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "Ferrets belong to the family Mustelidae, joining other carnivorous relatives like weasels, otters, wolverines, and badgers.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"mammals",
+"classification"
+]
+},
+{
+"id": "anim_137",
+"question": "What sensory capability allows sharks to detect the faint bioelectric fields of buried prey?",
+"options": [
+"Ampullae of Lorenzini",
+"Jacobson's Organ",
+"Lateral Line vibrations",
+"Parietal vision pits"
+],
+"correctAnswer": "Ampullae of Lorenzini",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "Sharks possess electroreceptors called the Ampullae of Lorenzini, visible as tiny pores around their snout, which detect electrical currents.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"sharks",
+"anatomy"
+]
+},
+{
+"id": "anim_138",
+"question": "Which of these bears has a diet composed almost entirely (around 95%) of vegetation despite its classification as a carnivoran?",
+"options": [
+"Giant Panda",
+"Polar Bear",
+"Grizzly Bear",
+"Wolverine"
+],
+"correctAnswer": "Giant Panda",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "Giant pandas evolved from carnivorous ancestors but shifted completely to a herbivorous bamboo diet, consuming vast amounts daily.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"bears",
+"diet"
+]
+},
+{
+"id": "anim_139",
+"question": "What type of animal is a Portuguese Man o' War?",
+"options": [
+"Siphonophore (Colonial organism)",
+"True Jellyfish",
+"Sea Anemone",
+"Mollusk"
+],
+"correctAnswer": "Siphonophore (Colonial organism)",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "The Portuguese Man o' War is not a single jellyfish but a siphonophore—a colony of specialized genetically identical individuals called zooids working together.",
+"imageUrl": "https://images.unsplash.com/photo-1545671913-b89ac1b4ac10?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"marine-life",
+"invertebrates"
+]
+},
+{
+"id": "anim_140",
+"question": "Which bird holds the record for the longest continuous non-stop flight during migration?",
+"options": [
+"Bar-tailed Godwit",
+"Arctic Tern",
+"Ruby-throated Hummingbird",
+"Peregrine Falcon"
+],
+"correctAnswer": "Bar-tailed Godwit",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "Bar-tailed Godwits have been recorded flying non-stop for over 11 days across the Pacific Ocean from Alaska to New Zealand without resting.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"birds",
+"migration",
+"records"
+]
+},
+{
+"id": "anim_141",
+"question": "What anatomical feature allows spiders to silk-spin their highly complex structural webs?",
+"options": [
+"Spinnerets connected to silk glands",
+"Modified chelicerae fangs",
+"Excretory loops near the antennae",
+"Microscopic joints in the tarsus"
+],
+"correctAnswer": "Spinnerets connected to silk glands",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "Spiders utilize specialized abdominal organs called spinnerets to extrude liquid silk proteins, which solidify into threads as they are pulled out.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"arachnids",
+"anatomy"
+]
+},
+{
+"id": "anim_142",
+"question": "Which of these wild canines is native strictly to the continent of South America?",
+"options": [
+"Maned Wolf",
+"Dingo",
+"Coyote",
+"Golden Jackal"
+],
+"correctAnswer": "Maned Wolf",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "The maned wolf is a unique, long-legged crepuscular canine endemic solely to the grasslands of central South America.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"canines",
+"mammals"
+]
+},
+{
+"id": "anim_143",
+"question": "What color is the skin beneath a tiger's striped fur pattern?",
+"options": [
+"Striped just like the fur",
+"Solid white",
+"Solid pink",
+"Solid black"
+],
+"correctAnswer": "Striped just like the fur",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "A tiger's distinct stripe pattern is not just fur deep; the pigmentation patterns are directly embedded into its skin surface.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"big-cats",
+"anatomy"
+]
+},
+{
+"id": "anim_144",
+"question": "What is the primary function of the rattle on a rattlesnake's tail?",
+"options": [
+"To warn off potential trampling predators",
+"To lure in curious small rodents",
+"To communicate mating status to other snakes",
+"To help balance while climbing rocks"
+],
+"correctAnswer": "To warn off potential trampling predators",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "The rattle is an acoustic warning signal meant to deter large animals (like bison or humans) from stepping on the snake.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"reptiles",
+"snakes",
+"defense"
+]
+},
+{
+"id": "anim_145",
+"question": "Which of these birds can mimic complex sounds like car alarms, chainsaws, and camera shutters?",
+"options": [
+"Superb Lyrebird",
+"Bald Eagle",
+"Blue Jay",
+"Pigeon"
+],
+"correctAnswer": "Superb Lyrebird",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "The male Superb Lyrebird possesses an incredibly advanced vocal organ (syrinx) that allows it to copy almost any natural or mechanical sound perfectly.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"birds",
+"behavior"
+]
+},
+{
+"id": "anim_146",
+"question": "What strategy do honey bees employ to defeat attacking giant hornets?",
+"options": [
+"They swarm the hornet and bake it to death with collective body heat",
+"They use venomous stingers to pierce the hornet's eyes",
+"They spray acid gathered from nearby toxic flowers",
+"They completely abandon the hive and build elsewhere instantly"
+],
+"correctAnswer": "They swarm the hornet and bake it to death with collective body heat",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "Japanese honey bees surround an invading hornet in a tight ball, vibrating their flight muscles to raise the core temperature to a lethal 117°F (47°C).",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"insects",
+"behavior",
+"defense"
+]
+},
+{
+"id": "anim_147",
+"question": "What is unique about the skeletal structure of a shark compared to bony fish?",
+"options": [
+"Their skeleton is made entirely of cartilage instead of bone",
+"They have no spine or backbones",
+"Their ribs are located outside their muscle layers",
+"Their bones are completely solid and lack marrow"
+],
+"correctAnswer": "Their skeleton is made entirely of cartilage instead of bone",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "Sharks belong to the class Chondrichthyes, meaning their endoskeletons are composed of light, flexible cartilage rather than rigid calcified bone.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"sharks",
+"anatomy"
+]
+},
+{
+"id": "anim_148",
+"question": "Which of these creatures has the longest gestation period of any land animal, lasting up to 22 months?",
+"options": [
+"African Elephant",
+"Blue Whale",
+"Giraffe",
+"Black Rhinoceros"
+],
+"correctAnswer": "African Elephant",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "Elephants carry their calves for nearly two years (about 640 to 660 days), allowing the fetus's large brain to develop adequately.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"mammals",
+"records",
+"reproduction"
+]
+},
+{
+"id": "anim_149",
+"question": "How do standard earthworms breathe?",
+"options": [
+"Directly through their moist skin via diffusion",
+"Through small spiracles located along their underbelly",
+"Using primitive internal lung sacs",
+"They don't require oxygen intake"
+],
+"correctAnswer": "Directly through their moist skin via diffusion",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "Earthworms lack lungs; they absorb oxygen and emit carbon dioxide directly across their thin, mucus-coated skin surface.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"invertebrates",
+"biology"
+]
+},
+{
+"id": "anim_150",
+"question": "Which animal is famous for producing 'ambergris', a valuable substance used in high-end perfume formulation?",
+"options": [
+"Sperm Whale",
+"Beaver",
+"Musk Deer",
+"Cuttlefish"
+],
+"correctAnswer": "Sperm Whale",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "Ambergris forms in the digestive system of sperm whales to protect their gut from sharp squid beaks, eventually being excreted into the ocean.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"marine-life",
+"mammals"
+]
+},
+{
+"id": "anim_151",
+"question": "What defines the defensive chemical mechanism of the Bombardier Beetle?",
+"options": [
+"Ejecting a boiling, noxious fluid mixture at 100°C from its abdomen",
+"Coating itself in a neurotoxic layer of waxy oil",
+"Emitting a gas cloud that blocks predatory sight lines",
+"Injecting a caustic enzyme through specialized leg spurs"
+],
+"correctAnswer": "Ejecting a boiling, noxious fluid mixture at 100°C from its abdomen",
+"category": "Animals",
+"difficulty": "hard",
+"explanation": "Bombardier beetles mix hydroquinone and hydrogen peroxide in an internal chamber. The resulting explosive chemical reaction blasts a scalding fluid onto attackers.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"insects",
+"defense",
+"chemistry"
+]
+},
+{
+"id": "anim_152",
+"question": "Which of these birds has a tongue that wraps completely around its skull to absorb impact shock?",
+"options": [
+"Woodpecker",
+"Hummingbird",
+"Pelican",
+"Golden Eagle"
+],
+"correctAnswer": "Woodpecker",
+"category": "Animals",
+"difficulty": "hard",
+"explanation": "A woodpecker's elongated hyoid apparatus (tongue bone) extends out from the beak, routing back and looping entirely around its brain case to act as a safety helmet cushion.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"birds",
+"anatomy"
+]
+},
+{
+"id": "anim_153",
+"question": "What is the primary function of the complex structure known as the 'Aristotle's lantern'?",
+"options": [
+"The five-toothed chewing apparatus of a sea urchin",
+"The bioluminescent lure dangling from an anglerfish head",
+"The compound visual network of a box jellyfish",
+"The internal breathing lung of a sea cucumber"
+],
+"correctAnswer": "The five-toothed chewing apparatus of a sea urchin",
+"category": "Animals",
+"difficulty": "hard",
+"explanation": "Aristotle's lantern is a complex calcareous structural frame supporting five hard teeth in sea urchins, allowing them to scrape algae off rugged ocean stones.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"marine-life",
+"invertebrates",
+"anatomy"
+]
+},
+{
+"id": "anim_154",
+"question": "Which mammal has the highest known red blood cell count, allowing it to adapt to deep aquatic dives or thin alpine air?",
+"options": [
+"Weddell Seal",
+"Vicuna",
+"Sperm Whale",
+"Yak"
+],
+"correctAnswer": "Weddell Seal",
+"category": "Animals",
+"difficulty": "hard",
+"explanation": "Weddell seals have an extremely high blood volume and oxygen capacity because their spleen acts as a massive reservoir for oxygen-rich red blood cells.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"marine-life",
+"mammals",
+"adaptation"
+]
+},
+{
+"id": "anim_155",
+"question": "What unique mechanism characterizes the hunting behavior of the Pistol Shrimp?",
+"options": [
+"Snapping its claw to create a high-pressure cavitation bubble that delivers intense heat and noise to stun prey",
+"Deploying a sticky thread lines laced with microscopic neurotoxins",
+"Spearing small fish using a spring-loaded calcified arm barb",
+"Generating a localized electric discharge from its antennae"
+],
+"correctAnswer": "Snapping its claw to create a high-pressure cavitation bubble that delivers intense heat and noise to stun prey",
+"category": "Animals",
+"difficulty": "hard",
+"explanation": "The pistol shrimp shoots a jet of water via its claw, forming a fast cavitation bubble. When it collapses, it briefly matches sun temperatures and creates a loud sonic shockwave.",
+"imageUrl": "https://images.unsplash.com/photo-1516683018643-55119cb4a53b?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"crustaceans",
+"marine-life",
+"physics"
+]
+},
+{
+"id": "anim_156",
+"question": "Which of these lizard groups completely lacks legs but is distinguished from true snakes by having moveable eyelids and external ear holes?",
+"options": [
+"Slow Worms (Anguidae)",
+"Amphisbaenians",
+"Blind Snakes",
+"Skinks"
+],
+"correctAnswer": "Slow Worms (Anguidae)",
+"category": "Animals",
+"difficulty": "hard",
+"explanation": "Slow worms look exactly like snakes, but they are legless lizards belonging to the family Anguidae, possessing eyelids that blink and visible ear vents.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"reptiles",
+"lizards",
+"classification"
+]
+},
+{
+"id": "anim_157",
+"question": "What organic element lines the skin of a deep-sea scaly-foot gastropod, making it armored against physical threats?",
+"options": [
+"Iron sulfides (Greigite)",
+"Chitin-calcium plates",
+"Pure silica needles",
+"Hardened keratin shingles"
+],
+"correctAnswer": "Iron sulfides (Greigite)",
+"category": "Animals",
+"difficulty": "hard",
+"explanation": "The scaly-foot snail incorporates hydrothermal iron compounds directly into its mineralized scales and outer shell, making it the only animal known to utilize iron iron armor.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"mollusks",
+"extremophiles"
+]
+},
+{
+"id": "anim_158",
+"question": "What defines the process of 'anhydrobiosis' in microscopic Tardigrades?",
+"options": [
+"Entering a completely dehydrated state where metabolism drops to 0.01% of normal",
+"Absorbing heavy radiation particles to reconstruct damaged genetic strands",
+"Synthesizing internal oxygen loops using ambient nitrogen pools",
+"Shedding their entire cellular matrix to grow an armored shell frame"
+],
+"correctAnswer": "Entering a completely dehydrated state where metabolism drops to 0.01% of normal",
+"category": "Animals",
+"difficulty": "hard",
+"explanation": "Tardigrades survive extreme vacuums and dry conditions via anhydrobiosis, rolling into a crisp 'tun' state where their metabolic cycles practically freeze.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"extremophiles",
+"invertebrates",
+"biology"
+]
+},
+{
+"id": "anim_159",
+"question": "Which internal system regulates the buoyancy changes within a chambered nautilus?",
+"options": [
+"The siphuncle shifting fluid balance via osmotic pressure within older gas chambers",
+"An internal air sac expanding through throat gulping pathways",
+"Synthesizing high densities of light liver oils",
+"Releasing gas pockets directly out of specialized mantle vents"
+],
+"correctAnswer": "The siphuncle shifting fluid balance via osmotic pressure within older gas chambers",
+"category": "Animals",
+"difficulty": "hard",
+"explanation": "The nautilus alters its depth by routing a vascular tube called the siphuncle through its shell chambers, pumping ions to adjust salt fluid and gas fractions.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"marine-life",
+"mollusks",
+"anatomy"
+]
+},
+{
+"id": "anim_160",
+"question": "What genetic condition makes the African Spiny Mouse unique among mammals regarding injury healing?",
+"options": [
+"They can completely regenerate lost skin, hair follicles, and cartilage without scarring",
+"They can repair fractured bone complexes in less than 24 hours",
+"They lack any inflammatory blood reactions during skin damage",
+"Their tissue is fully immune to chemical or cellular necrosis factors"
+],
+"correctAnswer": "They can completely regenerate lost skin, hair follicles, and cartilage without scarring",
+"category": "Animals",
+"difficulty": "hard",
+"explanation": "African spiny mice exhibit true tissue autotomy and scar-free regeneration of large skin tracts, rebuilding fully functional complex skin layers and cartilage structures.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"rodents",
+"biology",
+"regeneration"
+]
+},
+{
+"id": "anim_161",
+"question": "What type of animal is a capercaillie?",
+"options": [
+"Bird",
+"Lizard",
+"Fish",
+"Mammal"
+],
+"correctAnswer": "Bird",
+"category": "Animals",
+"difficulty": "easy",
+"explanation": "The capercaillie is the largest member of the grouse family, a heavy woodland bird native to parts of Europe and Asia.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"birds"
+]
+},
+{
+"id": "anim_162",
+"question": "What is the common term for the domestic animal 'Sus domesticus'?",
+"options": [
+"Pig",
+"Cow",
+"Sheep",
+"Horse"
+],
+"correctAnswer": "Pig",
+"category": "Animals",
+"difficulty": "easy",
+"explanation": "Sus domesticus is the scientific binomial name assigned to the domesticated pig.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"classification",
+"pets"
+]
+},
+{
+"id": "anim_163",
+"question": "How many wings does a standard housefly have?",
+"options": [
+"2",
+"4",
+"6",
+"8"
+],
+"correctAnswer": "2",
+"category": "Animals",
+"difficulty": "easy",
+"explanation": "True flies belong to the order Diptera, which literally translates to 'two wings'. Their hind wings have evolved into balancing organs called halteres.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"insects",
+"flight"
+]
+},
+{
+"id": "anim_164",
+"question": "Which animal is the signature emblem of the World Wildlife Fund (WWF)?",
+"options": [
+"Giant Panda",
+"African Elephant",
+"Tiger",
+"Bald Eagle"
+],
+"correctAnswer": "Giant Panda",
+"category": "Animals",
+"difficulty": "easy",
+"explanation": "The WWF logo was inspired by Chi-Chi, a giant panda living at the London Zoo when the conservation group was founded in 1961.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"bears",
+"conservation"
+]
+},
+{
+"id": "anim_165",
+"question": "What adaptation allows a cat to safely walk along narrow fences and land on its feet?",
+"options": [
+"A highly flexible spine and vestibular righting reflex",
+"An internal air sac system that slows gravity down",
+"Magnetic skin pads that grip steel surfaces",
+"The complete absence of a collarbone skeleton frame"
+],
+"correctAnswer": "A highly flexible spine and vestibular righting reflex",
+"category": "Animals",
+"difficulty": "easy",
+"explanation": "Cats use their highly sensitive vestibular systems inside their ears and supple backbone structures to quickly rotate their bodies upright mid-fall.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"pets",
+"anatomy",
+"behavior"
+]
+},
+{
+"id": "anim_166",
+"question": "What is the primary food source of the baleen whales?",
+"options": [
+"Krill and small plankton",
+"Large predatory seals",
+"Deep sea giant octopuses",
+"Coastal seagrass banks"
+],
+"correctAnswer": "Krill and small plankton",
+"category": "Animals",
+"difficulty": "easy",
+"explanation": "Baleen whales lack teeth, using their fringed baleen plates instead to strain vast quantities of tiny krill and zooplankton from sea water.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"marine-life",
+"mammals",
+"diet"
+]
+},
+{
+"id": "anim_167",
+"question": "Which bird is widely regarded as the ultimate universal symbol of peace?",
+"options": [
+"White Dove",
+"Bald Eagle",
+"Raven",
+"Peacock"
+],
+"correctAnswer": "White Dove",
+"category": "Animals",
+"difficulty": "easy",
+"explanation": "In multiple ancient cultural and spiritual traditions, the white dove (or pigeon) carries a strong historical meaning representing peace.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"birds"
+]
+},
+{
+"id": "anim_168",
+"question": "What structural feature makes up the hard exterior casing of insects?",
+"options": [
+"Exoskeleton made of chitin",
+"Bony internal rib arches",
+"Calcified cartilage framework",
+"Dense keratin leather shields"
+],
+"correctAnswer": "Exoskeleton made of chitin",
+"category": "Animals",
+"difficulty": "easy",
+"explanation": "Insects lack internal bones. They rely completely on a rigid external exoskeleton composed of chitin and proteins for bodily support.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"insects",
+"anatomy"
+]
+},
+{
+"id": "anim_169",
+"question": "What is the only species of wild cat that lives and hunts in highly structured social family groups?",
+"options": [
+"Lion",
+"Leopard",
+"Cheetah",
+"Cougar"
+],
+"correctAnswer": "Lion",
+"category": "Animals",
+"difficulty": "easy",
+"explanation": "While almost all big cats are solitary hunters, lions live in prides where they cooperate to hunt and defend territory.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"big-cats",
+"behavior"
+]
+},
+{
+"id": "anim_170",
+"question": "What color are the spots on a newborn Dalmatian puppy?",
+"options": [
+"They are born pure white without spots",
+"Jet black",
+"Light brown",
+"Mottled grey patches"
+],
+"correctAnswer": "They are born pure white without spots",
+"category": "Animals",
+"difficulty": "easy",
+"explanation": "Dalmatian puppies are born completely white. Their distinct dark spots begin to emerge on their coat after a few weeks.",
+"imageUrl": "https://images.unsplash.com/photo-1552053831-71594a27632d?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"pets",
+"canines"
+]
+},
+{
+"id": "anim_171",
+"question": "What adaptation protects a sloth's body from being easily targeted by predators while hanging in trees?",
+"options": [
+"Symbiotic green algae growing in its fur providing camouflage",
+"A highly venomous oil coating along its claws",
+"The capability to leap long distances between canopy trees",
+"A rigid armored shell underneath its belly fur"
+],
+"correctAnswer": "Symbiotic green algae growing in its fur providing camouflage",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "Sloth fur has specialized grooves that house green cyanobacteria and algae, which gives them a greenish tint that helps them blend perfectly into the rainforest canopy.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"mammals",
+"camouflage"
+]
+},
+{
+"id": "anim_172",
+"question": "Which of these birds has the largest wingspan of any living bird, measuring up to 11.8 feet?",
+"options": [
+"Wandering Albatross",
+"Andean Condor",
+"Mute Swan",
+"Marabou Stork"
+],
+"correctAnswer": "Wandering Albatross",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "The Wandering Albatross possesses the largest wingspan of any extant bird, enabling it to glide over oceans for hours without flapping.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"birds",
+"records"
+]
+},
+{
+"id": "anim_173",
+"question": "What structural modification distinguishes the feet of tree frogs from standard land frogs?",
+"options": [
+"Expanded toe pads lined with microscopic ridges and mucus glands for adhesion",
+"Extremely long claws meant for digging deep tree trenches",
+"Heavy aquatic webbing extending past the toe tips",
+"The presence of a sharp opposable thumb digit"
+],
+"correctAnswer": "Expanded toe pads lined with microscopic ridges and mucus glands for adhesion",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "Tree frogs feature specialized sticky toe pads covered in hexagonal cell patterns that create wet capillary adhesion, allowing them to cling to smooth leaves.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"amphibians",
+"anatomy"
+]
+},
+{
+"id": "anim_174",
+"question": "Which primate species is famous for washing sweet potatoes in saltwater before eating them, passing this cultural behavior down generations?",
+"options": [
+"Japanese Macaque",
+"Chimpanzee",
+"Bornean Orangutan",
+"Ring-tailed Lemur"
+],
+"correctAnswer": "Japanese Macaque",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "Japanese macaques (snow monkeys) on Koshima Island learned to wash dirt off sweet potatoes in the sea, discovering that salt enhanced the flavor.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"primates",
+"behavior",
+"intelligence"
+]
+},
+{
+"id": "anim_175",
+"question": "What is the unique hunting style of the Archerfish?",
+"options": [
+"Shooting precise drops of water out of its mouth to knock down insects hanging above the water surface",
+"Burying itself in sand and mimicking a moving sea worm with its tongue",
+"Leaping fully out of the water to grab flying birds",
+"Creating localized toxic foam lines that stun drifting insects"
+],
+"correctAnswer": "Shooting precise drops of water out of its mouth to knock down insects hanging above the water surface",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "The archerfish squirts a jet of water through a groove in its mouth with incredible accuracy, hitting terrestrial insects up to 5 feet away.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"fish",
+"diet"
+]
+},
+{
+"id": "anim_176",
+"question": "Which of these large African antelope species features long, spiral horns and is known to be highly elusive in dense forest habitats?",
+"options": [
+"Bongo",
+"Wildebeest",
+"Springbok",
+"Gemsbok"
+],
+"correctAnswer": "Bongo",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "The bongo is a large, nocturnal forest antelope characterized by a reddish-brown coat with vertical white stripes and spiraled horns.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"mammals",
+"ungulates"
+]
+},
+{
+"id": "anim_177",
+"question": "How do standard orb-weaver spiders prevent sticking to their own web threads?",
+"options": [
+"They only walk along chemical-free radial anchor threads and have oily chemical coat lines on their legs",
+"They spin webs completely free of sticky coatings",
+"They have tiny scissor claws that continuously slice through web bonds",
+"They move too fast for the web molecules to adhere"
+],
+"correctAnswer": "They only walk along chemical-free radial anchor threads and have oily chemical coat lines on their legs",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "Spiders navigate their webs carefully by walking on non-sticky structural spokes and using chemical anti-adhesive coatings on their leg hairs.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"arachnids",
+"behavior"
+]
+},
+{
+"id": "anim_178",
+"question": "What anatomical feature allows woodpeckers to repeatedly hammer tree trunks without sustaining brain damage?",
+"options": [
+"A spongy, shock-absorbing skull bone frame and a tightly fitting brain cavity",
+"A layer of fluid surrounding the brain that absorbs 100% of all shock",
+"A mechanical neck hinge that restricts horizontal movement completely",
+"They disconnect their jaw bone before striking trees"
+],
+"correctAnswer": "A spongy, shock-absorbing skull bone frame and a tightly fitting brain cavity",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "Woodpeckers have unique skull adaptations, including spongy frontal bones and minimal cerebrospinal fluid, which stops shockwaves from rattling the brain.",
+"imageUrl": "https://images.unsplash.com/photo-1601370500155-e7da4a4ca679?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"birds",
+"anatomy"
+]
+},
+{
+"id": "anim_179",
+"question": "Which of these marine organisms is famous for its completely transparent body, leaving only its eyes visible?",
+"options": [
+"Glass Squid",
+"Lion's Mane Jellyfish",
+"Barreleye Fish",
+"Leopard Seal"
+],
+"correctAnswer": "Glass Squid",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "The glass squid (Cranchiidae) uses transparency as near-flawless camouflage in the mid-water depths of the ocean to hide from predators.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"marine-life",
+"camouflage"
+]
+},
+{
+"id": "anim_180",
+"question": "What mechanism allows rattlesnakes to locate warm-blooded prey in absolute darkness?",
+"options": [
+"Infrared sensitive loreal pit organs between their eyes and nostrils",
+"A highly advanced night-vision tapetum lucidum cell layer",
+"Sensing high-frequency air pressure echoes via their tongue",
+"Tracking microscopic skin flaking trails"
+],
+"correctAnswer": "Infrared sensitive loreal pit organs between their eyes and nostrils",
+"category": "Animals",
+"difficulty": "medium",
+"explanation": "Pit vipers have facial pit organs containing heat-sensitive membranes that allow them to construct a thermal image of their environment.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"reptiles",
+"snakes",
+"anatomy"
+]
+},
+{
+"id": "anim_181",
+"question": "What is the primary function of the specialized, paddle-like tail found on sea snakes?",
+"options": [
+"Efficient underwater lateral propulsion",
+"Anchoring to shallow coral structures",
+"Delivering venomous defense slaps",
+"Mimicking ocean seaweed patterns"
+],
+"correctAnswer": "Efficient underwater lateral propulsion",
+"category": "Animals",
+"difficulty": "hard",
+"explanation": "Unlike terrestrial snakes with tapered tails, fully marine sea snakes have evolved a vertically flattened, oar-like tail that maximizes swimming thrust.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"reptiles",
+"snakes",
+"marine-life"
+]
+},
+{
+"id": "anim_182",
+"question": "Which unique avian family includes the Hoatzin, a bird whose chicks possess functional claws on their wings for climbing trees?",
+"options": [
+"Opisthocomidae",
+"Phasianidae",
+"Columbidae",
+"Anatidae"
+],
+"correctAnswer": "Opisthocomidae",
+"category": "Animals",
+"difficulty": "hard",
+"explanation": "The Hoatzin is an evolutionary outlier belonging to the monotypic family Opisthocomidae. Young chicks hatch with claws on their wing joints to scramble up branches.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"birds",
+"evolution",
+"classification"
+]
+},
+{
+"id": "anim_183",
+"question": "What complex biochemical compound makes up the neurotoxic bite cocktail of the blue-ringed octopus?",
+"options": [
+"Tetrodotoxin",
+"Atraxotoxin",
+"Conotoxin",
+"Batrachotoxin"
+],
+"correctAnswer": "Tetrodotoxin",
+"category": "Animals",
+"difficulty": "hard",
+"explanation": "The tiny blue-ringed octopus harbors symbiotic bacteria in its salivary glands that synthesize tetrodotoxin, a deadly neurotoxin that causes muscle paralysis.",
+"imageUrl": "https://images.unsplash.com/photo-1598967093282-36c968987ec9?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"marine-life",
+"venom"
+]
+},
+{
+"id": "anim_184",
+"question": "What biological function characterizes the behavior known as 'basking' in crocodilians?",
+"options": [
+"Ectothermic thermoregulation to raise body core temperature via solar radiation",
+"Attracting dynamic insect swarms to cleanse their mouth structures",
+"Excreting highly concentrated excess nitrogen compounds via skin pores",
+"Engaging in a localized form of sleep-walking behavior"
+],
+"correctAnswer": "Ectothermic thermoregulation to raise body core temperature via solar radiation",
+"category": "Animals",
+"difficulty": "hard",
+"explanation": "Because crocodiles are ectothermic reptiles, they lack internal heating systems and must spend hours basking in the sun to warm their blood for hunting and digestion.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"reptiles",
+"crocodilians",
+"biology"
+]
+},
+{
+"id": "anim_185",
+"question": "Which enzyme allows deep-sea organisms to preserve cell membrane flexibility under extreme hydrostatic pressure?",
+"options": [
+"Trimethylamine N-oxide (TMAO)",
+"Luciferase enzyme loops",
+"Glucose cryoprotectants",
+"Squalene dehydrogenase"
+],
+"correctAnswer": "Trimethylamine N-oxide (TMAO)",
+"category": "Animals",
+"difficulty": "hard",
+"explanation": "TMAO is an organic osmolyte compound that stabilizes proteins against osmotic and high-pressure denaturation in deep sea organisms.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"marine-life",
+"extremophiles",
+"biology"
+]
+},
+{
+"id": "anim_186",
+"question": "What defines the unique physical eye adaptation of the deep-sea Barreleye Fish (Macropinna microstoma)?",
+"options": [
+"Tubular green eyes encased inside a transparent fluid-filled head shield",
+"Complete lack of structural lenses relying on heat signatures",
+"Dual pupils split horizontally to look up and down at once",
+"Eyes that sit loosely on elongated, moveable tissue stalks"
+],
+"correctAnswer": "Tubular green eyes encased inside a transparent fluid-filled head shield",
+"category": "Animals",
+"difficulty": "hard",
+"explanation": "The barreleye fish has highly sensitive, green-tinted tubular eyes located underneath a clear dome on its head, which it can rotate from facing forward to upward.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"fish",
+"marine-life",
+"anatomy"
+]
+},
+{
+"id": "anim_187",
+"question": "Which of these taxonomic infraclasses contains mammals that give birth to highly underdeveloped larvae that complete growth inside a pouch?",
+"options": [
+"Marsupialia",
+"Placentalia",
+"Monotremata",
+"Eutheria"
+],
+"correctAnswer": "Marsupialia",
+"category": "Animals",
+"difficulty": "hard",
+"explanation": "Marsupialia is the group characterized by short gestation periods, where tiny, blind neonates crawl into an external pouch to nurse and develop further.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"marsupials",
+"classification"
+]
+},
+{
+"id": "anim_188",
+"question": "What is unique about the visual network of the generic Dragonflies (order Odonata)?",
+"options": [
+"They have up to 30,000 lenses per compound eye and visual processing speeds matching 300 frames per second",
+"They view only monochrome silhouettes to spot motion markers",
+"Their eyes are completely fused to their front leg frames",
+"They focus using internal liquid dynamic mirrors instead of traditional lenses"
+],
+"correctAnswer": "They have up to 30,000 lenses per compound eye and visual processing speeds matching 300 frames per second",
+"category": "Animals",
+"difficulty": "hard",
+"explanation": "Dragonflies have enormous compound eyes with up to 30,000 ommatidia (individual lenses) providing an almost 360-degree field of view and ultra-fast visual tracking.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"insects",
+"anatomy"
+]
+},
+{
+"id": "anim_189",
+"question": "What primary substance makes up the structure of the complex 'egg cases' laid by certain sharks and skates, commonly known as a 'mermaid's purse'?",
+"options": [
+"Keratin",
+"Calcium carbonate",
+"Chitin-cellulose",
+"Hardened mucus matrix"
+],
+"correctAnswer": "Keratin",
+"category": "Animals",
+"difficulty": "hard",
+"explanation": "The tough, leathery protective egg capsules produced by oviparous sharks and skates are constructed entirely out of structurally resilient keratin proteins.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"sharks",
+"reproduction"
+]
+},
+{
+"id": "anim_190",
+"question": "Which of these venomous spiders constructs a web that features a distinct, highly visible zigzag silk structure known as a 'stabilimentum'?",
+"options": [
+"Writing Spider (Argiope aurantia)",
+"Sydney Funnel-web",
+"Black Widow",
+"Brazilian Wandering Spider"
+],
+"correctAnswer": "Writing Spider (Argiope aurantia)",
+"category": "Animals",
+"difficulty": "hard",
+"explanation": "The argiope or writing spider spins a conspicuous, heavy zigzag structural pattern called a stabilimentum down the center of its large circular web.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"arachnids",
+"behavior"
+]
+},
+{
+"id": "anim_191",
+"question": "What is the primary function of the highly specialized 'Jacobson's organ' found in reptiles?",
+"options": [
+"Vomeronasal chemoreception to process scent particles collected by the tongue",
+"Pumping out toxic fluids through facial fangs",
+"Regulating fluid balances in freshwater environments",
+"Amplifying low-frequency sound vibrations along the jaw"
+],
+"correctAnswer": "Vomeronasal chemoreception to process scent particles collected by the tongue",
+"category": "Animals",
+"difficulty": "hard",
+"explanation": "The Jacobson's (vomeronasal) organ sits in the roof of a reptile's mouth, functioning as a chemical receptor that analyzes particles gathered by their tongue.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"reptiles",
+"anatomy",
+"biology"
+]
+},
+{
+"id": "anim_192",
+"question": "What is unique about the physical structure of a box jellyfish's sensory network?",
+"options": [
+"They possess 24 true eyes organized in structures called rhopalia, complete with lenses and retinas",
+"They have a completely mineralized central spinal ring bone",
+"Their bodies contain microscopic copper grids that pick up satellite radio waves",
+"They grow independent nervous modules inside each separate tentacle cluster"
+],
+"correctAnswer": "They possess 24 true eyes organized in structures called rhopalia, complete with lenses and retinas",
+"category": "Animals",
+"difficulty": "hard",
+"explanation": "Box jellyfish have specialized sensory structures called rhopalia that house true complex eyes featuring corneas, lenses, and retinas to track structures.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"marine-life",
+"anatomy",
+"invertebrates"
+]
+},
+{
+"id": "anim_193",
+"question": "Which specific bird family is characterized by possessing a multi-chambered stomach specialized for fermenting green leaves, similar to a cow?",
+"options": [
+"Opisthocomidae (Hoatzin)",
+"Struthionidae (Ostrich)",
+"Anatidae (Ducks)",
+"Columbidae (Pigeons)"
+],
+"correctAnswer": "Opisthocomidae (Hoatzin)",
+"category": "Animals",
+"difficulty": "hard",
+"explanation": "The Hoatzin is the only known bird that uses a specialized muscular crop and multi-chambered system to perform foregut bacterial fermentation to digest leaves.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"birds",
+"diet",
+"biology"
+]
+},
+{
+"id": "anim_194",
+"question": "What morphological feature characterizes the unique order of amphibians known as 'Gymnophiona' (caecilians)?",
+"options": [
+"They are completely legless, subterranean creatures that resemble earthworms or snakes",
+"They grow large bony horns directly above their orbital skulls",
+"They lack any lungs, breathing fully via high-surface external gill fringes",
+"They possess hard keratin armor plates covering their entire back segments"
+],
+"correctAnswer": "They are completely legless, subterranean creatures that resemble earthworms or snakes",
+"category": "Animals",
+"difficulty": "hard",
+"explanation": "Caecilians are a lesser-known order of amphibians that are entirely limbless and blind, living mostly underground or in stream beds.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"amphibians",
+"classification"
+]
+},
+{
+"id": "anim_195",
+"question": "What strategy allows the Emperor Penguin to incubate a single delicate egg on open polar ice sheets during extreme arctic blizzards?",
+"options": [
+"Balancing the egg directly on top of their feet shielded under a vascularized brood pouch",
+"Burying the egg inside deep communal ice caves packed with dry feathers",
+"Coating the egg in a sticky layer of high-insulation chemical oils",
+"They carry the egg inside an internal throat sac structure until hatching"
+],
+"correctAnswer": "Balancing the egg directly on top of their feet shielded under a vascularized brood pouch",
+"category": "Animals",
+"difficulty": "hard",
+"explanation": "Male Emperor Penguins protect the egg from freezing by keeping it tucked onto their feet, safe beneath an insulating layer of feathery skin called a brood pouch.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"birds",
+"behavior"
+]
+},
+{
+"id": "anim_196",
+"question": "Which of these insects belongs to an order that undergoes 'hemimetabolous' (incomplete) metamorphosis, skipping a pupal stage completely?",
+"options": [
+"Dragonfly",
+"Monarch Butterfly",
+"Honeybee",
+"Housefly"
+],
+"correctAnswer": "Dragonfly",
+"category": "Animals",
+"difficulty": "hard",
+"explanation": "Dragonflies undergo incomplete metamorphosis where a nymph hatches from an egg and grows through continuous molts until transforming straight into an adult.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"insects",
+"biology"
+]
+},
+{
+"id": "anim_197",
+"question": "What specialized cellular mechanism allows certain species of deep sea squids to project blue light downward, practicing 'counterillumination' camouflage?",
+"options": [
+"Photophores reacting chemically to blend into downwelling surface sunlight silhouette lines",
+"Reflecting background cosmic light rays off specialized scale panels",
+"Shedding micro-layers of luminescent skin templates on command",
+"Pumping neon blood loops into translucent surface veins"
+],
+"correctAnswer": "Photophores reacting chemically to blend into downwelling surface sunlight silhouette lines",
+"category": "Animals",
+"difficulty": "hard",
+"explanation": "Many mesopelagic animals use light-producing organs called photophores along their underbellies to match the ambient sunlight filtering down, hiding their shadow from below.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"marine-life",
+"bioluminescence",
+"camouflage"
+]
+},
+{
+"id": "anim_198",
+"question": "Which unique marine invertebrate class features organisms that utilize a specialized radula to bore straight into hard wooden ship frames or fallen timber hulls?",
+"options": [
+"Bivalvia (Shipworms)",
+"Gastropoda",
+"Cephalopoda",
+"Polyplacophora"
+],
+"correctAnswer": "Bivalvia (Shipworms)",
+"category": "Animals",
+"difficulty": "hard",
+"explanation": "Despite looking like worms, shipworms are marine bivalve mollusks (clams) belonging to the family Teredinidae, using their adapted shell valves to rasp and consume wood.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"mollusks",
+"marine-life"
+]
+},
+{
+"id": "anim_199",
+"question": "What structural feature characterizes the unique locomotion of the Sidewinder Rattlesnake across loose sand desert landscapes?",
+"options": [
+"Moving in a series of lateral J-shaped loops where only two small body points contact the hot sand surface at any time",
+"Gliding in a perfectly straight line via synchronized micro-pulses of belly scales",
+"Coiling into a complete wheel loop and rolling down sloping sand dunes",
+"Digging an underground trench track line using its tail barb"
+],
+"correctAnswer": "Moving in a series of lateral J-shaped loops where only two small body points contact the hot sand surface at any time",
+"category": "Animals",
+"difficulty": "hard",
+"explanation": "Sidewinding allows desert snakes to move rapidly over unstable, shifting sand dunes without slipping, while preventing their bodies from overheating by minimizing ground contact.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"reptiles",
+"snakes",
+"physics"
+]
+},
+{
+"id": "anim_200",
+"question": "What defines the complex social configuration known as 'eusociality' found in certain animal groups like naked mole rats and ants?",
+"options": [
+"Cooperative brood care, overlapping adult generations, and a strict division of labor with sterile helper castes",
+"Temporary winter nesting pools formed by unrelated predatory species",
+"A structure where every single member competes to breed sequentially",
+"Migrating in synchronized clusters based entirely on lunar tides"
+],
+"correctAnswer": "Cooperative brood care, overlapping adult generations, and a strict division of labor with sterile helper castes",
+"category": "Animals",
+"difficulty": "hard",
+"explanation": "Eusociality is the highest level of social organization in biology, where single queens or breeding pairs reproduce while a structured caste of workers manages the colony.",
+"imageUrl": "https://images.unsplash.com/photo-1558244661-d248897f7bc4?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"biology",
+"behavior"
+]
+}
+]

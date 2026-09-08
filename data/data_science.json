@@ -1,0 +1,4624 @@
+[
+  {
+    "id": "datasci_001",
+    "question": "What is the primary language used for data analysis in modern data science alongside Python?",
+    "options": [
+      "R",
+      "Ruby",
+      "C++",
+      "PHP"
+    ],
+    "correctAnswer": "R",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "R is an open-source programming language widely used as a standard software for statistical analysis and data science.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "programming",
+      "r",
+      "data-analysis"
+    ]
+  },
+  {
+    "id": "datasci_002",
+    "question": "Which Python library is most commonly used for handling dataframes and structured data tables?",
+    "options": [
+      "Pandas",
+      "NumPy",
+      "Matplotlib",
+      "Requests"
+    ],
+    "correctAnswer": "Pandas",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "Pandas is the premier open-source library providing high-performance, easy-to-use data structures and analysis tools for Python.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "python",
+      "pandas",
+      "libraries"
+    ]
+  },
+  {
+    "id": "datasci_003",
+    "question": "What does SQL stand for in the context of database management?",
+    "options": [
+      "Structured Query Language",
+      "Sequential Query List",
+      "Simple Question Language",
+      "Standard Query Log"
+    ],
+    "correctAnswer": "Structured Query Language",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "SQL stands for Structured Query Language, which is the standard language used to communicate with relational databases.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "sql",
+      "databases",
+      "query"
+    ]
+  },
+  {
+    "id": "datasci_004",
+    "question": "In data science, what does 'EDA' stand for?",
+    "options": [
+      "Exploratory Data Analysis",
+      "External Data Assessment",
+      "Efficient Data Array",
+      "Estimated Deep Analysis"
+    ],
+    "correctAnswer": "Exploratory Data Analysis",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "EDA stands for Exploratory Data Analysis, an approach to analyzing datasets to summarize their main characteristics, often with visual methods.",
+    "imageUrl": "https://images.unsplash.com/photo-1551288049-bebda4e38f71",
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "eda",
+      "statistics",
+      "visualization"
+    ]
+  },
+  {
+    "id": "datasci_005",
+    "question": "Which of the following is an example of supervised machine learning?",
+    "options": [
+      "Linear Regression",
+      "K-Means Clustering",
+      "Principal Component Analysis",
+      "Anomaly Detection"
+    ],
+    "correctAnswer": "Linear Regression",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "Linear Regression is a supervised learning algorithm because it uses labeled training data to predict continuous numerical values.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "machine-learning",
+      "regression",
+      "supervised"
+    ]
+  },
+  {
+    "id": "datasci_006",
+    "question": "What is the primary purpose of data cleaning?",
+    "options": [
+      "To fix or remove incorrect, corrupted, incorrectly formatted, duplicate, or incomplete data within a dataset",
+      "To compress data files to save physical storage space on servers",
+      "To encrypt data fields to prevent unauthorized network security breaches",
+      "To automatically generate machine learning models from raw raw text documents"
+    ],
+    "correctAnswer": "To fix or remove incorrect, corrupted, incorrectly formatted, duplicate, or incomplete data within a dataset",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "Data cleaning ensures high quality and accuracy by identifying and rectifying errors, gaps, or inconsistencies in datasets.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "data-cleaning",
+      "preprocessing"
+    ]
+  },
+  {
+    "id": "datasci_007",
+    "question": "Which chart type is ideal for showing the frequency distribution of a single continuous variable?",
+    "options": [
+      "Histogram",
+      "Pie Chart",
+      "Scatter Plot",
+      "Line Chart"
+    ],
+    "correctAnswer": "Histogram",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "A histogram groups continuous data into bins to display the count or frequency distribution of the dataset values.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "visualization",
+      "statistics"
+    ]
+  },
+  {
+    "id": "datasci_008",
+    "question": "What value represents the middle number in a sorted, ascending or descending list of numbers?",
+    "options": [
+      "Median",
+      "Mean",
+      "Mode",
+      "Variance"
+    ],
+    "correctAnswer": "Median",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "The median is the exact middle score for a set of data that has been arranged in order of magnitude.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "statistics",
+      "math"
+    ]
+  },
+  {
+    "id": "datasci_009",
+    "question": "Which Python data visualization library is built directly on top of Matplotlib and offers a high-level, cleaner interface?",
+    "options": [
+      "Seaborn",
+      "NumPy",
+      "TensorFlow",
+      "Scikit-Learn"
+    ],
+    "correctAnswer": "Seaborn",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "Seaborn provides an elegant interface for drawing attractive and informative statistical graphics on top of Matplotlib infrastructure.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "python",
+      "visualization",
+      "seaborn"
+    ]
+  },
+  {
+    "id": "datasci_010",
+    "question": "What type of data has distinct categories without any implicit quantitative order?",
+    "options": [
+      "Nominal Data",
+      "Ordinal Data",
+      "Continuous Data",
+      "Interval Data"
+    ],
+    "correctAnswer": "Nominal Data",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "Nominal data classifies items into mutually exclusive groups without any quantitative ordering (e.g., eye color or country names).",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "data-types",
+      "statistics"
+    ]
+  },
+  {
+    "id": "datasci_011",
+    "question": "What type of machine learning task is used to group data points together based on similarities without pre-existing labels?",
+    "options": [
+      "Clustering",
+      "Classification",
+      "Regression",
+      "Reinforcement Learning"
+    ],
+    "correctAnswer": "Clustering",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "Clustering is an unsupervised learning method that aims to group data points into distinct sets based on proximity or feature similarity.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "unsupervised",
+      "clustering",
+      "machine-learning"
+    ]
+  },
+  {
+    "id": "datasci_012",
+    "question": "Which of the following describes 'Big Data' by the standard three Vs?",
+    "options": [
+      "Volume, Velocity, Variety",
+      "Validity, Vector, Value",
+      "Viscosity, Variable, Vertex",
+      "Vastness, Viewport, Virtual"
+    ],
+    "correctAnswer": "Volume, Velocity, Variety",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "The traditional framework defines Big Data through Three Vs: Volume (scale), Velocity (speed of generation), and Variety (forms of data).",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "big-data",
+      "concepts"
+    ]
+  },
+  {
+    "id": "datasci_013",
+    "question": "Which file format stands for 'Comma-Separated Values'?",
+    "options": [
+      "CSV",
+      "JSON",
+      "XML",
+      "XLSX"
+    ],
+    "correctAnswer": "CSV",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "CSV stands for Comma-Separated Values, a plain text file format used to store tabular database records.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "file-formats",
+      "csv"
+    ]
+  },
+  {
+    "id": "datasci_014",
+    "question": "What does a correlation coefficient of +1 indicate between two quantitative variables?",
+    "options": [
+      "A perfect positive linear relationship",
+      "No linear relationship at all",
+      "A perfect negative linear relationship",
+      "An invalid statistical error"
+    ],
+    "correctAnswer": "A perfect positive linear relationship",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "A Pearson correlation coefficient of +1 indicates that as one variable increases, the other increases by a perfectly linear proportion.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "statistics",
+      "correlation"
+    ]
+  },
+  {
+    "id": "datasci_015",
+    "question": "Which tool is an open-source web application that allows you to create and share documents containing live code, equations, visualizations, and narrative text?",
+    "options": [
+      "Jupyter Notebook",
+      "PyCharm",
+      "VS Code Terminal",
+      "Sublime Text"
+    ],
+    "correctAnswer": "Jupyter Notebook",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "Jupyter Notebooks are highly popular in data science for creating interactive workflows, combining code execution with prose.",
+    "imageUrl": "https://images.unsplash.com/photo-1600132806370-bf17e65e942f",
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "jupyter",
+      "tools",
+      "ide"
+    ]
+  },
+  {
+    "id": "datasci_016",
+    "question": "What Python library serves as the foundational package for scientific and numerical computing, introducing powerful N-dimensional arrays?",
+    "options": [
+      "NumPy",
+      "Django",
+      "Flask",
+      "BeautifulSoup"
+    ],
+    "correctAnswer": "NumPy",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "NumPy provides underlying multi-dimensional array structures and highly optimized mathematical functions required for analytical workloads.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "python",
+      "numpy",
+      "math"
+    ]
+  },
+  {
+    "id": "datasci_017",
+    "question": "Which metric is calculated by summing all data observations and dividing by the total count of observations?",
+    "options": [
+      "Arithmetic Mean",
+      "Median",
+      "Mode",
+      "Standard Deviation"
+    ],
+    "correctAnswer": "Arithmetic Mean",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "The arithmetic mean, often simply referred to as the average, is computed by summing data values and dividing by the count.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "statistics",
+      "math"
+    ]
+  },
+  {
+    "id": "datasci_018",
+    "question": "What data called when it is organized in structured rows and columns, such as relational database tables?",
+    "options": [
+      "Structured Data",
+      "Unstructured Data",
+      "Semi-structured Data",
+      "Amorphous Data"
+    ],
+    "correctAnswer": "Structured Data",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "Structured data refers to information that resides in fixed fields within a defined record or schema, like tables or spreadsheets.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "data-structures",
+      "databases"
+    ]
+  },
+  {
+    "id": "datasci_019",
+    "question": "In a dataset containing categorical entries of animal types, which technique converts these text categories into a binary format suitable for machine learning models?",
+    "options": [
+      "One-Hot Encoding",
+      "Normalization",
+      "Feature Scaling",
+      "Log Transformation"
+    ],
+    "correctAnswer": "One-Hot Encoding",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "One-Hot Encoding creates binary indicator variables for each unique categorical value, mapping text values to numerical matrices.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "preprocessing",
+      "encoding"
+    ]
+  },
+  {
+    "id": "datasci_020",
+    "question": "What does JSON stand for in modern web data interchange frameworks?",
+    "options": [
+      "JavaScript Object Notation",
+      "Joined Standard Operational Network",
+      "Java System Organized Node",
+      "Justified Schema Objective Layout"
+    ],
+    "correctAnswer": "JavaScript Object Notation",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "JSON is an open-standard file format and data interchange format that uses human-readable text to store and transmit data objects.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "json",
+      "data-formats"
+    ]
+  },
+  {
+    "id": "datasci_021",
+    "question": "What type of data is text from emails, video streams, or audio recordings considered to be?",
+    "options": [
+      "Unstructured Data",
+      "Structured Data",
+      "Relational Data",
+      "Tabular Data"
+    ],
+    "correctAnswer": "Unstructured Data",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "Unstructured data is information that does not have a predefined conceptual model or standard structural layout.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "unstructured",
+      "data-types"
+    ]
+  },
+  {
+    "id": "datasci_022",
+    "question": "Which tool or environment is widely used as a scalable cloud runtime for Jupyter Notebooks hosted entirely by Google?",
+    "options": [
+      "Google Colab",
+      "Google Sheets",
+      "Google Analytics",
+      "Google Firebase"
+    ],
+    "correctAnswer": "Google Colab",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "Google Colaboratory (Colab) allows anyone to write and execute arbitrary Python code through the browser, making it ideal for ML projects.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "google-colab",
+      "cloud",
+      "notebook"
+    ]
+  },
+  {
+    "id": "datasci_023",
+    "question": "In relational databases, which constraint uniquely identifies each record in a specific database table?",
+    "options": [
+      "Primary Key",
+      "Foreign Key",
+      "Unique Index",
+      "Composite Field"
+    ],
+    "correctAnswer": "Primary Key",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "A primary key constraint enforces uniqueness and ensures that a column cannot contain null values, identifying each record uniquely.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "sql",
+      "databases"
+    ]
+  },
+  {
+    "id": "datasci_024",
+    "question": "What graphical chart shows data values plotted as dots across Cartesian axes to investigate relationships between two numerical variables?",
+    "options": [
+      "Scatter Plot",
+      "Bar Chart",
+      "Box Plot",
+      "Pie Diagram"
+    ],
+    "correctAnswer": "Scatter Plot",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "Scatter plots use points to visualize individual values for two distinct numeric continuous parameters, highlighting relationships or trends.",
+    "imageUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f",
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "visualization",
+      "charts"
+    ]
+  },
+  {
+    "id": "datasci_025",
+    "question": "What classification metric calculates the proportion of true positive predictions out of all actual positive instances?",
+    "options": [
+      "Recall (Sensitivity)",
+      "Precision",
+      "Accuracy",
+      "Specificity"
+    ],
+    "correctAnswer": "Recall (Sensitivity)",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "Recall is the metric measuring how well a model finds all the positive cases within the test ground truth.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "metrics",
+      "classification"
+    ]
+  },
+  {
+    "id": "datasci_026",
+    "question": "Which SQL command is used to retrieve data from a database table?",
+    "options": [
+      "SELECT",
+      "GET",
+      "EXTRACT",
+      "FETCH"
+    ],
+    "correctAnswer": "SELECT",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "The SELECT statement is used in SQL queries to pull and filter data out of structural database tables.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "sql",
+      "databases"
+    ]
+  },
+  {
+    "id": "datasci_027",
+    "question": "What is the most frequent value that appears within an observed dataset?",
+    "options": [
+      "Mode",
+      "Mean",
+      "Median",
+      "Variance"
+    ],
+    "correctAnswer": "Mode",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "The mode is the value that appears most often in a set of data points.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "statistics"
+    ]
+  },
+  {
+    "id": "datasci_028",
+    "question": "What machine learning field processes and analyzes large amounts of natural human language data?",
+    "options": [
+      "Natural Language Processing (NLP)",
+      "Computer Vision (CV)",
+      "Time Series Analysis",
+      "Reinforcement Control"
+    ],
+    "correctAnswer": "Natural Language Processing (NLP)",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "NLP is the field of artificial intelligence concerned with the interactions between computers and human languages.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "nlp",
+      "ai"
+    ]
+  },
+  {
+    "id": "datasci_029",
+    "question": "What is the common term for an anomalous data observation that lies an abnormal distance from other values in a random sample?",
+    "options": [
+      "Outlier",
+      "Inlier",
+      "Mean variance",
+      "Residual skew"
+    ],
+    "correctAnswer": "Outlier",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "An outlier is an data point that significantly differs from other observations in the same dataset.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "statistics",
+      "data-cleaning"
+    ]
+  },
+  {
+    "id": "datasci_030",
+    "question": "Which Git command saves your local code stage history to a remote repository server like GitHub?",
+    "options": [
+      "git push",
+      "git pull",
+      "git commit",
+      "git clone"
+    ],
+    "correctAnswer": "git push",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "The 'git push' command uploads local repository commits and changes to a remote centralized server upstream.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "git",
+      "version-control"
+    ]
+  },
+  {
+    "id": "datasci_031",
+    "question": "What phase of a data science project focuses on preparing data structures and resolving missing values?",
+    "options": [
+      "Data Preprocessing",
+      "Model Evaluation",
+      "Deployment",
+      "Hyperparameter Tuning"
+    ],
+    "correctAnswer": "Data Preprocessing",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "Data preprocessing involves cleaning, transforming, and formatting raw inputs into structured inputs fit for modeling.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "preprocessing",
+      "workflow"
+    ]
+  },
+  {
+    "id": "datasci_032",
+    "question": "Which distribution curve resembles a perfectly symmetrical bell shape centered around the mean?",
+    "options": [
+      "Normal Distribution",
+      "Uniform Distribution",
+      "Binomial Distribution",
+      "Poisson Distribution"
+    ],
+    "correctAnswer": "Normal Distribution",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "A normal distribution, also known as Gaussian distribution, is a symmetric bell-shaped continuous probability distribution.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "statistics",
+      "distributions"
+    ]
+  },
+  {
+    "id": "datasci_033",
+    "question": "What is the core target of unsupervised machine learning algorithms?",
+    "options": [
+      "Discovering hidden patterns in unlabeled datasets",
+      "Predicting binary categorical labels based on truth sets",
+      "Optimizing iterative step paths in video game rewards",
+      "Fitting a standard straight trendline over coordinates"
+    ],
+    "correctAnswer": "Discovering hidden patterns in unlabeled datasets",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "Unsupervised learning extracts relationships, structures, or cluster partitions from records that don't have explicit output targets.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "unsupervised",
+      "machine-learning"
+    ]
+  },
+  {
+    "id": "datasci_034",
+    "question": "What is the process of extracting raw data from websites using software scripts or automated loops called?",
+    "options": [
+      "Web Scraping",
+      "Data Loading",
+      "Web Hosting",
+      "API Routing"
+    ],
+    "correctAnswer": "Web Scraping",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "Web scraping refers to programmatic extraction of text and source structures from websites for processing locally.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "web-scraping",
+      "data-collection"
+    ]
+  },
+  {
+    "id": "datasci_035",
+    "question": "Which command is used to install third-party Python packages from the Python Package Index (PyPI)?",
+    "options": [
+      "pip install",
+      "python fetch",
+      "npm install",
+      "get package"
+    ],
+    "correctAnswer": "pip install",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "The pip installer tool downloads and resolves open source package libraries for Python environment runtimes.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "python",
+      "pip",
+      "tools"
+    ]
+  },
+  {
+    "id": "datasci_036",
+    "question": "What data type can hold only two possible values, typically denoted as True or False?",
+    "options": [
+      "Boolean",
+      "String",
+      "Integer",
+      "Float"
+    ],
+    "correctAnswer": "Boolean",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "A Boolean variable represents truth values using logical binary values (True/False).",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "data-types",
+      "programming"
+    ]
+  },
+  {
+    "id": "datasci_037",
+    "question": "What is the standard term for transforming data scales into a range between 0 and 1?",
+    "options": [
+      "Min-Max Normalization",
+      "Standardization",
+      "Log Scaling",
+      "Vectorization"
+    ],
+    "correctAnswer": "Min-Max Normalization",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "Min-max normalization linearly scales data records so that all features sit within a restricted bounds of [0, 1].",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "preprocessing",
+      "normalization"
+    ]
+  },
+  {
+    "id": "datasci_038",
+    "question": "Which mathematical operator computes the remainder of a division operation in most data science languages like Python?",
+    "options": [
+      "Modulo (%)",
+      "Division (/)",
+      "Exponentiation (**)",
+      "Floor Division (//)"
+    ],
+    "correctAnswer": "Modulo (%)",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "The modulo operator (%) yields the remainder from the division of the left operand by the right operand.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "math",
+      "programming"
+    ]
+  },
+  {
+    "id": "datasci_039",
+    "question": "What does NoSQL refer to regarding structural database designs?",
+    "options": [
+      "Not Only SQL / Non-relational databases",
+      "No Syntax Query Language",
+      "Network Optimizing System Queue",
+      "Null Objective Secure Layer"
+    ],
+    "correctAnswer": "Not Only SQL / Non-relational databases",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "NoSQL stands for 'Not Only SQL', indicating non-relational database models optimized for unstructured or highly variable modern transactional formats.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "nosql",
+      "databases"
+    ]
+  },
+  {
+    "id": "datasci_040",
+    "question": "Which of the following describes a scenario where an ML model learns the noise in training data too well, failing to generalize to new datasets?",
+    "options": [
+      "Overfitting",
+      "Underfitting",
+      "Regularization",
+      "Feature Selection"
+    ],
+    "correctAnswer": "Overfitting",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "Overfitting happens when a machine learning model fits training records perfectly but cannot predict unseen testing records successfully.",
+    "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5",
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "overfitting",
+      "machine-learning"
+    ]
+  },
+  {
+    "id": "datasci_041",
+    "question": "What statistical concept states that given a sufficiently large sample size, the distribution of the sample means will follow a normal distribution regardless of the population distribution shape?",
+    "options": [
+      "Central Limit Theorem",
+      "Law of Large Numbers",
+      "Bayes' Theorem",
+      "Chebyshev's Inequality"
+    ],
+    "correctAnswer": "Central Limit Theorem",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "The Central Limit Theorem asserts that sample means approach a Gaussian curve as sample sizes expand, independent of original population distributions.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "statistics",
+      "theorems"
+    ]
+  },
+  {
+    "id": "datasci_042",
+    "question": "Which of the following evaluation metrics combines both Precision and Recall into a single value using their harmonic mean?",
+    "options": [
+      "F1-Score",
+      "ROC-AUC",
+      "Mean Squared Error",
+      "R-Squared"
+    ],
+    "correctAnswer": "F1-Score",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "The F1-Score acts as the harmonic average balancing accuracy across both Precision and Recall targets.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "metrics",
+      "classification"
+    ]
+  },
+  {
+    "id": "datasci_043",
+    "question": "What dimensionality reduction method identifies orthogonal vectors of maximal variance across high-dimensional feature spaces?",
+    "options": [
+      "Principal Component Analysis (PCA)",
+      "Linear Discriminant Analysis (LDA)",
+      "K-Nearest Neighbors (KNN)",
+      "t-Distributed Stochastic Neighbor Embedding"
+    ],
+    "correctAnswer": "Principal Component Analysis (PCA)",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "PCA projects complex features into lower dimensions along directions maximizing data dispersion variance.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "pca",
+      "dimensionality-reduction"
+    ]
+  },
+  {
+    "id": "datasci_044",
+    "question": "What optimization algorithm iteratively shifts predictive parameters in the direction of steepest descent to minimize a specified loss function?",
+    "options": [
+      "Gradient Descent",
+      "Backpropagation",
+      "Random Walk",
+      "Newton-Raphson Method"
+    ],
+    "correctAnswer": "Gradient Descent",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "Gradient Descent iteratively optimizes scalar weights by following the negative slope of a loss surface cost function.",
+    "imageUrl": "https://images.unsplash.com/photo-1509228468518-180dd4864904",
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "optimization",
+      "calculus",
+      "gradient-descent"
+    ]
+  },
+  {
+    "id": "datasci_045",
+    "question": "Which index measures the impurity or split quality within a traditional Classification Decision Tree?",
+    "options": [
+      "Gini Impurity",
+      "Log Loss",
+      "Cosine Similarity",
+      "Mahalanobis Distance"
+    ],
+    "correctAnswer": "Gini Impurity",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "Decision trees use Gini Impurity or Information Gain to evaluate how often a randomly chosen element from the set would be incorrectly labeled.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "decision-trees",
+      "machine-learning"
+    ]
+  },
+  {
+    "id": "datasci_046",
+    "question": "What cross-validation setup splits historical training records iteratively into K unique sub-segments to avoid overfitting?",
+    "options": [
+      "K-Fold Cross-Validation",
+      "Stratified Holdout Analysis",
+      "Leave-One-Out Matrix Split",
+      "Time Series Forward Chaining"
+    ],
+    "correctAnswer": "K-Fold Cross-Validation",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "K-Fold Cross-Validation splits samples into K subsets, systematically cycling training and validation loops across every group partition.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "validation",
+      "cross-validation"
+    ]
+  },
+  {
+    "id": "datasci_047",
+    "question": "What problem arises when independent predictive features within a multiple linear regression model are highly correlated with one another?",
+    "options": [
+      "Multicollinearity",
+      "Heteroscedasticity",
+      "Autocorrelation",
+      "Overdispersion"
+    ],
+    "correctAnswer": "Multicollinearity",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "Multicollinearity describes highly correlated predictor features that distort the stability and interpretability of regression coefficients.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "regression",
+      "statistics"
+    ]
+  },
+  {
+    "id": "datasci_048",
+    "question": "Which concept defines the probability of an event occurring given that another specific condition or event has already taken place?",
+    "options": [
+      "Conditional Probability",
+      "Joint Probability",
+      "Marginal Probability",
+      "Posterior Odds"
+    ],
+    "correctAnswer": "Conditional Probability",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "Conditional probability measures the likelihood of an outcome dependent on the occurrence of a separate historical precondition.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "probability",
+      "math"
+    ]
+  },
+  {
+    "id": "datasci_049",
+    "question": "What is an ensemble machine learning model that constructs numerous independent decision trees at training time and outputs their average or majority vote?",
+    "options": [
+      "Random Forest",
+      "Gradient Boosting Machine",
+      "Support Vector Machine",
+      "Logistic Regression"
+    ],
+    "correctAnswer": "Random Forest",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "A Random Forest is a bagging ensemble method that trains diverse sub-trees to reduce overall prediction variance.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "random-forest",
+      "ensemble"
+    ]
+  },
+  {
+    "id": "datasci_050",
+    "question": "Which distribution calculates the probability of a specific number of independent events occurring within a fixed interval of time or space?",
+    "options": [
+      "Poisson Distribution",
+      "Exponential Distribution",
+      "Hypergeometric Distribution",
+      "Beta Distribution"
+    ],
+    "correctAnswer": "Poisson Distribution",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "The Poisson distribution evaluates event counts across designated time windows or defined physical spatial constraints.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "distributions",
+      "probability"
+    ]
+  },
+  {
+    "id": "datasci_051",
+    "question": "What does a P-value lower than the alpha significance level (typically 0.05) imply in hypothesis testing?",
+    "options": [
+      "Reject the null hypothesis",
+      "Fail to reject the null hypothesis",
+      "The experiment is flawed",
+      "The data follows a uniform layout"
+    ],
+    "correctAnswer": "Reject the null hypothesis",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "A small P-value shows that observed samples provide strong statistical evidence to reject the initial baseline null hypothesis.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "statistics",
+      "hypothesis-testing"
+    ]
+  },
+  {
+    "id": "datasci_052",
+    "question": "What regularization framework adds a penalty equivalent to the absolute value of the magnitude of coefficients (L1 penalty) to a linear model?",
+    "options": [
+      "Lasso Regression",
+      "Ridge Regression",
+      "Elastic Net",
+      "Huber Loss Optimization"
+    ],
+    "correctAnswer": "Lasso Regression",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "Lasso (L1) regression adds an absolute coefficient magnitude penalty, which can drive irrelevant feature weights exactly to zero.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "regularization",
+      "lasso"
+    ]
+  },
+  {
+    "id": "datasci_053",
+    "question": "What distance metric computes the straight-line distance between two points in a Euclidean space?",
+    "options": [
+      "Euclidean Distance",
+      "Manhattan Distance",
+      "Minkowski Distance",
+      "Chebyshev Distance"
+    ],
+    "correctAnswer": "Euclidean Distance",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "Euclidean distance computes the direct straight line geometric displacement separating coordinates in spatial planes.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "math",
+      "distance-metrics"
+    ]
+  },
+  {
+    "id": "datasci_054",
+    "question": "Which of the following activation functions outputs values constrained strictly between -1 and 1?",
+    "options": [
+      "Hyperbolic Tangent (tanh)",
+      "Sigmoid",
+      "Rectified Linear Unit (ReLU)",
+      "Softmax"
+    ],
+    "correctAnswer": "Hyperbolic Tangent (tanh)",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "The tanh function maps input activations into a symmetrical zero-centered range bounding between -1 and +1.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "neural-networks",
+      "deep-learning"
+    ]
+  },
+  {
+    "id": "datasci_055",
+    "question": "What technique reduces overfitting in Deep Learning by randomly dropping out neural nodes during training iterations?",
+    "options": [
+      "Dropout",
+      "Batch Normalization",
+      "Weight Initialization",
+      "Gradient Clipping"
+    ],
+    "correctAnswer": "Dropout",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "Dropout breaks co-dependencies between network units by turning off random nodes during each forward and backward update pass.",
+    "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "deep-learning",
+      "regularization"
+    ]
+  },
+  {
+    "id": "datasci_056",
+    "question": "What is the name of the matrix containing true vs predicted values used to judge classification model performance?",
+    "options": [
+      "Confusion Matrix",
+      "Correlation Matrix",
+      "Covariance Matrix",
+      "Hessian Matrix"
+    ],
+    "correctAnswer": "Confusion Matrix",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "A confusion matrix outlines correct vs misclassified counts across True Positives, False Positives, True Negatives, and False Negatives.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "metrics",
+      "confusion-matrix"
+    ]
+  },
+  {
+    "id": "datasci_057",
+    "question": "Which of the following algorithm architectures relies explicitly on conditional probability and Bayes' Theorem with strong independence assumptions?",
+    "options": [
+      "Naive Bayes",
+      "Logistic Regression",
+      "Support Vector Machine",
+      "K-Means"
+    ],
+    "correctAnswer": "Naive Bayes",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "Naive Bayes classifiers assume every input feature is conditionally independent of all other features given the class label.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "naive-bayes",
+      "algorithms"
+    ]
+  },
+  {
+    "id": "datasci_058",
+    "question": "What term defines an error occurring when a model is too simple to capture the underlying structure of the data?",
+    "options": [
+      "High Bias",
+      "High Variance",
+      "Overfitting",
+      "Data Leakage"
+    ],
+    "correctAnswer": "High Bias",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "High bias leads to underfitting, causing models to miss relevant patterns between predictive inputs and targets.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "bias-variance",
+      "machine-learning"
+    ]
+  },
+  {
+    "id": "datasci_059",
+    "question": "What feature transformation extracts text importance by multiplying a term's frequency by its inverse document frequency?",
+    "options": [
+      "TF-IDF",
+      "Word2Vec",
+      "Bag of Words",
+      "One-Hot Text Vectorization"
+    ],
+    "correctAnswer": "TF-IDF",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "TF-IDF scales down common terms while amplifying unique informative keywords across standard corpus collections.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "nlp",
+      "tf-idf"
+    ]
+  },
+  {
+    "id": "datasci_060",
+    "question": "What is the practice of training a pre-existing model architecture on a new, related task known as?",
+    "options": [
+      "Transfer Learning",
+      "Reinforcement Tuning",
+      "Active Sampling",
+      "Meta-Ensembling"
+    ],
+    "correctAnswer": "Transfer Learning",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "Transfer learning leverages knowledge from previously solved complex model tasks to accelerate learning on specialized downstream applications.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "transfer-learning",
+      "deep-learning"
+    ]
+  },
+  {
+    "id": "datasci_061",
+    "question": "What phenomenon occurs in Deep Learning when backpropagated gradients become exponentially small, preventing early layer weights from updating?",
+    "options": [
+      "Vanishing Gradient Problem",
+      "Exploding Gradient Problem",
+      "Dying ReLU Dilemma",
+      "Internal Covariate Shift"
+    ],
+    "correctAnswer": "Vanishing Gradient Problem",
+    "category": "Data Science",
+    "difficulty": "hard",
+    "explanation": "The vanishing gradient problem occurs when deep composite derivation structures yield near-zero fractions, stalling early layer parameter shifts.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "deep-learning",
+      "gradients"
+    ]
+  },
+  {
+    "id": "datasci_062",
+    "question": "Which mathematical matrix format tracks all second-order partial derivatives of a scalar-valued function, crucial for advanced optimization?",
+    "options": [
+      "Hessian Matrix",
+      "Jacobian Matrix",
+      "Covariance Matrix",
+      "Identity Matrix"
+    ],
+    "correctAnswer": "Hessian Matrix",
+    "category": "Data Science",
+    "difficulty": "hard",
+    "explanation": "The Hessian matrix records second-order local curvature characteristics across multidimensional loss function surfaces.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "math",
+      "calculus",
+      "optimization"
+    ]
+  },
+  {
+    "id": "datasci_063",
+    "question": "In Time Series Analysis, how is an autoregressive integrated moving average configuration tracking stationary seasonality written?",
+    "options": [
+      "SARIMA",
+      "ARCH",
+      "GARCH",
+      "VAR"
+    ],
+    "correctAnswer": "SARIMA",
+    "category": "Data Science",
+    "difficulty": "hard",
+    "explanation": "SARIMA adds seasonal tracking parameters to classical ARIMA setups, establishing predictive components over periodic intervals.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "time-series",
+      "forecasting"
+    ]
+  },
+  {
+    "id": "datasci_064",
+    "question": "What deep generative architecture relies on a minimax game played between a Generator and a Discriminator network?",
+    "options": [
+      "Generative Adversarial Network (GAN)",
+      "Variational Autoencoder (VAE)",
+      "Transformers",
+      "Recurrent Neural Network (RNN)"
+    ],
+    "correctAnswer": "Generative Adversarial Network (GAN)",
+    "category": "Data Science",
+    "difficulty": "hard",
+    "explanation": "GANs optimize synthetic data creation by pitting an asset generator against an adversarial verification classification judge.",
+    "imageUrl": "https://images.unsplash.com/photo-1614741118887-7a4ee193a5fa",
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "gan",
+      "generative-ai"
+    ]
+  },
+  {
+    "id": "datasci_065",
+    "question": "Which of the following describes a Support Vector Machine optimization constraint when working with linearly non-separable distributions?",
+    "options": [
+      "Slack Variables",
+      "Elastic Penalties",
+      "Eigenvalue Inversions",
+      "Entropy Bounds"
+    ],
+    "correctAnswer": "Slack Variables",
+    "category": "Data Science",
+    "difficulty": "hard",
+    "explanation": "Slack variables allow soft-margin SVM systems to permit a controlled degree of training misclassification across decision bounds.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "svm",
+      "optimization"
+    ]
+  },
+  {
+    "id": "datasci_066",
+    "question": "What kernel type utilizes infinite-dimensional Hilbert space projections to map complex non-linear classification limits?",
+    "options": [
+      "Radial Basis Function (RBF) Kernel",
+      "Linear Kernel",
+      "Polynomial Kernel",
+      "Sigmoid Kernel"
+    ],
+    "correctAnswer": "Radial Basis Function (RBF) Kernel",
+    "category": "Data Science",
+    "difficulty": "hard",
+    "explanation": "The RBF kernel projects features into infinite-dimensional spaces using Euclidean distances to isolate intricate data classes.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "kernels",
+      "svm"
+    ]
+  },
+  {
+    "id": "datasci_067",
+    "question": "What sampling paradox causes apparent correlations across macroscopic combined populations to reverse when partitioned into subgroups?",
+    "options": [
+      "Simpson's Paradox",
+      "Berkson's Fallacy",
+      "Survivorship Bias",
+      "Gambler's Fallacy"
+    ],
+    "correctAnswer": "Simpson's Paradox",
+    "category": "Data Science",
+    "difficulty": "hard",
+    "explanation": "Simpson's Paradox reveals statistical shifts where aggregate data trends completely change direction when evaluated within underlying sub-cohorts.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "statistics",
+      "paradoxes"
+    ]
+  },
+  {
+    "id": "datasci_068",
+    "question": "Which of the following matrix factorization techniques serves as the mathematical foundation for modern Latent Semantic Analysis in NLP?",
+    "options": [
+      "Singular Value Decomposition (SVD)",
+      "LU Decomposition",
+      "Cholesky Decomposition",
+      "QR Factorization"
+    ],
+    "correctAnswer": "Singular Value Decomposition (SVD)",
+    "category": "Data Science",
+    "difficulty": "hard",
+    "explanation": "SVD factorizes arbitrary matrix layouts into component singular vectors, helping extract latent dimensional topics from document matrices.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "math",
+      "linear-algebra",
+      "svd"
+    ]
+  },
+  {
+    "id": "datasci_069",
+    "question": "What structural unit within Long Short-Term Memory (LSTM) recurrent networks regulates long-term memory updates?",
+    "options": [
+      "Gates (Forget, Input, Output)",
+      "Convolution Filters",
+      "Pooling Modules",
+      "Self-Attention Heads"
+    ],
+    "correctAnswer": "Gates (Forget, Input, Output)",
+    "category": "Data Science",
+    "difficulty": "hard",
+    "explanation": "LSTMs introduce specialized gating loops to selectively append or overwrite vector values across persistent internal cells.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "lstm",
+      "deep-learning"
+    ]
+  },
+  {
+    "id": "datasci_070",
+    "question": "In statistical evaluation, what property describes an estimator whose expected value matches the true underlying population parameter?",
+    "options": [
+      "Unbiasedness",
+      "Consistency",
+      "Efficiency",
+      "Sufficiency"
+    ],
+    "correctAnswer": "Unbiasedness",
+    "category": "Data Science",
+    "difficulty": "hard",
+    "explanation": "An estimator is unbiased when its mathematical expected distribution average equals the target population metric parameter.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "statistics",
+      "estimation"
+    ]
+  },
+  {
+    "id": "datasci_071",
+    "question": "Which evaluation metric represents the area under the curve that plots the True Positive Rate against the False Positive Rate?",
+    "options": [
+      "ROC-AUC",
+      "F1-Score",
+      "Log Loss",
+      "Mean Absolute Error"
+    ],
+    "correctAnswer": "ROC-AUC",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "The ROC-AUC metric measures a classification model's ability to distinguish between classes across various threshold levels.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "metrics",
+      "classification"
+    ]
+  },
+  {
+    "id": "datasci_072",
+    "question": "What technique involves adding noise or modifying training data to create synthetic variations and improve model generalization?",
+    "options": [
+      "Data Augmentation",
+      "Data Normalization",
+      "Data Imputation",
+      "Feature Selection"
+    ],
+    "correctAnswer": "Data Augmentation",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "Data augmentation artificially increases training set size by applying transformations like rotations or crops to existing samples.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "deep-learning",
+      "computer-vision"
+    ]
+  },
+  {
+    "id": "datasci_073",
+    "question": "Which of the following is a density-based clustering algorithm capable of discovering arbitrary-shaped clusters and identifying noise points?",
+    "options": [
+      "DBSCAN",
+      "K-Means",
+      "Hierarchical Clustering",
+      "Gaussian Mixture Models"
+    ],
+    "correctAnswer": "DBSCAN",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "DBSCAN groups closely packed points together while marking low-density regions as outliers or noise.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "clustering",
+      "unsupervised"
+    ]
+  },
+  {
+    "id": "datasci_074",
+    "question": "In neural networks, what is the purpose of an activation function?",
+    "options": [
+      "To introduce non-linearity into the network",
+      "To normalize the input feature vectors",
+      "To compute the loss score at the end of an epoch",
+      "To update weights using gradient vectors"
+    ],
+    "correctAnswer": "To introduce non-linearity into the network",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "Activation functions allow neural networks to learn complex, non-linear relationships instead of acting as simple linear transformations.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "neural-networks",
+      "deep-learning"
+    ]
+  },
+  {
+    "id": "datasci_075",
+    "question": "What type of error occurs when a true null hypothesis is incorrectly rejected in a statistical test?",
+    "options": [
+      "Type I Error",
+      "Type II Error",
+      "Standard Error",
+      "Sampling Error"
+    ],
+    "correctAnswer": "Type I Error",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "A Type I error is a false positive result that occurs when a researcher mistakenly rejects a valid null hypothesis.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "statistics",
+      "hypothesis-testing"
+    ]
+  },
+  {
+    "id": "datasci_076",
+    "question": "Which metric evaluates regression models by computing the average of the absolute differences between predictions and actual targets?",
+    "options": [
+      "Mean Absolute Error (MAE)",
+      "Mean Squared Error (MSE)",
+      "Root Mean Squared Error (RMSE)",
+      "R-Squared"
+    ],
+    "correctAnswer": "Mean Absolute Error (MAE)",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "MAE measures prediction accuracy for continuous variables by averaging absolute residual distances directly.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "metrics",
+      "regression"
+    ]
+  },
+  {
+    "id": "datasci_077",
+    "question": "What index represents the proportion of variance in the dependent variable that is predictable from the independent variables?",
+    "options": [
+      "R-Squared",
+      "Adjusted R-Squared",
+      "Correlation Coefficient",
+      "F-Statistic"
+    ],
+    "correctAnswer": "R-Squared",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "R-squared measures the goodness-of-fit by showing the percentage of target variance explained by model features.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "regression",
+      "statistics"
+    ]
+  },
+  {
+    "id": "datasci_078",
+    "question": "What strategy handles missing data values by replacing them with statistical estimates like the column mean or median?",
+    "options": [
+      "Imputation",
+      "Normalization",
+      "Discretization",
+      "Binaization"
+    ],
+    "correctAnswer": "Imputation",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "Data imputation fills in missing dataset values with substituted statistical measurements to preserve records.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "preprocessing",
+      "data-cleaning"
+    ]
+  },
+  {
+    "id": "datasci_079",
+    "question": "Which architecture pattern uses self-attention mechanisms to process sequential data in parallel and forms the foundation for modern LLMs?",
+    "options": [
+      "Transformer",
+      "Convolutional Neural Network",
+      "Recurrent Neural Network",
+      "Autoencoder"
+    ],
+    "correctAnswer": "Transformer",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "Transformers discard recurrent loops entirely, relying on parallelized self-attention to process text sequences efficiently.",
+    "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485",
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "transformers",
+      "deep-learning",
+      "nlp"
+    ]
+  },
+  {
+    "id": "datasci_080",
+    "question": "What rule gives the percentage of data falling within 1, 2, and 3 standard deviations from the mean in a normal distribution?",
+    "options": [
+      "68-95-99.7 Rule",
+      "80-20 Rule",
+      "Chebyshev's Boundary Rule",
+      "Central Range Law"
+    ],
+    "correctAnswer": "68-95-99.7 Rule",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "The empirical rule states that approximately 68%, 95%, and 99.7% of values lie within 1, 2, and 3 standard deviations of a normal distribution mean.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "statistics",
+      "distributions"
+    ]
+  },
+  {
+    "id": "datasci_081",
+    "question": "Which distance metric is calculated as the sum of absolute differences between coordinate values across dimensions?",
+    "options": [
+      "Manhattan Distance",
+      "Euclidean Distance",
+      "Cosine Distance",
+      "Chebyshev Distance"
+    ],
+    "correctAnswer": "Manhattan Distance",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "Manhattan distance measures spatial spacing by traveling strictly along perpendicular axis grid paths.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "math",
+      "distance-metrics"
+    ]
+  },
+  {
+    "id": "datasci_082",
+    "question": "What statistical test evaluates whether there is a significant difference between the means of two independent groups?",
+    "options": [
+      "Two-Sample T-Test",
+      "Chi-Square Test",
+      "ANOVA Test",
+      "Pearson Test"
+    ],
+    "correctAnswer": "Two-Sample T-Test",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "A two-sample t-test compares average scores across two distinct sampling pools to determine if differences are statistically sound.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "statistics",
+      "hypothesis-testing"
+    ]
+  },
+  {
+    "id": "datasci_083",
+    "question": "Which of the following describes an unsupervised network designed to compress inputs into a bottleneck layer and then reconstruct them?",
+    "options": [
+      "Autoencoder",
+      "Perceptron",
+      "Convolutional Filter Network",
+      "Siamese Network"
+    ],
+    "correctAnswer": "Autoencoder",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "Autoencoders learn compressed dimensionality states by training networks to reconstruct target feature inputs accurately through reduced core bottle necks.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "autoencoders",
+      "deep-learning"
+    ]
+  },
+  {
+    "id": "datasci_084",
+    "question": "What error condition describes a model that performs exceptionally well on training data but poorly on evaluation test sets?",
+    "options": [
+      "High Variance",
+      "High Bias",
+      "Underfitting",
+      "Data Discretization"
+    ],
+    "correctAnswer": "High Variance",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "High variance corresponds closely with overfitting, causing models to mimic transient training noise instead of stable underlying trends.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "bias-variance",
+      "machine-learning"
+    ]
+  },
+  {
+    "id": "datasci_085",
+    "question": "What framework normalizes features by adjusting values to have a mean of 0 and a standard deviation of 1?",
+    "options": [
+      "Standardization (Z-score normalization)",
+      "Min-Max Scaling",
+      "Unit Vector Scaling",
+      "Quantile Transformation"
+    ],
+    "correctAnswer": "Standardization (Z-score normalization)",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "Standardization subtracts feature means and divides by standard deviations to rescale parameters into standard normal score bounds.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "preprocessing",
+      "normalization"
+    ]
+  },
+  {
+    "id": "datasci_086",
+    "question": "Which model architecture utilizes specialized convolutional kernels to scan spatial dimensions, dominating computer vision tasks?",
+    "options": [
+      "Convolutional Neural Network (CNN)",
+      "Recurrent Neural Network (RNN)",
+      "Multilayer Perceptron (MLP)",
+      "Hopfield Network"
+    ],
+    "correctAnswer": "Convolutional Neural Network (CNN)",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "CNNs apply weight-sharing spatial filters across pixel layers, capturing local geometric patterns like lines or edges efficiently.",
+    "imageUrl": "https://images.unsplash.com/photo-1527474305487-b87b222841cc",
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "cnn",
+      "computer-vision",
+      "deep-learning"
+    ]
+  },
+  {
+    "id": "datasci_087",
+    "question": "What component of decision tree training measures the total amount of information or disorder contained within a data distribution slice?",
+    "options": [
+      "Entropy",
+      "Log Loss",
+      "R-Squared",
+      "Standard Deviation"
+    ],
+    "correctAnswer": "Entropy",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "Entropy serves as a core information metric that quantifies the degree of uncertainty or randomness in a given data sample slice.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "decision-trees",
+      "entropy"
+    ]
+  },
+  {
+    "id": "datasci_088",
+    "question": "Which validation pitfall occurs when information from outside the training dataset is inadvertently used to train a machine learning model?",
+    "options": [
+      "Data Leakage",
+      "Data Augmentation",
+      "Multicollinearity",
+      "Stochastic Drift"
+    ],
+    "correctAnswer": "Data Leakage",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "Data leakage occurs when validation metrics or test data insights compromise the training set, causing inflated validation results.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "data-leakage",
+      "validation"
+    ]
+  },
+  {
+    "id": "datasci_089",
+    "question": "What technique fits models iteratively by training each new model instance to fix the prediction errors made by previous instances?",
+    "options": [
+      "Boosting",
+      "Bagging",
+      "Stacking",
+      "Voting"
+    ],
+    "correctAnswer": "Boosting",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "Boosting constructs chain algorithms sequentially, adjusting sample weights to correct errors made by earlier models.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "boosting",
+      "ensemble"
+    ]
+  },
+  {
+    "id": "datasci_090",
+    "question": "Which distribution describes the number of successes in a sequence of independent yes/no experiments, each with its own constant probability?",
+    "options": [
+      "Binomial Distribution",
+      "Normal Distribution",
+      "Poisson Distribution",
+      "Exponential Distribution"
+    ],
+    "correctAnswer": "Binomial Distribution",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "The binomial distribution models success counts across multiple independent trials that have a fixed, binary probability outcome.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "distributions",
+      "probability"
+    ]
+  },
+  {
+    "id": "datasci_091",
+    "question": "What theorem provides a mathematical formula for calculating conditional probabilities by incorporating historical prior knowledge updates?",
+    "options": [
+      "Bayes' Theorem",
+      "Central Limit Theorem",
+      "Markov's Theorem",
+      "Fermat's Theorem"
+    ],
+    "correctAnswer": "Bayes' Theorem",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "Bayes' Theorem updates the probability of a hypothesis as new evidence or data observations become available.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "bayes",
+      "probability",
+      "math"
+    ]
+  },
+  {
+    "id": "datasci_092",
+    "question": "Which optimization framework updates model weights by computing loss gradients across small sub-segments of training data rather than the entire dataset?",
+    "options": [
+      "Mini-Batch Gradient Descent",
+      "Batch Gradient Descent",
+      "Stochastic Gradient Descent",
+      "Newtonian Optimization"
+    ],
+    "correctAnswer": "Mini-Batch Gradient Descent",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "Mini-batch descent balances speed and stability by splitting training records into smaller sub-segments for gradient calculations.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "optimization",
+      "gradient-descent"
+    ]
+  },
+  {
+    "id": "datasci_093",
+    "question": "What issue describes a scenario where an optimization algorithm gets stuck in a sub-optimal basin rather than finding the absolute lowest point on a loss surface?",
+    "options": [
+      "Local Minimum",
+      "Global Minimum",
+      "Saddle Point",
+      "Exploding Gradient"
+    ],
+    "correctAnswer": "Local Minimum",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "A local minimum is a point where the loss function value is lower than that of neighboring states but higher than the absolute global minimum.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "optimization",
+      "gradient-descent"
+    ]
+  },
+  {
+    "id": "datasci_094",
+    "question": "Which hyperparameter optimization approach exhaustively searches through every possible combination within a specified set of parameter values?",
+    "options": [
+      "Grid Search",
+      "Random Search",
+      "Bayesian Optimization",
+      "Genetic Evolution"
+    ],
+    "correctAnswer": "Grid Search",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "Grid search exhaustively evaluates every parameter combination across a specified grid space, which can be computationally expensive.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "hyperparameters",
+      "tuning"
+    ]
+  },
+  {
+    "id": "datasci_095",
+    "question": "What metric scales the ratio of a vector's dot product over the product of their magnitudes, ignoring differences in scale?",
+    "options": [
+      "Cosine Similarity",
+      "Jaccard Index",
+      "Manhattan Proximity",
+      "Pearson Covariance"
+    ],
+    "correctAnswer": "Cosine Similarity",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "Cosine similarity measures the angular alignment between two vectors, making it highly effective for text and high-dimensional document tracking.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "math",
+      "similarity"
+    ]
+  },
+  {
+    "id": "datasci_096",
+    "question": "Which distribution evaluates the probability of time or space separating consecutive independent Poisson process events?",
+    "options": [
+      "Exponential Distribution",
+      "Geometric Distribution",
+      "Gamma Distribution",
+      "Log-Normal Distribution"
+    ],
+    "correctAnswer": "Exponential Distribution",
+    "category": "Data Science",
+    "difficulty": "hard",
+    "explanation": "The exponential distribution describes the time intervals between continuous, independent Poisson events.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "distributions",
+      "probability"
+    ]
+  },
+  {
+    "id": "datasci_097",
+    "question": "What statistical test checks for relationships or dependency associations between two categorical fields using a contingency table?",
+    "options": [
+      "Chi-Square Test of Independence",
+      "Student T-Test",
+      "F-Test",
+      "Mann-Whitney U Test"
+    ],
+    "correctAnswer": "Chi-Square Test of Independence",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "The Chi-Square test compares observed categorical distributions against expected distributions to check for independence.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "statistics",
+      "hypothesis-testing"
+    ]
+  },
+  {
+    "id": "datasci_098",
+    "question": "What regularization technique penalizes linear models using a weighted combination of both L1 and L2 regularizations?",
+    "options": [
+      "Elastic Net",
+      "Ridge Regularization",
+      "Lasso Optimization",
+      "Dropout Scaling"
+    ],
+    "correctAnswer": "Elastic Net",
+    "category": "Data Science",
+    "difficulty": "hard",
+    "explanation": "Elastic Net linearly combines both L1 (Lasso) and L2 (Ridge) penalties to handle highly correlated feature spaces.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "regularization",
+      "elastic-net"
+    ]
+  },
+  {
+    "id": "datasci_099",
+    "question": "What problem occurs when the variance of the errors or residuals in a regression model is not constant across all levels of the independent variables?",
+    "options": [
+      "Heteroscedasticity",
+      "Homoscedasticity",
+      "Multicollinearity",
+      "Autocorrelation"
+    ],
+    "correctAnswer": "Heteroscedasticity",
+    "category": "Data Science",
+    "difficulty": "hard",
+    "explanation": "Heteroscedasticity occurs when error terms spread unevenly across independent feature values, which violates key linear regression assumptions.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "regression",
+      "statistics"
+    ]
+  },
+  {
+    "id": "datasci_100",
+    "question": "Which of the following describes a validation framework that trains and evaluates time-series models while respecting chronologically ordered data?",
+    "options": [
+      "Time Series Forward-Chaining (Rolling Window)",
+      "Stratified K-Fold Cross Validation",
+      "Random Holdout Cross-Validation",
+      "Leave-One-Out Cross-Validation"
+    ],
+    "correctAnswer": "Time Series Forward-Chaining (Rolling Window)",
+    "category": "Data Science",
+    "difficulty": "hard",
+    "explanation": "Forward-chaining uses rolling historical intervals to prevent future data from leaking into past evaluation loops.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "time-series",
+      "validation"
+    ]
+  },
+  {
+    "id": "datasci_101",
+    "question": "What is the primary objective of a Support Vector Machine (SVM) classification algorithm?",
+    "options": [
+      "To find the hyperplane that maximizes the margin between two classes of data points",
+      "To group data points iteratively around K randomly initialized centroids",
+      "To calculate the conditional probability of features using Bayes' Theorem",
+      "To fit a continuous straight trendline minimizing the mean squared error residuals"
+    ],
+    "correctAnswer": "To find the hyperplane that maximizes the margin between two classes of data points",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "SVM aims to identify a decision boundary (hyperplane) in an N-dimensional space that separates data points into distinct classes while maximizing the geometric distance to the nearest support vectors.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "svm",
+      "machine-learning",
+      "classification"
+    ]
+  },
+  {
+    "id": "datasci_102",
+    "question": "Which regularization framework adds a penalty equivalent to the square of the magnitude of coefficients (L2 penalty) to a linear model?",
+    "options": [
+      "Ridge Regression",
+      "Lasso Regression",
+      "Elastic Net",
+      "Stepwise Selection"
+    ],
+    "correctAnswer": "Ridge Regression",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "Ridge Regression applies an L2 penalty, squaring the parameter weights within the loss function to shrink coefficients close to zero, effectively managing multicollinearity.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "regularization",
+      "ridge",
+      "regression"
+    ]
+  },
+  {
+    "id": "datasci_103",
+    "question": "In Natural Language Processing (NLP), what is the process of reducing a word to its base or dictionary form (e.g., 'running', 'ran' -> 'run') using vocabulary and morphological analysis called?",
+    "options": [
+      "Lemmatization",
+      "Stemming",
+      "Tokenization",
+      "Part-of-Speech Tagging"
+    ],
+    "correctAnswer": "Lemmatization",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "Lemmatization uses vocabulary databases and full morphological analysis to return accurate base dictionary forms (lemmas), whereas stemming simply chops off word endings.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "nlp",
+      "text-processing"
+    ]
+  },
+  {
+    "id": "datasci_104",
+    "question": "Which machine learning algorithm uses a distance metric to classify an unseen data point based on the majority class of its closest training examples?",
+    "options": [
+      "K-Nearest Neighbors (KNN)",
+      "K-Means",
+      "Random Forest",
+      "Linear Discriminant Analysis"
+    ],
+    "correctAnswer": "K-Nearest Neighbors (KNN)",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "KNN is a lazy learning instance-based algorithm that classifies points by computing geographic or feature distance to nearby labeled training instances.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "knn",
+      "algorithms"
+    ]
+  },
+  {
+    "id": "datasci_105",
+    "question": "What mathematical function squashes a real-valued number into a probability range between 0 and 1, heavily used in Logistic Regression?",
+    "options": [
+      "Sigmoid Function",
+      "ReLU Function",
+      "Tanh Function",
+      "Identity Function"
+    ],
+    "correctAnswer": "Sigmoid Function",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "The standard sigmoid logistic function curves an input spectrum into an asymptotic scale from 0 to 1, facilitating binary probability transformations.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "math",
+      "logistic-regression",
+      "activation"
+    ]
+  },
+  {
+    "id": "datasci_106",
+    "question": "What ensemble learning technique builds multiple independent decision trees using bootstrap datasets and aggregates their outputs to reduce model variance?",
+    "options": [
+      "Bagging (Bootstrap Aggregating)",
+      "Boosting",
+      "Stacking",
+      "Gradient Descent"
+    ],
+    "correctAnswer": "Bagging (Bootstrap Aggregating)",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "Bagging generates parallel subsets with replacement from the initial data pool, fitting standalone predictors to average out variance down the line.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "bagging",
+      "ensemble"
+    ]
+  },
+  {
+    "id": "datasci_107",
+    "question": "Which measurement tracks the average of the squared differences between predicted continuous values and actual targets, penalizing larger errors severely?",
+    "options": [
+      "Mean Squared Error (MSE)",
+      "Mean Absolute Error (MAE)",
+      "Mean Absolute Percentage Error (MAPE)",
+      "R-Squared"
+    ],
+    "correctAnswer": "Mean Squared Error (MSE)",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "MSE squares every residual distance value before taking the average, making it sensitive to prominent outliers.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "metrics",
+      "regression"
+    ]
+  },
+  {
+    "id": "datasci_108",
+    "question": "What matrix tracking strategy outlines the intersection overlap between predictive tags and ground-truth values to dissect structural misclassifications?",
+    "options": [
+      "Confusion Matrix",
+      "Inversion Matrix",
+      "Covariance Layout",
+      "Correlation Mapping"
+    ],
+    "correctAnswer": "Confusion Matrix",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "The confusion matrix layout groups outcomes across true positives, false positives, true negatives, and false negatives to evaluate performance.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "classification",
+      "metrics"
+    ]
+  },
+  {
+    "id": "datasci_109",
+    "question": "What statistical error trap describes inadvertently drawing predictive test signal insights back into initial training steps, producing artificial performance inflation?",
+    "options": [
+      "Data Leakage",
+      "Target Imbalance",
+      "Feature Normalization",
+      "Stochastic Optimization"
+    ],
+    "correctAnswer": "Data Leakage",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "Data leakage introduces outside target factors directly into training sets, rendering localized validation metrics unrealistically optimistic.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "validation",
+      "data-cleaning"
+    ]
+  },
+  {
+    "id": "datasci_110",
+    "question": "Which clustering evaluation index measures how close each point in one cluster is to points in the neighboring clusters, mapping outputs between -1 and +1?",
+    "options": [
+      "Silhouette Coefficient",
+      "Inertia Score",
+      "Adjusted Rand Index",
+      "Gini Coefficient"
+    ],
+    "correctAnswer": "Silhouette Coefficient",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "The Silhouette Coefficient validates cluster separation. Higher values (+1) show clean, distant groupings, while negative scores indicate overlapping data assignments.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "clustering",
+      "metrics"
+    ]
+  },
+  {
+    "id": "datasci_111",
+    "question": "What optimization methodology minimizes a complex global loss field by updating parameter coefficients directly after computing the loss for every individual sample sequentially?",
+    "options": [
+      "Stochastic Gradient Descent (SGD)",
+      "Batch Gradient Descent",
+      "Newton-Raphson Optimization",
+      "Levenberg-Marquardt Tuning"
+    ],
+    "correctAnswer": "Stochastic Gradient Descent (SGD)",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "SGD updates weights instantly based on a single randomly selected instance's error gradient, introducing noise that helps escape local minima.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "optimization",
+      "gradient-descent"
+    ]
+  },
+  {
+    "id": "datasci_112",
+    "question": "Which database structure constraint refers to a field in one table that links to a unique primary key field located in a separate table?",
+    "options": [
+      "Foreign Key",
+      "Primary Key",
+      "Unique Constraints",
+      "Index Signature"
+    ],
+    "correctAnswer": "Foreign Key",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "A foreign key establishes a link between tables, ensuring referential integrity by pointing to a primary key in another table.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "sql",
+      "databases"
+    ]
+  },
+  {
+    "id": "datasci_113",
+    "question": "What evaluation framework handles target variable skew by sampling subsets such that training and validation folds keep identical label class ratios?",
+    "options": [
+      "Stratified K-Fold Cross-Validation",
+      "Leave-One-Out Method",
+      "Random Allocation Holdout",
+      "Forward Chaining Splits"
+    ],
+    "correctAnswer": "Stratified K-Fold Cross-Validation",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "Stratification balances categorical label splits across every generated training sub-fold, which is crucial for handling highly imbalanced target groups.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "validation",
+      "cross-validation"
+    ]
+  },
+  {
+    "id": "datasci_114",
+    "question": "In neural network structures, what activation function handles negative inputs by zeroing them out, while passing positive inputs through directly?",
+    "options": [
+      "Rectified Linear Unit (ReLU)",
+      "Sigmoid Curve",
+      "Softmax Array",
+      "Hyperbolic Tangent"
+    ],
+    "correctAnswer": "Rectified Linear Unit (ReLU)",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "ReLU replaces negative activation values with exactly zero, which speeds up network convergence and helps mitigate vanishing gradient issues.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "deep-learning",
+      "activation"
+    ]
+  },
+  {
+    "id": "datasci_115",
+    "question": "Which data extraction metric divides the count of true positive classifications over the aggregate total of all predicted positive outcomes?",
+    "options": [
+      "Precision",
+      "Recall",
+      "F1-Score",
+      "Specificity"
+    ],
+    "correctAnswer": "Precision",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "Precision acts as a quality metric, calculating the proportion of correct positive predictions out of all instances predicted as positive.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "metrics",
+      "classification"
+    ]
+  },
+  {
+    "id": "datasci_116",
+    "question": "What anomaly state describes an ML model learning training noise so extensively that it fails to generalize to unseen test records?",
+    "options": [
+      "Overfitting",
+      "Underfitting",
+      "High Bias Bias",
+      "Stochastic Lag"
+    ],
+    "correctAnswer": "Overfitting",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "Overfitting occurs when a complex model fits the training data too closely, capturing random noise and hurting its out-of-sample performance.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "machine-learning",
+      "validation"
+    ]
+  },
+  {
+    "id": "datasci_117",
+    "question": "What structural layer in a Convolutional Neural Network (CNN) reduces spatial dimensions by extracting the maximum value from localized filter windows?",
+    "options": [
+      "Max Pooling Layer",
+      "Fully Connected Layer",
+      "Stride Padding Block",
+      "Dilated Convolution Stage"
+    ],
+    "correctAnswer": "Max Pooling Layer",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "Max pooling downsamples spatial matrices by retaining only the highest activation values within a moving grid window, reducing computational overhead and parameters.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "cnn",
+      "deep-learning"
+    ]
+  },
+  {
+    "id": "datasci_118",
+    "question": "Which of the following describes a scenario where an analyst continuously runs statistical tests on multiple random combinations until an appealing p-value emerges?",
+    "options": [
+      "P-hacking (Data Dredging)",
+      "Cross-Validation",
+      "Stratified Sampling",
+      "Feature Scaling"
+    ],
+    "correctAnswer": "P-hacking (Data Dredging)",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "P-hacking involves manipulating or filtering data combinations until non-significant results artificially present a low p-value, undermining scientific validity.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "statistics",
+      "ethics"
+    ]
+  },
+  {
+    "id": "datasci_119",
+    "question": "What distance metric evaluates vector orientation similarity by computing the dot product of two vectors divided by the product of their magnitudes?",
+    "options": [
+      "Cosine Similarity",
+      "Jaccard Similarity",
+      "Euclidean Proximity",
+      "Manhattan Metric"
+    ],
+    "correctAnswer": "Cosine Similarity",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "Cosine similarity measures the angle between two multi-dimensional vectors, ignoring magnitude differences, which is ideal for comparing text embeddings.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "math",
+      "vector-embeddings"
+    ]
+  },
+  {
+    "id": "datasci_120",
+    "question": "What dimensionality reduction transformation preserves local neighborhoods by mapping high-dimensional structures into non-linear, low-dimensional coordinate fields?",
+    "options": [
+      "t-Distributed Stochastic Neighbor Embedding (t-SNE)",
+      "Principal Component Analysis (PCA)",
+      "Linear Discriminant Analysis (LDA)",
+      "Singular Value Factorization"
+    ],
+    "correctAnswer": "t-Distributed Stochastic Neighbor Embedding (t-SNE)",
+    "category": "Data Science",
+    "difficulty": "hard",
+    "explanation": "t-SNE maps high-dimensional points into 2D or 3D spaces by matching local probability distributions, which is highly useful for visualizing complex data clusters.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "dimensionality-reduction",
+      "visualization"
+    ]
+  },
+  {
+    "id": "datasci_121",
+    "question": "Which of the following database query mechanisms groups multiple target records into a single consolidated row summary value?",
+    "options": [
+      "GROUP BY",
+      "ORDER BY",
+      "MERGE JOIN",
+      "PARTITION TABLE"
+    ],
+    "correctAnswer": "GROUP BY",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "The GROUP BY statement partitions rows with matching field values into summary blocks, often combined with aggregate functions like SUM or AVG.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "sql",
+      "databases"
+    ]
+  },
+  {
+    "id": "datasci_122",
+    "question": "What data preprocessing step transforms a continuous variable into discrete interval bins?",
+    "options": [
+      "Discretization (Binning)",
+      "Normalization",
+      "Standardization",
+      "One-Hot Encoding"
+    ],
+    "correctAnswer": "Discretization (Binning)",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "Discretization transforms continuous scale values into discrete interval groups or categorical categories.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "preprocessing",
+      "data-cleaning"
+    ]
+  },
+  {
+    "id": "datasci_123",
+    "question": "What cross-validation method subsets data by using a single observation as the test set and remaining points as the training pool, repeating across every sample?",
+    "options": [
+      "Leave-One-Out Cross-Validation (LOOCV)",
+      "K-Fold Cross-Validation",
+      "Stratified Shuffle Split",
+      "Bootstrapping Matrix"
+    ],
+    "correctAnswer": "Leave-One-Out Cross-Validation (LOOCV)",
+    "category": "Data Science",
+    "difficulty": "hard",
+    "explanation": "LOOCV is an extreme variant of K-Fold validation where K equals total observations (N). Each point is used once as a solo validation tester.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "cross-validation",
+      "validation"
+    ]
+  },
+  {
+    "id": "datasci_124",
+    "question": "Which of the following evaluation curves plots the True Positive Rate against the False Positive Rate across various classification thresholds?",
+    "options": [
+      "ROC Curve",
+      "Precision-Recall Curve",
+      "Learning Curve",
+      "Residual Distribution Plot"
+    ],
+    "correctAnswer": "ROC Curve",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "The Receiver Operating Characteristic (ROC) curve evaluates classification performance across different thresholds by comparing sensitivity against false positive rates.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "metrics",
+      "classification"
+    ]
+  },
+  {
+    "id": "datasci_125",
+    "question": "What metric represents the total error variability explained by a multiple linear regression model compared to a baseline horizontal average mean reference?",
+    "options": [
+      "R-Squared (Coefficient of Determination)",
+      "Mean Absolute Percentage Error",
+      "Adjusted Chi Variance",
+      "Pearson Covariance Score"
+    ],
+    "correctAnswer": "R-Squared (Coefficient of Determination)",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "R-squared measures the proportion of target variance explained by the model features relative to a simple mean baseline.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "regression",
+      "metrics"
+    ]
+  },
+  {
+    "id": "datasci_126",
+    "question": "What mathematical strategy prevents gradient explosion in deep neural network structures by establishing an absolute maximum upper threshold for computed gradients?",
+    "options": [
+      "Gradient Clipping",
+      "Batch Normalization",
+      "Weight Initialization",
+      "Dropout Scaling"
+    ],
+    "correctAnswer": "Gradient Clipping",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "Gradient clipping scales down large parameter gradients when they exceed a specified threshold, preventing destabilizing updates during backpropagation.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "deep-learning",
+      "optimization"
+    ]
+  },
+  {
+    "id": "datasci_127",
+    "question": "Which of the following text transformation matrices strips out sentence sequence ordering completely, mapping only raw word token frequencies?",
+    "options": [
+      "Bag-of-Words (BoW)",
+      "Word2Vec Embeddings",
+      "BERT Context Tokens",
+      "TF-IDF Scaling Matrix"
+    ],
+    "correctAnswer": "Bag-of-Words (BoW)",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "The Bag-of-Words model simplifies documents by tracking word frequencies while ignoring grammar and word order.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "nlp",
+      "text-processing"
+    ]
+  },
+  {
+    "id": "datasci_128",
+    "question": "What statistical distribution tracks independent binary trials where the probability of success changes on every single draw because items are not replaced?",
+    "options": [
+      "Hypergeometric Distribution",
+      "Binomial Distribution",
+      "Poisson Distribution",
+      "Geometric Distribution"
+    ],
+    "correctAnswer": "Hypergeometric Distribution",
+    "category": "Data Science",
+    "difficulty": "hard",
+    "explanation": "The hypergeometric distribution models success counts across sequential selections from a finite pool without replacement, meaning the probability changes with each draw.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "distributions",
+      "math"
+    ]
+  },
+  {
+    "id": "datasci_129",
+    "question": "In a multiple linear regression model, what condition occurs when error terms or residuals are correlated with each other over time or space?",
+    "options": [
+      "Autocorrelation",
+      "Heteroscedasticity",
+      "Multicollinearity",
+      "Overdispersion"
+    ],
+    "correctAnswer": "Autocorrelation",
+    "category": "Data Science",
+    "difficulty": "hard",
+    "explanation": "Autocorrelation occurs when errors at one point in time are correlated with errors from a previous point, which violates independence assumptions in time-series models.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "regression",
+      "time-series"
+    ]
+  },
+  {
+    "id": "datasci_130",
+    "question": "Which of the following is an iterative clustering algorithm that assigns data points to clusters based on distance and refines cluster centers until convergence?",
+    "options": [
+      "K-Means Clustering",
+      "DBSCAN",
+      "Agglomerative Hierarchical Grouping",
+      "Principal Component Partitioning"
+    ],
+    "correctAnswer": "K-Means Clustering",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "K-Means iteratively updates K cluster centroids by assigning points to their nearest center and recalculating the mean position of each cluster.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "clustering",
+      "unsupervised"
+    ]
+  },
+  {
+    "id": "datasci_131",
+    "question": "What statistical paradox describes an apparent correlation in a combined population reversing direction when the data is split into subgroups?",
+    "options": [
+      "Simpson's Paradox",
+      "Berkson's Fallacy",
+      "Survivorship Bias",
+      "Gambler's Dilemma"
+    ],
+    "correctAnswer": "Simpson's Paradox",
+    "category": "Data Science",
+    "difficulty": "hard",
+    "explanation": "Simpson's Paradox occurs when a trend appearing in combined datasets reverses or disappears when the data is partitioned into specific sub-cohorts.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "statistics",
+      "paradoxes"
+    ]
+  },
+  {
+    "id": "datasci_132",
+    "question": "Which evaluation metric balances Precision and Recall by calculating their harmonic mean?",
+    "options": [
+      "F1-Score",
+      "ROC-AUC",
+      "Accuracy Index",
+      "Logarithmic Loss"
+    ],
+    "correctAnswer": "F1-Score",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "The F1-Score uses the harmonic mean instead of a simple average to provide a balanced evaluation metric for imbalanced classes.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "metrics",
+      "classification"
+    ]
+  },
+  {
+    "id": "datasci_133",
+    "question": "What structural unit in an LSTM recurrent network determines which information from the cell state should be discarded?",
+    "options": [
+      "Forget Gate",
+      "Input Gate",
+      "Output Gate",
+      "Update Block"
+    ],
+    "correctAnswer": "Forget Gate",
+    "category": "Data Science",
+    "difficulty": "hard",
+    "explanation": "The forget gate within an LSTM cell applies a sigmoid function to filter out irrelevant information from long-term memory.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "deep-learning",
+      "lstm"
+    ]
+  },
+  {
+    "id": "datasci_134",
+    "question": "Which database optimization feature creates structured index arrays to speed up row retrieval without scanning the entire table?",
+    "options": [
+      "Index",
+      "View Table",
+      "Primary Key constraint",
+      "Foreign Key link"
+    ],
+    "correctAnswer": "Index",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "A database index creates a lookup structure that speeds up query execution by avoiding full table scans.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "sql",
+      "databases"
+    ]
+  },
+  {
+    "id": "datasci_135",
+    "question": "What sampling method adjusts for highly imbalanced datasets by generating synthetic examples of the minority class?",
+    "options": [
+      "SMOTE (Synthetic Minority Over-sampling Technique)",
+      "Random Undersampling",
+      "Stratification Folds",
+      "Cluster Truncation"
+    ],
+    "correctAnswer": "SMOTE (Synthetic Minority Over-sampling Technique)",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "SMOTE balances class distributions by interpolating between existing minority instances to create synthetic training examples.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "preprocessing",
+      "imbalanced-data"
+    ]
+  },
+  {
+    "id": "datasci_136",
+    "question": "What statistical test evaluates whether the variances of two or more populations are equal, serving as a key assumption check before running an ANOVA?",
+    "options": [
+      "Levene's Test",
+      "Student's T-Test",
+      "Chi-Square Variant",
+      "Mann-Whitney Selection"
+    ],
+    "correctAnswer": "Levene's Test",
+    "category": "Data Science",
+    "difficulty": "hard",
+    "explanation": "Levene's test checks for homoscedasticity (homogeneity of variances) across independent groups before running parametric variance analyses.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "statistics",
+      "hypothesis-testing"
+    ]
+  },
+  {
+    "id": "datasci_137",
+    "question": "What neural network training issue occurs when early layer weights receive near-zero updates, stalling model optimization?",
+    "options": [
+      "Vanishing Gradient Problem",
+      "Exploding Gradient Issue",
+      "Dying ReLU Activation",
+      "Covariate Shift"
+    ],
+    "correctAnswer": "Vanishing Gradient Problem",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "The vanishing gradient problem occurs when fractional derivative updates compound across deep network layers, causing early layer weights to plateau.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "deep-learning",
+      "gradients"
+    ]
+  },
+  {
+    "id": "datasci_138",
+    "question": "Which of the following describes a scenario where an ML model learns simple patterns but fails to capture the underlying data structure?",
+    "options": [
+      "Underfitting (High Bias)",
+      "Overfitting (High Variance)",
+      "Target Leakage",
+      "Multicollinearity"
+    ],
+    "correctAnswer": "Underfitting (High Bias)",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "Underfitting occurs when a model is too simple to capture the underlying relationships, leading to high training and validation errors.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "machine-learning",
+      "bias-variance"
+    ]
+  },
+  {
+    "id": "datasci_139",
+    "question": "What matrix transformation breaks a matrix down into singular vectors and values, forming the basis for latent text parsing?",
+    "options": [
+      "Singular Value Decomposition (SVD)",
+      "LU Decomposition Matrix",
+      "Cholesky Factorization",
+      "QR Matrix Transformation"
+    ],
+    "correctAnswer": "Singular Value Decomposition (SVD)",
+    "category": "Data Science",
+    "difficulty": "hard",
+    "explanation": "SVD decomposes matrices into primary feature dimensions, which is useful for text feature reduction and semantic analysis.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "math",
+      "linear-algebra"
+    ]
+  },
+  {
+    "id": "datasci_140",
+    "question": "What data transformation scales values linearly to fit within a specific range, typically between 0 and 1?",
+    "options": [
+      "Min-Max Normalization",
+      "Z-Score Standardization",
+      "Logarithmic Rescaling",
+      "Unit Vector Projection"
+    ],
+    "correctAnswer": "Min-Max Normalization",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "Min-Max Normalization maps numerical features into a [0, 1] range based on the minimum and maximum values in the column.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "preprocessing",
+      "normalization"
+    ]
+  },
+  {
+    "id": "datasci_141",
+    "question": "What deep generative architecture relies on a game-theoretic competition between a Generator and a Discriminator network?",
+    "options": [
+      "Generative Adversarial Network (GAN)",
+      "Variational Autoencoder (VAE)",
+      "Transformer Layer Matrix",
+      "Recurrent Neural Network"
+    ],
+    "correctAnswer": "Generative Adversarial Network (GAN)",
+    "category": "Data Science",
+    "difficulty": "hard",
+    "explanation": "GANs pair a generator that produces realistic synthetic data with a discriminator that tries to distinguish it from real data.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "gan",
+      "generative-ai"
+    ]
+  },
+  {
+    "id": "datasci_142",
+    "question": "Which evaluation metric measures classification performance by penalizing confident wrong answers logarithmically?",
+    "options": [
+      "Log Loss (Cross-Entropy Loss)",
+      "F1-Score Matrix",
+      "ROC-AUC Boundary",
+      "Mean Absolute Error"
+    ],
+    "correctAnswer": "Log Loss (Cross-Entropy Loss)",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "Log Loss evaluates probabilistic predictions by penalizing confident incorrect classifications exponentially.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "metrics",
+      "loss-functions"
+    ]
+  },
+  {
+    "id": "datasci_143",
+    "question": "What neural network regularizer randomly deactivates a fraction of neurons during each training step to prevent co-adaptation?",
+    "options": [
+      "Dropout Layer",
+      "Batch Normalization",
+      "Weight Initialization",
+      "L1/L2 Kernel Penalty"
+    ],
+    "correctAnswer": "Dropout Layer",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "Dropout randomly turns off network nodes during training iterations, forcing neurons to learn redundant, robust features.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "deep-learning",
+      "regularization"
+    ]
+  },
+  {
+    "id": "datasci_144",
+    "question": "Which metric evaluates the impurity or split quality of nodes within a Classification Decision Tree?",
+    "options": [
+      "Gini Impurity",
+      "Mean Squared Error",
+      "R-Squared Error",
+      "Cosine Displacement"
+    ],
+    "correctAnswer": "Gini Impurity",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "Gini Impurity measures how often a randomly chosen element from a node would be incorrectly labeled if categorized according to the label distribution.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "decision-trees",
+      "machine-learning"
+    ]
+  },
+  {
+    "id": "datasci_145",
+    "question": "What condition occurs when multi-class predictors are highly correlated with each other in a linear model?",
+    "options": [
+      "Multicollinearity",
+      "Heteroscedasticity",
+      "Autocorrelation",
+      "Overdispersion"
+    ],
+    "correctAnswer": "Multicollinearity",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "Multicollinearity happens when features share strong linear dependencies, which increases coefficient variance and reduces model interpretability.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "regression",
+      "statistics"
+    ]
+  },
+  {
+    "id": "datasci_146",
+    "question": "Which text representation technique weights terms based on their frequency within a document relative to their frequency across the entire corpus?",
+    "options": [
+      "TF-IDF",
+      "Bag-of-Words",
+      "Word2Vec Embeddings",
+      "One-Hot Vector Arrays"
+    ],
+    "correctAnswer": "TF-IDF",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "TF-IDF downweights common words that appear across many documents, highlighting unique terms that carry more descriptive information.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "nlp",
+      "tf-idf"
+    ]
+  },
+  {
+    "id": "datasci_147",
+    "question": "What optimization technique iteratively updates model parameters by moving in the direction of steepest descent along the loss function curve?",
+    "options": [
+      "Gradient Descent",
+      "Backpropagation",
+      "Random Walk",
+      "Newtonian Estimation"
+    ],
+    "correctAnswer": "Gradient Descent",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "Gradient Descent updates model weights incrementally using negative error gradients to locate the local minimum of a loss surface.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "optimization",
+      "gradient-descent"
+    ]
+  },
+  {
+    "id": "datasci_148",
+    "question": "What deep learning technique accelerates training by re-centering and re-scaling layer inputs within each mini-batch?",
+    "options": [
+      "Batch Normalization",
+      "Gradient Clipping",
+      "Dropout Scaling",
+      "Weight Initialization"
+    ],
+    "correctAnswer": "Batch Normalization",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "Batch Normalization stabilizes and speeds up training by normalizing layer activations within each mini-batch step.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "deep-learning",
+      "optimization"
+    ]
+  },
+  {
+    "id": "datasci_149",
+    "question": "What dimensionality reduction method projects features along orthogonal axes that maximize the variance of the data?",
+    "options": [
+      "Principal Component Analysis (PCA)",
+      "Linear Discriminant Analysis (LDA)",
+      "t-SNE Mapping",
+      "Singular Value Decomposition"
+    ],
+    "correctAnswer": "Principal Component Analysis (PCA)",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "PCA converts correlated variables into uncorrelated principal components by maximizing the data's variance projection.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "pca",
+      "dimensionality-reduction"
+    ]
+  },
+  {
+    "id": "datasci_150",
+    "question": "What matrix tracks all second-order partial derivatives of a function, indicating local surface curvature?",
+    "options": [
+      "Hessian Matrix",
+      "Jacobian Matrix",
+      "Covariance Matrix",
+      "Identity Layout"
+    ],
+    "correctAnswer": "Hessian Matrix",
+    "category": "Data Science",
+    "difficulty": "hard",
+    "explanation": "The Hessian matrix contains second-order partial derivatives, providing curvature information that helps optimize complex loss landscapes.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "math",
+      "calculus",
+      "optimization"
+    ]
+  },
+  {
+    "id": "datasci_151",
+    "question": "Which of the following describes a scenario where information from a validation or test set is inadvertently exposed to the model during training?",
+    "options": [
+      "Data Leakage",
+      "Data Augmentation",
+      "Multicollinearity",
+      "Stochastic Drift"
+    ],
+    "correctAnswer": "Data Leakage",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "Data leakage happens when features that include future or target information are included in the training data, leading to over-optimistic performance metrics.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "data-leakage",
+      "validation"
+    ]
+  },
+  {
+    "id": "datasci_152",
+    "question": "What statistical concept states that the sampling distribution of the mean approaches a normal distribution as sample size grows, regardless of the population distribution?",
+    "options": [
+      "Central Limit Theorem",
+      "Law of Large Numbers",
+      "Bayes' Theorem",
+      "Chebyshev's Inequality"
+    ],
+    "correctAnswer": "Central Limit Theorem",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "The Central Limit Theorem allows us to assume normal sampling distributions for large sample sizes (typically N > 30), even when the underlying data is skewed.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "statistics",
+      "theorems"
+    ]
+  },
+  {
+    "id": "datasci_153",
+    "question": "Which of the following activation functions outputs values centered around zero, ranging between -1 and 1?",
+    "options": [
+      "Hyperbolic Tangent (tanh)",
+      "Sigmoid",
+      "Rectified Linear Unit (ReLU)",
+      "Softmax"
+    ],
+    "correctAnswer": "Hyperbolic Tangent (tanh)",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "The tanh function maps input activations into a zero-centered scale between -1 and 1, which often helps speed up convergence compared to the sigmoid function.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "neural-networks",
+      "deep-learning"
+    ]
+  },
+  {
+    "id": "datasci_154",
+    "question": "What type of error is committed when a statistical hypothesis test fails to reject a false null hypothesis?",
+    "options": [
+      "Type II Error",
+      "Type I Error",
+      "Standard Variance Error",
+      "Sampling Divergence Error"
+    ],
+    "correctAnswer": "Type II Error",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "A Type II error is a false negative result that happens when a test fails to detect a significant effect or relationship that actually exists.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "statistics",
+      "hypothesis-testing"
+    ]
+  },
+  {
+    "id": "datasci_155",
+    "question": "What kernel type projects features into an infinite-dimensional Hilbert space to handle non-linearly separable data distributions?",
+    "options": [
+      "Radial Basis Function (RBF) Kernel",
+      "Linear Kernel Matrix",
+      "Polynomial Kernel Split",
+      "Sigmoid Model Kernel"
+    ],
+    "correctAnswer": "Radial Basis Function (RBF) Kernel",
+    "category": "Data Science",
+    "difficulty": "hard",
+    "explanation": "The RBF (Gaussian) kernel handles complex, non-linear boundaries by implicitly mapping features into infinite dimensions based on distance metrics.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "kernels",
+      "svm"
+    ]
+  },
+  {
+    "id": "datasci_156",
+    "question": "Which of the following evaluation curves plots precision against recall across various classification thresholds?",
+    "options": [
+      "Precision-Recall (PR) Curve",
+      "ROC Curve Array",
+      "Learning Convergence Curve",
+      "Residual Variance Plot"
+    ],
+    "correctAnswer": "Precision-Recall (PR) Curve",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "A Precision-Recall curve is highly effective for evaluating models trained on highly imbalanced datasets because it focuses heavily on minority class performance.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "metrics",
+      "classification"
+    ]
+  },
+  {
+    "id": "datasci_157",
+    "question": "What data preprocessing method centers data by subtracting the mean and scaling it to have a standard deviation of 1?",
+    "options": [
+      "Standardization (Z-Score)",
+      "Min-Max Rescaling",
+      "Log Normalization",
+      "Binarization Mapping"
+    ],
+    "correctAnswer": "Standardization (Z-Score)",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "Standardization transforms numeric columns into standard normal distributions with a mean of 0 and variance of 1.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "preprocessing",
+      "normalization"
+    ]
+  },
+  {
+    "id": "datasci_158",
+    "question": "Which architecture pattern uses self-attention mechanisms to process sequential text data in parallel, forming the basis for modern LLMs?",
+    "options": [
+      "Transformer",
+      "Convolutional Neural Network",
+      "Recurrent Neural Network",
+      "Autoencoder Bottleneck"
+    ],
+    "correctAnswer": "Transformer",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "Transformers use self-attention to process entire text strings simultaneously, replacing recurrent loops and improving training efficiency.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "transformers",
+      "deep-learning",
+      "nlp"
+    ]
+  },
+  {
+    "id": "datasci_159",
+    "question": "What condition occurs when the error variance of a regression model changes across different levels of the independent variables?",
+    "options": [
+      "Heteroscedasticity",
+      "Homoscedasticity",
+      "Multicollinearity",
+      "Autocorrelation"
+    ],
+    "correctAnswer": "Heteroscedasticity",
+    "category": "Data Science",
+    "difficulty": "hard",
+    "explanation": "Heteroscedasticity describes non-constant residual variance, which violates a key assumption of Ordinary Least Squares (OLS) regression.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "regression",
+      "statistics"
+    ]
+  },
+  {
+    "id": "datasci_160",
+    "question": "What parameter validation method exhaustively tests every possible parameter combination within a specified search space?",
+    "options": [
+      "Grid Search",
+      "Random Search",
+      "Bayesian Optimization",
+      "Genetic Algorithm"
+    ],
+    "correctAnswer": "Grid Search",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "Grid Search runs full evaluations across all manual parameter combinations, which guarantees finding the best combination in the grid but can be slow.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "hyperparameters",
+      "tuning"
+    ]
+  },
+  {
+    "id": "datasci_161",
+    "question": "What distance metric computes the shortest distance between two points by traveling only along grid-like, perpendicular paths?",
+    "options": [
+      "Manhattan Distance",
+      "Euclidean Distance",
+      "Cosine Metric",
+      "Minkowski Matrix Split"
+    ],
+    "correctAnswer": "Manhattan Distance",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "Manhattan distance calculates spatial paths using the sum of absolute differences across Cartesian coordinate vectors.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "math",
+      "distance-metrics"
+    ]
+  },
+  {
+    "id": "datasci_162",
+    "question": "What neural network pattern compresses inputs into a lower-dimensional bottleneck layer before attempting to reconstruct the original input?",
+    "options": [
+      "Autoencoder",
+      "Perceptron Network",
+      "Convolutional Filter Stack",
+      "Siamese Network"
+    ],
+    "correctAnswer": "Autoencoder",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "Autoencoders learn efficient data codings in an unsupervised manner by training the network to minimize reconstruction error through a bottleneck layer.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "autoencoders",
+      "deep-learning"
+    ]
+  },
+  {
+    "id": "datasci_163",
+    "question": "What error profile is associated with a highly flexible model that captures training noise instead of the true underlying patterns?",
+    "options": [
+      "High Variance",
+      "High Bias",
+      "Underfitting",
+      "Data Truncation"
+    ],
+    "correctAnswer": "High Variance",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "High variance occurs when a model is overly sensitive to small fluctuations in the training set, which typically leads to overfitting and poor generalization.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "bias-variance",
+      "machine-learning"
+    ]
+  },
+  {
+    "id": "datasci_164",
+    "question": "Which time-series forecasting configuration uses rolling validation intervals to prevent future data from leaking into the evaluation phase?",
+    "options": [
+      "Time Series Forward-Chaining",
+      "Stratified K-Fold Splits",
+      "Random Allocation Holdouts",
+      "Leave-One-Out Validation Folds"
+    ],
+    "correctAnswer": "Time Series Forward-Chaining",
+    "category": "Data Science",
+    "difficulty": "hard",
+    "explanation": "Forward-chaining (or rolling window validation) evaluates time-series models sequentially to ensure training observations always precede validation targets chronologically.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "time-series",
+      "validation"
+    ]
+  },
+  {
+    "id": "datasci_165",
+    "question": "What regularization framework adds a balanced combination of both L1 (absolute magnitude) and L2 (squared magnitude) penalties to a linear model?",
+    "options": [
+      "Elastic Net",
+      "Ridge Regularization",
+      "Lasso Optimization",
+      "Dropout Scaling"
+    ],
+    "correctAnswer": "Elastic Net",
+    "category": "Data Science",
+    "difficulty": "hard",
+    "explanation": "Elastic Net combines L1 and L2 penalties, balancing feature selection benefits with coefficient stability in highly correlated feature spaces.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "regularization",
+      "elastic-net"
+    ]
+  },
+  {
+    "id": "datasci_166",
+    "question": "What classification algorithm uses Bayes' Theorem and relies on the strong assumption that all input features are conditionally independent?",
+    "options": [
+      "Naive Bayes",
+      "Logistic Regression",
+      "Support Vector Machine",
+      "K-Means Classifier"
+    ],
+    "correctAnswer": "Naive Bayes",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "The Naive Bayes classifier is called 'naive' because it assumes independence between all predictive features given the target class, which simplifies probability calculations.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "naive-bayes",
+      "algorithms"
+    ]
+  },
+  {
+    "id": "datasci_167",
+    "question": "What statistical distribution evaluates the probability of a specific number of independent events occurring within a fixed window of time or space?",
+    "options": [
+      "Poisson Distribution",
+      "Exponential Distribution",
+      "Hypergeometric Array",
+      "Beta Distribution Model"
+    ],
+    "correctAnswer": "Poisson Distribution",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "The Poisson distribution models the frequency of occurrences over a known, constant average rate within a defined time or spatial boundary.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "distributions",
+      "probability"
+    ]
+  },
+  {
+    "id": "datasci_168",
+    "question": "What ensemble method trains models sequentially, adjusting instance weights so that each new model focuses on correcting the errors of its predecessor?",
+    "options": [
+      "Boosting",
+      "Bagging",
+      "Stacking",
+      "Voting"
+    ],
+    "correctAnswer": "Boosting",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "Boosting converts weak learners into strong ones by training estimators sequentially, placing higher weight on previously misclassified instances.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "boosting",
+      "ensemble"
+    ]
+  },
+  {
+    "id": "datasci_169",
+    "question": "What text preprocessing step reduces words to their crude base forms by chopping off character suffixes, often resulting in non-dictionary terms?",
+    "options": [
+      "Stemming",
+      "Lemmatization",
+      "Tokenization",
+      "Vectorization"
+    ],
+    "correctAnswer": "Stemming",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "Stemming applies simple rule-based truncation to strip word endings, which is faster than lemmatization but less morphologically precise.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "nlp",
+      "text-processing"
+    ]
+  },
+  {
+    "id": "datasci_170",
+    "question": "What statistical test evaluates whether the distributions of two categorical variables are independent using a contingency table?",
+    "options": [
+      "Chi-Square Test of Independence",
+      "Student T-Test",
+      "F-Test Variance Split",
+      "Mann-Whitney U Test"
+    ],
+    "correctAnswer": "Chi-Square Test of Independence",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "The Chi-Square test compares observed categorical frequencies against expected frequencies under a null hypothesis of independence.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "statistics",
+      "hypothesis-testing"
+    ]
+  },
+  {
+    "id": "datasci_171",
+    "question": "What is the name of the optimization property describing an estimator whose mathematical expected value equals the true population parameter?",
+    "options": [
+      "Unbiasedness",
+      "Consistency",
+      "Efficiency",
+      "Sufficiency"
+    ],
+    "correctAnswer": "Unbiasedness",
+    "category": "Data Science",
+    "difficulty": "hard",
+    "explanation": "An estimator is unbiased if its average sampling distribution matches the true population parameter across hypothetical infinite repetitions.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "statistics",
+      "estimation"
+    ]
+  },
+  {
+    "id": "datasci_172",
+    "question": "Which database command combines matching records from two separate tables based on a shared column key?",
+    "options": [
+      "JOIN",
+      "UNION",
+      "MERGE SPLIT",
+      "CONCATENATE"
+    ],
+    "correctAnswer": "JOIN",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "SQL JOIN clauses combine data from multiple relational tables by matching common key fields.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "sql",
+      "databases"
+    ]
+  },
+  {
+    "id": "datasci_173",
+    "question": "What evaluation metric divides total correct predictions over total observed instances across a balanced dataset?",
+    "options": [
+      "Accuracy",
+      "Precision",
+      "Recall",
+      "F1-Score"
+    ],
+    "correctAnswer": "Accuracy",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "Accuracy measures the total percentage of correct class assignments, which can be misleading if the underlying dataset is highly imbalanced.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "metrics",
+      "classification"
+    ]
+  },
+  {
+    "id": "datasci_174",
+    "question": "Which parameter optimization method samples random configurations within a specified parameter distribution instead of running an exhaustive grid evaluation?",
+    "options": [
+      "Random Search",
+      "Grid Search",
+      "Bayesian Optimization",
+      "Genetic Expansion"
+    ],
+    "correctAnswer": "Random Search",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "Random Search picks random combinations from a parameter distribution, which often finds high-performing models faster than an exhaustive grid search.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "hyperparameters",
+      "tuning"
+    ]
+  },
+  {
+    "id": "datasci_175",
+    "question": "What data strategy handles missing entries by dropping rows or columns that contain null values?",
+    "options": [
+      "Listwise Deletion",
+      "Imputation",
+      "Normalization",
+      "Binarization"
+    ],
+    "correctAnswer": "Listwise Deletion",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "Listwise deletion drops entire records that contain missing entries, which simplifies data processing but can introduce sample bias if data is not missing completely at random.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "preprocessing",
+      "data-cleaning"
+    ]
+  },
+  {
+    "id": "datasci_176",
+    "question": "What neural network architectural component applies dot-product matrix filters to slide across spatial image dimensions?",
+    "options": [
+      "Convolutional Layer",
+      "Max Pooling Module",
+      "Fully Connected Layer",
+      "Recurrent Loop block"
+    ],
+    "correctAnswer": "Convolutional Layer",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "Convolutional layers pass localized weight filters over inputs to extract spatial features like edges, shapes, and textures.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "cnn",
+      "deep-learning"
+    ]
+  },
+  {
+    "id": "datasci_177",
+    "question": "Which of the following describes a clustering approach that builds a tree of groupings by repeatedly merging or splitting existing data points?",
+    "options": [
+      "Hierarchical Clustering",
+      "K-Means Clustering",
+      "DBSCAN Anomaly Model",
+      "Gaussian Mixture Model"
+    ],
+    "correctAnswer": "Hierarchical Clustering",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "Hierarchical clustering builds nested cluster trees (dendrograms) using either bottom-up merging (agglomerative) or top-down splitting (divisive) strategies.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "clustering",
+      "unsupervised"
+    ]
+  },
+  {
+    "id": "datasci_178",
+    "question": "What index measures how much the information content of a node decreases after a split within a decision tree model?",
+    "options": [
+      "Information Gain",
+      "Gini Coefficient",
+      "R-Squared Variation",
+      "Log Loss Factor"
+    ],
+    "correctAnswer": "Information Gain",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "Information Gain measures the reduction in dataset entropy after a split, helping select the optimal features for tree branches.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "decision-trees",
+      "entropy"
+    ]
+  },
+  {
+    "id": "datasci_179",
+    "question": "Which probability distribution measures the time or space separating consecutive, independent Poisson process events?",
+    "options": [
+      "Exponential Distribution",
+      "Geometric Distribution",
+      "Gamma Distribution",
+      "Log-Normal Distribution"
+    ],
+    "correctAnswer": "Exponential Distribution",
+    "category": "Data Science",
+    "difficulty": "hard",
+    "explanation": "The continuous exponential distribution models the time intervals between independent events occurring at a constant average rate.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "distributions",
+      "probability"
+    ]
+  },
+  {
+    "id": "datasci_180",
+    "question": "What practice leverages pre-trained model parameters from a large, general task to accelerate learning on a smaller, specialized target dataset?",
+    "options": [
+      "Transfer Learning",
+      "Reinforcement Optimization",
+      "Active Sampling Mode",
+      "Meta-Ensemble Fusion"
+    ],
+    "correctAnswer": "Transfer Learning",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "Transfer learning fine-tunes deep neural architectures that were pre-trained on massive open source benchmarks, which saves substantial computational time and training resources.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "transfer-learning",
+      "deep-learning"
+    ]
+  },
+  {
+    "id": "datasci_181",
+    "question": "Which metric evaluates regression models by computing the square root of the average of the squared differences between predictions and actual targets?",
+    "options": [
+      "Root Mean Squared Error (RMSE)",
+      "Mean Absolute Error (MAE)",
+      "Mean Squared Error (MSE)",
+      "R-Squared"
+    ],
+    "correctAnswer": "Root Mean Squared Error (RMSE)",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "RMSE scales error metrics back into the target variable's original unit of measurement by taking the square root of the computed MSE value.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "metrics",
+      "regression"
+    ]
+  },
+  {
+    "id": "datasci_182",
+    "question": "What preprocessing method converts categorical strings into multiple binary columns, where a single '1' indicates the presence of a specific category?",
+    "options": [
+      "One-Hot Encoding",
+      "Label Encoding",
+      "Feature Scaling",
+      "Discretization"
+    ],
+    "correctAnswer": "One-Hot Encoding",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "One-Hot Encoding transforms categorical labels into sparse binary vectors, which prevents algorithms from assuming an unintended numerical order.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "preprocessing",
+      "encoding"
+    ]
+  },
+  {
+    "id": "datasci_183",
+    "question": "Which of the following describes a scenario where an optimization algorithm updates model weights based on gradients computed from a small, randomized subset of the data rather than the entire dataset?",
+    "options": [
+      "Mini-Batch Gradient Descent",
+      "Batch Gradient Descent",
+      "Stochastic Gradient Descent",
+      "Newton-Raphson Method"
+    ],
+    "correctAnswer": "Mini-Batch Gradient Descent",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "Mini-Batch Gradient Descent balances computational efficiency and gradient stability by updating model weights using small, segmented data groups.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "optimization",
+      "gradient-descent"
+    ]
+  },
+  {
+    "id": "datasci_184",
+    "question": "What error type reflects a model's inability to learn structural patterns because its underlying algorithm is too simple?",
+    "options": [
+      "High Bias",
+      "High Variance",
+      "Overfitting",
+      "Stochastic Lag"
+    ],
+    "correctAnswer": "High Bias",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "High bias errors cause models to underfit datasets because the algorithm lacks the complexity required to capture the true relationships between features and targets.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "bias-variance",
+      "machine-learning"
+    ]
+  },
+  {
+    "id": "datasci_185",
+    "question": "What mathematical theorem establishes how to update conditional probabilities by combining prior beliefs with newly observed data evidence?",
+    "options": [
+      "Bayes' Theorem",
+      "Central Limit Theorem",
+      "Law of Large Numbers",
+      "Markov's Chain Inequality"
+    ],
+    "correctAnswer": "Bayes' Theorem",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "Bayes' Theorem updates the probability of a hypothesis as new evidence or data observations become available.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "probability",
+      "math"
+    ]
+  },
+  {
+    "id": "datasci_186",
+    "question": "Which metrics plot summarizes a model's true positive classifications against false positive outcomes across various decision bounds?",
+    "options": [
+      "ROC Curve",
+      "Precision-Recall Curve",
+      "Learning Convergence Curve",
+      "Residual Variance Matrix"
+    ],
+    "correctAnswer": "ROC Curve",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "The Receiver Operating Characteristic (ROC) curve visualizes a classification model's trade-off between sensitivity and false positive rates across different thresholds.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "metrics",
+      "classification"
+    ]
+  },
+  {
+    "id": "datasci_187",
+    "question": "What ensemble model fits numerous independent decision trees using parallel bootstrap datasets and outputs their average or majority vote?",
+    "options": [
+      "Random Forest",
+      "Gradient Boosting Machine",
+      "Support Vector Machine",
+      "Linear Regression Model"
+    ],
+    "correctAnswer": "Random Forest",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "Random Forest is an ensemble bagging method that trains multiple independent decision trees on bootstrap samples to reduce prediction variance.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "random-forest",
+      "ensemble"
+    ]
+  },
+  {
+    "id": "datasci_188",
+    "question": "What data profile matches features that are grouped into distinct, named categories without any intrinsic numerical order or ranking?",
+    "options": [
+      "Nominal Data",
+      "Ordinal Data",
+      "Interval Data",
+      "Continuous Scale Data"
+    ],
+    "correctAnswer": "Nominal Data",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "Nominal data classifies items into mutually exclusive groups that do not have any inherent hierarchy or quantitative order (e.g., country names or product types).",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "data-types",
+      "statistics"
+    ]
+  },
+  {
+    "id": "datasci_189",
+    "question": "What optimization trap describes a point on a loss surface where gradients drop to zero but the location is neither a maximum nor a minimum?",
+    "options": [
+      "Saddle Point",
+      "Local Minimum Basin",
+      "Global Minimum Coordinate",
+      "Gradient Explosion Peak"
+    ],
+    "correctAnswer": "Saddle Point",
+    "category": "Data Science",
+    "difficulty": "hard",
+    "explanation": "A saddle point occurs when a function curves up in one direction but down in another, creating zero-gradient regions that can stall standard gradient descent algorithms.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "optimization",
+      "gradient-descent"
+    ]
+  },
+  {
+    "id": "datasci_190",
+    "question": "Which of the following represents an unsupervised, density-based clustering algorithm that groups packed regions together while isolating low-density noise points?",
+    "options": [
+      "DBSCAN",
+      "K-Means Clustering",
+      "Agglomerative Hierarchy",
+      "Gaussian Mixture Model"
+    ],
+    "correctAnswer": "DBSCAN",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "DBSCAN discovers clusters of arbitrary shapes by analyzing data density, automatically separating core dense groupings from peripheral noise points.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "clustering",
+      "unsupervised"
+    ]
+  },
+  {
+    "id": "datasci_191",
+    "question": "What regularization method applies an L1 absolute weight penalty to drive irrelevant parameter coefficients exactly to zero?",
+    "options": [
+      "Lasso Regression",
+      "Ridge Regression",
+      "Elastic Net",
+      "Huber Loss Tuning"
+    ],
+    "correctAnswer": "Lasso Regression",
+    "category": "Data Science",
+    "difficulty": "medium",
+    "explanation": "Lasso (Least Absolute Shrinkage and Selection Operator) regression adds an L1 absolute penalty to the loss function, performing feature selection by driving unnecessary weights to zero.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "regularization",
+      "lasso"
+    ]
+  },
+  {
+    "id": "datasci_192",
+    "question": "Which statistical distribution resembles a perfectly symmetrical bell curve centered around its mean value?",
+    "options": [
+      "Normal Distribution",
+      "Uniform Distribution",
+      "Binomial Distribution",
+      "Poisson Distribution"
+    ],
+    "correctAnswer": "Normal Distribution",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "The normal (Gaussian) distribution is a fundamental symmetric probability curve defined by its mean and standard deviation.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "statistics",
+      "distributions"
+    ]
+  },
+  {
+    "id": "datasci_193",
+    "question": "What data preprocessing step scales values so that they have a mean of 0 and a standard deviation of 1?",
+    "options": [
+      "Standardization",
+      "Min-Max Scaling",
+      "Log Normalization",
+      "Quantile Rescaling"
+    ],
+    "correctAnswer": "Standardization",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "Standardization (Z-score normalization) centers data by subtracting the feature mean and dividing by the standard deviation.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "preprocessing",
+      "normalization"
+    ]
+  },
+  {
+    "id": "datasci_194",
+    "question": "What is the term for an anomalous data observation that sits at an abnormal distance from other values in a random sample?",
+    "options": [
+      "Outlier",
+      "Inlier",
+      "Mean Variance Deviation",
+      "Residual Skew"
+    ],
+    "correctAnswer": "Outlier",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "An outlier is an extreme data point that differs significantly from the remaining observations in a dataset.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "statistics",
+      "data-cleaning"
+    ]
+  },
+  {
+    "id": "datasci_195",
+    "question": "What valuation metric divides total true positive classifications over the aggregate total of all actual positive ground truth cases?",
+    "options": [
+      "Recall (Sensitivity)",
+      "Precision",
+      "Accuracy Score",
+      "Specificity"
+    ],
+    "correctAnswer": "Recall (Sensitivity)",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "Recall measures a model's ability to identify all positive instances within a dataset, calculating true positives divided by total actual positives.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "metrics",
+      "classification"
+    ]
+  },
+  {
+    "id": "datasci_196",
+    "question": "What cross-validation method randomly partitions data into K unique sub-segments to evaluate model performance iteratively?",
+    "options": [
+      "K-Fold Cross-Validation",
+      "Stratified Holdout Analysis",
+      "Leave-One-Out Partitioning",
+      "Forward Ch Chaining Splits"
+    ],
+    "correctAnswer": "K-Fold Cross-Validation",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "K-Fold cross-validation splits a dataset into K parts, rotationally training the model on K-1 segments and testing it on the remaining fold to improve performance validation.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "validation",
+      "cross-validation"
+    ]
+  },
+  {
+    "id": "datasci_197",
+    "question": "What condition occurs when a machine learning model fits training records perfectly but fails to perform accurately on unseen testing datasets?",
+    "options": [
+      "Overfitting",
+      "Underfitting",
+      "Regularization",
+      "Feature Selection"
+    ],
+    "correctAnswer": "Overfitting",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "Overfitting happens when a model becomes overly complex and learns training set noise, reducing its ability to generalize to new data.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "overfitting",
+      "machine-learning"
+    ]
+  },
+  {
+    "id": "datasci_198",
+    "question": "Which database structure field constraint uniquely identifies every individual record within a specific table?",
+    "options": [
+      "Primary Key",
+      "Foreign Key link",
+      "Unique Index Array",
+      "Composite Field Value"
+    ],
+    "correctAnswer": "Primary Key",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "A primary key column enforces unique, non-null values for every row, serving as the unique identifier for table records.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "sql",
+      "databases"
+    ]
+  },
+  {
+    "id": "datasci_199",
+    "question": "What value represents the exact middle number in a sorted, ascending or descending list of numbers?",
+    "options": [
+      "Median",
+      "Mean",
+      "Mode",
+      "Variance"
+    ],
+    "correctAnswer": "Median",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "The median identifies the middle value of an ordered dataset, offering a robust measure of central tendency that is resistant to outlier distortion.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "statistics",
+      "math"
+    ]
+  },
+  {
+    "id": "datasci_200",
+    "question": "Which Python library provides high-performance data structures like DataFrames for structural tabular data manipulation?",
+    "options": [
+      "Pandas",
+      "NumPy",
+      "Matplotlib",
+      "Requests"
+    ],
+    "correctAnswer": "Pandas",
+    "category": "Data Science",
+    "difficulty": "easy",
+    "explanation": "Pandas is a core data science library that introduces Series and DataFrame objects for efficient structured data manipulation and analysis.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "python",
+      "pandas",
+      "libraries"
+    ]
+  }
+]

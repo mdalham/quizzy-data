@@ -1,0 +1,3746 @@
+[
+{
+"id": "religion_culture_001",
+"question": "Which major world religion originated in ancient India and is based on the teachings of Siddhartha Gautama?",
+"options": [
+"Hinduism",
+"Buddhism",
+"Sikhism",
+"Jainism"
+],
+"correctAnswer": "Buddhism",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "Buddhism was founded in ancient India by Siddhartha Gautama, who came to be known as the Buddha (the Awakened One).",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"buddhism",
+"india",
+"origins"
+]
+},
+{
+"id": "religion_culture_002",
+"question": "What is the name of the holy book of Islam?",
+"options": [
+"Torah",
+"Vedas",
+"Quran",
+"Bible"
+],
+"correctAnswer": "Quran",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "The Quran is the central religious text of Islam, believed by Muslims to be a revelation from God.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"islam",
+"scripture",
+"books"
+]
+},
+{
+"id": "religion_culture_003",
+"question": "In which city is the Kaaba, the most sacred site in Islam, located?",
+"options": [
+"Medina",
+"Jerusalem",
+"Cairo",
+"Mecca"
+],
+"correctAnswer": "Mecca",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "The Kaaba is a building at the center of Islam's most sacred mosque, Al-Masjid al-Haram, in Mecca, Saudi Arabia.",
+"imageUrl": "https://images.unsplash.com/photo-1564507592333-c60657eea523?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"islam",
+"mecca",
+"sacred-sites"
+]
+},
+{
+"id": "religion_culture_004",
+"question": "Who is considered the premier prophet and traditional founder of Judaism?",
+"options": [
+"Abraham",
+"Moses",
+"David",
+"Solomon"
+],
+"correctAnswer": "Abraham",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "Abraham is regarded as the first patriarch of the Jewish people and the founder of monotheism.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"judaism",
+"history",
+"prophets"
+]
+},
+{
+"id": "religion_culture_005",
+"question": "Which of these is the traditional Hindu festival of colors, celebrating the arrival of spring?",
+"options": [
+"Diwali",
+"Holi",
+"Navratri",
+"Dussehra"
+],
+"correctAnswer": "Holi",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "Holi is a popular ancient Hindu festival, also known as the 'Festival of Colors', which signifies the triumph of good over evil.",
+"imageUrl": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"hinduism",
+"festivals",
+"culture"
+]
+},
+{
+"id": "religion_culture_006",
+"question": "What is the primary spiritual goal in Buddhism, representing the cessation of suffering and rebirth?",
+"options": [
+"Karma",
+"Dharma",
+"Nirvana",
+"Moksha"
+],
+"correctAnswer": "Nirvana",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "Nirvana is the ultimate spiritual goal in Buddhism, denoting the release from the cycle of rebirths and suffering.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"buddhism",
+"philosophy",
+"concepts"
+]
+},
+{
+"id": "religion_culture_007",
+"question": "Which historical figure is celebrated during Christmas in Christian cultures?",
+"options": [
+"Saint Peter",
+"John the Baptist",
+"Jesus Christ",
+"Moses"
+],
+"correctAnswer": "Jesus Christ",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25th.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"christianity",
+"holidays",
+"jesus"
+]
+},
+{
+"id": "religion_culture_008",
+"question": "What architectural style is prominently displayed by this famous French cathedral, known for its flying buttresses and stained-glass rose windows?",
+"options": [
+"Romanesque",
+"Baroque",
+"Gothic",
+"Renaissance"
+],
+"correctAnswer": "Gothic",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "Notre-Dame de Paris is a prime example of French Gothic architecture, featuring innovative engineering like flying buttresses.",
+"imageUrl": "https://images.unsplash.com/photo-1478147427282-58a87a120781?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"christianity",
+"architecture",
+"cathedrals"
+]
+},
+{
+"id": "religion_culture_009",
+"question": "The collection of ancient sacred texts that form the foundational scriptures of Hinduism is known as what?",
+"options": [
+"The Tripitaka",
+"The Vedas",
+"The Avesta",
+"The Torah"
+],
+"correctAnswer": "The Vedas",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "The Vedas are a large body of religious texts originating in ancient India, composed in Vedic Sanskrit and highly revered in Hinduism.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"hinduism",
+"scripture",
+"texts"
+]
+},
+{
+"id": "religion_culture_010",
+"question": "Which of the following is the Jewish New Year celebration?",
+"options": [
+"Yom Kippur",
+"Hanukkah",
+"Passover",
+"Rosh Hashanah"
+],
+"correctAnswer": "Rosh Hashanah",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "Rosh Hashanah is the Jewish New Year, a time of reflection, repentance, and eating symbolic foods like apples dipped in honey.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"judaism",
+"holidays",
+"culture"
+]
+},
+{
+"id": "religion_culture_011",
+"question": "What major concept in Taoism, often symbolized by a circle with interlocking dark and light halves, emphasizes cosmic balance?",
+"options": [
+"Samsara",
+"Yin and Yang",
+"Ahimsa",
+"The Middle Way"
+],
+"correctAnswer": "Yin and Yang",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "Yin and yang represents how seemingly opposite or contrary forces may actually be complementary and interconnected in the natural world.",
+"imageUrl": "https://images.unsplash.com/photo-1615915468538-0fbd857888ca?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"taoism",
+"symbols",
+"philosophy"
+]
+},
+{
+"id": "religion_culture_012",
+"question": "Who is the supreme deity and creator god in mainstream Hinduism?",
+"options": [
+"Shiva",
+"Vishnu",
+"Brahma",
+"Ganesha"
+],
+"correctAnswer": "Brahma",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "Brahma is recognized as the creator god within the Trimurti, the trinity of supreme divinity in Hinduism.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"hinduism",
+"deities",
+"mythology"
+]
+},
+{
+"id": "religion_culture_013",
+"question": "The month of Ramadan, during which Muslims fast from dawn to sunset, commemorates what event?",
+"options": [
+"The flight to Medina",
+"The birth of Muhammad",
+"The first revelation of the Quran",
+"The conquest of Mecca"
+],
+"correctAnswer": "The first revelation of the Quran",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "Ramadan is observed by Muslims worldwide as a month of fasting to commemorate the first revelation of the Quran to Muhammad.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"islam",
+"ramadan",
+"fasting"
+]
+},
+{
+"id": "religion_culture_014",
+"question": "What is the name of the traditional headscarf worn by many Muslim women as a symbol of modesty and faith?",
+"options": [
+"Sari",
+"Hijab",
+"Turban",
+"Kimono"
+],
+"correctAnswer": "Hijab",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "The hijab is a veil or headscarf worn by many Muslim women in the presence of any male outside of their immediate family.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"islam",
+"clothing",
+"culture"
+]
+},
+{
+"id": "religion_culture_015",
+"question": "Which building serves as the official residence of the Pope, the spiritual leader of the Roman Catholic Church?",
+"options": [
+"Westminster Abbey",
+"The Apostolic Palace",
+"The Hagia Sophia",
+"Notre-Dame"
+],
+"correctAnswer": "The Apostolic Palace",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "The Apostolic Palace is the official residence of the Pope in Vatican City, containing the Papal Apartments and the Vatican Museums.",
+"imageUrl": "https://images.unsplash.com/photo-1546726747-e6877913e6d2?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"christianity",
+"vatican",
+"pope"
+]
+},
+{
+"id": "religion_culture_016",
+"question": "In Hinduism, Buddhism, and Jainism, what term describes the cosmic law of cause and effect resulting from one's actions?",
+"options": [
+"Dharma",
+"Samsara",
+"Karma",
+"Moksha"
+],
+"correctAnswer": "Karma",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "Karma refers to the spiritual principle of cause and effect where intent and actions of an individual influence their future.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"concepts",
+"karma",
+"philosophy"
+]
+},
+{
+"id": "religion_culture_017",
+"question": "Which of these symbols is universally recognized as the primary emblem of Christianity?",
+"options": [
+"Star of David",
+"Crescent Moon",
+"The Christian Cross",
+"Dharmachakra"
+],
+"correctAnswer": "The Christian Cross",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "The cross is the most prominent religious symbol of Christianity, representing the crucifixion of Jesus Christ.",
+"imageUrl": "https://images.unsplash.com/photo-1544816155-12df9643f363?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"christianity",
+"symbols",
+"icons"
+]
+},
+{
+"id": "religion_culture_018",
+"question": "What is the name of the traditional Jewish candelabrum lit during the eight-day holiday of Hanukkah?",
+"options": [
+"Shofar",
+"Menorah",
+"Torah",
+"Mezuzah"
+],
+"correctAnswer": "Menorah",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "A Hanukkah menorah, or hanukkiah, is a nine-branched candelabrum lit during the eight days of Hanukkah.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"judaism",
+"holidays",
+"objects"
+]
+},
+{
+"id": "religion_culture_019",
+"question": "The Eightfold Path is a core concept guiding practitioners in which major religion?",
+"options": [
+"Shinto",
+"Sikhism",
+"Buddhism",
+"Taoism"
+],
+"correctAnswer": "Buddhism",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "The Noble Eightfold Path is an early summary of the path of Buddhist practices leading to liberation from samsara.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"buddhism",
+"philosophy",
+"practices"
+]
+},
+{
+"id": "religion_culture_020",
+"question": "Which country is home to this iconic ancient Shinto shrine gate (Torii) that appears to float on water at high tide?",
+"options": [
+"South Korea",
+"Japan",
+"China",
+"Vietnam"
+],
+"correctAnswer": "Japan",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "The famous floating Torii gate is located at the Itsukushima Shrine on Miyajima Island in Japan, a central site of Shinto worship.",
+"imageUrl": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"shinto",
+"japan",
+"shrines"
+]
+},
+{
+"id": "religion_culture_021",
+"question": "What is the common term used for a teacher or spiritual guide in Hinduism and Buddhism?",
+"options": [
+"Rabbi",
+"Imam",
+"Guru",
+"Pastor"
+],
+"correctAnswer": "Guru",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "Guru is a Sanskrit term for a 'teacher, guide, expert, or master' of certain knowledge or field, extensively used in Indian religions.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"hinduism",
+"buddhism",
+"terms"
+]
+},
+{
+"id": "religion_culture_022",
+"question": "Which of these is the sacred text of Judaism containing the first five books of the Hebrew Bible?",
+"options": [
+"Gitas",
+"Hadith",
+"Torah",
+"Gospels"
+],
+"correctAnswer": "Torah",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "The Torah consists of the foundational narrative and legal laws of Judaism, matching the first five books of the Christian Old Testament.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"judaism",
+"scripture",
+"bible"
+]
+},
+{
+"id": "religion_culture_023",
+"question": "What is the primary spiritual place of worship for followers of Sikhism?",
+"options": [
+"Synagogue",
+"Mosque",
+"Gurdwara",
+"Pagoda"
+],
+"correctAnswer": "Gurdwara",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "A gurdwara is a place of assembly and worship for Sikhs. People from all faiths are welcome to visit.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"sikhism",
+"worship",
+"architecture"
+]
+},
+{
+"id": "religion_culture_024",
+"question": "Who was the historical founder of Sikhism in the 15th century CE?",
+"options": [
+"Guru Gobind Singh",
+"Guru Nanak",
+"Mahavira",
+"Kabir"
+],
+"correctAnswer": "Guru Nanak",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "Guru Nanak was the founder of Sikhism and the first of the ten Sikh Gurus, born in the Punjab region.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"sikhism",
+"founders",
+"history"
+]
+},
+{
+"id": "religion_culture_025",
+"question": "The historical region of Palestine and Israel contains this holy city, sacred to Judaism, Christianity, and Islam alike. What is it?",
+"options": [
+"Damascus",
+"Jerusalem",
+"Amman",
+"Beirut"
+],
+"correctAnswer": "Jerusalem",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "Jerusalem is one of the oldest cities in the world and is considered deeply holy in the three major Abrahamic religions.",
+"imageUrl": "https://images.unsplash.com/photo-1541432901042-2d8bd64b4a9b?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"geography",
+"sacred-sites",
+"history"
+]
+},
+{
+"id": "religion_culture_026",
+"question": "Which of these terms describes a person who believes that the existence of God or the divine is unknown or unknowable?",
+"options": [
+"Atheist",
+"Agnoistic",
+"Theist",
+"Polytheist"
+],
+"correctAnswer": "Agnoistic",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "An agnostic believes that nothing is known or can be known of the existence or nature of God or of anything beyond material phenomena.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"philosophy",
+"belief-systems",
+"terms"
+]
+},
+{
+"id": "religion_culture_027",
+"question": "Which important Christian holiday commemorates the resurrection of Jesus Christ from the dead?",
+"options": [
+"Good Friday",
+"Epiphany",
+"Easter",
+"Pentecost"
+],
+"correctAnswer": "Easter",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "Easter is a principal festival of the Christian church, celebrating the resurrection of Jesus Christ on the third day after his crucifixion.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"christianity",
+"holidays",
+"jesus"
+]
+},
+{
+"id": "religion_culture_028",
+"question": "What religious and cultural symbol, seen here on the national flag of Israel, is known as the Magen David?",
+"options": [
+"The Menorah",
+"The Hamsa",
+"The Star of David",
+"The Chai"
+],
+"correctAnswer": "The Star of David",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "The Star of David (Magen David) is a generally recognized symbol of modern Jewish identity and Judaism, composed of two overlapping triangles.",
+"imageUrl": "https://images.unsplash.com/photo-1547082299-de196ea013d6?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"judaism",
+"symbols",
+"flags"
+]
+},
+{
+"id": "religion_culture_029",
+"question": "The concept of 'Ahimsa', which means total non-violence or non-injury to all living things, is a foundational practice in which religion?",
+"options": [
+"Islam",
+"Jainism",
+"Zoroastrianism",
+"Shinto"
+],
+"correctAnswer": "Jainism",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "While present in Hinduism and Buddhism, Ahimsa is the absolute cornerstone philosophy of Jainism, influencing strict vegetarianism.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"jainism",
+"philosophy",
+"concepts"
+]
+},
+{
+"id": "religion_culture_030",
+"question": "Which of these terms describes the belief in or worship of more than one god?",
+"options": [
+"Monotheism",
+"Polytheism",
+"Pantheism",
+"Animism"
+],
+"correctAnswer": "Polytheism",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "Polytheism is the belief in multiple deities, which are usually assembled into a pantheon of gods and goddesses.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"belief-systems",
+"theology",
+"terms"
+]
+},
+{
+"id": "religion_culture_031",
+"question": "What is the name of the spiritual practice of focused contemplation or mindfulness, widely used across Eastern religions?",
+"options": [
+"Pilgrimage",
+"Meditation",
+"Fasting",
+"Chanting"
+],
+"correctAnswer": "Meditation",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "Meditation is a practice where an individual uses a technique to train attention and awareness, achieving mental clarity and calmness.",
+"imageUrl": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"practices",
+"buddhism",
+"hinduism"
+]
+},
+{
+"id": "religion_culture_032",
+"question": "In Hindu culture, what is the name of the elephant-headed deity known as the remover of obstacles?",
+"options": [
+"Murugan",
+"Ganesha",
+"Hanuman",
+"Krishna"
+],
+"correctAnswer": "Ganesha",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "Ganesha is one of the best-known and most worshipped deities in the Hindu pantheon, readily identified by his elephant head.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"hinduism",
+"deities",
+"mythology"
+]
+},
+{
+"id": "religion_culture_033",
+"question": "Which major religion is structurally built upon the 'Five Pillars' as its core obligatory acts of worship?",
+"options": [
+"Judaism",
+"Baha'i Faith",
+"Islam",
+"Zoroastrianism"
+],
+"correctAnswer": "Islam",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "The Five Pillars of Islam are foundational practices: declaration of faith, prayer, almsgiving, fasting, and pilgrimage.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"islam",
+"practices",
+"theology"
+]
+},
+{
+"id": "religion_culture_034",
+"question": "What is the primary language in which the sacred texts of Hinduism (the Vedas and Upanishads) were composed?",
+"options": [
+"Pali",
+"Arabic",
+"Sanskrit",
+"Hebrew"
+],
+"correctAnswer": "Sanskrit",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "Sanskrit is the classical language of Indian civilization and the sacred liturgical language of Hinduism.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"hinduism",
+"languages",
+"history"
+]
+},
+{
+"id": "religion_culture_035",
+"question": "Who is recognized as the supreme earthly leader of the Tibetan school of Buddhism?",
+"options": [
+"The Panchen Lama",
+"The Dalai Lama",
+"The Karmapa",
+"The Rinpoche"
+],
+"correctAnswer": "The Dalai Lama",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "The Dalai Lama is the title given by the Tibetan people to the foremost spiritual leader of the Gelug school of Tibetan Buddhism.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"buddhism",
+"tibet",
+"leaders"
+]
+},
+{
+"id": "religion_culture_036",
+"question": "This architectural structure is a minaret, a feature typically attached to which religious place of worship?",
+"options": [
+"Christian Church",
+"Islamic Mosque",
+"Jewish Synagogue",
+"Hindu Temple"
+],
+"correctAnswer": "Islamic Mosque",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "A minaret is a type of tower typically built into or adjacent to mosques, used traditionally for the call to prayer.",
+"imageUrl": "https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"islam",
+"architecture",
+"mosques"
+]
+},
+{
+"id": "religion_culture_037",
+"question": "What is the common term for the spiritual dietary laws that govern what foods are permissible for Jewish people to consume?",
+"options": [
+"Halal",
+"Kosher",
+"Vegetarian",
+"Lenten"
+],
+"correctAnswer": "Kosher",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "Kosher food is food that complies with the strict dietary regulations of traditional Jewish law (Kashrut).",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"judaism",
+"diet",
+"culture"
+]
+},
+{
+"id": "religion_culture_038",
+"question": "Which of these figures is credited with writing the fundamental texts of Taoism, specifically the Tao Te Ching?",
+"options": [
+"Confucius",
+"Laozi",
+"Mencius",
+"Zhuangzi"
+],
+"correctAnswer": "Laozi",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "Laozi was an ancient Chinese philosopher and writer, reputed to be the founder of philosophical Taoism and author of the Tao Te Ching.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"taoism",
+"china",
+"philosophy"
+]
+},
+{
+"id": "religion_culture_039",
+"question": "What is the general name of a leader or teacher of a Jewish congregation, qualified to interpret Jewish law?",
+"options": [
+"Priest",
+"Imam",
+"Rabbi",
+"Monk"
+],
+"correctAnswer": "Rabbi",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "A rabbi is a spiritual leader and religious teacher of a Jewish community or congregation.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"judaism",
+"leaders",
+"community"
+]
+},
+{
+"id": "religion_culture_040",
+"question": "This famous structural complex, Angkor Wat, was originally constructed as a Hindu temple before transitioning into what religious site?",
+"options": [
+"Buddhist Temple",
+"Islamic Mosque",
+"Shinto Shrine",
+"Christian Monastery"
+],
+"correctAnswer": "Buddhist Temple",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "Angkor Wat in Cambodia was built in the early 12th century as a Hindu temple and gradually transformed into a Buddhist temple towards the end of the century.",
+"imageUrl": "https://images.unsplash.com/photo-1600513525126-bc9b6999a4e0?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"buddhism",
+"hinduism",
+"architecture"
+]
+},
+{
+"id": "religion_culture_041",
+"question": "What is the translation of the word 'Islam' in its religious context?",
+"options": [
+"Submission or Peace",
+"Victory",
+"Enlightenment",
+"Righteous Path"
+],
+"correctAnswer": "Submission or Peace",
+"category": "Religion & Culture",
+"difficulty": "medium",
+"explanation": "The word 'Islam' is derived from the Arabic root meaning submission, surrender, or peace to the will of God.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"islam",
+"etymology",
+"concepts"
+]
+},
+{
+"id": "religion_culture_042",
+"question": "Which branch of Islam comprises the vast majority (roughly 85-90%) of the global Muslim population?",
+"options": [
+"Shia",
+"Sufi",
+"Sunni",
+"Ibadi"
+],
+"correctAnswer": "Sunni",
+"category": "Religion & Culture",
+"difficulty": "medium",
+"explanation": "Sunni Islam is the largest denomination of Islam, followed by the Shia branch.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"islam",
+"denominations",
+"demographics"
+]
+},
+{
+"id": "religion_culture_043",
+"question": "The historical split between Sunni and Shia Muslims originally centered on what issue?",
+"options": [
+"The interpretation of the Quran",
+"The language of prayer",
+"The rightful successor to Prophet Muhammad",
+"The geographic location of the capital"
+],
+"correctAnswer": "The rightful successor to Prophet Muhammad",
+"category": "Religion & Culture",
+"difficulty": "medium",
+"explanation": "The schism arose after the death of Prophet Muhammad over who should lead the Muslim community as Caliph.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"islam",
+"history",
+"denominations"
+]
+},
+{
+"id": "religion_culture_044",
+"question": "Which text is considered the primary book of mystical or philosophical commentary on the Torah in Jewish Kabbalah?",
+"options": [
+"The Mishnah",
+"The Talmud",
+"The Zohar",
+"The Gemara"
+],
+"correctAnswer": "The Zohar",
+"category": "Religion & Culture",
+"difficulty": "medium",
+"explanation": "The Zohar is the foundational work in the literature of Jewish mystical thought known as Kabbalah.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"judaism",
+"mysticism",
+"texts"
+]
+},
+{
+"id": "religion_culture_045",
+"question": "What country is predominantly the home of the sacred religious and philosophical system known as Shinto?",
+"options": [
+"Thailand",
+"Japan",
+"China",
+"Mongolia"
+],
+"correctAnswer": "Japan",
+"category": "Religion & Culture",
+"difficulty": "medium",
+"explanation": "Shinto is an ethnic religion of the people of Japan, focusing on ritual practices to connect modern Japan with its ancient past.",
+"imageUrl": "https://images.unsplash.com/photo-1528164344705-47542687000d?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"shinto",
+"japan",
+"culture"
+]
+},
+{
+"id": "religion_culture_046",
+"question": "What is the name of the distinctive ritual clothing or shawl worn by Jewish men during morning prayers?",
+"options": [
+"Kippah",
+"Tallit",
+"Tefillin",
+"Sari"
+],
+"correctAnswer": "Tallit",
+"category": "Religion & Culture",
+"difficulty": "medium",
+"explanation": "A tallit is a fringed garment traditionally worn as a prayer shawl by religious Jews.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"judaism",
+"clothing",
+"practices"
+]
+},
+{
+"id": "religion_culture_047",
+"question": "In the Christian tradition, what are the three major historical subdivisions or branches?",
+"options": [
+"Catholic, Baptist, Methodist",
+"Eastern Orthodox, Roman Catholic, Protestant",
+"Lutheran, Anglican, Calvinist",
+"Evangelical, Orthodox, Mormon"
+],
+"correctAnswer": "Eastern Orthodox, Roman Catholic, Protestant",
+"category": "Religion & Culture",
+"difficulty": "medium",
+"explanation": "Christianity is broadly split into these three major historical branches, stemming from the Great Schism and the Reformation.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"christianity",
+"history",
+"denominations"
+]
+},
+{
+"id": "religion_culture_048",
+"question": "The term 'Theravada' refers to a prominent traditional school within which major religion?",
+"options": [
+"Hinduism",
+"Jainism",
+"Buddhism",
+"Shinto"
+],
+"correctAnswer": "Buddhism",
+"category": "Religion & Culture",
+"difficulty": "medium",
+"explanation": "Theravada is the most ancient branch of Buddhism today, practiced primarily in Sri Lanka and Southeast Asia.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"buddhism",
+"denominations",
+"asia"
+]
+},
+{
+"id": "religion_culture_049",
+"question": "The 'Four Noble Truths' serve as the conceptual framework for which religion?",
+"options": [
+"Confucianism",
+"Buddhism",
+"Taoism",
+"Hinduism"
+],
+"correctAnswer": "Buddhism",
+"category": "Religion & Culture",
+"difficulty": "medium",
+"explanation": "The Four Noble Truths contain the core of the Buddha's teachings regarding the nature of suffering and how to overcome it.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"buddhism",
+"philosophy",
+"theology"
+]
+},
+{
+"id": "religion_culture_050",
+"question": "This grand ancient monument in Istanbul, Turkey, has served as a Christian cathedral, an Islamic mosque, and a museum. What is its name?",
+"options": [
+"The Blue Mosque",
+"Hagia Sophia",
+"Topkapi Palace",
+"Süleymaniye Mosque"
+],
+"correctAnswer": "Hagia Sophia",
+"category": "Religion & Culture",
+"difficulty": "medium",
+"explanation": "Hagia Sophia was built as a Byzantine cathedral, turned into an Ottoman mosque, and reflects layered cultural history.",
+"imageUrl": "https://images.unsplash.com/photo-1541059140300-841a44ff670f?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"history",
+"architecture",
+"sacred-sites"
+]
+},
+{
+"id": "religion_culture_051",
+"question": "Which ancient Persian religion features a dualistic struggle between light (Ahura Mazda) and darkness (Angra Mainyu)?",
+"options": [
+"Manichaeism",
+"Zoroastrianism",
+"Mandaeism",
+"Mithraism"
+],
+"correctAnswer": "Zoroastrianism",
+"category": "Religion & Culture",
+"difficulty": "medium",
+"explanation": "Zoroastrianism is one of the world's oldest continuously practiced religions, founded by the prophet Zoroaster in ancient Iran.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"zoroastrianism",
+"history",
+"persia"
+]
+},
+{
+"id": "religion_culture_052",
+"question": "What is the name of the traditional festival celebrating the birthday of the Hindu god Krishna?",
+"options": [
+"Rama Navami",
+"Janmashtami",
+"Maha Shivaratri",
+"Ganesh Chaturthi"
+],
+"correctAnswer": "Janmashtami",
+"category": "Religion & Culture",
+"difficulty": "medium",
+"explanation": "Krishna Janmashtami is an annual Hindu festival that celebrates the birth of Krishna, the eighth avatar of Vishnu.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"hinduism",
+"festivals",
+"krishna"
+]
+},
+{
+"id": "religion_culture_053",
+"question": "In Shinto belief, what term is used to describe the sacred spirits, forces, or essences found in nature?",
+"options": [
+"Kami",
+"Bodhisattva",
+"Avatar",
+"Yukai"
+],
+"correctAnswer": "Kami",
+"category": "Religion & Culture",
+"difficulty": "medium",
+"explanation": "Kami are the spirits, phenomena, or holy powers that are venerated in the Shinto religion.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"shinto",
+"concepts",
+"japan"
+]
+},
+{
+"id": "religion_culture_054",
+"question": "The 'Bab' and 'Baha'u'llah' are the primary founding prophetic figures of which monotheistic world religion?",
+"options": [
+"Sikhism",
+"The Baha'i Faith",
+"Zoroastrianism",
+"Unitarianism"
+],
+"correctAnswer": "The Baha'i Faith",
+"category": "Religion & Culture",
+"difficulty": "medium",
+"explanation": "The Baha'i Faith was established in 19th-century Persia, highlighting the spiritual unity of all humankind.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"bahai",
+"founders",
+"history"
+]
+},
+{
+"id": "religion_culture_055",
+"question": "This structural landmark is the Golden Temple (Harmandir Sahib). Which religion considers it their holiest earthly shrine?",
+"options": [
+"Hinduism",
+"Buddhism",
+"Sikhism",
+"Jainism"
+],
+"correctAnswer": "Sikhism",
+"category": "Religion & Culture",
+"difficulty": "medium",
+"explanation": "The Sri Harmandir Sahib in Amritsar, Punjab, India, is the preeminent spiritual site of Sikhism.",
+"imageUrl": "https://images.unsplash.com/photo-1510130387422-82cb229a507a?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"sikhism",
+"india",
+"sacred-sites"
+]
+},
+{
+"id": "religion_culture_056",
+"question": "Which Roman Emperor famously issued the Edict of Milan in 313 CE, legalizing Christianity across the empire?",
+"options": [
+"Augustus",
+"Nero",
+"Constantine the Great",
+"Marcus Aurelius"
+],
+"correctAnswer": "Constantine the Great",
+"category": "Religion & Culture",
+"difficulty": "medium",
+"explanation": "Constantine I played an influential role in the proclamation of the Edict of Milan, which decreed tolerance for Christianity.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"christianity",
+"history",
+"rome"
+]
+},
+{
+"id": "religion_culture_057",
+"question": "What is the primary spiritual focus of the ancient collection of texts known as the Upanishads?",
+"options": [
+"Ritual sacrifice instructions",
+"Philosophical speculation on the nature of reality and the self",
+"Historical battles of kings",
+"Astronomical charts and predictions"
+],
+"correctAnswer": "Philosophical speculation on the nature of reality and the self",
+"category": "Religion & Culture",
+"difficulty": "medium",
+"explanation": "The Upanishads contain central philosophical concepts of Hinduism, exploring Brahman (ultimate reality) and Atman (the individual soul).",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"hinduism",
+"philosophy",
+"texts"
+]
+},
+{
+"id": "religion_culture_058",
+"question": "In Judaism, what is the 'Mishnah'?",
+"options": [
+"A mystical ritual dance",
+"The first written collection of Jewish oral traditions and laws",
+"The crown placed over the Torah scroll",
+"A special bread eaten on the Sabbath"
+],
+"correctAnswer": "The first written collection of Jewish oral traditions and laws",
+"category": "Religion & Culture",
+"difficulty": "medium",
+"explanation": "The Mishnah is the first major written collection of the Jewish oral traditions, forming the core basis of the Talmud.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"judaism",
+"laws",
+"texts"
+]
+},
+{
+"id": "religion_culture_059",
+"question": "The concept of 'The Middle Way' is a definitive hallmark of which spiritual path?",
+"options": [
+"Buddhism",
+"Confucianism",
+"Islam",
+"Judaism"
+],
+"correctAnswer": "Buddhism",
+"category": "Religion & Culture",
+"difficulty": "medium",
+"explanation": "The Middle Way describes the Buddhist path of moderation, steering between extreme asceticism and sensual indulgence.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"buddhism",
+"philosophy",
+"concepts"
+]
+},
+{
+"id": "religion_culture_060",
+"question": "What country's flag features the 'Ashoka Chakra' wheel symbol, representing the wheel of law and dharma?",
+"options": [
+"Sri Lanka",
+"Nepal",
+"India",
+"Thailand"
+],
+"correctAnswer": "India",
+"category": "Religion & Culture",
+"difficulty": "medium",
+"explanation": "The Ashoka Chakra is a depiction of the Buddhist Dharmachakra, prominently positioned in the center of the flag of India.",
+"imageUrl": "https://images.unsplash.com/photo-1532375810709-75b1da00537c?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"symbols",
+"india",
+"flags"
+]
+},
+{
+"id": "religion_culture_061",
+"question": "Which early council in 325 CE formulated the definitive statement of core Christian beliefs regarding the divinity of Christ?",
+"options": [
+"Council of Chalcedon",
+"Council of Ephesus",
+"First Council of Nicaea",
+"Council of Trent"
+],
+"correctAnswer": "First Council of Nicaea",
+"category": "Religion & Culture",
+"difficulty": "hard",
+"explanation": "The First Council of Nicaea resulted in the first uniform Christian doctrine, called the Nicene Creed.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"christianity",
+"history",
+"theology"
+]
+},
+{
+"id": "religion_culture_062",
+"question": "Which ancient Jewish sect, known for its strict ascetic lifestyle, is widely believed to have compiled the Dead Sea Scrolls?",
+"options": [
+"Pharisees",
+"Sadducees",
+"Essenes",
+"Zealots"
+],
+"correctAnswer": "Essenes",
+"category": "Religion & Culture",
+"difficulty": "hard",
+"explanation": "Most scholars associate the community at Qumran, which produced and hid the Dead Sea Scrolls, with the Essenes.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"judaism",
+"history",
+"scrolls"
+]
+},
+{
+"id": "religion_culture_063",
+"question": "In Hindu philosophy, which specific school or darshana emphasizes non-dualism, stating that the individual soul (Atman) and absolute reality (Brahman) are identical?",
+"options": [
+"Samkhya",
+"Advaita Vedanta",
+"Nyaya",
+"Vaisheshika"
+],
+"correctAnswer": "Advaita Vedanta",
+"category": "Religion & Culture",
+"difficulty": "hard",
+"explanation": "Advaita Vedanta is a school of Hindu philosophy emphasizing radical non-dualism, championed prominently by Adi Shankara.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"hinduism",
+"philosophy",
+"theology"
+]
+},
+{
+"id": "religion_culture_064",
+"question": "What is the historical significance of the 'Hijra' in Islamic history?",
+"options": [
+"The return of Muhammad to Mecca",
+"The migration of Muhammad and his followers from Mecca to Medina",
+"The building of the first mosque in Jerusalem",
+"The compilation of the Hadith text"
+],
+"correctAnswer": "The migration of Muhammad and his followers from Mecca to Medina",
+"category": "Religion & Culture",
+"difficulty": "hard",
+"explanation": "The Hijra occurred in 622 CE and marks the beginning of the Islamic lunar calendar due to its foundational political and religious impact.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"islam",
+"history",
+"calendar"
+]
+},
+{
+"id": "religion_culture_065",
+"question": "This rare historical text represents the Avesta. It serves as the primary collection of sacred scriptures for which religious group?",
+"options": [
+"Mandaeans",
+"Zoroastrians",
+"Samaritans",
+"Jains"
+],
+"correctAnswer": "Zoroastrians",
+"category": "Religion & Culture",
+"difficulty": "hard",
+"explanation": "The Avesta is the primary collection of religious texts of Zoroastrianism, composed in the otherwise unrecorded Avestan language.",
+"imageUrl": "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"zoroastrianism",
+"texts",
+"history"
+]
+},
+{
+"id": "religion_culture_066",
+"question": "Which Japanese Buddhist monk is credited with founding Zen Buddhism's Soto school, emphasizing 'shikan-taza' (just sitting) meditation?",
+"options": [
+"Eisai",
+"Dogen",
+"Shinran",
+"Nichiren"
+],
+"correctAnswer": "Dogen",
+"category": "Religion & Culture",
+"difficulty": "hard",
+"explanation": "Dogen Zenji founded the Soto school of Zen in Japan after traveling to China to study Chan Buddhism.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"buddhism",
+"zen",
+"japan"
+]
+},
+{
+"id": "religion_culture_067",
+"question": "The comprehensive legal code of Judaism, consisting of both the Mishnah and the Gemara, is known by what name?",
+"options": [
+"The Midrash",
+"The Talmud",
+"The Tanakh",
+"The Haggadah"
+],
+"correctAnswer": "The Talmud",
+"category": "Religion & Culture",
+"difficulty": "hard",
+"explanation": "The Talmud is the central text of rabbinic Judaism and the primary source of Jewish religious law and theology.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"judaism",
+"laws",
+"texts"
+]
+},
+{
+"id": "religion_culture_068",
+"question": "What theological doctrine, prominent in Calvinist Protestantism, asserts that God has already determined who will receive salvation?",
+"options": [
+"Transubstantiation",
+"Predestination",
+"Justification by Faith",
+"Antinomianism"
+],
+"correctAnswer": "Predestination",
+"category": "Religion & Culture",
+"difficulty": "hard",
+"explanation": "Predestination is a doctrine in Christian theology, particularly associated with John Calvin, concerning the ultimate fate of human souls.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"christianity",
+"theology",
+"calvinism"
+]
+},
+{
+"id": "religion_culture_069",
+"question": "In Islamic scholarship, what does the term 'Isnad' refer to?",
+"options": [
+"The legal consensus of scholars",
+"The chain of narrators authenticating a Hadith",
+"The mystical dance of Sufi dervishes",
+"The architectural base of a minaret"
+],
+"correctAnswer": "The chain of narrators authenticating a Hadith",
+"category": "Religion & Culture",
+"difficulty": "hard",
+"explanation": "An isnad is the chain of authorities attesting to the historical authenticity of a specific saying or action attributed to Muhammad.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"islam",
+"hadith",
+"scholarship"
+]
+},
+{
+"id": "religion_culture_070",
+"question": "What ancient structure located in Jerusalem is currently the third-holiest site in Islam and features this distinct golden dome?",
+"options": [
+"Al-Aqsa Mosque",
+"The Dome of the Rock",
+"Church of the Holy Sepulchre",
+"The Western Wall"
+],
+"correctAnswer": "The Dome of the Rock",
+"category": "Religion & Culture",
+"difficulty": "hard",
+"explanation": "The Dome of the Rock is an Islamic shrine located on the Temple Mount in the Old City of Jerusalem, completed in 691 CE.",
+"imageUrl": "https://images.unsplash.com/photo-1597589827317-4c6d6e0a90bd?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"islam",
+"jerusalem",
+"sacred-sites"
+]
+},
+{
+"id": "religion_culture_071",
+"question": "In Jainism, who is the 24th and final Tirthankara (spiritual teacher) who revitalized the Jain community in ancient India?",
+"options": [
+"Rishabhanatha",
+"Parshvanatha",
+"Mahavira",
+"Gautama"
+],
+"correctAnswer": "Mahavira",
+"category": "Religion & Culture",
+"difficulty": "hard",
+"explanation": "Mahavira, also known as Vardhamana, was the 24th Tirthankara of Jainism and a contemporary of Gautama Buddha.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"jainism",
+"history",
+"founders"
+]
+},
+{
+"id": "religion_culture_072",
+"question": "What is the exact meaning of the term 'Gospel' derived from the Old English 'godspel'?",
+"options": [
+"Sacred Law",
+"Good News",
+"Divine Truth",
+"Holy Revelation"
+],
+"correctAnswer": "Good News",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "The word gospel originates from the Old English 'godspel', which directly translates the Greek 'euangelion', meaning 'good news'.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"christianity",
+"etymology",
+"bible"
+]
+},
+{
+"id": "religion_culture_073",
+"question": "Which religious building serves as the meeting place for a local congregation of Jewish people?",
+"options": [
+"Cathedral",
+"Mosque",
+"Synagogue",
+"Temple"
+],
+"correctAnswer": "Synagogue",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "A synagogue is a Jewish house of worship, used for prayer, study, and assembly.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"judaism",
+"architecture",
+"places"
+]
+},
+{
+"id": "religion_culture_074",
+"question": "What object, shown here, is blown like a trumpet during Rosh Hashanah and Yom Kippur services?",
+"options": [
+"Menorah",
+"Shofar",
+"Mezuzah",
+"Dreidel"
+],
+"correctAnswer": "Shofar",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "A shofar is a musical instrument made from a ram's horn, used for Jewish religious purposes.",
+"imageUrl": "https://images.unsplash.com/photo-1606925528821-4baee6ee6be1?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"judaism",
+"objects",
+"holidays"
+]
+},
+{
+"id": "religion_culture_075",
+"question": "Which of these concepts describes the physical incarnation of a deity on Earth in Hindu tradition?",
+"options": [
+"Guru",
+"Bodhisattva",
+"Avatar",
+"Swami"
+],
+"correctAnswer": "Avatar",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "An avatar is a material appearance or incarnation of a deity on Earth, most notably associated with Vishnu.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"hinduism",
+"theology",
+"concepts"
+]
+},
+{
+"id": "religion_culture_076",
+"question": "The annual pilgrimage to Mecca that every able-bodied Muslim is expected to complete at least once is called what?",
+"options": [
+"Zakat",
+"Shahada",
+"Hajj",
+"Sawm"
+],
+"correctAnswer": "Hajj",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "The Hajj is an mandatory religious duty for Muslims that must be carried out at least once in their lifetime if they are physically and financially capable.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"islam",
+"hajj",
+"pilgrimage"
+]
+},
+{
+"id": "religion_culture_077",
+"question": "Who is the central historical figure and foundational focus of Christianity?",
+"options": [
+"Saint Paul",
+"Jesus of Nazareth",
+"Moses",
+"Abraham"
+],
+"correctAnswer": "Jesus of Nazareth",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "Jesus of Nazareth is the central figure of Christianity, whom most Christian denominations worship as God the Son incarnate.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"christianity",
+"jesus",
+"founders"
+]
+},
+{
+"id": "religion_culture_078",
+"question": "What prominent symbol is frequently used to represent the teachings and path of Buddhism?",
+"options": [
+"The Lotus Blossom",
+"The Dharma Wheel",
+"The Crescent Moon",
+"The Om Symbol"
+],
+"correctAnswer": "The Dharma Wheel",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "The Dharma Wheel (Dharmachakra) represents the Buddha's teaching of the path to enlightenment.",
+"imageUrl": "https://images.unsplash.com/photo-1542362567-b07eac790abc?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"buddhism",
+"symbols",
+"icons"
+]
+},
+{
+"id": "religion_culture_079",
+"question": "Which of these books serves as the primary scripture detailing the lineage and spiritual history of the Latter-day Saint movement?",
+"options": [
+"The Book of Mormon",
+"The Apocrypha",
+"The Gnostic Gospels",
+"The Torah"
+],
+"correctAnswer": "The Book of Mormon",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "The Book of Mormon is a sacred text of the Latter-day Saint movement, first published in 1830 by Joseph Smith.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"christianity",
+"mormonism",
+"texts"
+]
+},
+{
+"id": "religion_culture_080",
+"question": "What is the core sacred text of Sikhism, treated with the highest spiritual respect as a living Guru?",
+"options": [
+"Guru Granth Sahib",
+"Dasam Granth",
+"The Vedas",
+"The Zend-Avesta"
+],
+"correctAnswer": "Guru Granth Sahib",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "The Guru Granth Sahib is the sovereign scripture of Sikhism, regarded by Sikhs as the final, sovereign, and eternal living Guru.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"sikhism",
+"scripture",
+"gurus"
+]
+},
+{
+"id": "religion_culture_081",
+"question": "What sacred symbol, seen here carved on a stone, represents the supreme reality or primordial sound in Hinduism?",
+"options": [
+"Swastika",
+"Om",
+"Trishula",
+"Lotus"
+],
+"correctAnswer": "Om",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "Om is a sacred sound and a spiritual symbol in Indian religions, signifying the essence of the ultimate reality or Brahman.",
+"imageUrl": "https://images.unsplash.com/photo-1609137144813-19597b4b1a1c?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"hinduism",
+"symbols",
+"om"
+]
+},
+{
+"id": "religion_culture_082",
+"question": "Which event is celebrated globally by Christians during the epiphany or Theophany holiday?",
+"options": [
+"The crucifixion of Jesus",
+"The revelation of Christ to the Gentiles (Magi) or His baptism",
+"The ascent into heaven",
+"The Last Supper"
+],
+"correctAnswer": "The revelation of Christ to the Gentiles (Magi) or His baptism",
+"category": "Religion & Culture",
+"difficulty": "medium",
+"explanation": "Epiphany commemorates the visit of the Magi to the Christ child or the baptism of Jesus in the Jordan River depending on the denomination.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"christianity",
+"holidays",
+"theology"
+]
+},
+{
+"id": "religion_culture_083",
+"question": "What is the specific name of the dietary regulations governing what is lawful and permissible for Muslims to eat?",
+"options": [
+"Halal",
+"Haram",
+"Kosher",
+"Sattvic"
+],
+"correctAnswer": "Halal",
+"category": "Religion & Culture",
+"difficulty": "medium",
+"explanation": "Halal is an Arabic term meaning permissible or lawful in classical Islamic law.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"islam",
+"diet",
+"culture"
+]
+},
+{
+"id": "religion_culture_084",
+"question": "Which of these is the major Jewish holiday that commemorates the liberation of the Israelites from Egyptian slavery?",
+"options": [
+"Sukkot",
+"Purim",
+"Passover",
+"Shavuot"
+],
+"correctAnswer": "Passover",
+"category": "Religion & Culture",
+"difficulty": "medium",
+"explanation": "Passover (Pesach) commemorates the Biblical story of Exodus, where God freed the Israelites from slavery in Egypt.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"judaism",
+"holidays",
+"history"
+]
+},
+{
+"id": "religion_culture_085",
+"question": "This grand architectural monument, the Basilica of Our Lady of Guadalupe, is located in which country?",
+"options": [
+"Spain",
+"Mexico",
+"Brazil",
+"Colombia"
+],
+"correctAnswer": "Mexico",
+"category": "Religion & Culture",
+"difficulty": "medium",
+"explanation": "The Basilica of Our Lady of Guadalupe is a Roman Catholic church and national shrine of Mexico in Mexico City.",
+"imageUrl": "https://images.unsplash.com/photo-1590055531934-2e9eb90a1f0a?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"christianity",
+"mexico",
+"shrines"
+]
+},
+{
+"id": "religion_culture_086",
+"question": "The concept of 'Samsara' across Indian religions refers explicitly to what spiritual dynamic?",
+"options": [
+"The dynamic ritual of sacrificing offerings",
+"The continuous cycle of birth, death, and rebirth",
+"The collection of hymns to the gods",
+"The code of conduct for warriors"
+],
+"correctAnswer": "The continuous cycle of birth, death, and rebirth",
+"category": "Religion & Culture",
+"difficulty": "medium",
+"explanation": "Samsara is the beginningless cycle of repeated birth, mundane existence, and dying again, which practitioners seek to escape.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"concepts",
+"hinduism",
+"buddhism"
+]
+},
+{
+"id": "religion_culture_087",
+"question": "Which of these figures is credited with triggering the Protestant Reformation by pinning his 95 Theses to a church door in 1517?",
+"options": [
+"John Calvin",
+"Martin Luther",
+"Huldrych Zwingli",
+"John Wesley"
+],
+"correctAnswer": "Martin Luther",
+"category": "Religion & Culture",
+"difficulty": "medium",
+"explanation": "Martin Luther's 95 Theses criticized Catholic church practices, sparking a monumental shift and division in European Christianity.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"christianity",
+"history",
+"reformation"
+]
+},
+{
+"id": "religion_culture_088",
+"question": "What is the translation or primary meaning of the Hindu epic title 'Ramayana'?",
+"options": [
+"The Song of God",
+"Rama's Journey",
+"The Great King",
+"The Sacred War"
+],
+"correctAnswer": "Rama's Journey",
+"category": "Religion & Culture",
+"difficulty": "medium",
+"explanation": "Ramayana translates literally to 'Rama's journey' or 'the advancement of Rama', tracking his life and trials.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"hinduism",
+"literature",
+"epics"
+]
+},
+{
+"id": "religion_culture_089",
+"question": "What country is home to the world's largest Muslim population by total numbers?",
+"options": [
+"Saudi Arabia",
+"Pakistan",
+"Indonesia",
+"Egypt"
+],
+"correctAnswer": "Indonesia",
+"category": "Religion & Culture",
+"difficulty": "medium",
+"explanation": "Indonesia is home to the largest absolute population of Muslims globally, with over 230 million adherents.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"islam",
+"geography",
+"demographics"
+]
+},
+{
+"id": "religion_culture_090",
+"question": "This geometric patterned design is known as a Mandala. In which spiritual tradition is it primarily utilized as a tool for meditation?",
+"options": [
+"Islam",
+"Judaism",
+"Buddhism",
+"Shinto"
+],
+"correctAnswer": "Buddhism",
+"category": "Religion & Culture",
+"difficulty": "medium",
+"explanation": "Mandalas are complex geometric configurations used in Hindu and Buddhist traditions to aid concentration and focus during meditation.",
+"imageUrl": "https://images.unsplash.com/photo-1605722243979-fe0be8158232?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"buddhism",
+"art",
+"symbols"
+]
+},
+{
+"id": "religion_culture_091",
+"question": "Which of these components is NOT one of the 'Five Ks' required to be worn by initiated Khalsa Sikhs?",
+"options": [
+"Kesh (uncut hair)",
+"Kara (steel bracelet)",
+"Kirpan (ceremonial sword)",
+"Karma (spiritual bead string)"
+],
+"correctAnswer": "Karma (spiritual bead string)",
+"category": "Religion & Culture",
+"difficulty": "medium",
+"explanation": "The Five Ks are Kesh, Kangha, Kara, Kachera, and Kirpan. Karma is a philosophical concept, not a physical item of attire.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"sikhism",
+"clothing",
+"practices"
+]
+},
+{
+"id": "religion_culture_092",
+"question": "The concept of 'Filial Piety', or deep respect for one's parents and ancestors, is a foundational cornerstone of which socio-philosophical system?",
+"options": [
+"Taoism",
+"Confucianism",
+"Legalism",
+"Shinto"
+],
+"correctAnswer": "Confucianism",
+"category": "Religion & Culture",
+"difficulty": "medium",
+"explanation": "Filial piety is a core virtue in Confucian philosophy, defining social structures and familial respect throughout East Asia.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"confucianism",
+"china",
+"philosophy"
+]
+},
+{
+"id": "religion_culture_093",
+"question": "Which theological doctrine asserts that the bread and wine used during Christian Communion literally become the actual body and blood of Christ?",
+"options": [
+"Consubstantiation",
+"Transubstantiation",
+"Memorialism",
+"Predestination"
+],
+"correctAnswer": "Transubstantiation",
+"category": "Religion & Culture",
+"difficulty": "hard",
+"explanation": "Transubstantiation is a definitive Catholic dogma explaining the change of substance of the eucharistic elements.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"christianity",
+"theology",
+"catholicism"
+]
+},
+{
+"id": "religion_culture_094",
+"question": "In Judaism, the holiday of Purim celebrates the salvation of the Jewish people from a plot to destroy them in which empire?",
+"options": [
+"The Roman Empire",
+"The Babylonian Empire",
+"The Persian Empire",
+"The Egyptian Empire"
+],
+"correctAnswer": "The Persian Empire",
+"category": "Religion & Culture",
+"difficulty": "hard",
+"explanation": "The story of Purim is recorded in the Biblical Book of Esther, set in the ancient Achaemenid Persian Empire.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"judaism",
+"holidays",
+"history"
+]
+},
+{
+"id": "religion_culture_095",
+"question": "Which of these major collection of texts contains the authoritative collections of sayings and actions attributed to the Prophet Muhammad?",
+"options": [
+"The Quran",
+"The Hadith",
+"The Sharia",
+"The Fiqh"
+],
+"correctAnswer": "The Hadith",
+"category": "Religion & Culture",
+"difficulty": "medium",
+"explanation": "Hadith reports are highly influential sources of Islamic law and moral guidance, separate from but complementary to the Quran.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"islam",
+"hadith",
+"texts"
+]
+},
+{
+"id": "religion_culture_096",
+"question": "What is the architectural name of the semi-circular niche in the wall of a mosque that indicates the direction of Mecca?",
+"options": [
+"Minaret",
+"Mihrab",
+"Minbar",
+"Dome"
+],
+"correctAnswer": "Mihrab",
+"category": "Religion & Culture",
+"difficulty": "hard",
+"explanation": "The mihrab gives the physical orientation of the qibla wall, letting worshippers know which direction to face during prayer.",
+"imageUrl": "https://images.unsplash.com/photo-1564507592333-c60657eea523?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"islam",
+"architecture",
+"mosques"
+]
+},
+{
+"id": "religion_culture_097",
+"question": "In Mahayana Buddhism, what term is used to describe an enlightened being who delays entering Nirvana out of compassion to save all suffering beings?",
+"options": [
+"Arhat",
+"Bodhisattva",
+"Lama",
+"Sadhu"
+],
+"correctAnswer": "Bodhisattva",
+"category": "Religion & Culture",
+"difficulty": "hard",
+"explanation": "The Bodhisattva ideal is a central theme in Mahayana Buddhism, emphasizing universal altruism and compassion.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"buddhism",
+"concepts",
+"theology"
+]
+},
+{
+"id": "religion_culture_098",
+"question": "Which of these major books is the primary scriptural text used by practitioners of the religion of Wicca?",
+"options": [
+"The Book of Shadows",
+"The Wiccan Rede",
+"The Malleus Maleficarum",
+"The Book of Law"
+],
+"correctAnswer": "The Book of Shadows",
+"category": "Religion & Culture",
+"difficulty": "hard",
+"explanation": "A Book of Shadows is a book containing religious texts and instructions for magical rituals found within the religion of Wicca.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"wicca",
+"texts",
+"paganism"
+]
+},
+{
+"id": "religion_culture_099",
+"question": "The historical figure of King Ashoka the Great is highly celebrated for doing what in the 3rd century BCE?",
+"options": [
+"Writing the Bhagavad Gita",
+"Converting to and massively spreading Buddhism across Asia",
+"Conquering and destroying the first Buddhist temples",
+"Establishing the first Islamic empire in India"
+],
+"correctAnswer": "Converting to and massively spreading Buddhism across Asia",
+"category": "Religion & Culture",
+"difficulty": "hard",
+"explanation": "Following the brutal Kalinga War, Emperor Ashoka converted to Buddhism and sponsored missions to spread the faith across Asia.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"buddhism",
+"history",
+"india"
+]
+},
+{
+"id": "religion_culture_100",
+"question": "This famous ancient collection of caves features magnificent Hindu, Buddhist, and Jain rock-cut temples. What is its name?",
+"options": [
+"Ajanta Caves",
+"Ellora Caves",
+"Elephanta Caves",
+"Borobudur Caves"
+],
+"correctAnswer": "Ellora Caves",
+"category": "Religion & Culture",
+"difficulty": "hard",
+"explanation": "The Ellora Caves in Maharashtra, India, feature 34 distinct rock-cut temples representing the coexistence of three major ancient Indian religions.",
+"imageUrl": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"architecture",
+"india",
+"sacred-sites"
+]
+},
+{
+"id": "religion_culture_101",
+"question": "What is the term for the day of rest and weekly spiritual observance in Judaism?",
+"options": [
+"Ramadan",
+"Lent",
+"Sabbath",
+"Diwali"
+],
+"correctAnswer": "Sabbath",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "The Sabbath (Shabbat) is Judaism's day of rest and seventh day of the week, running from Friday evening to Saturday evening.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"judaism",
+"practices",
+"days"
+]
+},
+{
+"id": "religion_culture_102",
+"question": "Which of these leaders is famously known for leading the Israelites out of Egyptian bondage and receiving the Ten Commandments?",
+"options": [
+"David",
+"Moses",
+"Elijah",
+"Jacob"
+],
+"correctAnswer": "Moses",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "Moses is a central prophet in Abrahamic faiths who received the Torah and led the Exodus from Egypt.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"history",
+"judaism",
+"prophets"
+]
+},
+{
+"id": "religion_culture_103",
+"question": "This distinct eight-sided building in Jerusalem features iconic blue tile work. What is it called?",
+"options": [
+"Al-Aqsa Mosque",
+"The Dome of the Rock",
+"Church of All Nations",
+"Western Wall Shrine"
+],
+"correctAnswer": "The Dome of the Rock",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "The Dome of the Rock is an instantly recognizable landmark in Jerusalem due to its bright golden dome and intricate blue Persian tiles.",
+"imageUrl": "https://images.unsplash.com/photo-1542856391-010fb87dcfed?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"islam",
+"jerusalem",
+"architecture"
+]
+},
+{
+"id": "religion_culture_104",
+"question": "What is the prominent multi-day autumn Hindu festival celebrated as the festival of lights?",
+"options": [
+"Holi",
+"Diwali",
+"Onam",
+"Pongal"
+],
+"correctAnswer": "Diwali",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "Diwali symbolizes the spiritual victory of light over darkness, good over evil, and knowledge over ignorance.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"hinduism",
+"festivals",
+"culture"
+]
+},
+{
+"id": "religion_culture_105",
+"question": "The status of complete enlightenment and liberation achieved under the Bodhi tree refers to which historical figure?",
+"options": [
+"Mahavira",
+"Siddhartha Gautama",
+"Confucius",
+"Guru Nanak"
+],
+"correctAnswer": "Siddhartha Gautama",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "Siddhartha Gautama achieved enlightenment while meditating under a sacred fig tree, thereafter becoming the Buddha.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"buddhism",
+"history",
+"founders"
+]
+},
+{
+"id": "religion_culture_106",
+"question": "What is the collective name given to the first four books of the Christian New Testament?",
+"options": [
+"The Epistles",
+"The Chronicles",
+"The Gospels",
+"The Prophets"
+],
+"correctAnswer": "The Gospels",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "The Gospels of Matthew, Mark, Luke, and John recount the life, ministry, death, and resurrection of Jesus.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"christianity",
+"bible",
+"texts"
+]
+},
+{
+"id": "religion_culture_107",
+"question": "Which animal is highly revered and considered sacred in traditional Hindu culture?",
+"options": [
+"The Elephant",
+"The Cow",
+"The Tiger",
+"The Lion"
+],
+"correctAnswer": "The Cow",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "The cow is honored in Hinduism as a symbol of life, wealth, and selfless giving, leading to strict taboos against beef consumption.",
+"imageUrl": "https://images.unsplash.com/photo-1570042225831-d98fa7577f1e?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"hinduism",
+"animals",
+"culture"
+]
+},
+{
+"id": "religion_culture_108",
+"question": "What is the designation for the leader of prayers in an Islamic mosque?",
+"options": [
+"Priest",
+"Rabbi",
+"Imam",
+"Monk"
+],
+"correctAnswer": "Imam",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "An Imam is an Islamic leadership position, most commonly recognized as the person who leads prayers in a mosque.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"islam",
+"leaders",
+"practices"
+]
+},
+{
+"id": "religion_culture_109",
+"question": "Which of these options represents the sacred foundational laws delivered to the Israelites at Mount Sinai?",
+"options": [
+"The Five Pillars",
+"The Ten Commandments",
+"The Noble Eightfold Path",
+"The Analects"
+],
+"correctAnswer": "The Ten Commandments",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "The Ten Commandments are a set of biblical principles relating to ethics and worship, fundamental to Judaism and Christianity.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"judaism",
+"christianity",
+"laws"
+]
+},
+{
+"id": "religion_culture_110",
+"question": "This structural complex is the Vatican. Inside which sovereign micro-state city is it located?",
+"options": [
+"Florence",
+"Rome",
+"Venice",
+"Milan"
+],
+"correctAnswer": "Rome",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "Vatican City is an independent enclave located entirely within the city limits of Rome, Italy.",
+"imageUrl": "https://images.unsplash.com/photo-1531572753322-ad063cecc140?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"christianity",
+"geography",
+"vatican"
+]
+},
+{
+"id": "religion_culture_111",
+"question": "What core term describes the theological belief that there is only one supreme God?",
+"options": [
+"Polytheism",
+"Monotheism",
+"Atheism",
+"Pantheism"
+],
+"correctAnswer": "Monotheism",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "Monotheism is defined as the belief in the existence of only one deity, characteristically seen in the Abrahamic religions.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"belief-systems",
+"theology",
+"terms"
+]
+},
+{
+"id": "religion_culture_112",
+"question": "In Buddhism, what does the term 'Sangha' traditionally refer to?",
+"options": [
+"The sacred texts",
+"The monastic community of monks and nuns",
+"The practice of meditation",
+"The temple altar"
+],
+"correctAnswer": "The monastic community of monks and nuns",
+"category": "Religion & Culture",
+"difficulty": "medium",
+"explanation": "The Sangha is one of the 'Three Jewels' of Buddhism, along with the Buddha and the Dharma, denoting the community.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"buddhism",
+"community",
+"terms"
+]
+},
+{
+"id": "religion_culture_113",
+"question": "What is the definitive name of the ancient legal and ethical code compiled from the teachings of Confucius?",
+"options": [
+"The Analects",
+"The Tao Te Ching",
+"The Upanishads",
+"The Tripitaka"
+],
+"correctAnswer": "The Analects",
+"category": "Religion & Culture",
+"difficulty": "medium",
+"explanation": "The Analects is an ancient Chinese book composed of a collection of sayings and ideas attributed to the philosopher Confucius.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"confucianism",
+"texts",
+"china"
+]
+},
+{
+"id": "religion_culture_114",
+"question": "Which of these options describes the ritual washing or ablution performed by Muslims before engaging in formal prayers?",
+"options": [
+"Ghusl",
+"Wudu",
+"Zakat",
+"Tayammum"
+],
+"correctAnswer": "Wudu",
+"category": "Religion & Culture",
+"difficulty": "medium",
+"explanation": "Wudu is the Islamic procedure for cleansing parts of the body, a type of ritual purification essential before prayer.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"islam",
+"practices",
+"purification"
+]
+},
+{
+"id": "religion_culture_115",
+"question": "What distinctive structure, pictured here, is a stupa, utilized in which spiritual culture?",
+"options": [
+"Islamic architecture",
+"Buddhist architecture",
+"Jewish architecture",
+"Christian architecture"
+],
+"correctAnswer": "Buddhist architecture",
+"category": "Religion & Culture",
+"difficulty": "medium",
+"explanation": "A stupa is a dirt- or stone-mound-like structure containing relics, used as a place of meditation in the Buddhist tradition.",
+"imageUrl": "https://images.unsplash.com/photo-1590075865003-e48277afd558?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"buddhism",
+"architecture",
+"monuments"
+]
+},
+{
+"id": "religion_culture_116",
+"question": "The historical period known as the Babylonian Captivity is a critical event in the history of which religious group?",
+"options": [
+"The Early Christians",
+"The Jewish people",
+"The Muslims",
+"The Zoroastrians"
+],
+"correctAnswer": "The Jewish people",
+"category": "Religion & Culture",
+"difficulty": "medium",
+"explanation": "The Babylonian Captivity was the period in Jewish history during which a large number of Judeans were exiled to Babylon following the conquest of Jerusalem.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"judaism",
+"history",
+"exile"
+]
+},
+{
+"id": "religion_culture_117",
+"question": "Which theological council in 1545-1563 CE defined the Catholic Counter-Reformation response to Protestantism?",
+"options": [
+"Council of Constance",
+"Council of Trent",
+"First Vatican Council",
+"Council of Nicaea"
+],
+"correctAnswer": "Council of Trent",
+"category": "Religion & Culture",
+"difficulty": "medium",
+"explanation": "The Council of Trent was highly important for its sweeping decrees on self-reform and dogmatic definitions within the Catholic Church.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"christianity",
+"history",
+"reformation"
+]
+},
+{
+"id": "religion_culture_118",
+"question": "In Hindu theology, who are the three deities that comprise the holy trinity known as the Trimurti?",
+"options": [
+"Brahma, Vishnu, Shiva",
+"Rama, Krishna, Hanuman",
+"Saraswati, Lakshmi, Parvati",
+"Ganesha, Kartikeya, Indra"
+],
+"correctAnswer": "Brahma, Vishnu, Shiva",
+"category": "Religion & Culture",
+"difficulty": "medium",
+"explanation": "The Trimurti represents the cosmic functions of creation (Brahma), preservation (Vishnu), and destruction/transformation (Shiva).",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"hinduism",
+"deities",
+"theology"
+]
+},
+{
+"id": "religion_culture_119",
+"question": "The foundational 73-book scripture of the Catholic Church splits into how many books in the typical Protestant Bible?",
+"options": [
+"66 books",
+"70 books",
+"80 books",
+"60 books"
+],
+"correctAnswer": "66 books",
+"category": "Religion & Culture",
+"difficulty": "medium",
+"explanation": "Protestant Bibles omit the seven deuterocanonical books from the Old Testament, leaving a total of 66 books.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"christianity",
+"bible",
+"denominations"
+]
+},
+{
+"id": "religion_culture_120",
+"question": "This famous cathedral, Saint Basil's Cathedral, is a hallmark of which regional religious architecture?",
+"options": [
+"Greek Orthodox",
+"Russian Orthodox",
+"Roman Catholic",
+"Anglican Church"
+],
+"correctAnswer": "Russian Orthodox",
+"category": "Religion & Culture",
+"difficulty": "medium",
+"explanation": "Saint Basil's Cathedral in Moscow, Russia, features distinctive onion domes iconic to Russian Orthodox architecture.",
+"imageUrl": "https://images.unsplash.com/photo-1512495039889-52a3b799c9bc?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"architecture",
+"orthodox",
+"russia"
+]
+},
+{
+"id": "religion_culture_121",
+"question": "What is the translation of the word 'Mahayana', representing a major school of Buddhism?",
+"options": [
+"Way of the Elders",
+"Great Vehicle",
+"Diamond Path",
+"Secret Wisdom"
+],
+"correctAnswer": "Great Vehicle",
+"category": "Religion & Culture",
+"difficulty": "medium",
+"explanation": "Mahayana translates to 'Great Vehicle' in Sanskrit, reflecting its focus on the universal path to salvation for all beings.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"buddhism",
+"etymology",
+"concepts"
+]
+},
+{
+"id": "religion_culture_122",
+"question": "Which of these is the primary mystical branch of Islam, emphasizing internal reflection and a direct personal relationship with God?",
+"options": [
+"Wahhabism",
+"Sufism",
+"Salafism",
+"Ibadi"
+],
+"correctAnswer": "Sufism",
+"category": "Religion & Culture",
+"difficulty": "medium",
+"explanation": "Sufism is a mystical form of Islam that focuses on spiritual closeness to God through practices like meditation and chanting.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"islam",
+"sufism",
+"mysticism"
+]
+},
+{
+"id": "religion_culture_123",
+"question": "In ancient Greek religion and culture, who was the king of the Olympian gods and god of the sky?",
+"options": [
+"Poseidon",
+"Hades",
+"Zeus",
+"Apollo"
+],
+"correctAnswer": "Zeus",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "Zeus was the sky and thunder god in ancient Greek religion, who ruled as king of the gods of Mount Olympus.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"mythology",
+"greece",
+"history"
+]
+},
+{
+"id": "religion_culture_124",
+"question": "What is the primary spiritual focus of the Jewish holiday of Yom Kippur?",
+"options": [
+"Celebrating the harvest",
+"Atonement and repentance through fasting",
+"Reading the Book of Esther",
+"Building temporary outdoor booths"
+],
+"correctAnswer": "Atonement and repentance through fasting",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "Yom Kippur is known as the Day of Atonement, the holiest day of the year in Judaism, marked by a 25-hour fast.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"judaism",
+"holidays",
+"practices"
+]
+},
+{
+"id": "religion_culture_125",
+"question": "This famous historical landmark, Stonehenge, is widely theorized to have been used as a sacred ritual site by which ancient group?",
+"options": [
+"The Romans",
+"The Anglo-Saxons",
+"Prehistoric Celtic Druids / Neolithic peoples",
+"The Vikings"
+],
+"correctAnswer": "Prehistoric Celtic Druids / Neolithic peoples",
+"category": "Religion & Culture",
+"difficulty": "medium",
+"explanation": "Stonehenge was constructed by Neolithic and Bronze Age people and remains a site of deep religious importance for modern Pagans and Druids.",
+"imageUrl": "https://images.unsplash.com/photo-1508849789987-4e5333c12b78?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"history",
+"paganism",
+"monuments"
+]
+},
+{
+"id": "religion_culture_126",
+"question": "What is the formal term for the study of religious faith, practice, and the nature of the divine?",
+"options": [
+"Philosophy",
+"Theology",
+"Eschatology",
+"Anthropology"
+],
+"correctAnswer": "Theology",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "Theology is the systematic study of the nature of the divine and, more broadly, of religious belief.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"theology",
+"education",
+"terms"
+]
+},
+{
+"id": "religion_culture_127",
+"question": "In the Christian calendar, what is the name of the 40-day period of fasting and penitence leading up to Easter?",
+"options": [
+"Advent",
+"Epiphany",
+"Lent",
+"Pentecost"
+],
+"correctAnswer": "Lent",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "Lent is a solemn religious observance in the Christian liturgical calendar commemorating the 40 days Jesus spent fasting in the desert.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"christianity",
+"holidays",
+"practices"
+]
+},
+{
+"id": "religion_culture_128",
+"question": "Which ancient Egyptian deity, often depicted with the head of an ibis, was revered as the god of wisdom and writing?",
+"options": [
+"Osiris",
+"Anubis",
+"Thoth",
+"Horus"
+],
+"correctAnswer": "Thoth",
+"category": "Religion & Culture",
+"difficulty": "medium",
+"explanation": "Thoth was an important ancient Egyptian god associated with the maintenance of the universe, writing, and calculations.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"mythology",
+"egypt",
+"history"
+]
+},
+{
+"id": "religion_culture_129",
+"question": "What is the primary spiritual meaning of the term 'Dharma' in Hinduism?",
+"options": [
+"The practice of silent meditation",
+"Cosmic law, order, and righteous duty",
+"The final escape from the physical world",
+"The physical collection of ritual offerings"
+],
+"correctAnswer": "Cosmic law, order, and righteous duty",
+"category": "Religion & Culture",
+"difficulty": "medium",
+"explanation": "Dharma signifies behaviors that are considered to be in accord with Rta, the order that makes life and universe possible.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"hinduism",
+"concepts",
+"philosophy"
+]
+},
+{
+"id": "religion_culture_130",
+"question": "This massive structure is the Great Mosque of Mecca. What is the name of the dark building in its center?",
+"options": [
+"The Kaaba",
+"The Maqam",
+"The Hijr",
+"The Minaret"
+],
+"correctAnswer": "The Kaaba",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "The Kaaba is the most sacred structure in Islam, situated in the center of the Masjid al-Haram in Mecca.",
+"imageUrl": "https://images.unsplash.com/photo-1542856391-010fb87dcfed?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"islam",
+"mecca",
+"sacred-sites"
+]
+},
+{
+"id": "religion_culture_131",
+"question": "In the Islamic legal tradition, what does the term 'Sharia' translate to or signify?",
+"options": [
+"The final declaration",
+"The path to water or clear path",
+"The code of kings",
+"The philosophical debate"
+],
+"correctAnswer": "The path to water or clear path",
+"category": "Religion & Culture",
+"difficulty": "hard",
+"explanation": "Sharia linguistically means 'the clear, well-trodden path to water' and serves as the religious legal framework for Muslims.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"islam",
+"sharia",
+"laws"
+]
+},
+{
+"id": "religion_culture_132",
+"question": "Which prominent Protestant theologian developed the systematic theology known as the Institutes of the Christian Religion?",
+"options": [
+"Martin Luther",
+"John Calvin",
+"Huldrych Zwingli",
+"John Knox"
+],
+"correctAnswer": "John Calvin",
+"category": "Religion & Culture",
+"difficulty": "hard",
+"explanation": "John Calvin's Institutes of the Christian Religion remains a seminal work shaping Reformed Protestant theology.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"christianity",
+"history",
+"theology"
+]
+},
+{
+"id": "religion_culture_133",
+"question": "What is the primary spiritual goal in Hinduism, representing liberation from the cycle of samsara?",
+"options": [
+"Karma",
+"Dharma",
+"Moksha",
+"Nirvana"
+],
+"correctAnswer": "Moksha",
+"category": "Religion & Culture",
+"difficulty": "medium",
+"explanation": "Moksha is the ultimate goal in Hinduism, denoting liberation, freedom, and release from the cycle of rebirth.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"hinduism",
+"concepts",
+"philosophy"
+]
+},
+{
+"id": "religion_culture_134",
+"question": "In the Norse mythological tradition, what is the name of the majestic hall where fallen warriors are brought by Valkyries?",
+"options": [
+"Asgard",
+"Midgard",
+"Valhalla",
+"Helheim"
+],
+"correctAnswer": "Valhalla",
+"category": "Religion & Culture",
+"difficulty": "medium",
+"explanation": "Valhalla is a splendid hall in Asgard ruled over by the god Odin, housing those who die heroically in battle.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"mythology",
+"norse",
+"history"
+]
+},
+{
+"id": "religion_culture_135",
+"question": "This prominent ancient structure is the Parthenon. Which Greek goddess was it originally dedicated to?",
+"options": [
+"Hera",
+"Aphrodite",
+"Athena",
+"Artemis"
+],
+"correctAnswer": "Athena",
+"category": "Religion & Culture",
+"difficulty": "medium",
+"explanation": "The Parthenon on the Athenian Acropolis was dedicated to Athena Parthenos, the patron deity of the city of Athens.",
+"imageUrl": "https://images.unsplash.com/photo-1555992828-ca4dbe41d294?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"mythology",
+"greece",
+"architecture"
+]
+},
+{
+"id": "religion_culture_136",
+"question": "The primary scriptures of Theravada Buddhism are written in which classical Indo-Aryan language?",
+"options": [
+"Sanskrit",
+"Pali",
+"Prakrit",
+"Tibetan"
+],
+"correctAnswer": "Pali",
+"category": "Religion & Culture",
+"difficulty": "hard",
+"explanation": "The Pali Canon is the standard collection of scriptures in the Theravada Buddhist tradition, preserved in the Pali language.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"buddhism",
+"languages",
+"texts"
+]
+},
+{
+"id": "religion_culture_137",
+"question": "What unique ritual architectural feature is characteristic of Zoroastrian treatment of the deceased to avoid polluting the earth?",
+"options": [
+"Catacombs",
+"Towers of Silence",
+"Mummification tombs",
+"Pyres on rivers"
+],
+"correctAnswer": "Towers of Silence",
+"category": "Religion & Culture",
+"difficulty": "hard",
+"explanation": "A Dakhma, or Tower of Silence, is a circular, raised structure built by Zoroastrians for excarnation (exposure of dead bodies to scavenging birds).",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"zoroastrianism",
+"practices",
+"architecture"
+]
+},
+{
+"id": "religion_culture_138",
+"question": "In the Jewish tradition, what special event celebrates a young girl's reaching of spiritual and moral maturity at age 12 or 13?",
+"options": [
+"Bar Mitzvah",
+"Bat Mitzvah",
+"Chupah",
+"Mazel Tov"
+],
+"correctAnswer": "Bat Mitzvah",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "A Bat Mitzvah is the coming-of-age ritual for Jewish girls, transitioning them into adulthood within the community.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"judaism",
+"rituals",
+"culture"
+]
+},
+{
+"id": "religion_culture_139",
+"question": "The foundational dynamic of 'Wu Wei' (effortless action or non-action) is a defining philosophy of which path?",
+"options": [
+"Confucianism",
+"Taoism",
+"Buddhism",
+"Hinduism"
+],
+"correctAnswer": "Taoism",
+"category": "Religion & Culture",
+"difficulty": "medium",
+"explanation": "Wu wei is a core concept of Taoism, meaning natural action or action that does not involve struggle or excessive force.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"taoism",
+"philosophy",
+"concepts"
+]
+},
+{
+"id": "religion_culture_140",
+"question": "What is the name of this ancient stone monument in Mexico, used as a ritual solar calendar by which civilization?",
+"options": [
+"Inca",
+"Aztec",
+"Maya",
+"Olmec"
+],
+"correctAnswer": "Aztec",
+"category": "Religion & Culture",
+"difficulty": "medium",
+"explanation": "The Aztec Sun Stone (or Calendar Stone) is a massive basalt sculpture depicting cosmic eras and complex ritual schedules.",
+"imageUrl": "https://images.unsplash.com/photo-1518638150340-f706e86654de?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"history",
+"aztec",
+"monuments"
+]
+},
+{
+"id": "religion_culture_141",
+"question": "Which of these fasts is considered a complete, mandatory 25-hour fast observed in Judaism?",
+"options": [
+"Yom Kippur",
+"Hanukkah",
+"Purim",
+"Rosh Hashanah"
+],
+"correctAnswer": "Yom Kippur",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "Yom Kippur features a strict 25-hour period of complete fasting and intensive prayer.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"judaism",
+"fasting",
+"holidays"
+]
+},
+{
+"id": "religion_culture_142",
+"question": "What historical event led to the creation of the Church of England in the 16th century?",
+"options": [
+"The pinning of the 95 Theses",
+"King Henry VIII's break with the Pope over annulment",
+"The translation of the Bible into English",
+"The Council of Trent directives"
+],
+"correctAnswer": "King Henry VIII's break with the Pope over annulment",
+"category": "Religion & Culture",
+"difficulty": "medium",
+"explanation": "Henry VIII separated the Church of England from the Roman Catholic Church when the Pope refused to annul his marriage to Catherine of Aragon.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"christianity",
+"history",
+"england"
+]
+},
+{
+"id": "religion_culture_143",
+"question": "In Islam, what does the term 'Qibla' refer to?",
+"options": [
+"The mandatory tax for charity",
+"The direction facing the Kaaba during prayer",
+"The ritual sermon on Friday",
+"The dynamic text of Hadith"
+],
+"correctAnswer": "The direction facing the Kaaba during prayer",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "The Qibla is the fixed direction towards the Kaaba in the Sacred Mosque in Mecca, used by Muslims in all religious prayers.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"islam",
+"practices",
+"prayer"
+]
+},
+{
+"id": "religion_culture_144",
+"question": "The concept of 'Anatta' or 'Anatman' in Buddhism represents which core idea?",
+"options": [
+"The eternity of the individual soul",
+"The concept of non-self or lack of a permanent soul",
+"The immediate accumulation of good karma",
+"The ritual practice of chanting mantras"
+],
+"correctAnswer": "The concept of non-self or lack of a permanent soul",
+"category": "Religion & Culture",
+"difficulty": "hard",
+"explanation": "Anatta is a foundational Buddhist philosophy distinguishing it from Hinduism, which asserts a permanent soul (Atman).",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"buddhism",
+"philosophy",
+"concepts"
+]
+},
+{
+"id": "religion_culture_145",
+"question": "This famous Japanese structural gate is a Torii. Passing through it marks the transition into what space?",
+"options": [
+"A Buddhist monastery",
+"A Shinto sacred shrine area",
+"An Imperial palace court",
+"A historical Zen tea garden"
+],
+"correctAnswer": "A Shinto sacred shrine area",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "Torii gates are traditionally placed at the entrance of Shinto shrines to signal the transition from the profane to the sacred.",
+"imageUrl": "https://images.unsplash.com/photo-1542640244-7e672d6cef21?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"shinto",
+"japan",
+"shrines"
+]
+},
+{
+"id": "religion_culture_146",
+"question": "Who was the Roman procurator responsible for presiding over the trial of Jesus and ordering his crucifixion?",
+"options": [
+"Herod Antipas",
+"Pontius Pilate",
+"Caesar Augustus",
+"Nero"
+],
+"correctAnswer": "Pontius Pilate",
+"category": "Religion & Culture",
+"difficulty": "easy",
+"explanation": "Pontius Pilate served as the prefect of the Roman province of Judaea and famously authorized Jesus' execution.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"christianity",
+"history",
+"rome"
+]
+},
+{
+"id": "religion_culture_147",
+"question": "In Hindu epics, what is the 'Bhagavad Gita'?",
+"options": [
+"A compilation of legal penalties",
+"A dialogue between Prince Arjuna and Lord Krishna on duty and reality",
+"A set of architectural descriptions for temples",
+"A chronological lineage of ancient kings"
+],
+"correctAnswer": "A dialogue between Prince Arjuna and Lord Krishna on duty and reality",
+"category": "Religion & Culture",
+"difficulty": "medium",
+"explanation": "The Bhagavad Gita is a 700-verse Hindu scripture that forms part of the epic Mahabharata, summarizing key spiritual paths.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"hinduism",
+"texts",
+"philosophy"
+]
+},
+{
+"id": "religion_culture_148",
+"question": "What is the primary spiritual focus of the indigenous African religion known as Ifá?",
+"options": [
+"Strict ascetic isolation",
+"Divination and communication with the Orishas",
+"The building of structural ziggurats",
+"A complete rejection of all ancestral rituals"
+],
+"correctAnswer": "Divination and communication with the Orishas",
+"category": "Religion & Culture",
+"difficulty": "hard",
+"explanation": "Ifá is a religion and system of divination originating among the Yoruba people, focusing on alignment with spiritual entities (Orishas).",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"africa",
+"indigenous",
+"practices"
+]
+},
+{
+"id": "religion_culture_149",
+"question": "The concept of 'Lanoo' or 'Chela' across Eastern master-disciple lineages refers to what position?",
+"options": [
+"The high priest",
+"The student or disciple",
+"The temple cook",
+"The physical deity"
+],
+"correctAnswer": "The student or disciple",
+"category": "Religion & Culture",
+"difficulty": "hard",
+"explanation": "Chela is a traditional Indian term meaning a student or disciple of a religious guru.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"terms",
+"hinduism",
+"buddhism"
+]
+},
+{
+"id": "religion_culture_150",
+"question": "This beautiful architectural landmark is the Lotus Temple in New Delhi, India. Which religion uses it as a house of worship?",
+"options": [
+"Buddhism",
+"Hinduism",
+"The Baha'i Faith",
+"Jainism"
+],
+"correctAnswer": "The Baha'i Faith",
+"category": "Religion & Culture",
+"difficulty": "medium",
+"explanation": "The Lotus Temple is a Baha'i House of Worship noted for its flowerlike shape, open to all people regardless of religion.",
+"imageUrl": "https://images.unsplash.com/photo-1528181304800-259b08848526?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"bahai",
+"india",
+"architecture"
+]
+},
+{
+"id": "religion_culture_151",
+"question": "What is the name of the traditional multi-day Jewish holiday that involves building temporary outdoor huts to dine in?",
+"options": [
+"Shavuot",
+"Purim",
+"Sukkot",
+"Hanukkah"
+],
+"correctAnswer": "Sukkot",
+"category": "Religion & Culture",
+"difficulty": "medium",
+"explanation": "Sukkot is a biblical Jewish holiday celebrating the harvest and commemorating the sheltering of the Israelites in the wilderness.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"judaism",
+"holidays",
+"practices"
+]
+},
+{
+"id": "religion_culture_152",
+"question": "The concept of 'Purgatory' is a distinctive theological feature of which major Christian denomination?",
+"options": [
+"Eastern Orthodox",
+"Southern Baptist",
+"Roman Catholic",
+"Presbyterian"
+],
+"correctAnswer": "Roman Catholic",
+"category": "Religion & Culture",
+"difficulty": "medium",
+"explanation": "Purgatory is an intermediate state after physical death for temporary purification in Roman Catholic theology.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"christianity",
+"theology",
+"catholicism"
+]
+},
+{
+"id": "religion_culture_153",
+"question": "Which ancient Mesopotamian religious structure consists of a terraced step pyramid of successively receding stories?",
+"options": [
+"Obelisk",
+"Ziggurat",
+"Catacomb",
+"Stupa"
+],
+"correctAnswer": "Ziggurat",
+"category": "Religion & Culture",
+"difficulty": "medium",
+"explanation": "Ziggurats were massive structures built in ancient Mesopotamia to serve as elevated platforms for local religious temples.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"history",
+"architecture",
+"mesopotamia"
+]
+},
+{
+"id": "religion_culture_154",
+"question": "In Sufism, what is the symbolic significance of the distinctive spinning dance performed by Whirling Dervishes?",
+"options": [
+"Simulating a military battle format",
+"A meditative trance to achieve mystical union with God",
+"A ritual celebration of a new king",
+"A method to predict future weather shifts"
+],
+"correctAnswer": "A meditative trance to achieve mystical union with God",
+"category": "Religion & Culture",
+"difficulty": "medium",
+"explanation": "The Sama dance is a traditional Sufi ceremony meant to represent a spiritual journey of the mind and love to perfection and God.",
+"imageUrl": "https://images.unsplash.com/photo-1599837265887-897f2ee6919c?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"sufism",
+"islam",
+"practices"
+]
+},
+{
+"id": "religion_culture_155",
+"question": "The foundational dynamic of 'Satori' in Japanese Zen Buddhism translates closest to what experience?",
+"options": [
+"Deep physical sleep",
+"Sudden spiritual awakening or enlightenment",
+"Extreme grief or dynamic mourning",
+"A systematic logical conclusion"
+],
+"correctAnswer": "Sudden spiritual awakening or enlightenment",
+"category": "Religion & Culture",
+"difficulty": "hard",
+"explanation": "Satori is a Japanese Buddhist term for awakening, comprehension, and understanding of ultimate reality.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"buddhism",
+"zen",
+"concepts"
+]
+},
+{
+"id": "religion_culture_156",
+"question": "Which European city was historically divided by a major papal decree line in the 1494 Treaty of Tordesillas, shaping global religious colonization maps?",
+"options": [
+"Rome",
+"Tordesillas",
+"Madrid",
+"Lisbon"
+],
+"correctAnswer": "Tordesillas",
+"category": "Religion & Culture",
+"difficulty": "hard",
+"explanation": "The treaty signed in Tordesillas, authenticated by Pope Alexander VI, effectively divided non-Christian global lands between Spain and Portugal.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"christianity",
+"history",
+"geopolitics"
+]
+}
+]

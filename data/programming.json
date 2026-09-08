@@ -1,0 +1,2002 @@
+﻿[
+{
+"id": "prog_001",
+"question": "What is the primary purpose of the 'final' keyword in Dart?",
+"options": [
+"To define a compile-time constant",
+"To prevent a variable from being reassigned after initialization",
+"To make a variable accessible only within the same file",
+"To automatically infer the variable type"
+],
+"correctAnswer": "To prevent a variable from being reassigned after initialization",
+"category": "Programming",
+"difficulty": "easy",
+"explanation": "A 'final' variable can only be set once. Unlike 'const', its value can be determined at runtime.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["dart", "flutter", "variables"]
+},
+{
+"id": "prog_002",
+"question": "Which of the following data structures operates on a Last-In, First-Out (LIFO) basis?",
+"options": [
+"Queue",
+"Stack",
+"Linked List",
+"Binary Tree"
+],
+"correctAnswer": "Stack",
+"category": "Programming",
+"difficulty": "easy",
+"explanation": "A stack pushes elements onto the top and pops them from the top, following the LIFO principle.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["dsa", "fundamentals"]
+},
+{
+"id": "prog_003",
+"question": "In Python, which keyword is used to handle exceptions that occur in a 'try' block?",
+"options": [
+"catch",
+"except",
+"throw",
+"error"
+],
+"correctAnswer": "except",
+"category": "Programming",
+"difficulty": "easy",
+"explanation": "Python uses 'try' and 'except' blocks to handle exceptions, unlike languages like Java or JavaScript which use 'catch'.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["python", "exceptions"]
+},
+{
+"id": "prog_004",
+"question": "What is the time complexity of searching for an element in a balanced Binary Search Tree (BST)?",
+"options": [
+"O(1)",
+"O(n)",
+"O(log n)",
+"O(n log n)"
+],
+"correctAnswer": "O(log n)",
+"category": "Programming",
+"difficulty": "medium",
+"explanation": "Because a balanced BST splits the search space in half at each step, the lookup time is logarithmic.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["dsa", "complexity", "trees"]
+},
+{
+"id": "prog_005",
+"question": "Which Git command is used to record changes to the local repository?",
+"options": [
+"git push",
+"git commit",
+"git add",
+"git save"
+],
+"correctAnswer": "git commit",
+"category": "Programming",
+"difficulty": "easy",
+"explanation": "'git commit' takes a snapshot of the staged changes and records it in the repository history.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["git", "vcs"]
+},
+{
+"id": "prog_006",
+"question": "What does SQL stand for?",
+"options": [
+"Structured Query Language",
+"Simple Query Language",
+"Sequential Query Language",
+"Standard Query Language"
+],
+"correctAnswer": "Structured Query Language",
+"category": "Programming",
+"difficulty": "easy",
+"explanation": "SQL stands for Structured Query Language, used to manage and manipulate relational databases.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["sql", "databases"]
+},
+{
+"id": "prog_007",
+"question": "Which HTTP status code represents an unauthorized request error?",
+"options": [
+"400 Bad Request",
+"401 Unauthorized",
+"403 Forbidden",
+"404 Not Found"
+],
+"correctAnswer": "401 Unauthorized",
+"category": "Programming",
+"difficulty": "medium",
+"explanation": "The HTTP 401 Unauthorized status response code indicates that the client request has not been completed because it lacks valid authentication credentials.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["http", "networking", "api"]
+},
+{
+"id": "prog_008",
+"question": "In JavaScript, what type of scope does a variable declared with 'let' have?",
+"options": [
+"Global scope",
+"Function scope",
+"Block scope",
+"Module scope"
+],
+"correctAnswer": "Block scope",
+"category": "Programming",
+"difficulty": "medium",
+"explanation": "Variables declared with 'let' or 'const' are limited to the block, statement, or expression in which they are defined.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["javascript", "scope"]
+},
+{
+"id": "prog_009",
+"question": "What design pattern focuses on restricting a class to a single instance and providing global access to it?",
+"options": [
+"Factory Pattern",
+"Observer Pattern",
+"Singleton Pattern",
+"Strategy Pattern"
+],
+"correctAnswer": "Singleton Pattern",
+"category": "Programming",
+"difficulty": "easy",
+"explanation": "The Singleton design pattern ensures a class has only one instance and provides a global point of access to it.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["design-patterns", "oop"]
+},
+{
+  "id": "prog_010",
+  "question": "Which HTML5 element is used to dynamically draw 2D graphics via JavaScript?",
+  "options": [
+    "<canvas>",
+    "<svg>",
+    "<video>",
+    "<graphics>"
+  ],
+  "correctAnswer": "<canvas>",
+  "category": "Programming",
+  "difficulty": "easy",
+  "explanation": "The <canvas> element is an HTML5 container used to dynamically render 2D graphics through JavaScript.",
+  "imageUrl": "https://images.unsplash.com/photo-1542831371-29b0f74f9713?w=500",
+  "createdBy": "system",
+  "createdAt": "2026-01-01T00:00:00.000Z",
+  "updatedAt": "2026-01-01T00:00:00.000Z",
+  "isUserGenerated": false,
+  "tags": ["html5", "frontend"]
+},
+{
+"id": "prog_011",
+"question": "What is the primary role of the garbage collector in modern programming runtimes like Java or .NET?",
+"options": [
+"To optimize database execution queries",
+"To automatically reclaim memory occupied by objects no longer in use",
+"To verify bytecode execution safety",
+"To bundle deployment builds automatically"
+],
+"correctAnswer": "To automatically reclaim memory occupied by objects no longer in use",
+"category": "Programming",
+"difficulty": "easy",
+"explanation": "Garbage collection tracks objects in heap memory and automatically deallocates memory when they are no longer referenced.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["memory-management", "runtime"]
+},
+{
+"id": "prog_012",
+"question": "Which programming paradigm treats computation as the evaluation of mathematical functions and avoids changing state?",
+"options": [
+"Imperative Programming",
+"Functional Programming",
+"Object-Oriented Programming",
+"Procedural Programming"
+],
+"correctAnswer": "Functional Programming",
+"category": "Programming",
+"difficulty": "medium",
+"explanation": "Functional programming focuses on pure functions, immutability, and declarative logic rather than side effects and state manipulation.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["paradigms", "functional"]
+},
+{
+"id": "prog_013",
+"question": "What does the abbreviation 'REST' stand for in web service development?",
+"options": [
+"Representational State Transfer",
+"Remote Evaluation System Text",
+"Relational State Transfer",
+"Responsive Elastic Secure Transmission"
+],
+"correctAnswer": "Representational State Transfer",
+"category": "Programming",
+"difficulty": "easy",
+"explanation": "REST is an architectural style for providing standards between computer systems on the web, standing for Representational State Transfer.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["web-development", "api", "rest"]
+},
+{
+"id": "prog_014",
+"question": "What is the worst-case time complexity of the QuickSort algorithm?",
+"options": [
+"O(n)",
+"O(n log n)",
+"O(n²)",
+"O(2^n)"
+],
+"correctAnswer": "O(n²)",
+"category": "Programming",
+"difficulty": "hard",
+"explanation": "The worst case for QuickSort occurs when the pivot chosen is consistently the smallest or largest element, leading to O(n²) performance.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["dsa", "sorting", "complexity"]
+},
+{
+"id": "prog_015",
+"question": "Which database normalization form deals directly with removing transitive functional dependencies?",
+"options": [
+"First Normal Form (1NF)",
+"Second Normal Form (2NF)",
+"Third Normal Form (3NF)",
+"Boyce-Codd Normal Form (BCNF)"
+],
+"correctAnswer": "Third Normal Form (3NF)",
+"category": "Programming",
+"difficulty": "hard",
+"explanation": "A relation is in 3NF if it satisfies 2NF and contains no transitive dependencies for non-prime attributes.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["databases", "normalization"]
+},
+{
+"id": "prog_016",
+"question": "In Flutter, what method is called exactly once when a stateful widget's state object is added to the tree?",
+"options": [
+"build()",
+"initState()",
+"didChangeDependencies()",
+"dispose()"
+],
+"correctAnswer": "initState()",
+"category": "Programming",
+"difficulty": "medium",
+"explanation": "initState() is the first method called when the state object is instantiated, used for initialization.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["flutter", "dart", "lifecycle"]
+},
+{
+"id": "prog_017",
+"question": "What is the primary function of Docker in software environments?",
+"options": [
+"To automatically scale databases horizontally",
+"To containerize software applications so they run reliably across environments",
+"To provide a framework for unit testing user interfaces",
+"To compile native C++ modules into machine binaries"
+],
+"correctAnswer": "To containerize software applications so they run reliably across environments",
+"category": "Programming",
+"difficulty": "easy",
+"explanation": "Docker allows packaging an application and its dependencies into a lightweight, standalone container.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["docker", "devops"]
+},
+{
+"id": "prog_018",
+"question": "Which CSS layout property provides an easy way to align items vertically and horizontally along a single axis?",
+"options": [
+"Grid",
+"Flexbox",
+"Float",
+"Position"
+],
+"correctAnswer": "Flexbox",
+"category": "Programming",
+"difficulty": "easy",
+"explanation": "Flexbox (Flexible Box Layout) is designed specifically to optimize layout alignment across a single dimension.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["css", "frontend"]
+},
+{
+"id": "prog_019",
+"question": "What does the 'S' in SOLID principles stand for?",
+"options": [
+"State Management",
+"System Architecture",
+"Single Responsibility Principle",
+"Structural Decomposition"
+],
+"correctAnswer": "Single Responsibility Principle",
+"category": "Programming",
+"difficulty": "medium",
+"explanation": "The Single Responsibility Principle states that a class should have one, and only one, reason to change.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["clean-code", "oop"]
+},
+{
+"id": "prog_020",
+"question": "In binary representation, what is the result of applying a bitwise XOR to the values 5 (101) and 3 (011)?",
+"options": [
+"1 (001)",
+"6 (110)",
+"2 (010)",
+"7 (111)"
+],
+"correctAnswer": "6 (110)",
+"category": "Programming",
+"difficulty": "hard",
+"explanation": "Bitwise XOR sets bits to 1 only where the inputs differ: 101 XOR 011 = 110, which evaluates to decimal 6.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["bitwise", "fundamentals"]
+},
+{
+"id": "prog_021",
+"question": "Which of the following is an example of a strongly typed, compiled systems programming language?",
+"options": [
+"JavaScript",
+"Rust",
+"PHP",
+"Python"
+],
+"correctAnswer": "Rust",
+"category": "Programming",
+"difficulty": "medium",
+"explanation": "Rust is a compiled, statically typed systems programming language that focuses heavily on thread safety and memory layout control.",
+"imageUrl": "https://images.unsplash.com/photo-1607799279861-4dd421887fb3?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["rust", "languages"]
+},
+{
+"id": "prog_022",
+"question": "What mechanism does a CPU use to temporarily map virtual memory pages into real physical RAM addresses?",
+"options": [
+"Memory Controller Link",
+"Page Directory Pool",
+"Translation Lookaside Buffer (TLB)",
+"Direct Memory Cache"
+],
+"correctAnswer": "Translation Lookaside Buffer (TLB)",
+"category": "Programming",
+"difficulty": "hard",
+"explanation": "The TLB is a specialized hardware cache used by the memory management unit to speed up virtual-to-physical address translation.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["os", "low-level"]
+},
+{
+"id": "prog_023",
+"question": "What is the primary difference between synchronous and asynchronous execution models?",
+"options": [
+"Synchronous code runs faster on multi-core processors",
+"Synchronous execution blocks subsequent code until the current task completes",
+"Asynchronous tasks execute sequentially using global locks",
+"Asynchronous tasks do not require system memory"
+],
+"correctAnswer": "Synchronous execution blocks subsequent code until the current task completes",
+"category": "Programming",
+"difficulty": "easy",
+"explanation": "Synchronous models process tasks step-by-step blocking downstream code; asynchronous models allow executing separate tasks independently without blocking.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["async", "architecture"]
+},
+{
+"id": "prog_024",
+"question": "Which of the following describes an IP address block that belongs strictly to a private local area network (LAN)?",
+"options": [
+"127.0.0.1",
+"192.168.1.5",
+"8.8.8.8",
+"255.255.255.255"
+],
+"correctAnswer": "192.168.1.5",
+"category": "Programming",
+"difficulty": "medium",
+"explanation": "192.168.0.0/16 is reserved under RFC 1918 for private networks, whereas 127.0.0.1 is loopback and 8.8.8.8 is a public DNS server.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["networking", "sysadmin"]
+},
+{
+"id": "prog_025",
+"question": "In TypeScript, what keyword is used to build a brand new type combining properties of existing object schemas?",
+"options": [
+"extends",
+"implements",
+"intersection (&)",
+"union (|)"
+],
+"correctAnswer": "intersection (&)",
+"category": "Programming",
+"difficulty": "medium",
+"explanation": "An intersection type combining properties of multiple types uses the ampersand character, enforcing all requirements simultaneously.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["typescript", "types"]
+},
+{
+"id": "prog_026",
+"question": "What is the purpose of the 'defer' attribute when writing script tags in HTML documents?",
+"options": [
+"It completely stops the page from loading scripts",
+"It executes the script asynchronously while continuing parser mapping, running after the document finishes parsing",
+"It runs scripts repeatedly every few seconds",
+"It forces scripts to execute before any stylesheet styles apply"
+],
+"correctAnswer": "It executes the script asynchronously while continuing parser mapping, running after the document finishes parsing",
+"category": "Programming",
+"difficulty": "medium",
+"explanation": "The 'defer' attribute specifies that the script is executed after the document has been fully parsed, preserving script execution order.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["html", "javascript", "frontend"]
+},
+{
+"id": "prog_027",
+"question": "What does a 502 HTTP response code signal?",
+"options": [
+"Internal Server Error",
+"Bad Gateway",
+"Gateway Timeout",
+"Service Unavailable"
+],
+"correctAnswer": "Bad Gateway",
+"category": "Programming",
+"difficulty": "medium",
+"explanation": "A 502 Bad Gateway error indicates that one server on the internet received an invalid response from another server.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["http", "backend"]
+},
+{
+"id": "prog_028",
+"question": "Which of the following sorting mechanisms is considered inherently unstable?",
+"options": [
+"MergeSort",
+"InsertionSort",
+"HeapSort",
+"BubbleSort"
+],
+"correctAnswer": "HeapSort",
+"category": "Programming",
+"difficulty": "hard",
+"explanation": "HeapSort does not preserve the relative order of identical elements during heap restoration steps, making it an unstable sort algorithm.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["dsa", "sorting"]
+},
+{
+"id": "prog_029",
+"question": "What specific encryption strategy involves utilizing both a public key for encryption and a private key for decryption?",
+"options": [
+"Symmetric Encryption",
+"Asymmetric Encryption",
+"Hashing Algorithms",
+"Salting Obfuscation"
+],
+"correctAnswer": "Asymmetric Encryption",
+"category": "Programming",
+"difficulty": "easy",
+"explanation": "Asymmetric Cryptography relies on mathematically distinct pairs of keys ensuring data protected via public keys can only be opened by private holders.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["security", "cryptography"]
+},
+{
+"id": "prog_030",
+"question": "What programming language construct executes a closure instantly upon creation to cleanly encapsulate isolated scopes?",
+"options": [
+"IIFE (Immediately Invoked Function Expression)",
+"Higher-Order Method Mapping",
+"Abstract Method Hook",
+"Curried Closure Object"
+],
+"correctAnswer": "IIFE (Immediately Invoked Function Expression)",
+"category": "Programming",
+"difficulty": "medium",
+"explanation": "IIFEs are JavaScript functions that run as soon as they are defined, avoiding pollution of the surrounding global namespace.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["javascript", "patterns"]
+},
+{
+"id": "prog_031",
+"question": "What is the primary role of the configuration file 'pubspec.yaml' inside an active Flutter project structure?",
+"options": [
+"To hold target machine binary instructions",
+"To specify package dependencies, asset assets, and font mappings",
+"To configure internal hardware compile drivers",
+"To contain active system debugging secrets"
+],
+"correctAnswer": "To specify package dependencies, asset assets, and font mappings",
+"category": "Programming",
+"difficulty": "easy",
+"explanation": "The pubspec file manages the dependencies, metadata, and resource configurations of a Flutter or Dart package.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["flutter", "dart", "config"]
+},
+{
+"id": "prog_032",
+"question": "Which of the following database scaling approaches describes adding resource units like more RAM or additional CPU cores to a single machine?",
+"options": [
+"Horizontal Scaling (Sharding)",
+"Vertical Scaling (Scaling Up)",
+"Replication Clustering",
+"Index Compaction"
+],
+"correctAnswer": "Vertical Scaling (Scaling Up)",
+"category": "Programming",
+"difficulty": "easy",
+"explanation": "Vertical scaling upgrades the capacity of an individual server engine, whereas horizontal scaling adds entirely independent node structures to spread the system payload.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["architecture", "databases"]
+},
+{
+"id": "prog_033",
+"question": "What security risk occurs when user inputs are appended directly into an executable shell query string without structural escaping?",
+"options": [
+"Cross-Site Scripting (XSS)",
+"SQL Injection (SQLi)",
+"Cross-Site Request Forgery (CSRF)",
+"Buffer Overflow"
+],
+"correctAnswer": "SQL Injection (SQLi)",
+"category": "Programming",
+"difficulty": "easy",
+"explanation": "SQL injection attacks occur when unvalidated code inputs pass straight into SQL interpreters altering expected program routing patterns.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["security", "sql"]
+},
+{
+"id": "prog_034",
+"question": "In Object-Oriented design, what behavior represents a class overriding its own parent class implementation with custom logic?",
+"options": [
+"Polymorphism",
+"Encapsulation",
+"Abstraction",
+"Composition"
+],
+"correctAnswer": "Polymorphism",
+"category": "Programming",
+"difficulty": "medium",
+"explanation": "Polymorphism lets instances execute specialized methods overriding standardized base schemas dynamically at execution runtime.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["oop", "fundamentals"]
+},
+{
+"id": "prog_035",
+"question": "What is the primary objective behind running regression test suites on target codebases?",
+"options": [
+"To benchmark system throughput execution ceilings",
+"To verify new structural updates did not inadvertently break existing functional logic",
+"To completely replace active compiler error check routines",
+"To automatically generate interface documentation details"
+],
+"correctAnswer": "To verify new structural updates did not inadvertently break existing functional logic",
+"category": "Programming",
+"difficulty": "easy",
+"explanation": "Regression testing ensures that software modifications do not introduce unexpected regressions or break verified functionality.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["testing", "qa"]
+},
+{
+"id": "prog_036",
+"question": "Which component in a CPU pipeline holds instructions or addresses directly to ensure maximum retrieval speeds during operations?",
+"options": [
+"Hard Disk Sectors",
+"RAM Slots",
+"Registers",
+"Solid State Drives"
+],
+"correctAnswer": "Registers",
+"category": "Programming",
+"difficulty": "medium",
+"explanation": "Processor registers sit directly inside the CPU package providing the fastest data storage access mechanics available.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["hardware", "low-level"]
+},
+{
+"id": "prog_037",
+"question": "In Python, which list method appends all items from an external iterable directly into the calling list target?",
+"options": [
+"append()",
+"push()",
+"extend()",
+"insert()"
+],
+"correctAnswer": "extend()",
+"category": "Programming",
+"difficulty": "medium",
+"explanation": "'extend()' adds elements individually from an iterable object, while 'append()' inserts the entire container object as a single nested element.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["python", "data-structures"]
+},
+{
+"id": "prog_038",
+"question": "What architectural pattern isolates an application's database write pipelines completely from its database read channels?",
+"options": [
+"MVC (Model View Controller)",
+"CQRS (Command Query Responsibility Segregation)",
+"MVVM (Model View ViewModel)",
+"Monolithic Layering"
+],
+"correctAnswer": "CQRS (Command Query Responsibility Segregation)",
+"category": "Programming",
+"difficulty": "hard",
+"explanation": "CQRS separates mutation updates ('Commands') from read requests ('Queries'), enabling highly optimized data scaling strategies.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["architecture", "patterns"]
+},
+{
+"id": "prog_039",
+"question": "What is the function of an Index within relational database tables?",
+"options": [
+"To completely encrypt table column assets",
+"To drastically speed up data retrieval queries at the cost of slower writes",
+"To guarantee mathematical calculations stay isolated",
+"To automatically remove duplicate entries"
+],
+"correctAnswer": "To drastically speed up data retrieval queries at the cost of slower writes",
+"category": "Programming",
+"difficulty": "medium",
+"explanation": "Indexes provide structural lookup tables allowing database search optimization engines to skip sequential full-table file scanning routines.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["databases", "optimization"]
+},
+{
+"id": "prog_040",
+"question": "What kind of reference cycle causes memory leaks when two distinct elements contain strong pointer links pointing directly to each other?",
+"options": [
+"Dangling References",
+"Retain Cycles (Circular References)",
+"Null Pointer Inversion",
+"Stack Overflow Triggers"
+],
+"correctAnswer": "Retain Cycles (Circular References)",
+"category": "Programming",
+"difficulty": "medium",
+"explanation": "Retain cycles prevent automatic counting memory management frameworks (like ARC) from dropping instances because reference counters never drop back to zero.",
+"imageUrl": "https://images.unsplash.com/photo-1618401471353-b98aedd07871?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["memory-management", "debugging"]
+},
+{
+"id": "prog_041",
+"question": "What feature defines an abstract factory method pattern?",
+"options": [
+"It offers interfaces for constructing families of linked items without naming explicit concrete classes",
+"It relies exclusively on global static state hooks",
+"It forces arrays to resize linearly during allocations",
+"It isolates continuous integration workflows"
+],
+"correctAnswer": "It offers interfaces for constructing families of linked items without naming explicit concrete classes",
+"category": "Programming",
+"difficulty": "hard",
+"explanation": "Abstract Factory creates configurations of interdependent components without hard-coding specific sub-class instances straight into production clients.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["design-patterns", "architecture"]
+},
+{
+"id": "prog_042",
+"question": "Which CSS position attribute removes an item entirely from normal document layouts, aligning it relative to its closest positioned ancestor?",
+"options": [
+"static",
+"relative",
+"absolute",
+"fixed"
+],
+"correctAnswer": "absolute",
+"category": "Programming",
+"difficulty": "medium",
+"explanation": "An 'absolute' item shifts position according to its nearest ancestor wrapper that isn't set to static alignment layouts.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["css", "frontend"]
+},
+{
+"id": "prog_043",
+"question": "What is the primary drawback of using the regular standard Bubble Sort algorithm?",
+"options": [
+"It uses an excessive amount of extra auxiliary memory storage",
+"It has an inefficient average and worst-case time complexity of O(n²)",
+"It cannot handle sorting variable array lengths",
+"It requires multi-threaded hardware to run properly"
+],
+"correctAnswer": "It has an inefficient average and worst-case time complexity of O(n²)",
+"category": "Programming",
+"difficulty": "easy",
+"explanation": "Bubble sort iterates repeatedly through adjacent items, leading to high processing times on large data sets.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["dsa", "sorting"]
+},
+{
+"id": "prog_044",
+"question": "What is the purpose of using JSON Web Tokens (JWT) inside production API environments?",
+"options": [
+"To run continuous stress tests against load balancers",
+"To securely transmit user identity information between entities as a verified compact JSON object",
+"To serve static web design images down to local users",
+"To map columns to schema entries inside relational databases"
+],
+"correctAnswer": "To securely transmit user identity information between entities as a verified compact JSON object",
+"category": "Programming",
+"difficulty": "medium",
+"explanation": "JWTs use digital signing hashes to ensure verification tokens passed between frontend devices and API servers are tamper-proof.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["auth", "security", "jwt"]
+},
+{
+"id": "prog_045",
+"question": "Which of the following describes a scenario where a high priority thread is blocked indefinitely waiting for resources held by low priority tasks?",
+"options": [
+"Race Condition",
+"Priority Inversion",
+"Deadlock Lockout",
+"Thread Pool Overrun"
+],
+"correctAnswer": "Priority Inversion",
+"category": "Programming",
+"difficulty": "hard",
+"explanation": "Priority inversion happens when a low-priority thread holds shared resources required by a high-priority thread, effectively flipping execution hierarchies.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["multithreading", "os"]
+},
+{
+"id": "prog_046",
+"question": "Which Dart feature allows asynchronous execution to be handled cleanly using synchronous-looking structural phrasing?",
+"options": [
+"Generics mapping",
+"async / await",
+"Isolates threads",
+"Extension decorators"
+],
+"correctAnswer": "async / await",
+"category": "Programming",
+"difficulty": "easy",
+"explanation": "The async and await keywords allow asynchronous asynchronous operations to look linear, minimizing deep nested callback loops.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["dart", "async"]
+},
+{
+"id": "prog_047",
+"question": "What is the purpose of implementing a Webhook?",
+"options": [
+"To continually poll an external database endpoint every few seconds",
+"To enable automated real-time event notifications via HTTP POST payloads when systems trigger changes",
+"To create complex layout interfaces inside native applications",
+"To completely clear cache indexes within local CDNs"
+],
+"correctAnswer": "To enable automated real-time event notifications via HTTP POST payloads when systems trigger changes",
+"category": "Programming",
+"difficulty": "medium",
+"explanation": "Webhooks allow push architecture, sending event messages straight to consuming receivers immediately instead of requiring persistent consumer polling loops.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["webhooks", "api", "backend"]
+},
+{
+"id": "prog_048",
+"question": "What does a time complexity notation of O(1) indicate?",
+"options": [
+"Linear processing scales directly with item counts",
+"The execution execution duration remains completely independent of structural input sizing constraints",
+"Exponential growth scaling tracking structures",
+"Logarithmic search parsing behaviors"
+],
+"correctAnswer": "The execution execution duration remains completely independent of structural input sizing constraints",
+"category": "Programming",
+"difficulty": "easy",
+"explanation": "O(1) means constant time metrics where actions consume identical resources regardless of processing structural scales.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["dsa", "complexity"]
+},
+{
+"id": "prog_049",
+"question": "In compilation design, which phase evaluates standard syntax grammar trees to ensure statements meet target semantic laws?",
+"options": [
+"Lexical Analysis",
+"Syntax Analysis",
+"Semantic Analysis",
+"Code Generation"
+],
+"correctAnswer": "Semantic Analysis",
+"category": "Programming",
+"difficulty": "hard",
+"explanation": "Semantic analysis examines type check compliance and scope matching validations to guarantee the compilation target makes correct logical sense.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["compilers", "computer-science"]
+},
+{
+"id": "prog_050",
+"question": "What does the NoSQL tag primarily imply about database architectures fitting this profile?",
+"options": [
+"They cannot execute data modifications under any circumstances",
+"They store data using non-tabular structural configurations like documents, graphs, or key-values",
+"They require assembly languages to interface with",
+"They do not support network transmissions"
+],
+"correctAnswer": "They store data using non-tabular structural configurations like documents, graphs, or key-values",
+"category": "Programming",
+"difficulty": "easy",
+"explanation": "NoSQL environments break away from standardized flat SQL row-and-column structures to manage unstructured or rapidly evolving datasets.",
+"imageUrl": "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["databases", "nosql"]
+},
+{
+"id": "prog_051",
+"question": "Which of the following describes the strategy of saving function results to a lookup cache to accelerate later identical executions?",
+"options": [
+"Memoization",
+"Polymorphic Refactoring",
+"Asynchronous Throttling",
+"Garbage Sweeping"
+],
+"correctAnswer": "Memoization",
+"category": "Programming",
+"difficulty": "medium",
+"explanation": "Memoization optimizes execution by storing computer processing answers to prevent running redundant computational overhead tasks later.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["optimization", "algorithms"]
+},
+{
+"id": "prog_052",
+"question": "What is the primary utility of using an SSH key pair setup?",
+"options": [
+"To rapidly clear browser local storage buckets",
+"To enable secure, passwordless authentication access into remote server platforms via cryptographic matches",
+"To compile asset layouts within frontend web packages",
+"To test continuous routing pathways across mesh firewalls"
+],
+"correctAnswer": "To enable secure, passwordless authentication access into remote server platforms via cryptographic matches",
+"category": "Programming",
+"difficulty": "medium",
+"explanation": "Secure Shell keys offer a far safer authorization gateway setup compared to brute-forceable character passwords.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["security", "sysadmin"]
+},
+{
+"id": "prog_053",
+"question": "Which layer of the OSI model coordinates end-to-end packet data transmission flow management and error corrections?",
+"options": [
+"Physical Layer",
+"Data Link Layer",
+"Network Layer",
+"Transport Layer"
+],
+"correctAnswer": "Transport Layer",
+"category": "Programming",
+"difficulty": "hard",
+"explanation": "The Transport Layer (Layer 4) handles reliable channel flows, host connection setups, and transmission error checking structures like TCP.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["networking", "osi-model"]
+},
+{
+"id": "prog_054",
+"question": "What is the result of evaluating ('5' + 2) inside a regular JavaScript environment execution loop?",
+"options": [
+"7",
+"'52'",
+"NaN",
+"TypeError Exception"
+],
+"correctAnswer": "'52'",
+"category": "Programming",
+"difficulty": "easy",
+"explanation": "JavaScript applies type coercion when encountering a string operand alongside addition signs, casting numbers into strings for concatenation.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["javascript", "coercion"]
+},
+{
+"id": "prog_055",
+"question": "In software security architectures, what does CSRF stand for?",
+"options": [
+"Cross-Site Request Forgery",
+"Core System Recovery Framework",
+"Centralized Security Resource File",
+"Cryptographic Signature Routing Protocol"
+],
+"correctAnswer": "Cross-Site Request Forgery",
+"category": "Programming",
+"difficulty": "medium",
+"explanation": "CSRF is a exploit where malicious actors trick client browsers into dispatching unauthorized actions to trusted target platforms.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["security", "web-development"]
+},
+{
+"id": "prog_056",
+"question": "What is the primary benefit of deploying software architectures using an immutable infrastructure approach?",
+"options": [
+"Servers are continually modified and patched dynamically live in production",
+"Servers are never modified after creation; updates deploy via replacement nodes to eliminate configuration drift",
+"Data layer schemas self-destruct after set time blocks",
+"It allows processing calculations without assigning memory layouts"
+],
+"correctAnswer": "Servers are never modified after creation; updates deploy via replacement nodes to eliminate configuration drift",
+"category": "Programming",
+"difficulty": "hard",
+"explanation": "Immutable infrastructure ensures environment stability by replacing server instances entirely whenever upgrades drop, instead of changing individual state files.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["devops", "cloud-computing"]
+},
+{
+"id": "prog_057",
+"question": "Which of the following array operations is traditionally characterized by a FIFO behavior sequence?",
+"options": [
+"Stack",
+"Queue",
+"Hash Set",
+"Binary Graph"
+],
+"correctAnswer": "Queue",
+"category": "Programming",
+"difficulty": "easy",
+"explanation": "Queues work off First-In, First-Out architectures where the first element pushed inside serves as the first object extracted down line.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["dsa", "fundamentals"]
+},
+{
+"id": "prog_058",
+"question": "In Docker environments, what layout instructions reside inside a typical '.dockerignore' configuration file?",
+"options": [
+"A map of runtime server passwords",
+"Files and folder paths to exclude from build context payloads during image creation steps",
+"Hardware drivers to activate inside host systems",
+"Code test assertion configuration logic maps"
+],
+"correctAnswer": "Files and folder paths to exclude from build context payloads during image creation steps",
+"category": "Programming",
+"difficulty": "medium",
+"explanation": ".dockerignore files keep build contexts small by keeping hefty node_modules or debug logs from transmitting unnecessarily into active images.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["docker", "devops"]
+},
+{
+"id": "prog_059",
+"question": "What does 'Loose Coupling' imply within standard object-oriented system design guidelines?",
+"options": [
+"Classes depend directly on heavy internal details of separate class structures",
+"Components remain mostly independent, interacting through abstracted interfaces to limit change cross-impacts",
+"Removing all data types across compilation structures",
+"Forcing variables to float across scopes dynamically"
+],
+"correctAnswer": "Components remain mostly independent, interacting through abstracted interfaces to limit change cross-impacts",
+"category": "Programming",
+"difficulty": "medium",
+"explanation": "Loose coupling keeps separate systems flexible by standardizing thin interface connections, decoupling internal build dependencies.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["architecture", "clean-code"]
+},
+{
+"id": "prog_060",
+"question": "Which of the following represents an asymmetric hashing algorithm designed specifically to secure passphrases with adjustable compute cost functions?",
+"options": [
+"MD5",
+"SHA-1",
+"bcrypt",
+"AES-256"
+],
+"correctAnswer": "bcrypt",
+"category": "Programming",
+"difficulty": "hard",
+"explanation": "bcrypt leverages an internal work factor parameter to throttle hardware hashing speeds, protecting user keys against brute-force setups over time.",
+"imageUrl": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["security", "passwords"]
+},
+{
+"id": "prog_061",
+"question": "In the Flutter ecosystem, what purpose is fulfilled by the InheritedWidget structure?",
+"options": [
+"To natively execute background C++ compiler setups",
+"To pass configuration data down the widget tree efficiently to descendant widgets without manual constructors",
+"To track real-time physical device coordinates via GPS",
+"To handle local code asset file adjustments"
+],
+"correctAnswer": "To pass configuration data down the widget tree efficiently to descendant widgets without manual constructors",
+"category": "Programming",
+"difficulty": "medium",
+"explanation": "InheritedWidget builds the underlying scaffolding for major state engines like Provider and Riverpod, optimizing state propagation across layout layers.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["flutter", "architecture"]
+},
+{
+"id": "prog_062",
+"question": "What is the core benefit of utilizing a Content Delivery Network (CDN) for website delivery architectures?",
+"options": [
+"It completely standardizes database record schemas",
+"It caches static media file components geographically closer to consumers to reduce request latency spikes",
+"It automatically corrects logic bugs inside source code modules",
+"It eliminates the need for any backing web server hosts"
+],
+"correctAnswer": "It caches static media file components geographically closer to consumers to reduce request latency spikes",
+"category": "Programming",
+"difficulty": "easy",
+"explanation": "CDNs disperse resource copies down across worldwide proxy servers, preventing heavy long-distance internet routing legs for assets.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["web-development", "infrastructure"]
+},
+{
+"id": "prog_063",
+"question": "What design pattern uses a proxy object placeholder to wrap and manage access control over a separate underlying system resource?",
+"options": [
+"Decorator Pattern",
+"Proxy Pattern",
+"Facade Pattern",
+"Adapter Pattern"
+],
+"correctAnswer": "Proxy Pattern",
+"category": "Programming",
+"difficulty": "medium",
+"explanation": "The Proxy pattern controls reference routing pathways into targeted elements, executing operations like logging or authorization on the fly.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["design-patterns", "oop"]
+},
+{
+"id": "prog_064",
+"question": "What condition triggers a stack overflow exception inside running program environments?",
+"options": [
+"Running out of room inside heap spaces during instance allocation cycles",
+"Exceeding allocated call stack memory bounds, typically via unchecked infinite recursion loops",
+"Attempting to map database data fields to incorrect primitive types",
+"Losing internet connection links during file download calls"
+],
+"correctAnswer": "Exceeding allocated call stack memory bounds, typically via unchecked infinite recursion loops",
+"category": "Programming",
+"difficulty": "easy",
+"explanation": "Each sub-routine call pushes a stack frame tracking parameters. Endless recursion stacks frames continually until system allocation caps explode.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["debugging", "fundamentals"]
+},
+{
+"id": "prog_065",
+"question": "Which of the following defines the concept of 'Idempotency' in context to web API architectures?",
+"options": [
+"Making multiple identical requests yields different outcomes across target systems each time",
+"Making multiple identical requests produces the exact same system state outcome as a single initialization request",
+"The connection pipeline terminates completely if requests repeat",
+"Data blocks undergo automated cryptographic conversion sweeps before transmission steps execute"
+],
+"correctAnswer": "Making multiple identical requests produces the exact same system state outcome as a single initialization request",
+"category": "Programming",
+"difficulty": "hard",
+"explanation": "HTTP methods like PUT and DELETE are intended to be idempotent, ensuring retry behaviors don't create unwanted duplicate state records.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["api", "rest", "architecture"]
+},
+{
+"id": "prog_066",
+"question": "What optimization mechanism does React rely upon to minimize expensive layout updates within native web interfaces?",
+"options": [
+"Direct Shadow Modification",
+"Virtual DOM Diffing",
+"Threaded Garbage Sweeps",
+"Incremental Class Compilation"
+],
+"correctAnswer": "Virtual DOM Diffing",
+"category": "Programming",
+"difficulty": "medium",
+"explanation": "React compares virtual model layouts against active states, isolating and executing structural writes strictly where actual shifts occurred.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["react", "frontend"]
+},
+{
+"id": "prog_067",
+"question": "In database transactions, which ACID attribute guarantees that operation loops either complete entirely or roll back completely without partial modifications?",
+"options": [
+"Atomicity",
+"Consistency",
+"Isolation",
+"Durability"
+],
+"correctAnswer": "Atomicity",
+"category": "Programming",
+"difficulty": "easy",
+"explanation": "Atomicity blocks incomplete processing loops, enforcing an all-or-nothing transaction lifecycle strategy.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["databases", "acid"]
+},
+{
+"id": "prog_068",
+"question": "What is the primary technical objective behind implementing the DNS protocol?",
+"options": [
+"To translate structured layout markup blocks into raw UI visuals",
+"To map human-readable domain names to machine-routable IP address destinations",
+"To encrypt data streams traversing wide area network bridges",
+"To coordinate resource workloads between cloud clusters"
+],
+"correctAnswer": "To map human-readable domain names to machine-routable IP address destinations",
+"category": "Programming",
+"difficulty": "easy",
+"explanation": "DNS translates domain labels like 'example.com' into the network addresses required by communication devices.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["networking", "dns"]
+},
+{
+"id": "prog_069",
+"question": "Which graph algorithm tracks the absolute shortest paths radiating outwards from a single source node to all other accessible nodes in weighted graphs with non-negative path costs?",
+"options": [
+"Dijkstra's Algorithm",
+"Kruskal's Algorithm",
+"Prim's Algorithm",
+"Floyd-Warshall Algorithm"
+],
+"correctAnswer": "Dijkstra's Algorithm",
+"category": "Programming",
+"difficulty": "hard",
+"explanation": "Dijkstra's approach picks minimum-distance edges sequentially, producing efficient tracking maps across weighted graph structures.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["dsa", "graphs", "algorithms"]
+},
+{
+"id": "prog_070",
+"question": "What is the utility of utilizing namespaces inside software source files?",
+"options": [
+"To drastically speed up compiler generation pipelines",
+"To prevent global identifier naming collisions by scoping declarations inside isolated logical blocks",
+"To automatically manage object deallocations",
+"To bridge data transmissions between microservices"
+],
+"correctAnswer": "To prevent global identifier naming collisions by scoping declarations inside isolated logical blocks",
+"category": "Programming",
+"difficulty": "medium",
+"explanation": "Namespaces organize code components, preventing tracking errors when multiple external modules share identical function signatures.",
+"imageUrl": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["architecture", "clean-code"]
+},
+{
+"id": "prog_071",
+"question": "In Python, what structural concept represents a sequence of expressions that generates values lazily on-demand using the 'yield' keyword?",
+"options": [
+"List Comprehension",
+"Generator Function",
+"Lambda Expression",
+"Dictionary Mapping"
+],
+"correctAnswer": "Generator Function",
+"category": "Programming",
+"difficulty": "medium",
+"explanation": "Generators pause execution state automatically, saving processing resources by returning requested values sequentially as loops demand them.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["python", "generators"]
+},
+{
+"id": "prog_072",
+"question": "What does a 403 HTTP response status represent?",
+"options": [
+"The resource could not be found anywhere on this host",
+"The server understands the authorization request but explicitly refuses to allow access",
+"The request is malformed syntax-wise",
+"The processing gateway timed out waiting for upstream communication"
+],
+"correctAnswer": "The server understands the authorization request but explicitly refuses to allow access",
+"category": "Programming",
+"difficulty": "easy",
+"explanation": "Unlike 401 which signals missing identity keys, a 403 response means authorization rules explicitly block the current identity tier.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["http", "api", "security"]
+},
+{
+"id": "prog_073",
+"question": "What mechanism does Linux rely on to isolate containerized resource views like processes, network devices, and mount points?",
+"options": [
+"System Call Proxies",
+"Linux Namespaces",
+"Hypervisor Emulation Layers",
+"Binary Translation Matrix"
+],
+"correctAnswer": "Linux Namespaces",
+"category": "Programming",
+"difficulty": "hard",
+"explanation": "Namespaces underneath modern container software engines carve out virtualized slices of standard kernels to sandbox runtime workflows.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["linux", "containers", "devops"]
+},
+{
+"id": "prog_074",
+"question": "Which keyword allows checking whether an object inherits from a specified class layout inside Java or JavaScript runtimes?",
+"options": [
+"typeof",
+"instanceof",
+"isPrototypeOf",
+"extends"
+],
+"correctAnswer": "instanceof",
+"category": "Programming",
+"difficulty": "easy",
+"explanation": "The 'instanceof' operator returns true if an object prototype chain matches the blueprint definition constructor target.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["oop", "fundamentals"]
+},
+{
+"id": "prog_075",
+"question": "What optimization benefit comes from declaring functions as 'inline' within languages like C++?",
+"options": [
+"It completely moves function logic out to run on background threads",
+"It instructs compilers to replace function calls straight with the function's code body to eliminate stack frame overhead",
+"It forces runtime variables into global allocation pools",
+"It allows functions to change their return data type automatically"
+],
+"correctAnswer": "It instructs compilers to replace function calls straight with the function's code body to eliminate stack frame overhead",
+"category": "Programming",
+"difficulty": "hard",
+"explanation": "Inlining balances optimization trade-offs, expanding binary sizing scales slightly while avoiding execution jumps during fast inner loops.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["cplusplus", "compilers", "low-level"]
+},
+{
+"id": "prog_076",
+"question": "What is the function of the 'git stash' tool?",
+"options": [
+"To permanently delete untracked repository workspace directories",
+"To temporarily shelve uncommitted code changes so you can switch branches cleanly",
+"To upload project updates directly into production clouds",
+"To merge historical timeline forks together automatically"
+],
+"correctAnswer": "To temporarily shelve uncommitted code changes so you can switch branches cleanly",
+"category": "Programming",
+"difficulty": "easy",
+"explanation": "'git stash' clears current tracking flags, saving ongoing code edits to an internal stack for restoration later.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["git", "vcs"]
+},
+{
+"id": "prog_077",
+"question": "In structural database models, what rule tracks entity integrity limits?",
+"options": [
+"Foreign keys must point to active index destinations",
+"Primary key attributes cannot contain null or non-unique identifier values",
+"Table arrays cannot expand past predetermined row counts",
+"Columns must exclusively hold alphanumeric text fields"
+],
+"correctAnswer": "Primary key attributes cannot contain null or non-unique identifier values",
+"category": "Programming",
+"difficulty": "medium",
+"explanation": "Entity integrity constraints guarantee that each discrete table record remains addressable via valid, unique primary markers.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["databases", "normalization"]
+},
+{
+"id": "prog_078",
+"question": "What behavior represents a classic 'Race Condition' flaw?",
+"options": [
+"Compiler execution engines completing checks ahead of estimated window blocks",
+"Multiple execution lines attempting modification operations against shared state assets concurrently without synchronization constraints",
+"Memory allocations expanding faster than hardware channels can support",
+"Data routing pathways switching channels dynamically during transmission loops"
+],
+"correctAnswer": "Multiple execution lines attempting modification operations against shared state assets concurrently without synchronization constraints",
+"category": "Programming",
+"difficulty": "medium",
+"explanation": "Race conditions cause unpredictable behavior because output depends on the precise timing of thread execution scheduling.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["multithreading", "concurrency"]
+},
+{
+"id": "prog_079",
+"question": "Which structural pattern bridges incompatible code interfaces together so that otherwise disconnected classes can cooperate smoothly?",
+"options": [
+"Flyweight Pattern",
+"Adapter Pattern",
+"Singleton Pattern",
+"Observer Pattern"
+],
+"correctAnswer": "Adapter Pattern",
+"category": "Programming",
+"difficulty": "medium",
+"explanation": "The Adapter design pattern acts as an intermediary translation wrapper between contrasting interface layouts.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["design-patterns", "oop"]
+},
+{
+"id": "prog_080",
+"question": "What is the spatial time complexity classification for retrieving items out of a standard Hash Map under optimal non-colliding conditions?",
+"options": [
+"O(1)",
+"O(log n)",
+"O(n)",
+"O(n²)"
+],
+"correctAnswer": "O(1)",
+"category": "Programming",
+"difficulty": "easy",
+"explanation": "Hash mapping structures leverage index calculation hashes to jump straight to exact target memory points instantly.",
+"imageUrl": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["dsa", "complexity"]
+},
+{
+"id": "prog_081",
+"question": "What property characterizes a 'Pure Function' within structural functional programming paradigms?",
+"options": [
+"It relies heavily on global background configurations",
+"Given the identical input argument set, it always yields the exact same return value without producing side effects",
+"It must execute asynchronously to protect thread locks",
+"It mutates external input pointers directly"
+],
+"correctAnswer": "Given the identical input argument set, it always yields the exact same return value without producing side effects",
+"category": "Programming",
+"difficulty": "medium",
+"explanation": "Pure functions isolate data logic flows, eliminating side effects like external property modification loops to ensure code reliability.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["functional", "paradigms"]
+},
+{
+"id": "prog_082",
+"question": "In the Flutter rendering pipeline, what specific tree construct tracks structural layout dimensions and coordinates click event hits?",
+"options": [
+"Widget Tree",
+"Element Tree",
+"RenderObject Tree",
+"Stateful Tree"
+],
+"correctAnswer": "RenderObject Tree",
+"category": "Programming",
+"difficulty": "hard",
+"explanation": "The RenderObject tree handles layout constraints and low-level painting details after the Widget and Element layers settle configuration states.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["flutter", "rendering"]
+},
+{
+"id": "prog_083",
+"question": "What is the function of the 'chmod' command inside UNIX operating systems?",
+"options": [
+"To view running machine processing lists",
+"To alter file and directory read, write, and execute access permissions",
+"To clear system event log partitions",
+"To download network updates from remote paths"
+],
+"correctAnswer": "To alter file and directory read, write, and execute access permissions",
+"category": "Programming",
+"difficulty": "easy",
+"explanation": "'chmod' controls security boundaries by adjusting access mask bit values for users, groups, and guests.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["linux", "sysadmin"]
+},
+{
+"id": "prog_084",
+"question": "What design strategy decouples class implementations from dependency initialization logic, passing required instances via constructors or setters instead?",
+"options": [
+"Dependency Injection (DI)",
+"Template Method Pattern",
+"Encapsulated Structuring",
+"Active Record Pattern"
+],
+"correctAnswer": "Dependency Injection (DI)",
+"category": "Programming",
+"difficulty": "medium",
+"explanation": "Dependency Injection decouples class components, facilitating isolation and unit testing.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["clean-code", "architecture"]
+},
+{
+"id": "prog_085",
+"question": "Which of the following describes a 'Deadlock' state condition?",
+"options": [
+"A script processing loop consumes execution resources rapidly without ending",
+"Two or more execution threads remain permanently blocked because each is waiting for a resource locked by the other",
+"An array throws pointer reference exceptions on empty targets",
+"The compilation engine crashes due to a syntax bug"
+],
+"correctAnswer": "Two or more execution threads remain permanently blocked because each is waiting for a resource locked by the other",
+"category": "Programming",
+"difficulty": "medium",
+"explanation": "Deadlocks halt applications when circular dependencies on locked system resources trap concurrent execution loops.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["concurrency", "multithreading"]
+},
+{
+"id": "prog_086",
+"question": "What sorting approach divides an unsorted collection into single-item sub-lists, then merges those sub-lists recursively to build the final sorted order?",
+"options": [
+"SelectionSort",
+"QuickSort",
+"MergeSort",
+"ShellSort"
+],
+"correctAnswer": "MergeSort",
+"category": "Programming",
+"difficulty": "medium",
+"explanation": "MergeSort uses a divide-and-conquer strategy, yielding a guaranteed O(n log n) time complexity.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["dsa", "sorting", "algorithms"]
+},
+{
+"id": "prog_087",
+"question": "In web routing structures, what does the 'TLS' protocol provide?",
+"options": [
+"Automated page styling conversions",
+"Encrypted connection pipelines over network channels to guarantee data transport privacy",
+"Horizontal database sharding paths",
+"Asynchronous background file compilation hooks"
+],
+"correctAnswer": "Encrypted connection pipelines over network channels to guarantee data transport privacy",
+"category": "Programming",
+"difficulty": "easy",
+"explanation": "Transport Layer Security (TLS) encrypts web data transmissions, shielding sensitive records from eavesdropping.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["security", "networking"]
+},
+{
+"id": "prog_088",
+"question": "What value evaluates as 'NaN' inside execution environments?",
+"options": [
+"Null Pointer Exception",
+"Not a Number definition token",
+"Negative Allocation Node",
+"Network Asset Nullification"
+],
+"correctAnswer": "Not a Number definition token",
+"category": "Programming",
+"difficulty": "easy",
+"explanation": "NaN is a numeric data type property returned when mathematical processing tasks fail to compute a valid number.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["javascript", "fundamentals"]
+},
+{
+"id": "prog_089",
+"question": "Which software architectural layout isolates application layers specifically into Model, View, and ViewModel divisions?",
+"options": [
+"MVC",
+"MVP",
+"MVVM",
+"Clean Architecture"
+],
+"correctAnswer": "MVVM",
+"category": "Programming",
+"difficulty": "medium",
+"explanation": "MVVM utilizes binder mechanics to map layout updates between views and view-models without tight coupling.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["architecture", "patterns"]
+},
+{
+"id": "prog_090",
+"question": "What is the primary role of an ORM (Object-Relational Mapping) framework?",
+"options": [
+"To automatically optimize frontend web layout compilation",
+"To bridge relational database tables to object-oriented code classes automatically",
+"To balance network payload demands between data centers",
+"To compress media files before persistence steps"
+],
+"correctAnswer": "To bridge relational database tables to object-oriented code classes automatically",
+"category": "Programming",
+"difficulty": "medium",
+"explanation": "ORMs let developers query databases using native object models instead of writing raw SQL strings directly.",
+"imageUrl": "https://images.unsplash.com/photo-1605379399642-870262d3d051?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["databases", "orm", "backend"]
+},
+{
+"id": "prog_091",
+"question": "What memory allocation vulnerability happens when code tracks data past buffer capacity boundaries into adjacent allocations?",
+"options": [
+"Memory Leak Exception",
+"Buffer Overflow",
+"Null Pointer Dereference",
+"Dangling Pointer Trap"
+],
+"correctAnswer": "Buffer Overflow",
+"category": "Programming",
+"difficulty": "hard",
+"explanation": "Buffer overflows overwrite adjacent memory blocks, leading to application instability or security exploits.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["security", "low-level"]
+},
+{
+"id": "prog_092",
+"question": "Which CSS unit calculates dimension values relative to the layout viewport's total width capacity?",
+"options": [
+"em",
+"rem",
+"vh",
+"vw"
+],
+"correctAnswer": "vw",
+"category": "Programming",
+"difficulty": "easy",
+"explanation": "1vw represents exactly 1% of the viewport's width dimension, enabling fluid fluid responsive typography and layouts.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["css", "frontend"]
+},
+{
+"id": "prog_093",
+"question": "What property defines a balanced AVL tree?",
+"options": [
+"The tree contains exactly 3 child nodes per split leaf",
+"The height difference between left and right sub-trees cannot exceed 1 for any node",
+"Data values are ordered horizontally across indices",
+"Leaf items are automatically removed every runtime loop"
+],
+"correctAnswer": "The height difference between left and right sub-trees cannot exceed 1 for any node",
+"category": "Programming",
+"difficulty": "hard",
+"explanation": "AVL trees employ self-balancing rotations to maintain O(log n) search performance bounds.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["dsa", "trees"]
+},
+{
+"id": "prog_094",
+"question": "In TypeScript, what behavior differentiates the 'unknown' data type assignment from the standard 'any' type assignment?",
+"options": [
+"'unknown' permits executing arbitrary property calls directly without checks",
+"'unknown' enforces explicit type checking or assertions before allowing operations on the variable",
+"'unknown' can only store string values",
+"'unknown' self-destructs at compilation"
+],
+"correctAnswer": "'unknown' enforces explicit type checking or assertions before allowing operations on the variable",
+"category": "Programming",
+"difficulty": "hard",
+"explanation": "'unknown' provides a type-safe alternative to 'any' by requiring validation before property interaction.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["typescript", "types"]
+},
+{
+"id": "prog_095",
+"question": "What is the function of the 'EXPOSE' directive within a Dockerfile setup script?",
+"options": [
+"To map directory pathways straight to the host machine root",
+"To declare the network ports the containerized application intends to listen on at runtime",
+"To copy file resources down into active images",
+"To override base image security profiles"
+],
+"correctAnswer": "To declare the network ports the containerized application intends to listen on at runtime",
+"category": "Programming",
+"difficulty": "medium",
+"explanation": "The EXPOSE instruction documents network configuration details, serving as a blueprint for port mapping.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["docker", "devops"]
+},
+{
+"id": "prog_096",
+"question": "Which design mechanism relies on a centralized channel broker to decouple communication logic between disparate elements?",
+"options": [
+"Mediator Pattern",
+"State Pattern",
+"Command Pattern",
+"Strategy Pattern"
+],
+"correctAnswer": "Mediator Pattern",
+"category": "Programming",
+"difficulty": "hard",
+"explanation": "The Mediator pattern centralizes interaction routing, preventing tight object dependencies.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["design-patterns", "oop"]
+},
+{
+"id": "prog_097",
+"question": "What does a 504 HTTP status code represent?",
+"options": [
+"The server encountered an unhandled code exception",
+"An intermediary gateway server timed out waiting for a response from an upstream server",
+"The client submitted invalid structural parameters",
+"The host database capacity ceiling was breached"
+],
+"correctAnswer": "An intermediary gateway server timed out waiting for a response from an upstream server",
+"category": "Programming",
+"difficulty": "medium",
+"explanation": "504 errors isolate backend connection bottlenecks, signaling communication delays between multi-tier proxy structures.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["http", "networking", "backend"]
+},
+{
+"id": "prog_098",
+"question": "What is the time complexity of searching an element within an ordered collection via Binary Search?",
+"options": [
+"O(1)",
+"O(log n)",
+"O(n)",
+"O(n log n)"
+],
+"correctAnswer": "O(log n)",
+"category": "Programming",
+"difficulty": "easy",
+"explanation": "Binary search divides the search space in half with each iteration, yielding a logarithmic time complexity.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["dsa", "algorithms"]
+},
+{
+"id": "prog_099",
+"question": "In Object-Oriented Programming, what rule requires that child classes must be completely substitutable for their parent classes without breaking functionality?",
+"options": [
+"Open-Closed Principle",
+"Liskov Substitution Principle",
+"Interface Segregation Principle",
+"Dependency Inversion Principle"
+],
+"correctAnswer": "Liskov Substitution Principle",
+"category": "Programming",
+"difficulty": "hard",
+"explanation": "The Liskov Substitution Principle enforces inheritance conformity, maintaining system predictability.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["clean-code", "oop", "solid"]
+},
+{
+"id": "prog_100",
+"question": "What does a memory leak indicate in software operations?",
+"options": [
+"Hardware sectors are physically degraded",
+"An application fails to release allocated heap memory that is no longer needed, reducing available system resources over time",
+"Network packets are dropped during transport",
+"Database table indexing systems have failed"
+],
+"correctAnswer": "An application fails to release allocated heap memory that is no longer needed, reducing available system resources over time",
+"category": "Programming",
+"difficulty": "easy",
+"explanation": "Memory leaks degrade system performance, potentially causing out-of-memory crashes over extended runtimes.",
+"imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["memory-management", "debugging"]
+}
+]

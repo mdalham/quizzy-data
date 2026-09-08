@@ -1,0 +1,5773 @@
+[
+{
+"id": "ancient_civilizations_001",
+"question": "Which river valley was home to the ancient Egyptian civilization?",
+"options": [
+"Tigris River",
+"Nile River",
+"Indus River",
+"Yellow River"
+],
+"correctAnswer": "Nile River",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "The ancient Egyptian civilization developed along the fertile banks of the Nile River, which provided predictable annual flooding for agriculture.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"egypt",
+"geography",
+"rivers"
+]
+},
+{
+"id": "ancient_civilizations_002",
+"question": "What is the name of the oldest known epic poem, originating from ancient Mesopotamia?",
+"options": [
+"The Odyssey",
+"The Iliad",
+"The Epic of Gilgamesh",
+"The Ramayana"
+],
+"correctAnswer": "The Epic of Gilgamesh",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "The Epic of Gilgamesh is an ancient epic poem from Mesopotamia and is widely considered one of the earliest surviving great works of literature.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"mesopotamia",
+"literature"
+]
+},
+{
+"id": "ancient_civilizations_003",
+"question": "The famous Code of Hammurabi, known for its 'eye for an eye' principle, was created in which ancient empire?",
+"options": [
+"Assyrian Empire",
+"Babylonian Empire",
+"Persian Empire",
+"Egyptian Empire"
+],
+"correctAnswer": "Babylonian Empire",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "King Hammurabi enacted this comprehensive set of laws during his reign over the First Babylonian Dynasty.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"babylon",
+"law"
+]
+},
+{
+"id": "ancient_civilizations_004",
+"question": "Which civilization is credited with inventing the earliest known form of writing called cuneiform?",
+"options": [
+"Sumerians",
+"Phoenicians",
+"Minoans",
+"Hittites"
+],
+"correctAnswer": "Sumerians",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "The Sumerians of southern Mesopotamia developed cuneiform script around 3200 BCE, using wedge-shaped marks on clay tablets.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"sumer",
+"writing"
+]
+},
+{
+"id": "ancient_civilizations_005",
+"question": "Which monumental structure served as the burial place for the Old Kingdom Egyptian Pharaoh Khufu?",
+"options": [
+"The Great Sphinx",
+"The Step Pyramid of Djoser",
+"The Great Pyramid of Giza",
+"The Valley of the Kings"
+],
+"correctAnswer": "The Great Pyramid of Giza",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "Built during the Old Kingdom, the Great Pyramid of Giza was constructed as a monumental tomb for Pharaoh Khufu.",
+"imageUrl": "[https://example.com/images/ancient_civilizations_005.jpg](https://www.google.com/search?q=https://example.com/images/ancient_civilizations_005.jpg)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"egypt",
+"architecture"
+]
+},
+{
+"id": "ancient_civilizations_006",
+"question": "Harappa and Mohenjo-daro were major urban centers belonging to which ancient civilization?",
+"options": [
+"Indus Valley Civilization",
+"Ancient Chinese Civilization",
+"Norte Chico Civilization",
+"Olmec Civilization"
+],
+"correctAnswer": "Indus Valley Civilization",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "Harappa and Mohenjo-daro were the two largest sophisticated urban centers discovered within the ancient Indus Valley Civilization.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"indus-valley",
+"india",
+"pakistan"
+]
+},
+{
+"id": "ancient_civilizations_007",
+"question": "Which city-state is recognized as the birthplace of direct democracy in the ancient world?",
+"options": [
+"Sparta",
+"Athens",
+"Rome",
+"Carthage"
+],
+"correctAnswer": "Athens",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "Classical Athens developed a unique system of direct democracy in the late 6th century BCE, allowing male citizens to vote directly on legislation.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"greece",
+"politics"
+]
+},
+{
+"id": "ancient_civilizations_008",
+"question": "Who was the first emperor of the Roman Empire, marking the transition from the Roman Republic?",
+"options": [
+"Julius Caesar",
+"Nero",
+"Augustus",
+"Marcus Aurelius"
+],
+"correctAnswer": "Augustus",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "Originally named Octavian, Augustus became the first official emperor of Rome in 27 BCE after the fall of the Roman Republic.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"rome",
+"rulers"
+]
+},
+{
+"id": "ancient_civilizations_009",
+"question": "Which Mesoamerican civilization built the city of Tikal and developed a highly advanced calendar system?",
+"options": [
+"Aztec Civilization",
+"Inca Civilization",
+"Maya Civilization",
+"Toltec Civilization"
+],
+"correctAnswer": "Maya Civilization",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "The Maya civilization dominated Mesoamerica with impressive cities like Tikal and possessed advanced astronomical knowledge and writing systems.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"maya",
+"mesoamerica"
+]
+},
+{
+"id": "ancient_civilizations_010",
+"question": "Which ruler unified China under a single empire for the first time in 221 BCE?",
+"options": [
+"Qin Shi Huang",
+"Han Wudi",
+"Kublai Khan",
+"Tang Taizong"
+],
+"correctAnswer": "Qin Shi Huang",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "Qin Shi Huang conquered all rival warring states to unify China, establishing the short-lived but highly influential Qin Dynasty.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"china",
+"rulers"
+]
+},
+{
+"id": "ancient_civilizations_011",
+"question": "The Terracotta Army was constructed to protect the tomb of which ancient leader?",
+"options": [
+"Alexander the Great",
+"Qin Shi Huang",
+"King Tutankhamun",
+"Julius Caesar"
+],
+"correctAnswer": "Qin Shi Huang",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "The thousands of life-sized terracotta soldiers were buried near Qin Shi Huang's tomb to safeguard him in the afterlife.",
+"imageUrl": "[https://example.com/images/ancient_civilizations_011.jpg](https://www.google.com/search?q=https://example.com/images/ancient_civilizations_011.jpg)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"china",
+"archaeology"
+]
+},
+{
+"id": "ancient_civilizations_012",
+"question": "Which ancient civilization developed the phonetic alphabet that serves as the root for many modern Western writing systems?",
+"options": [
+"Phoenicians",
+"Egyptians",
+"Babylonians",
+"Persians"
+],
+"correctAnswer": "Phoenicians",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "The seafaring Phoenicians created a simplified 22-letter phonetic alphabet that was adopted and modified by the Greeks and Romans.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"phoenicia",
+"writing"
+]
+},
+{
+"id": "ancient_civilizations_013",
+"question": "What ancient trade network linked China with the Mediterranean world, facilitating the exchange of goods and ideas?",
+"options": [
+"The Amber Road",
+"The Incense Route",
+"The Silk Road",
+"The Royal Road"
+],
+"correctAnswer": "The Silk Road",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "The Silk Road was an expansive network of Eurasian trade routes active from the Han Dynasty until the Ottoman Empire's rise.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"trade",
+"china",
+"eurasia"
+]
+},
+{
+"id": "ancient_civilizations_014",
+"question": "Which modern-day country encompasses the primary territory of ancient Persia?",
+"options": [
+"Iraq",
+"Iran",
+"Turkey",
+"Egypt"
+],
+"correctAnswer": "Iran",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "The historical heartland of the ancient Persian empires is situated in present-day Iran.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"persia",
+"geography"
+]
+},
+{
+"id": "ancient_civilizations_015",
+"question": "The Parthenon, a temple dedicated to the goddess Athena, stands atop which landmark in Athens?",
+"options": [
+"The Acropolis",
+"Mount Olympus",
+"The Agora",
+"The Colosseum"
+],
+"correctAnswer": "The Acropolis",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "The Parthenon was built on the rocky citadel known as the Acropolis of Athens during the peak of the city's power.",
+"imageUrl": "[https://example.com/images/ancient_civilizations_015.jpg](https://www.google.com/search?q=https://example.com/images/ancient_civilizations_015.jpg)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"greece",
+"architecture"
+]
+},
+{
+"id": "ancient_civilizations_016",
+"question": "Which structure was built across northern Britain by the Romans to secure their imperial frontier?",
+"options": [
+"Antonine Wall",
+"Hadrian's Wall",
+"The Great Wall",
+"Servian Wall"
+],
+"correctAnswer": "Hadrian's Wall",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "Ordered by Emperor Hadrian in 122 CE, Hadrian's Wall stretched across England to defend Roman Britain from northern tribes.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"rome",
+"britain"
+]
+},
+{
+"id": "ancient_civilizations_017",
+"question": "What unique physical format did the ancient Peruvians use to record data and narratives using knotted strings?",
+"options": [
+"Quipu",
+"Cuneiform",
+"Codex",
+"Stele"
+],
+"correctAnswer": "Quipu",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "The Inca and older Andean cultures used quipus—systems of colorful knotted cords—to record statistical and narrative data.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"inca",
+"writing"
+]
+},
+{
+"id": "ancient_civilizations_018",
+"question": "Which city, famous for its massive library, served as the cultural and intellectual capital of the Hellenistic world?",
+"options": [
+"Athens",
+"Alexandria",
+"Babylon",
+"Pergamum"
+],
+"correctAnswer": "Alexandria",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "Founded by Alexander the Great in Egypt, Alexandria became an intellectual hub renowned for its vast Great Library.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"greece",
+"egypt",
+"learning"
+]
+},
+{
+"id": "ancient_civilizations_019",
+"question": "Who was the female pharaoh of Egypt who expanded trade networks and built the spectacular Djeser-Djeseru temple?",
+"options": [
+"Cleopatra VII",
+"Nefertiti",
+"Hatshepsut",
+"Sobekneferu"
+],
+"correctAnswer": "Hatshepsut",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "Hatshepsut was one of Egypt's most successful female pharaohs, reigning during the New Kingdom and prioritizing trade over conquest.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"egypt",
+"rulers"
+]
+},
+{
+"id": "ancient_civilizations_020",
+"question": "The legendary city of Carthage, a major rival to the Roman Republic, was originally established by colonists from where?",
+"options": [
+"Greece",
+"Phoenicia",
+"Egypt",
+"Etruria"
+],
+"correctAnswer": "Phoenicia",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "Carthage was founded around the late 9th century BCE as a Phoenician colony before developing into an independent maritime empire.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"carthage",
+"phoenicia"
+]
+},
+{
+"id": "ancient_civilizations_021",
+"question": "Which Roman Emperor famously legalized Christianity throughout the empire with the Edict of Milan in 313 CE?",
+"options": [
+"Nero",
+"Marcus Aurelius",
+"Constantine the Great",
+"Diocletian"
+],
+"correctAnswer": "Constantine the Great",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "Constantine issued the Edict of Milan, ending systemic persecution of Christians and paving the way for the religion's expansion.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"rome",
+"religion"
+]
+},
+{
+"id": "ancient_civilizations_022",
+"question": "What is the primary material used to build the monumental structures of Stonehenge in England?",
+"options": [
+"Marble and limestone",
+"Sarsen stones and bluestones",
+"Granite and basalt",
+"Adobe bricks"
+],
+"correctAnswer": "Sarsen stones and bluestones",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "Stonehenge consists of larger sarsen sandstone blocks and smaller volcanic bluestones hauled from distant quarries.",
+"imageUrl": "[https://example.com/images/ancient_civilizations_022.jpg](https://www.google.com/search?q=https://example.com/images/ancient_civilizations_022.jpg)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"prehistory",
+"britain"
+]
+},
+{
+"id": "ancient_civilizations_023",
+"question": "The historical site of Petra, famous for its rock-cut architecture, was the capital of which ancient kingdom?",
+"options": [
+"Nabataean Kingdom",
+"Kingdom of Kush",
+"Aksumite Empire",
+"Lydian Kingdom"
+],
+"correctAnswer": "Nabataean Kingdom",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "The Nabataeans carved their capital city, Petra, into the red desert sandstone cliffs of modern-day Jordan.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"petra",
+"architecture"
+]
+},
+{
+"id": "ancient_civilizations_024",
+"question": "Which ancient civilization constructed the massive 'Colossal Heads' from basalt boulders?",
+"options": [
+"Aztecs",
+"Olmecs",
+"Zapotecs",
+"Incas"
+],
+"correctAnswer": "Olmecs",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "The Olmecs, Mesoamerica's formative civilization, carved enormous stone heads representing their rulers or warriors.",
+"imageUrl": "[https://example.com/images/ancient_civilizations_024.jpg](https://www.google.com/search?q=https://example.com/images/ancient_civilizations_024.jpg)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"olmec",
+"mesoamerica"
+]
+},
+{
+"id": "ancient_civilizations_025",
+"question": "The legendary Trojan War, described in Homer's Iliad, was fought between the Trojans and which group?",
+"options": [
+"Persians",
+"Mycenaeans (Achaeans)",
+"Minoans",
+"Romans"
+],
+"correctAnswer": "Mycenaeans (Achaeans)",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "The Iliad depicts the siege of Troy by a coalition of Greek kingdoms, primarily identified as Mycenaeans or Achaeans.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"greece",
+"mythology"
+]
+},
+{
+"id": "ancient_civilizations_026",
+"question": "What dynamic volcanic eruption buried the Roman cities of Pompeii and Herculaneum in 79 CE?",
+"options": [
+"Mount Etna",
+"Mount Vesuvius",
+"Krakatoa",
+"Mount Stromboli"
+],
+"correctAnswer": "Mount Vesuvius",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "The catastrophic eruption of Mount Vesuvius frozen Pompeii and Herculaneum in time, preserving them beneath a thick layer of ash and pumice.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"rome",
+"disaster"
+]
+},
+{
+"id": "ancient_civilizations_027",
+"question": "Which historical figure led an army, including war elephants, across the Alps to attack Rome during the Second Punic War?",
+"options": [
+"Scipio Africanus",
+"Hannibal Barca",
+"Julius Caesar",
+"Spartacus"
+],
+"correctAnswer": "Hannibal Barca",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "The Carthaginian general Hannibal famously marched his army and elephants over the Alps to stage a daring invasion of Italy.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"carthage",
+"warfare"
+]
+},
+{
+"id": "ancient_civilizations_028",
+"question": "Which ancient civilization developed along the coast of modern-day Peru and created complex geoglyphs in the desert floor?",
+"options": [
+"Nazca Civilization",
+"Moche Civilization",
+"Chavín Civilization",
+"Wari Civilization"
+],
+"correctAnswer": "Nazca Civilization",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "The Nazca culture is world-renowned for the Nazca Lines, massive geometric and animal geoglyphs scratched into the desert floor.",
+"imageUrl": "[https://example.com/images/ancient_civilizations_028.jpg](https://www.google.com/search?q=https://example.com/images/ancient_civilizations_028.jpg)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"nazca",
+"andes"
+]
+},
+{
+"id": "ancient_civilizations_029",
+"question": "The artifact that famously enabled scholars to finally decipher Egyptian hieroglyphs is called what?",
+"options": [
+"The Elgin Marbles",
+"The Rosetta Stone",
+"The Behistun Inscription",
+"The Code of Ur-Nammu"
+],
+"correctAnswer": "The Rosetta Stone",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "The Rosetta Stone features the same decree in three scripts (Hieroglyphic, Demotic, and Ancient Greek), providing the key to modern translation.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"egypt",
+"archaeology"
+]
+},
+{
+"id": "ancient_civilizations_030",
+"question": "Which legal and philosophical code emphasizing respect, ritual, and familial duty originated during China's Spring and Autumn period?",
+"options": [
+"Legalism",
+"Daoism",
+"Confucianism",
+"Buddhism"
+],
+"correctAnswer": "Confucianism",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "Confucianism, founded by Confucius, profoundly shaped Chinese governance, ethics, and social structure for millennia.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"china",
+"philosophy"
+]
+},
+{
+"id": "ancient_civilizations_031",
+"question": "The Hanging Gardens, one of the Seven Wonders of the Ancient World, were allegedly built in which city?",
+"options": [
+"Nineveh",
+"Babylon",
+"Persepolis",
+"Thebes"
+],
+"correctAnswer": "Babylon",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "Legend credits King Nebuchadnezzar II with building the lush Hanging Gardens of Babylon for his homesick wife, Amytis.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"babylon",
+"wonders"
+]
+},
+{
+"id": "ancient_civilizations_032",
+"question": "Which historical Greek figure conquered the Persian Empire and established an empire stretching to India before dying at age 32?",
+"options": [
+"Pericles",
+"Philip II of Macedon",
+"Alexander the Great",
+"Leonidas"
+],
+"correctAnswer": "Alexander the Great",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "Alexander the Great of Macedon created one of the largest empires in history, spreading Greek culture across the Middle East and parts of Asia.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"greece",
+"rulers"
+]
+},
+{
+"id": "ancient_civilizations_033",
+"question": "What structure was the primary amphitheater in Rome, used for gladiatorial contests and public spectacles?",
+"options": [
+"Circus Maximus",
+"The Pantheon",
+"The Colosseum",
+"The Forum"
+],
+"correctAnswer": "The Colosseum",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "The Flavian Amphitheatre, universally known as the Colosseum, hosted gladiatorial combats, animal hunts, and dramas in ancient Rome.",
+"imageUrl": "[https://example.com/images/ancient_civilizations_033.jpg](https://www.google.com/search?q=https://example.com/images/ancient_civilizations_033.jpg)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"rome",
+"architecture"
+]
+},
+{
+"id": "ancient_civilizations_034",
+"question": "The Minoan civilization, famous for its labyrinthine palace and bull-leaping frescos, was centered on which island?",
+"options": [
+"Rhodes",
+"Crete",
+"Cyprus",
+"Sicily"
+],
+"correctAnswer": "Crete",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "The Bronze Age Minoan civilization flourished on the Mediterranean island of Crete, with Knossos serving as its premier palace site.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"minoan",
+"greece"
+]
+},
+{
+"id": "ancient_civilizations_035",
+"question": "Which Indian emperor embraced Buddhism and erected monumental pillars inscribed with edicts of non-violence following the bloody Kalinga War?",
+"options": [
+"Chandragupta Maurya",
+"Ashoka the Great",
+"Samudragupta",
+"Harsha"
+],
+"correctAnswer": "Ashoka the Great",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "Overcome with remorse after conquering Kalinga, the Mauryan Emperor Ashoka converted to Buddhism and promoted peace across his empire.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"india",
+"buddhism"
+]
+},
+{
+"id": "ancient_civilizations_036",
+"question": "What name is given to the ancient, stepped temple towers built by the Sumerians, Babylonians, and Assyrians?",
+"options": [
+"Obelisks",
+"Ziggurats",
+"Catacombs",
+"Stupas"
+],
+"correctAnswer": "Ziggurats",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "Ziggurats were massive, terraced mud-brick structures built in Mesopotamia as religious shrines dedicated to local deities.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"mesopotamia",
+"architecture"
+]
+},
+{
+"id": "ancient_civilizations_037",
+"question": "Who was the ultimate sovereign queen of the Ptolemaic Kingdom of Egypt before it was annexed by Rome?",
+"options": [
+"Nefertiti",
+"Cleopatra VII",
+"Arsinoe II",
+"Berenice IV"
+],
+"correctAnswer": "Cleopatra VII",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "Cleopatra VII was the final active ruler of the Hellenistic Ptolemaic Kingdom, famous for her alliances with Julius Caesar and Mark Antony.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"egypt",
+"rulers"
+]
+},
+{
+"id": "ancient_civilizations_038",
+"question": "The legendary twin brothers Romulus and Remus are central figures in the founding myth of which city?",
+"options": [
+"Athens",
+"Sparta",
+"Rome",
+"Troy"
+],
+"correctAnswer": "Rome",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "According to tradition, Rome was founded in 753 BCE by Romulus, who killed his twin brother Remus after a dispute over the city's location.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"rome",
+"mythology"
+]
+},
+{
+"id": "ancient_civilizations_039",
+"question": "Which city-state was ancient Athens' primary militaristic rival during the Peloponnesian War?",
+"options": [
+"Thebes",
+"Sparta",
+"Corinth",
+"Argos"
+],
+"correctAnswer": "Sparta",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "The Peloponnesian War was a massive conflict that pitted the democratic Athens and its empire against the oligarchic Peloponnesian League led by Sparta.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"greece",
+"warfare"
+]
+},
+{
+"id": "ancient_civilizations_040",
+"question": "What Roman architectural marvel was constructed with a massive unreinforced concrete dome featuring a central opening (oculus)?",
+"options": [
+"The Pantheon",
+"The Colosseum",
+"The Baths of Caracalla",
+"The Basilica of Maxentius"
+],
+"correctAnswer": "The Pantheon",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "Commissioned by Marcus Agrippa and rebuilt by Hadrian, the Pantheon boasts the largest unreinforced concrete dome in the world.",
+"imageUrl": "[https://example.com/images/ancient_civilizations_040.jpg](https://www.google.com/search?q=https://example.com/images/ancient_civilizations_040.jpg)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"rome",
+"architecture"
+]
+},
+{
+"id": "ancient_civilizations_041",
+"question": "The ancient Greek city-states frequently paused their internal conflicts to compete in which recurring sporting festival?",
+"options": [
+"The Pythian Games",
+"The Olympic Games",
+"The Isthmian Games",
+"The Nemean Games"
+],
+"correctAnswer": "The Olympic Games",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "The ancient Olympic Games were held every four years in Olympia to honor Zeus, inspiring a sacred truce among warring Greek states.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"greece",
+"sports"
+]
+},
+{
+"id": "ancient_civilizations_042",
+"question": "Which civilization constructed the capital city of Tenochtitlan on an island in Lake Texcoco?",
+"options": [
+"Maya Civilization",
+"Aztec Civilization",
+"Inca Civilization",
+"Toltec Civilization"
+],
+"correctAnswer": "Aztec Civilization",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "The Aztecs founded Tenochtitlan in 1325 CE, using an ingenious system of artificial islands called chinampas to expand their city.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"aztec",
+"mesoamerica"
+]
+},
+{
+"id": "ancient_civilizations_043",
+"question": "The ancient city of Babylon reached its ultimate territorial peak and architectural splendor under which famous Neo-Babylonian king?",
+"options": [
+"Hammurabi",
+"Nebuchadnezzar II",
+"Nabonidus",
+"Sargon II"
+],
+"correctAnswer": "Nebuchadnezzar II",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "Nebuchadnezzar II rebuilt Babylon into a grand metropolis, constructing the Ishtar Gate and conquering Jerusalem.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"babylon",
+"rulers"
+]
+},
+{
+"id": "ancient_civilizations_044",
+"question": "Which major philosophical institution was founded by Plato in Athens around 387 BCE?",
+"options": [
+"The Lyceum",
+"The Stoa",
+"The Academy",
+"The Garden"
+],
+"correctAnswer": "The Academy",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "Plato established the Academy, an institutional center of higher learning that endured for centuries before being closed by Justinian.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"greece",
+"philosophy"
+]
+},
+{
+"id": "ancient_civilizations_045",
+"question": "What elite class of military commanders and administrative officials formed the backbone of the early Achaemenid Persian Empire?",
+"options": [
+"Satraps",
+"Hoplites",
+"Patricians",
+"Mandarins"
+],
+"correctAnswer": "Satraps",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "Satraps were regional governors appointed by the Persian king to manage large provinces called satrapies.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"persia",
+"governance"
+]
+},
+{
+"id": "ancient_civilizations_046",
+"question": "The spectacular royal tomb complex of King Tutankhamun was discovered fully intact in 1922 by which archaeologist?",
+"options": [
+"Heinrich Schliemann",
+"Howard Carter",
+"Arthur Evans",
+"Hiram Bingham"
+],
+"correctAnswer": "Howard Carter",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "British archaeologist Howard Carter discovered Tutankhamun's nearly undisturbed tomb in Egypt's Valley of the Kings.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"egypt",
+"archaeology"
+]
+},
+{
+"id": "ancient_civilizations_047",
+"question": "Which group overthrew their Etruscan kings in 509 BCE to establish a republic managed by a Senate?",
+"options": [
+"Greeks",
+"Romans",
+"Carthaginians",
+"Gauls"
+],
+"correctAnswer": "Romans",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "The Romans expelled their final king, Tarquin the Proud, establishing the Roman Republic guided by elected magistrates and a Senate.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"rome",
+"politics"
+]
+},
+{
+"id": "ancient_civilizations_048",
+"question": "What highly organized system of long-distance communication was engineered by Darius I across the Persian Empire?",
+"options": [
+"The Appian Way",
+"The Royal Road",
+"The Silk Road",
+"The Grand Canal"
+],
+"correctAnswer": "The Royal Road",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "The Royal Road stretched over 1,600 miles, allowing royal couriers to rapidly deliver messages across the Persian Empire.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"persia",
+"infrastructure"
+]
+},
+{
+"id": "ancient_civilizations_049",
+"question": "The magnificent Temple of Artemis, one of the Seven Wonders of the Ancient World, was located in which historic city?",
+"options": [
+"Ephesus",
+"Athens",
+"Rhodes",
+"Alexandria"
+],
+"correctAnswer": "Ephesus",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "The colossal Greek Temple of Artemis was located in Ephesus, an ancient Greek city on the coast of modern-day Turkey.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"greece",
+"wonders"
+]
+},
+{
+"id": "ancient_civilizations_050",
+"question": "What is the name of the oldest known written law code, predating the Code of Hammurabi by three centuries?",
+"options": [
+"Code of Ur-Nammu",
+"Edicts of Ashoka",
+"Twelve Tables",
+"Draconian Code"
+],
+"correctAnswer": "Code of Ur-Nammu",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "The Sumerian Code of Ur-Nammu, written around 2100–2050 BCE, is the earliest surviving legal code currently known.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"sumer",
+"law"
+]
+},
+{
+"id": "ancient_civilizations_051",
+"question": "Which Mesopotamian ruler created the world's first multi-ethnic, centralized empire by conquering the Sumerian city-states?",
+"options": [
+"Sargon of Akkad",
+"Hammurabi",
+"Gilgamesh",
+"Ashurbanipal"
+],
+"correctAnswer": "Sargon of Akkad",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "Sargon of Akkad united Sumer and Akkad around 2334 BCE, founding the Akkadian Empire, recognized as the world's first empire.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"akkad",
+"rulers"
+]
+},
+{
+"id": "ancient_civilizations_052",
+"question": "The battle of Kadesh, famous for hosting history's largest chariot battle, was fought between Egypt and which rival power?",
+"options": [
+"Assyrians",
+"Hittites",
+"Babylonians",
+"Mitanni"
+],
+"correctAnswer": "Hittites",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "Fought in 1274 BCE, the Battle of Kadesh pitted Ramesses II's Egyptian forces against Muwatalli II's Hittite Empire.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"egypt",
+"hittite",
+"warfare"
+]
+},
+{
+"id": "ancient_civilizations_053",
+"question": "What archaeological artifact, inscribed with laws by a Persian emperor, is often celebrated as the first declaration of human rights?",
+"options": [
+"The Behistun Inscription",
+"The Cyrus Cylinder",
+"The Tel Dan Stele",
+"The Black Obelisk"
+],
+"correctAnswer": "The Cyrus Cylinder",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "The Cyrus Cylinder, recorded after Cyrus the Great conquered Babylon, declared freedom of worship and repatriated displaced peoples.",
+"imageUrl": "[https://example.com/images/ancient_civilizations_053.jpg](https://www.google.com/search?q=https://example.com/images/ancient_civilizations_053.jpg)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"persia",
+"archaeology"
+]
+},
+{
+"id": "ancient_civilizations_054",
+"question": "Which early civilization located in modern-day Sudan was a powerful contemporary and occasional ruler of ancient Egypt?",
+"options": [
+"Kingdom of Axum",
+"Kingdom of Kush",
+"Punt",
+"Carthage"
+],
+"correctAnswer": "Kingdom of Kush",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "The Kingdom of Kush flourished in Nubia (Sudan) and famously ruled Egypt during the 25th Dynasty as the 'Black Pharaohs'.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"kush",
+"nubia",
+"africa"
+]
+},
+{
+"id": "ancient_civilizations_055",
+"question": "What prehistoric settlement in modern-day Turkey is famous for being one of the world's first densely populated agricultural towns?",
+"options": [
+"Catalhoyuk",
+"Gobekli Tepe",
+"Jericho",
+"Uruk"
+],
+"correctAnswer": "Catalhoyuk",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "Flourishing around 7500 BCE, Catalhoyuk is a massive Neolithic settlement where residents lived in honeycomb-like mudbrick houses accessed via roofs.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"neolithic",
+"turkey"
+]
+},
+{
+"id": "ancient_civilizations_056",
+"question": "Which Greek lawmaker instituted severe, sweeping reforms in 7th-century BCE Athens, making almost all offenses punishable by death?",
+"options": [
+"Solon",
+"Draco",
+"Cleisthenes",
+"Pericles"
+],
+"correctAnswer": "Draco",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "Draco replaced oral laws with a harsh written code. His severe punishments gave rise to the modern word 'draconian'.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"greece",
+"law"
+]
+},
+{
+"id": "ancient_civilizations_057",
+"question": "The legendary 'Linear B' script, deciphered in 1952, was used by which major Bronze Age civilization?",
+"options": [
+"Minoans",
+"Mycenaeans",
+"Hittites",
+"Phoenicians"
+],
+"correctAnswer": "Mycenaeans",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "Linear B was an early syllabic script used by the Mycenaeans. It was deciphered as an archaic form of the Greek language.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"mycenae",
+"writing"
+]
+},
+{
+"id": "ancient_civilizations_058",
+"question": "Which Mauryan minister wrote the Arthashastra, an ancient Indian treatise on statecraft, economic policy, and military strategy?",
+"options": [
+"Chanakya (Kautilya)",
+"Kalidasa",
+"Aryabhata",
+"Varahamihira"
+],
+"correctAnswer": "Chanakya (Kautilya)",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "Chanakya served as the chief advisor to King Chandragupta Maurya and authored the Arthashastra, a masterful guide on political realism.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"india",
+"literature"
+]
+},
+{
+"id": "ancient_civilizations_059",
+"question": "What specific ancient civilization built the archaeological site of Caral-Supe in Peru, considered the oldest city in the Americas?",
+"options": [
+"Norte Chico Civilization",
+"Olmec Civilization",
+"Chavin Civilization",
+"Moche Civilization"
+],
+"correctAnswer": "Norte Chico Civilization",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "The Norte Chico (or Caral-Supe) civilization developed massive stone plazas and pyramids in Peru around 3000 BCE, matching the antiquity of Egypt.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"peru",
+"americas"
+]
+},
+{
+"id": "ancient_civilizations_060",
+"question": "The legendary first Dynasty of traditional Chinese history, which lacked explicit contemporary written records, is known as what?",
+"options": [
+"Shang Dynasty",
+"Xia Dynasty",
+"Zhou Dynasty",
+"Qin Dynasty"
+],
+"correctAnswer": "Xia Dynasty",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "The Xia Dynasty is the first dynasty described in ancient Chinese chronicles, though its historical existence remains debated due to a lack of written evidence.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"china",
+"dynasties"
+]
+},
+{
+"id": "ancient_civilizations_061",
+"question": "What crucial legislative reform in 451–450 BCE established written down statutory laws for the public in the Roman Republic?",
+"options": [
+"The Licinian-Sextian Laws",
+"The Twelve Tables",
+"The Justinian Code",
+"The Lex Hortensia"
+],
+"correctAnswer": "The Twelve Tables",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "The Law of the Twelve Tables was the earliest attempt by the Romans to create a binding code of written law to prevent arbitrary patrician rule.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"rome",
+"law"
+]
+},
+{
+"id": "ancient_civilizations_062",
+"question": "Which pre-Inca Andean culture is famous for its elaborate pottery, human sacrifice rituals, and grand pyramids like Huaca del Sol?",
+"options": [
+"Moche Civilization",
+"Nazca Civilization",
+"Tiwanaku Civilization",
+"Inca Civilization"
+],
+"correctAnswer": "Moche Civilization",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "The Moche flourished on Peru's northern coast from 100–700 CE, leaving behind rich archaeological records of artistic pottery and elite burials.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"moche",
+"peru"
+]
+},
+{
+"id": "ancient_civilizations_063",
+"question": "What specific terminology refers to the peace and stability experienced across the Roman Empire during its peak in the 1st and 2nd centuries CE?",
+"options": [
+"Pax Romana",
+"Pax Transalpina",
+"Pax Augusta",
+"Pax Imperia"
+],
+"correctAnswer": "Pax Romana",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "Initiated under Augustus, the Pax Romana ('Roman Peace') was a roughly 200-year period of relative internal peace and prosperity.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"rome",
+"politics"
+]
+},
+{
+"id": "ancient_civilizations_064",
+"question": "The spectacular Lion Gate is the main entrance to which famous Bronze Age Greek citadel?",
+"options": [
+"Knossos",
+"Mycenae",
+"Tiryns",
+"Sparta"
+],
+"correctAnswer": "Mycenae",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "The monumental Lion Gate, featuring two carved relief lionesses, is the iconic entranceway to the fortified city of Mycenae.",
+"imageUrl": "[https://example.com/images/ancient_civilizations_064.jpg](https://www.google.com/search?q=https://example.com/images/ancient_civilizations_064.jpg)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"mycenae",
+"architecture"
+]
+},
+{
+"id": "ancient_civilizations_065",
+"question": "Which early civilization constructed the monumental capital city of Hattusa in central Anatolia?",
+"options": [
+"Lydians",
+"Hittites",
+"Phrygians",
+"Urartians"
+],
+"correctAnswer": "Hittites",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "Hattusa was the fortified capital of the Hittite Empire, an influential Bronze Age superpower that rivaled Egypt.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"hittite",
+"turkey"
+]
+},
+{
+"id": "ancient_civilizations_066",
+"question": "The unique structural design of ancient Roman aqueducts relied heavily on what engineering feature to span wide valleys?",
+"options": [
+"Corbeled vaults",
+"Semicircular stone arches",
+"Iron brackets",
+"Post-and-beam construction"
+],
+"correctAnswer": "Semicircular stone arches",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "The perfect semicircular arch allowed Roman engineers to build tall, sturdy, and material-efficient tiers for carrying water over long distances.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"rome",
+"engineering"
+]
+},
+{
+"id": "ancient_civilizations_067",
+"question": "Which historic leader was responsible for assembling the massive Neo-Assyrian royal library at Nineveh?",
+"options": [
+"Tiglath-Pileser III",
+"Sargon II",
+"Sennacherib",
+"Ashurbanipal"
+],
+"correctAnswer": "Ashurbanipal",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "King Ashurbanipal amassed thousands of cuneiform tablets, preserving works like the Epic of Gilgamesh for modern historians.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"assyria",
+"learning"
+]
+},
+{
+"id": "ancient_civilizations_068",
+"question": "What significant religious revolution did the Egyptian Pharaoh Akhenaten attempt during the New Kingdom?",
+"options": [
+"Enforcing the worship of the underworld god Osiris",
+"A shift toward monolatry centered on the sun disc Aten",
+"Banning all forms of animal sacrifice",
+"Replacing traditional gods with Greek deities"
+],
+"correctAnswer": "A shift toward monolatry centered on the sun disc Aten",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "Akhenaten suppressed the traditional pantheon led by Amun, establishing a new capital and elevating Aten as the sole supreme deity.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"egypt",
+"religion"
+]
+},
+{
+"id": "ancient_civilizations_069",
+"question": "Which Chinese thinker pioneered the school of Legalism, emphasizing strict state control and harsh punishments?",
+"options": [
+"Laozi",
+"Han Feizi",
+"Mencius",
+"Zhuangzi"
+],
+"correctAnswer": "Han Feizi",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "Han Feizi synthesized earlier ideas into a unified legalist philosophy, which later became the governing doctrine of the Qin Dynasty.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"china",
+"philosophy"
+]
+},
+{
+"id": "ancient_civilizations_070",
+"question": "What massive pre-Columbian urban center in central Mexico is famous for its grid plan and giant Pyramids of the Sun and Moon?",
+"options": [
+"Teotihuacan",
+"Chichen Itza",
+"Palenque",
+"Monte Alban"
+],
+"correctAnswer": "Teotihuacan",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "Teotihuacan was an multi-ethnic metropolis that thrived independently before the Aztecs named it 'the place where gods were born'.",
+"imageUrl": "[https://example.com/images/ancient_civilizations_070.jpg](https://www.google.com/search?q=https://example.com/images/ancient_civilizations_070.jpg)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"mesoamerica",
+"architecture"
+]
+},
+{
+"id": "ancient_civilizations_071",
+"question": "Which historic conflict resulted in the total destruction of Carthage by the forces of the Roman Republic?",
+"options": [
+"First Punic War",
+"Second Punic War",
+"Third Punic War",
+"Jugurthine War"
+],
+"correctAnswer": "Third Punic War",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "The Third Punic War ended in 146 BCE with Scipio Aemilianus storming Carthage, razing the city, and enslaving its survivors.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"rome",
+"carthage",
+"warfare"
+]
+},
+{
+"id": "ancient_civilizations_072",
+"question": "The spectacular rock-cut 'Elaborate Caves' at Ajanta and Ellora in Maharashtra, India, primarily honor which traditions?",
+"options": [
+"Hinduism, Buddhism, and Jainism",
+"Buddhism and Zoroastrianism",
+"Vedic Hinduism exclusively",
+"Early Islam and Hinduism"
+],
+"correctAnswer": "Hinduism, Buddhism, and Jainism",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "The monolithic excavations at Ellora demonstrate remarkable religious tolerance, showcasing temples from three major faiths side-by-side.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"india",
+"religion",
+"art"
+]
+},
+{
+"id": "ancient_civilizations_073",
+"question": "What unique structural defense mechanism protected the capital of the Eastern Roman Empire, Constantinople, from landward assault?",
+"options": [
+"The Theodosian Walls",
+"The Aurelian Walls",
+"The Servian Walls",
+"The Anastasiana Wall"
+],
+"correctAnswer": "The Theodosian Walls",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "The multi-layered Theodosian Walls successfully defended Constantinople against numerous sieges for over a thousand years.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"byzantine",
+"engineering"
+]
+},
+{
+"id": "ancient_civilizations_074",
+"question": "Which pre-Roman Italian culture heavily influenced early Rome's architecture, religion, and gladiatorial traditions?",
+"options": [
+"Etruscans",
+"Samnites",
+"Sabines",
+"Umbrians"
+],
+"correctAnswer": "Etruscans",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "The Etruscans possessed an advanced civilization north of Rome, passing on artistic, structural, and cultural traditions to the developing Roman state.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"italy",
+"etruscan"
+]
+},
+{
+"id": "ancient_civilizations_075",
+"question": "The spectacular Bronze Age archaeological site known as 'Akrotiri', preserved beneath volcanic ash, is located on which modern island?",
+"options": [
+"Santorini (Thera)",
+"Crete",
+"Mykonos",
+"Milos"
+],
+"correctAnswer": "Santorini (Thera)",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "Akrotiri was a Minoan-influenced settlement buried by the massive Theran eruption, sealing its elaborate multi-story homes and frescoes.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"archaeology",
+"greece"
+]
+},
+{
+"id": "ancient_civilizations_076",
+"question": "Which historic dynasty initiated the construction of the earliest components of the Great Wall of China using rammed earth?",
+"options": [
+"Qin Dynasty",
+"Han Dynasty",
+"Zhou Dynasty",
+"Ming Dynasty"
+],
+"correctAnswer": "Qin Dynasty",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "While earlier states built disjointed walls, Emperor Qin Shi Huang first connected and fortified them into a unified northern defense system.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"china",
+"architecture"
+]
+},
+{
+"id": "ancient_civilizations_077",
+"question": "The ancient city of Taxila, a major seat of Vedic and Buddhist learning, was located in which historic geopolitical region?",
+"options": [
+"Gandhara",
+"Magadha",
+"Kalinga",
+"Chola"
+],
+"correctAnswer": "Gandhara",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "Taxila was a vital hub in ancient Gandhara (modern Pakistan), blending Persian, Greek, and Indian cultural influences.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"india",
+"gandhara",
+"learning"
+]
+},
+{
+"id": "ancient_civilizations_078",
+"question": "What is the primary significance of the ancient site of Gobekli Tepe in modern-day Turkey?",
+"options": [
+"It is the oldest known temple complex constructed by hunter-gatherers.",
+"It contains the earliest evidence of smelting iron.",
+"It was the first city to use a bronze coinage system.",
+"It served as the final capital of the Hittite Empire."
+],
+"correctAnswer": "It is the oldest known temple complex constructed by hunter-gatherers.",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "Dating back to the 10th millennium BCE, Gobekli Tepe challenged historical timelines by showing monument construction preceded agriculture.",
+"imageUrl": "[https://example.com/images/ancient_civilizations_078.jpg](https://www.google.com/search?q=https://example.com/images/ancient_civilizations_078.jpg)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"prehistory",
+"archaeology"
+]
+},
+{
+"id": "ancient_civilizations_079",
+"question": "Which Roman general was defeated by Julius Caesar in a civil war, fleeing to Egypt where he was promptly assassinated?",
+"options": [
+"Pompey the Great",
+"Mark Antony",
+"Marcus Licinius Crassus",
+"Lucius Cornelius Sulla"
+],
+"correctAnswer": "Pompey the Great",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "After losing the Battle of Pharsalus to Caesar, Pompey sought refuge in Ptolemaic Egypt but was betrayed and beheaded upon landing.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"rome",
+"warfare"
+]
+},
+{
+"id": "ancient_civilizations_080",
+"question": "The historical maritime trade port of Lothal, featuring an advanced artificial dockyard, belonged to which civilization?",
+"options": [
+"Indus Valley Civilization",
+"Sumerian Civilization",
+"Minoan Civilization",
+"Phoenician Civilization"
+],
+"correctAnswer": "Indus Valley Civilization",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "Located in modern Gujarat, India, Lothal was a highly organized port city connecting the Indus Valley to trade networks in the Arabian Sea.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"indus-valley",
+"trade"
+]
+},
+{
+"id": "ancient_civilizations_081",
+"question": "Which specific script found on ancient Chinese oracle bones is recognized as the earliest form of Chinese writing?",
+"options": [
+"Seal Script",
+"Oracle Bone Script",
+"Clerical Script",
+"Regular Script"
+],
+"correctAnswer": "Oracle Bone Script",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "Inscribed on turtle plastrons and ox scapulae during the Shang Dynasty, this script was used primarily for royal divination.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"china",
+"writing"
+]
+},
+{
+"id": "ancient_civilizations_082",
+"question": "The monumental arch known as the 'Gateway of Sun' was carved from a single stone block by which pre-Inca civilization?",
+"options": [
+"Tiwanaku Civilization",
+"Wari Civilization",
+"Chavin Civilization",
+"Moche Civilization"
+],
+"correctAnswer": "Tiwanaku Civilization",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "The Gate of the Sun is located near Lake Titicaca in Bolivia, serving as a masterpiece of megalithic stone engineering by the Tiwanaku culture.",
+"imageUrl": "[https://example.com/images/ancient_civilizations_082.jpg](https://www.google.com/search?q=https://example.com/images/ancient_civilizations_082.jpg)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"tiwanaku",
+"andes"
+]
+},
+{
+"id": "ancient_civilizations_083",
+"question": "Which Macedonian general founded the Ptolemaic Dynasty in Egypt following the sudden death of Alexander the Great?",
+"options": [
+"Seleucus",
+"Ptolemy I Soter",
+"Lysimachus",
+"Antigonus"
+],
+"correctAnswer": "Ptolemy I Soter",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "Ptolemy I secured Egypt during the partition of Alexander's empire, declaring himself pharaoh and launching a dynasty that ended with Cleopatra.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"egypt",
+"greece",
+"rulers"
+]
+},
+{
+"id": "ancient_civilizations_084",
+"question": "The spectacular 'Treasury' (Al-Khazneh) monument in Petra was originally constructed to serve what primary function?",
+"options": [
+"A royal treasury storage house",
+"A mausoleum and tomb for a Nabataean king",
+"A temple dedicated to Zeus",
+"A public marketplace office"
+],
+"correctAnswer": "A mausoleum and tomb for a Nabataean king",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "Despite its modern name 'The Treasury', archaeologists believe the structure was built as a monumental tomb for King Aretas IV.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"petra",
+"archaeology"
+]
+},
+{
+"id": "ancient_civilizations_085",
+"question": "Which Roman statesman and philosopher famously delivered the 'Philippics' speeches attacking Mark Antony's character?",
+"options": [
+"Seneca the Younger",
+"Cicero",
+"Cato the Younger",
+"Pliny the Elder"
+],
+"correctAnswer": "Cicero",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "Cicero's scathing Philippic speeches defended the Roman Republic but ultimately led to his execution under the Second Triumvirate.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"rome",
+"literature"
+]
+},
+{
+"id": "ancient_civilizations_086",
+"question": "What key archaeological discovery revealed that the Indus Valley Civilization practiced uniform weight and measurement systems?",
+"options": [
+"The discovery of standardization chert cubical weights",
+"A central royal dictionary tablet",
+"Inscribed laws on stone obelisks",
+"Uniform copper coins used throughout the valley"
+],
+"correctAnswer": "The discovery of standardization chert cubical weights",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "Excavations revealed highly precise, standard cubical weights used for trade, demonstrating exceptional centralized civic control.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"indus-valley",
+"trade"
+]
+},
+{
+"id": "ancient_civilizations_087",
+"question": "The strategic Battle of Salamis, which turned the tide of the Second Persian Invasion of Greece, was fought in what arena?",
+"options": [
+"A mountain pass",
+"A narrow naval strait",
+"An open plains field",
+"The gates of Athens"
+],
+"correctAnswer": "A narrow naval strait",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "The Athenian general Themistocles lured the heavy Persian fleet into the narrow straits of Salamis, where agile Greek triremes decimated them.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"greece",
+"persia",
+"warfare"
+]
+},
+{
+"id": "ancient_civilizations_088",
+"question": "What classic concept developed during the Zhou Dynasty justified the overthrow of an unjust or corrupt Chinese ruler?",
+"options": [
+"The Mandate of Heaven",
+"Filial Piety",
+"The Legalist Doctrine",
+"The Daoist Way"
+],
+"correctAnswer": "The Mandate of Heaven",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "The Mandate of Heaven asserted that heaven bestowed authority on a just ruler; natural disasters and rebellions indicated the mandate was lost.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"china",
+"politics"
+]
+},
+{
+"id": "ancient_civilizations_089",
+"question": "Which major archaeological site in eastern England features an undisturbed early 7th-century Anglo-Saxon ship burial?",
+"options": [
+"Sutton Hoo",
+"Vindolanda",
+"Skara Brae",
+"Cheddar Gorge"
+],
+"correctAnswer": "Sutton Hoo",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "Sutton Hoo yielded an unparalleled collection of Anglo-Saxon artifacts, including the famous ceremonial iron helmet and gold regalia.",
+"imageUrl": "[https://example.com/images/ancient_civilizations_089.jpg](https://www.google.com/search?q=https://example.com/images/ancient_civilizations_089.jpg)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"britain",
+"archaeology"
+]
+},
+{
+"id": "ancient_civilizations_090",
+"question": "What unique maritime innovation allowed ancient Phoenician sailors to successfully navigate open waters at night?",
+"options": [
+"The magnetic compass",
+"Astrological mapping using the Pole Star (Ursa Minor)",
+"Primitive sonar bells",
+"Floating wood buoys"
+],
+"correctAnswer": "Astrological mapping using the Pole Star (Ursa Minor)",
+"category": "Ancient Civilizations",
+"difficulty": "hard",
+"explanation": "Greeks referred to Polaris as the 'Phoenician Star' because Phoenician navigators utilized its static northern position for deep-sea travel.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"phoenicia",
+"navigation"
+]
+},
+{
+"id": "ancient_civilizations_091",
+"question": "The ancient city-state of Elam, an enduring rival and neighbor to Mesopotamia, was situated in which geographic territory?",
+"options": [
+"Southwestern Iran",
+"Northern Syria",
+"Eastern Anatolia",
+"The Levant Coast"
+],
+"correctAnswer": "Southwestern Iran",
+"category": "Ancient Civilizations",
+"difficulty": "hard",
+"explanation": "Elam was centered in modern-day Khuzestan and Ilam provinces of Iran, with Susa serving as its historically famous capital city.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"elam",
+"iran",
+"geography"
+]
+},
+{
+"id": "ancient_civilizations_092",
+"question": "Which precise international agreement is recognized as the world's oldest surviving written peace treaty?",
+"options": [
+"The Treaty of Kadesh",
+"The Peace of Callias",
+"The Treaty of Lutatius",
+"The Peace of Nicias"
+],
+"correctAnswer": "The Treaty of Kadesh",
+"category": "Ancient Civilizations",
+"difficulty": "hard",
+"explanation": "Concluded between Ramesses II and Hattusili III, copies of this historic non-aggression pact survive in both hieroglyphs and cuneiform.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"egypt",
+"hittite",
+"diplomacy"
+]
+},
+{
+"id": "ancient_civilizations_093",
+"question": "What complex architectural structure did the Roman engineer Vitruvius describe as the ideal template for civic basilic structures?",
+"options": [
+"The Basilica of Fano",
+"The Basilica Ulpia",
+"The Basilica Aemilia",
+"The Basilica Julia"
+],
+"correctAnswer": "The Basilica of Fano",
+"category": "Ancient Civilizations",
+"difficulty": "hard",
+"explanation": "Vitruvius personally designed and built the Basilica of Fano, referencing its structural proportions in his famous treatise 'De architectura'.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"rome",
+"architecture"
+]
+},
+{
+"id": "ancient_civilizations_094",
+"question": "The spectacular 'Vaphio Cups', showcasing intricate gold reliefs of men capturing wild bulls, belong to which Bronze Age tradition?",
+"options": [
+"Minoan art found in a Mycenaean tomb",
+"Classic Hittite religious metalwork",
+"Early Phoenician trade goods",
+"Old Kingdom Egyptian craftsmanship"
+],
+"correctAnswer": "Minoan art found in a Mycenaean tomb",
+"category": "Ancient Civilizations",
+"difficulty": "hard",
+"explanation": "Discovered near Sparta, these masterfully crafted gold cups showcase exquisite Minoan naturalistic design styles buried within a Mycenaean tholos tomb.",
+"imageUrl": "[https://example.com/images/ancient_civilizations_094.jpg](https://www.google.com/search?q=https://example.com/images/ancient_civilizations_094.jpg)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"art",
+"minoan",
+"mycenae"
+]
+},
+{
+"id": "ancient_civilizations_095",
+"question": "Which historical script, used by the ancient kingdom of Aksum in modern Ethiopia, remains the foundation for Ge'ez today?",
+"options": [
+"Ethiopic (Ge'ez) script",
+"Meroitic script",
+"South Arabian alphabet",
+"Demotic script"
+],
+"correctAnswer": "Ethiopic (Ge'ez) script",
+"category": "Ancient Civilizations",
+"difficulty": "hard",
+"explanation": "Aksum adapted the South Arabian consonantal script into a full abugida writing system to represent the Ge'ez language.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"aksum",
+"writing",
+"africa"
+]
+},
+{
+"id": "ancient_civilizations_096",
+"question": "What highly destructive civil conflict within the Roman Republic erupted from 91 to 87 BCE between Rome and its Italian allies?",
+"options": [
+"The Social War",
+"The Jugurthine War",
+"The Servile Wars",
+"The Mithridatic Wars"
+],
+"correctAnswer": "The Social War",
+"category": "Ancient Civilizations",
+"difficulty": "hard",
+"explanation": "The Social War (Bellum Sociale) occurred when Rome's Italian allies (socii) revolted to demand full Roman citizenship status.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"rome",
+"warfare"
+]
+},
+{
+"id": "ancient_civilizations_097",
+"question": "The highly unique 'Well of Souls' is a sacred natural cavern formation located beneath which iconic historical monument?",
+"options": [
+"The Dome of the Rock",
+"The Temple of Solomon",
+"The Parthenon",
+"The Ziggurat of Ur"
+],
+"correctAnswer": "The Dome of the Rock",
+"category": "Ancient Civilizations",
+"difficulty": "hard",
+"explanation": "The Well of Souls is a natural cave located beneath the Foundation Stone in the Dome of the Rock temple complex in Jerusalem.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"jerusalem",
+"archaeology"
+]
+},
+{
+"id": "ancient_civilizations_098",
+"question": "Which historic battle in 331 BCE saw Alexander the Great decisively crush the forces of Darius III, leading to the collapse of the Persian Empire?",
+"options": [
+"Battle of Gaugamela",
+"Battle of Issus",
+"Battle of the Granicus",
+"Battle of the Persian Gate"
+],
+"correctAnswer": "Battle of Gaugamela",
+"category": "Ancient Civilizations",
+"difficulty": "hard",
+"explanation": "At Gaugamela, Alexander bypassed the main Persian lines to charge directly at Darius III, shattering Persian moral and military dominance.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"greece",
+"persia",
+"warfare"
+]
+},
+{
+"id": "ancient_civilizations_099",
+"question": "What highly intricate bronze-casting process was utilized by Shang Dynasty artisans to create their iconic ritual vessels?",
+"options": [
+"Piece-mold casting technique",
+"Lost-wax casting process",
+"Sand casting method",
+"Forging and hammering"
+],
+"correctAnswer": "Piece-mold casting technique",
+"category": "Ancient Civilizations",
+"difficulty": "hard",
+"explanation": "Unlike the Western world which favored lost-wax casting, Shang artisans carved intricate clay piece-molds to cast dynamic, highly detailed ritual bronzes.",
+"imageUrl": "[https://example.com/images/ancient_civilizations_099.jpg](https://www.google.com/search?q=https://example.com/images/ancient_civilizations_099.jpg)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"china",
+"art",
+"metallurgy"
+]
+},
+{
+"id": "ancient_civilizations_100",
+"question": "The enigmatic 'Sanxingdui' culture, which produced bizarre bronze masks with protruding eyes, flourished concurrently with which Chinese period?",
+"options": [
+"Shang Dynasty",
+"Han Dynasty",
+"Zhou Dynasty",
+"Tang Dynasty"
+],
+"correctAnswer": "Shang Dynasty",
+"category": "Ancient Civilizations",
+"difficulty": "hard",
+"explanation": "The Sanxingdui culture flourished in modern Sichuan province, showcasing a sophisticated Bronze Age civilization completely distinct from the traditional Yellow River Valley cultures.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"sanxingdui",
+"china",
+"archaeology"
+]
+},
+{
+"id": "ancient_civilizations_101",
+"question": "Which civilization built the ancient city of Mohenjo-daro?",
+"options": [
+"Mesopotamian Civilization",
+"Indus Valley Civilization",
+"Ancient Egyptian Civilization",
+"Minoan Civilization"
+],
+"correctAnswer": "Indus Valley Civilization",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "Mohenjo-daro was one of the largest settlements of the ancient Indus Valley Civilization, located in modern-day Pakistan.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"indus-valley",
+"cities"
+]
+},
+{
+"id": "ancient_civilizations_102",
+"question": "What was the primary writing surface used by the ancient Egyptians for official and religious texts?",
+"options": [
+"Clay tablets",
+"Papyrus",
+"Parchment",
+"Vellum"
+],
+"correctAnswer": "Papyrus",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "Ancient Egyptians manufactured papyrus from the pith of the papyrus plant to use as a lightweight writing surface.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"egypt",
+"writing"
+]
+},
+{
+"id": "ancient_civilizations_103",
+"question": "Who was the supreme god in ancient Greek mythology, ruling from Mount Olympus?",
+"options": [
+"Poseidon",
+"Hades",
+"Zeus",
+"Apollo"
+],
+"correctAnswer": "Zeus",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "Zeus was the sky and thunder god in ancient Greek religion, who ruled as king of the gods on Mount Olympus.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"greece",
+"mythology"
+]
+},
+{
+"id": "ancient_civilizations_104",
+"question": "The spectacular palace of Knossos is associated with which early European civilization?",
+"options": [
+"Mycenaeans",
+"Minoans",
+"Etruscans",
+"Spartans"
+],
+"correctAnswer": "Minoans",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "Knossos was the ceremonial and political center of the Bronze Age Minoan civilization on the island of Crete.",
+"imageUrl": "[https://example.com/images/ancient_civilizations_104.jpg](https://www.google.com/search?q=https://example.com/images/ancient_civilizations_104.jpg)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"minoan",
+"architecture"
+]
+},
+{
+"id": "ancient_civilizations_105",
+"question": "Which Roman general famously crossed the Rubicon river, instigating a civil war?",
+"options": [
+"Mark Antony",
+"Julius Caesar",
+"Scipio Africanus",
+"Pompey"
+],
+"correctAnswer": "Julius Caesar",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "Julius Caesar's crossing of the Rubicon in 49 BCE was an explicit violation of Roman law that triggered a civil war.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"rome",
+"warfare"
+]
+},
+{
+"id": "ancient_civilizations_106",
+"question": "What system of heavy infantry formation, armed with long spears, was perfected by Philip II of Macedon?",
+"options": [
+"Legion",
+"Phalanx",
+"Testudo",
+"Cohort"
+],
+"correctAnswer": "Phalanx",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "The Macedonian phalanx was an infantry formation utilizing the sarissa, a long pike developed by Philip II.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"warfare",
+"greece"
+]
+},
+{
+"id": "ancient_civilizations_107",
+"question": "The legendary city of Troy is located in which modern-day country?",
+"options": [
+"Greece",
+"Turkey",
+"Italy",
+"Egypt"
+],
+"correctAnswer": "Turkey",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "The archaeological site of Hisarlik, widely accepted as the location of historical Troy, is in northwest Turkey.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"geography",
+"archaeology"
+]
+},
+{
+"id": "ancient_civilizations_108",
+"question": "Which historic stone monument in England consists of a ring of standing megaliths?",
+"options": [
+"Stonehenge",
+"Newgrange",
+"Carnac Stones",
+"Skara Brae"
+],
+"correctAnswer": "Stonehenge",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "Stonehenge is a prehistoric monument in Wiltshire, England, constructed in multiple phases starting around 3000 BCE.",
+"imageUrl": "[https://example.com/images/ancient_civilizations_108.jpg](https://www.google.com/search?q=https://example.com/images/ancient_civilizations_108.jpg)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"prehistory",
+"monuments"
+]
+},
+{
+"id": "ancient_civilizations_109",
+"question": "What is the English translation of 'Pax Romana'?",
+"options": [
+"Roman Law",
+"Roman Peace",
+"Roman Empire",
+"Roman Power"
+],
+"correctAnswer": "Roman Peace",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "Pax Romana refers to the golden age of relative stability across the Roman Empire starting under Emperor Augustus.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"rome",
+"vocabulary"
+]
+},
+{
+"id": "ancient_civilizations_110",
+"question": "The philosopher Socrates carried out his influential teachings in which ancient city-state?",
+"options": [
+"Sparta",
+"Thebes",
+"Athens",
+"Corinth"
+],
+"correctAnswer": "Athens",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "Socrates lived and taught in Athens, fundamentally reshaping Western philosophy through his conversational methods.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"greece",
+"philosophy"
+]
+},
+{
+"id": "ancient_civilizations_111",
+"question": "Which structure was built in ancient Rome specifically to host chariot races?",
+"options": [
+"The Colosseum",
+"Circus Maximus",
+"The Pantheon",
+"The Roman Forum"
+],
+"correctAnswer": "Circus Maximus",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "The Circus Maximus was the first and largest stadium in ancient Rome, engineered primarily for massive chariot racing events.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"rome",
+"sports"
+]
+},
+{
+"id": "ancient_civilizations_112",
+"question": "What civilization constructed the dynamic cliffside structures of Machu Picchu?",
+"options": [
+"Aztecs",
+"Mayas",
+"Incas",
+"Chibchas"
+],
+"correctAnswer": "Incas",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "Machu Picchu is a 15th-century Inca citadel situated on a mountain ridge in the Eastern Cordillera of southern Peru.",
+"imageUrl": "[https://example.com/images/ancient_civilizations_112.jpg](https://www.google.com/search?q=https://example.com/images/ancient_civilizations_112.jpg)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"inca",
+"architecture"
+]
+},
+{
+"id": "ancient_civilizations_113",
+"question": "Which animal was considered highly sacred and frequently mummified in ancient Egypt?",
+"options": [
+"Dog",
+"Cat",
+"Horse",
+"Elephant"
+],
+"correctAnswer": "Cat",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "Cats were revered in ancient Egypt due to their association with protective deities like the goddess Bastet.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"egypt",
+"culture"
+]
+},
+{
+"id": "ancient_civilizations_114",
+"question": "What is the name of the ancient structure built in Rome that features a large dome with a central oculus window?",
+"options": [
+"The Pantheon",
+"The Colosseum",
+"The Forum",
+"The Curia"
+],
+"correctAnswer": "The Pantheon",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "The Pantheon is a former Roman temple, renowned for its architectural concrete dome and its open central oculus.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"rome",
+"architecture"
+]
+},
+{
+"id": "ancient_civilizations_115",
+"question": "Which king of Macedon conquered the Persian Empire and established a vast domain stretching to India?",
+"options": [
+"Philip II",
+"Alexander the Great",
+"Perdiccas",
+"Antigonus"
+],
+"correctAnswer": "Alexander the Great",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "Alexander III of Macedon succeeded his father and created one of the largest continuous land empires in antiquity.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"greece",
+"rulers"
+]
+},
+{
+"id": "ancient_civilizations_116",
+"question": "The legendary city-state of Sparta was renowned for emphasizing which aspect of society?",
+"options": [
+"Democratic philosophy",
+"Naval commerce",
+"Military training",
+"Architectural innovation"
+],
+"correctAnswer": "Military training",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "Sparta operated a highly militaristic societal structure centered around its rigorous state-sponsored education and training system.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"greece",
+"warfare"
+]
+},
+{
+"id": "ancient_civilizations_117",
+"question": "Which historic artifact helped linguists decode the ancient Egyptian hieroglyphic system?",
+"options": [
+"The Cyrus Cylinder",
+"The Rosetta Stone",
+"The Code of Hammurabi",
+"The Moabite Stone"
+],
+"correctAnswer": "The Rosetta Stone",
+"command": null,
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "The Rosetta Stone contained the same decree written in Hieroglyphic, Demotic, and Greek scripts, allowing modern translation.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"egypt",
+"archaeology"
+]
+},
+{
+"id": "ancient_civilizations_118",
+"question": "The Silk Road trade route initially expanded during which historic Chinese dynasty?",
+"options": [
+"Qin Dynasty",
+"Han Dynasty",
+"Tang Dynasty",
+"Song Dynasty"
+],
+"correctAnswer": "Han Dynasty",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "The Han Dynasty officially opened trade along the Silk Road through diplomatic missions led by Zhang Qian.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"china",
+"trade"
+]
+},
+{
+"id": "ancient_civilizations_119",
+"question": "What is the primary material utilized to build the famous Terracotta Army of China?",
+"options": [
+"Bronze",
+"Marble",
+"Clay",
+"Granite"
+],
+"correctAnswer": "Clay",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "The Terracotta Army figures were sculpted from baked clay (terracotta) to protect the tomb of the first Emperor of China.",
+"imageUrl": "[https://example.com/images/ancient_civilizations_119.jpg](https://www.google.com/search?q=https://example.com/images/ancient_civilizations_119.jpg)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"china",
+"art"
+]
+},
+{
+"id": "ancient_civilizations_120",
+"question": "The legendary code of law known as 'an eye for an eye' is named after which Babylonian ruler?",
+"options": [
+"Nebuchadnezzar",
+"Hammurabi",
+"Sargon",
+"Cyrus"
+],
+"correctAnswer": "Hammurabi",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "The Code of Hammurabi is one of the earliest written legal codes, introducing systematic legal scaling for crimes.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"babylon",
+"law"
+]
+},
+{
+"id": "ancient_civilizations_121",
+"question": "Which historic structure served as the center of civic and political life in ancient Rome?",
+"options": [
+"The Pantheon",
+"The Roman Forum",
+"The Colosseum",
+"Hadrian's Villa"
+],
+"correctAnswer": "The Roman Forum",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "The Forum was a rectangular plaza surrounded by the ruins of several important ancient government buildings at the center of Rome.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"rome",
+"cities"
+]
+},
+{
+"id": "ancient_civilizations_122",
+"question": "Who was the legendary female ruler of Egypt who aligned politically and romantically with Julius Caesar and Mark Antony?",
+"options": [
+"Hatshepsut",
+"Nefertiti",
+"Cleopatra VII",
+"Sobekneferu"
+],
+"correctAnswer": "Cleopatra VII",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "Cleopatra VII was the final active ruler of the Ptolemaic Kingdom of Egypt, famous for her diplomatic maneuvers with Rome.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"egypt",
+"rulers"
+]
+},
+{
+"id": "ancient_civilizations_123",
+"question": "The Parthenon temple in Athens was built to honor which Olympian deity?",
+"options": [
+"Hera",
+"Athena",
+"Aphrodite",
+"Artemis"
+],
+"correctAnswer": "Athena",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "The Parthenon was constructed on the Athenian Acropolis during the 5th century BCE dedicated to the goddess Athena.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"greece",
+"monuments"
+]
+},
+{
+"id": "ancient_civilizations_124",
+"question": "Which civilization is credited with establishing the first known maritime trade empire across the Mediterranean Sea?",
+"options": [
+"Phoenicians",
+"Egyptians",
+"Persians",
+"Babylonians"
+],
+"correctAnswer": "Phoenicians",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "The Phoenicians were an ancient seafaring civilization known for their expansive trade networks and maritime colonies.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"phoenicia",
+"trade"
+]
+},
+{
+"id": "ancient_civilizations_125",
+"question": "What title was given to the absolute kings of ancient Egypt?",
+"options": [
+"Emperor",
+"Pharaoh",
+"Sultan",
+"Caesar"
+],
+"correctAnswer": "Pharaoh",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "Pharaoh was the common title used for the monarchs of ancient Egypt from the First Dynasty until the Roman annexation.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"egypt",
+"vocabulary"
+]
+},
+{
+"id": "ancient_civilizations_126",
+"question": "Which fundamental invention, attributed to Mesopotamia, transformed land transport and trade?",
+"options": [
+"The compass",
+"The wheel",
+"The printing press",
+"The sail"
+],
+"correctAnswer": "The wheel",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "The earliest known wheeled vehicles appear in the archaeological record of Mesopotamia during the 4th millennium BCE.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"mesopotamia",
+"innovation"
+]
+},
+{
+"id": "ancient_civilizations_127",
+"question": "The spectacular city of Petra, carved directly into red sandstone cliffs, is located in which modern country?",
+"options": [
+"Egypt",
+"Jordan",
+"Syria",
+"Lebanon"
+],
+"correctAnswer": "Jordan",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "Petra is an international archaeological site located in Jordan's southwestern desert, famous for its rock-cut architecture.",
+"imageUrl": "[https://example.com/images/ancient_civilizations_127.jpg](https://www.google.com/search?q=https://example.com/images/ancient_civilizations_127.jpg)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"petra",
+"geography"
+]
+},
+{
+"id": "ancient_civilizations_128",
+"question": "Which major river system supported the development of ancient Chinese civilization?",
+"options": [
+"Mekong River",
+"Yellow River",
+"Ganges River",
+"Indus River"
+],
+"correctAnswer": "Yellow River",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "The Yellow River (Huang He) valley is widely regarded as the primary cradle of ancient Chinese civilization.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"china",
+"rivers"
+]
+},
+{
+"id": "ancient_civilizations_129",
+"question": "What is the name of the ancient epic poem attributed to Homer that narrates the final weeks of the Trojan War?",
+"options": [
+"The Odyssey",
+"The Iliad",
+"The Aeneid",
+"The Epic of Gilgamesh"
+],
+"correctAnswer": "The Iliad",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "The Iliad is an ancient Greek epic poem in dactylic hexameter, traditionally attributed to the blind poet Homer.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"greece",
+"literature"
+]
+},
+{
+"id": "ancient_civilizations_130",
+"question": "Which ancient civilization famously constructed monumental step-pyramid temple towers called ziggurats?",
+"options": [
+"Egyptian",
+"Mesopotamian",
+"Maya",
+"Inca"
+],
+"correctAnswer": "Mesopotamian",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "Ziggurats were massive structures built in the ancient Mesopotamian valley to serve as religious temple complexes.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"mesopotamia",
+"architecture"
+]
+},
+{
+"id": "ancient_civilizations_131",
+"question": "The monumental Great Sphinx of Giza possesses the body of a lion and the head of what?",
+"options": [
+"An eagle",
+"A human",
+"A ram",
+"A falcon"
+],
+"correctAnswer": "A human",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "The Great Sphinx is a monolithic limestone statue featuring a mythical creature with a lion's body and a human head.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"egypt",
+"monuments"
+]
+},
+{
+"id": "ancient_civilizations_132",
+"question": "What style of democratic governance was developed in classical Athens?",
+"options": [
+"Representative democracy",
+"Direct democracy",
+"Constitutional monarchy",
+"Oligarchic republic"
+],
+"correctAnswer": "Direct democracy",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "In Athens, citizens voted directly on legislation and executive bills rather than electing representatives.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"greece",
+"politics"
+]
+},
+{
+"id": "ancient_civilizations_133",
+"question": "Which volcanic mountain erupted violently in 79 CE, burying the Roman city of Pompeii?",
+"options": [
+"Mount Etna",
+"Mount Vesuvius",
+"Mount Stromboli",
+"Mount Olympus"
+],
+"correctAnswer": "Mount Vesuvius",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "The eruption of Mount Vesuvius released a deadly cloud of ash and stones that completely blanketed Pompeii.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"rome",
+"disaster"
+]
+},
+{
+"id": "ancient_civilizations_134",
+"question": "What specific notation system was invented by the Phoenicians to streamline written commercial tracking?",
+"options": [
+"Cuneiform",
+"Hieroglyphics",
+"Phonetic alphabet",
+"Logograms"
+],
+"correctAnswer": "Phonetic alphabet",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "The Phoenician alphabet consisted of 22 letters representing sounds, laying the foundation for modern Western scripts.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"phoenicia",
+"writing"
+]
+},
+{
+"id": "ancient_civilizations_135",
+"question": "The majestic Mesoamerican city of Chichen Itza was constructed by which civilization?",
+"options": [
+"Aztecs",
+"Mayas",
+"Olmecs",
+"Zapotecs"
+],
+"correctAnswer": "Mayas",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "Chichen Itza was a major focal point in the Northern Maya Lowlands from the Late Classic through the Terminal Classic periods.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"maya",
+"mesoamerica"
+]
+},
+{
+"id": "ancient_civilizations_136",
+"question": "Who was the first formal Emperor of the Roman Empire?",
+"options": [
+"Julius Caesar",
+"Augustus",
+"Nero",
+"Caligula"
+],
+"correctAnswer": "Augustus",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "Born Octavian, Augustus became the founding emperor of the Roman Empire following the dissolution of the Republic.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"rome",
+"rulers"
+]
+},
+{
+"id": "ancient_civilizations_137",
+"question": "Which early civilization crafted giant stone heads out of basalt boulders in Mesoamerica?",
+"options": [
+"Aztecs",
+"Mayas",
+"Olmecs",
+"Toltecs"
+],
+"correctAnswer": "Olmecs",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "The Olmec civilization is famous for carving massive stone heads, which likely represented individual rulers.",
+"imageUrl": "[https://example.com/images/ancient_civilizations_137.jpg](https://www.google.com/search?q=https://example.com/images/ancient_civilizations_137.jpg)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"olmec",
+"art"
+]
+},
+{
+"id": "ancient_civilizations_138",
+"question": "The legendary twins Romulus and Remus are tied to the founding mythological origins of which city?",
+"options": [
+"Athens",
+"Rome",
+"Carthage",
+"Sparta"
+],
+"correctAnswer": "Rome",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "Roman mythology attributes the initial layout and founding of the city to the twin brothers Romulus and Remus.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"rome",
+"mythology"
+]
+},
+{
+"id": "ancient_civilizations_139",
+"question": "What major geographical feature provided the essential water source for ancient Egyptian civilization?",
+"options": [
+"Amazon River",
+"Nile River",
+"Congo River",
+"Euphrates River"
+],
+"correctAnswer": "Nile River",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "The annual flooding of the Nile River created exceptionally fertile soil, allowing agricultural communities to thrive.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"egypt",
+"rivers"
+]
+},
+{
+"id": "ancient_civilizations_140",
+"question": "Which spectacular amphitheater in Rome was historically utilized for brutal gladiatorial combats?",
+"options": [
+"The Pantheon",
+"The Colosseum",
+"The Forum",
+"Circus Maximus"
+],
+"correctAnswer": "The Colosseum",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "The Colosseum, also known as the Flavian Amphitheatre, hosted gladiatorial games and massive public spectacles.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"rome",
+"architecture"
+]
+},
+{
+"id": "ancient_civilizations_141",
+"question": "Which core writing system, using wedge-shaped indentations, was pioneered in ancient Sumer?",
+"options": [
+"Hieroglyphics",
+"Cuneiform",
+"Alphabet",
+"Demotic"
+],
+"correctAnswer": "Cuneiform",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "Cuneiform writing was developed by stamping clay tablets with a reed stylus, creating wedge-shaped impressions.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"sumer",
+"writing"
+]
+},
+{
+"id": "ancient_civilizations_142",
+"question": "The historic Battle of Marathon was fought between the citizens of Athens and which invading empire?",
+"options": [
+"Roman Empire",
+"Persian Empire",
+"Egyptian Empire",
+"Assyrian Empire"
+],
+"correctAnswer": "Persian Empire",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "Fought in 490 BCE, the Battle of Marathon marked a decisive victory for Athens during the First Persian Invasion of Greece.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"greece",
+"warfare"
+]
+},
+{
+"id": "ancient_civilizations_143",
+"question": "Which legendary Carthaginian commander marched tactical war elephants across the snowy Alps to menace Rome?",
+"options": [
+"Hamilcar Barca",
+"Hannibal",
+"Hasdrubal",
+"Scipio"
+],
+"correctAnswer": "Hannibal",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "Hannibal Barca led Carthaginian troops and elephants over the Alps during the Second Punic War, surprising Roman defensive forces.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"carthage",
+"warfare"
+]
+},
+{
+"id": "ancient_civilizations_144",
+"question": "The spectacular Code of Hammurabi steel monolith was uncovered by archaeologists in which historic regional capital?",
+"options": [
+"Babylon",
+"Susa",
+"Nineveh",
+"Persepolis"
+],
+"correctAnswer": "Susa",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "Although generated in Babylon, the Code of Hammurabi stele was plundered and brought to Susa, where it was excavated in 1901.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"archaeology",
+"law"
+]
+},
+{
+"id": "ancient_civilizations_145",
+"question": "Which unified Indian empire was founded by Chandragupta Maurya and later expanded exponentially by Ashoka the Great?",
+"options": [
+"Gupta Empire",
+"Mauryan Empire",
+"Mughal Empire",
+"Chola Empire"
+],
+"correctAnswer": "Mauryan Empire",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "The Mauryan Empire was a geographically extensive Iron Age historical power based in ancient Magadha, India.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"india",
+"dynasties"
+]
+},
+{
+"id": "ancient_civilizations_146",
+"question": "What unique physical defensive feature characterized the structural configuration of ancient Roman legionary camps?",
+"options": [
+"Concentric circular stone towers",
+"A rectangular grid layout fortified by a ditch and wall",
+"Deep underground subterranean tunnels",
+"Rammed-earth stepped platforms"
+],
+"correctAnswer": "A rectangular grid layout fortified by a ditch and wall",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "Roman military encampments (castra) followed highly structured rectangular grid formulas featuring defensive ramparts (vallum) and ditches.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"rome",
+"warfare"
+]
+},
+{
+"id": "ancient_civilizations_147",
+"question": "Which early localized civilization developed the unique, undeciphered Linear A writing script?",
+"options": [
+"Mycenaeans",
+"Minoans",
+"Hittites",
+"Phoenicians"
+],
+"correctAnswer": "Minoans",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "Linear A was the primary script used in the palaces and religious rituals of the ancient Minoan civilization on Crete.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"minoan",
+"writing"
+]
+},
+{
+"id": "ancient_civilizations_148",
+"question": "What political concept, framing imperial leadership authority, emerged during the early Western Zhou dynasty in China?",
+"options": [
+"The Mandate of Heaven",
+"Legalist Autocracy",
+"Constitutional Republicanism",
+"Imperial Shintoism"
+],
+"correctAnswer": "The Mandate of Heaven",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "The Mandate of Heaven asserted that heaven bestowed the right to rule on a just leader, justifying the replacement of corrupt dynasties.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"china",
+"politics"
+]
+},
+{
+"id": "ancient_civilizations_149",
+"question": "Which Roman emperor split the administrative governance of the empire into a Tetrarchy system across Eastern and Western courts?",
+"options": [
+"Constantine",
+"Diocletian",
+"Marcus Aurelius",
+"Trajan"
+],
+"correctAnswer": "Diocletian",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "Diocletian established the Tetrarchy ('rule of four') to stabilize the vast Roman Empire during the late 3rd century CE.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"rome",
+"politics"
+]
+},
+{
+"id": "ancient_civilizations_150",
+"question": "The historic Royal Road, engineered to facilitate rapid messaging and military deployments, was constructed by which empire?",
+"options": [
+"Assyrian Empire",
+"Babylonian Empire",
+"Persian Empire",
+"Roman Empire"
+],
+"correctAnswer": "Persian Empire",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "The Persian king Darius the Great oversaw the construction of the Royal Road to connect vital provincial hubs with Susa.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"persia",
+"infrastructure"
+]
+},
+{
+"id": "ancient_civilizations_151",
+"question": "Which specific pharaoh attempted to establish a monolatristic religious structure centered on the sun-disk Aten?",
+"options": [
+"Ramesses II",
+"Akhenaten",
+"Thutmose III",
+"Seti I"
+],
+"correctAnswer": "Akhenaten",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "Akhenaten abandoned traditional Egyptian polytheism to elevate the worship of Aten during the Amarna Period.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"egypt",
+"religion"
+]
+},
+{
+"id": "ancient_civilizations_152",
+"question": "The spectacular Lion Gate serves as the primary ceremonial entranceway to which Bronze Age fortified citadel?",
+"options": [
+"Troy",
+"Mycenae",
+"Tiryns",
+"Knossos"
+],
+"correctAnswer": "Mycenae",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "The Lion Gate is the iconic monumental entrance to the citadel of Mycenae in southern Greece, constructed in the 13th century BCE.",
+"imageUrl": "[https://example.com/images/ancient_civilizations_152.jpg](https://www.google.com/search?q=https://example.com/images/ancient_civilizations_152.jpg)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"mycenae",
+"architecture"
+]
+},
+{
+"id": "ancient_civilizations_153",
+"question": "What archaeological landmark in Scotland represents one of Europe's most intact Neolithic farming villages?",
+"options": [
+"Stonehenge",
+"Skara Brae",
+"Avebury",
+"Newgrange"
+],
+"correctAnswer": "Skara Brae",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "Skara Brae is a stone-built Neolithic settlement on the Orkney archipelago, preserved exceptionally well beneath sand dunes.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"prehistory",
+"archaeology"
+]
+},
+{
+"id": "ancient_civilizations_154",
+"question": "The ancient, complex desert geoglyphs known as the Nazca Lines are etched into the landscape of which modern country?",
+"options": [
+"Chile",
+"Peru",
+"Bolivia",
+"Colombia"
+],
+"correctAnswer": "Peru",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "The Nazca Lines are massive stylized animal and geometric designs scraped into the soil of the high desert plains of southern Peru.",
+"imageUrl": "[https://example.com/images/ancient_civilizations_154.jpg](https://www.google.com/search?q=https://example.com/images/ancient_civilizations_154.jpg)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"nazca",
+"monuments"
+]
+},
+{
+"id": "ancient_civilizations_155",
+"question": "Which historic legal framework represents the earliest attempt by the Romans to formulate written public statutory laws?",
+"options": [
+"The Justinian Code",
+"The Twelve Tables",
+"The Praetor's Edict",
+"The Lex Hortensia"
+],
+"correctAnswer": "The Twelve Tables",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "The Law of the Twelve Tables stood at the center of the constitution of the Roman Republic, protecting plebeian civic visibility.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"rome",
+"law"
+]
+},
+{
+"id": "ancient_civilizations_156",
+"question": "What highly organized civilization controlled the capital city of Hattusa in ancient Anatolia?",
+"options": [
+"Lydians",
+"Hittites",
+"Phrygians",
+"Assyrians"
+],
+"correctAnswer": "Hittites",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "Hattusa was the fortified headquarters of the Hittite Empire, a major Near Eastern power during the Bronze Age.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"hittite",
+"cities"
+]
+},
+{
+"id": "ancient_civilizations_157",
+"question": "The highly specific archaeological site of Lothal, featuring an excavated tidal dock, belonged to which civilization?",
+"options": [
+"Sumerian Civilization",
+"Indus Valley Civilization",
+"Egyptian Civilization",
+"Minoan Civilization"
+],
+"correctAnswer": "Indus Valley Civilization",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "Lothal was a crucial maritime port town of the Indus Valley Civilization, located in the modern state of Gujarat, India.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"indus-valley",
+"trade"
+]
+},
+{
+"id": "ancient_civilizations_158",
+"question": "Which Greek philosophical figure founded the Lyceum school in Athens after tutoring Alexander the Great?",
+"options": [
+"Plato",
+"Aristotle",
+"Zeno",
+"Epicurus"
+],
+"correctAnswer": "Aristotle",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "Aristotle established the Lyceum peripatetic school in 335 BCE, formulating extensive works in logic, physics, and biology.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"greece",
+"philosophy"
+]
+},
+{
+"id": "ancient_civilizations_159",
+"question": "What highly intricate system of knotted strings was developed in the ancient Andes to record logistical and statistical data?",
+"options": [
+"Quipu",
+"Cuneiform",
+"Glyphs",
+"Stele"
+],
+"correctAnswer": "Quipu",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "The quipu was a textile-based data preservation method used by the Incas and older Andean societies to keep records.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"inca",
+"innovation"
+]
+},
+{
+"id": "ancient_civilizations_160",
+"question": "The strategic, decisive naval Battle of Salamis resulted in a major victory for which coalition?",
+"options": [
+"Persian fleet",
+"Greek city-states",
+"Roman republic",
+"Carthaginian navy"
+],
+"correctAnswer": "Greek city-states",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "The Battle of Salamis in 480 BCE saw outmaneuvered Greek naval forces defeat the larger fleet of Persian King Xerxes.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"greece",
+"warfare"
+]
+},
+{
+"id": "ancient_civilizations_161",
+"question": "Which non-Yellow River civilization in ancient China produced distinctive bronze masks with oversized, protruding eyes?",
+"options": [
+"Sanxingdui Culture",
+"Erlitou Culture",
+"Yangshao Culture",
+"Hongshan Culture"
+],
+"correctAnswer": "Sanxingdui Culture",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "Sanxingdui was an advanced Bronze Age culture centered in modern Sichuan, existing independently of Shang hegemony.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"china",
+"archaeology"
+]
+},
+{
+"id": "ancient_civilizations_162",
+"question": "What structural building materials allowed Roman engineers to build expansive, self-supporting domes and vaulted arches?",
+"options": [
+"Rammed earth and reeds",
+"Volcanic pozzolana concrete",
+"Interlocking granite columns",
+"Carved marble and bronze pins"
+],
+"correctAnswer": "Volcanic pozzolana concrete",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "By mixing volcanic ash (pozzolana) with lime, the Romans created an incredibly strong, water-resistant hydraulic concrete.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"rome",
+"engineering"
+]
+},
+{
+"id": "ancient_civilizations_163",
+"question": "The expansive archaeological city complex of Caral-Supe in Peru is scientifically notable for what reason?",
+"options": [
+"It contains the oldest known urban layout in the Americas.",
+"It represents the final stronghold of the Inca Empire.",
+"It produced the earliest known wheel-spun ceramics.",
+"It holds the largest iron-smelting workshops in South America."
+],
+"correctAnswer": "It contains the oldest known urban layout in the Americas.",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "Dating back to roughly 3000 BCE, Caral-Supe is the most ancient city developed by the Norte Chico civilization.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"americas",
+"cities"
+]
+},
+{
+"id": "ancient_civilizations_164",
+"question": "Which powerful Neo-Assyrian king is famous for establishing a massive imperial cuneiform library at Nineveh?",
+"options": [
+"Tiglath-Pileser III",
+"Sargon II",
+"Sennacherib",
+"Ashurbanipal"
+],
+"correctAnswer": "Ashurbanipal",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "Ashurbanipal systematically collected and preserved thousands of scholarly cuneiform tablets from across Mesopotamia.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"assyria",
+"learning"
+]
+},
+{
+"id": "ancient_civilizations_165",
+"question": "The spectacular 'Harvester Vase', showcasing a detailed carved relief processing line of workers, belongs to which culture?",
+"options": [
+"Minoan Culture",
+"Mycenaean Culture",
+"Classic Egyptian Old Kingdom",
+"Early Babylonian Period"
+],
+"correctAnswer": "Minoan Culture",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "Excavated at Hagia Triada in Crete, this steatite vase is a masterpiece of Neopalatial Minoan relief art.",
+"imageUrl": "[https://example.com/images/ancient_civilizations_165.jpg](https://www.google.com/search?q=https://example.com/images/ancient_civilizations_165.jpg)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"art",
+"minoan"
+]
+},
+{
+"id": "ancient_civilizations_166",
+"question": "Which regional trade center served as the primary geopolitical stronghold of the ancient Kingdom of Kush?",
+"options": [
+"Axum",
+"Meroe",
+"Carthage",
+"Punt"
+],
+"correctAnswer": "Meroe",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "Meroe became the southern capital of the Kingdom of Kush, developing into an important iron-smelting and pyramid-building center.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"kush",
+"africa"
+]
+},
+{
+"id": "ancient_civilizations_167",
+"question": "The historic Edict of Milan, which legally protected Christianity across the Roman Empire, was co-issued by which emperor?",
+"options": [
+"Theodosius I",
+"Constantine the Great",
+"Nero",
+"Marcus Aurelius"
+],
+"correctAnswer": "Constantine the Great",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "Constantine I and Licinius issued the Edict of Milan in 313 CE, legalizing religious tolerance for Christians.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"rome",
+"religion"
+]
+},
+{
+"id": "ancient_civilizations_168",
+"question": "What major internal social struggle pitted Roman plebeians against aristocratic patricians during the early Republic?",
+"options": [
+"The Social War",
+"The Conflict of the Orders",
+"The Jugurthine Crisis",
+"The Catilinarian Conspiracy"
+],
+"correctAnswer": "The Conflict of the Orders",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "The Conflict of the Orders was a political struggle where plebeians sought domestic and political equality with the patricians.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"rome",
+"politics"
+]
+},
+{
+"id": "ancient_civilizations_169",
+"question": "Which historic administrative leader enacted the first comprehensive written legal code for Athens in the 7th century BCE?",
+"options": [
+"Solon",
+"Draco",
+"Cleisthenes",
+"Pisistratus"
+],
+"correctAnswer": "Draco",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "Draco replaced oral systems with harsh written statutory provisions, making death the standard punishment for most minor crimes.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"greece",
+"law"
+]
+},
+{
+"id": "ancient_civilizations_170",
+"question": "The spectacular monolithic 'Gateway of the Sun' monument stands at the ruins of which pre-Inca metropolitan hub?",
+"options": [
+"Tiwanaku",
+"Wari",
+"Chan Chan",
+"Chavin de Huantar"
+],
+"correctAnswer": "Tiwanaku",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "The Gate of the Sun is located near Lake Titicaca within Tiwanaku, a major spiritual and political capital of the Andes.",
+"imageUrl": "[https://example.com/images/ancient_civilizations_170.jpg](https://www.google.com/search?q=https://example.com/images/ancient_civilizations_170.jpg)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"tiwanaku",
+"monuments"
+]
+},
+{
+"id": "ancient_civilizations_171",
+"question": "What is the primary scientific significance of the ancient Neolithic settlement site of Catalhoyuk in Turkey?",
+"options": [
+"It represents one of the earliest large protocities featuring shared wall honeycomb housing.",
+"It contains the earliest known iron ore weapons cache.",
+"It served as the legendary port town of Troy.",
+"It is the oldest known step pyramid complex in Europe."
+],
+"correctAnswer": "It represents one of the earliest large protocities featuring shared wall honeycomb housing.",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "Catalhoyuk lacked streets; domestic structures were placed tightly together, forcing citizens to navigate using roofs and ceiling trapdoors.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"neolithic",
+"cities"
+]
+},
+{
+"id": "ancient_civilizations_172",
+"question": "Which historic written language script, used during the Greek Mycenaean period, was successfully deciphered in 1952?",
+"options": [
+"Linear A",
+"Linear B",
+"Cypriot Syllabary",
+"Phaistos Disk script"
+],
+"correctAnswer": "Linear B",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "Michael Ventris deciphered Linear B, proving it was an archaic syllabic script representing an early branch of the Greek language.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"mycenae",
+"writing"
+]
+},
+{
+"id": "ancient_civilizations_173",
+"question": "The strategic military confrontation known as the Battle of Kadesh was fought between the New Kingdom of Egypt and which power?",
+"options": [
+"Assyrian Empire",
+"Hittite Empire",
+"Babylonian Empire",
+"Mitanni Kingdom"
+],
+"correctAnswer": "Hittite Empire",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "Ramesses II led Egyptian forces against Muwatalli II's Hittite forces at the city of Kadesh in 1274 BCE.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"warfare",
+"egypt"
+]
+},
+{
+"id": "ancient_civilizations_174",
+"question": "Which early Chinese statecraft text, focusing on centralized autocratic rule and harsh punishments, was compiled by Han Feizi?",
+"options": [
+"The Analects",
+"The Dao De Jing",
+"The Han Feizi",
+"The Art of War"
+],
+"correctAnswer": "The Han Feizi",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "The Han Feizi is a foundational philosophical text outlining Legalism, which directly influenced Qin Dynasty administrative structures.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"china",
+"philosophy"
+]
+},
+{
+"id": "ancient_civilizations_175",
+"question": "What distinctive pre-Columbian urban metropolis in central Mexico featured the monumental Avenue of the Dead?",
+"options": [
+"Tenochtitlan",
+"Teotihuacan",
+"Monte Alban",
+"Tikal"
+],
+"correctAnswer": "Teotihuacan",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "Teotihuacan was an expansive multi-ethnic city configured along a central geographic spine named the Avenue of the Dead.",
+"imageUrl": "[https://example.com/images/ancient_civilizations_175.jpg](https://www.google.com/search?q=https://example.com/images/ancient_civilizations_175.jpg)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"mesoamerica",
+"cities"
+]
+},
+{
+"id": "ancient_civilizations_176",
+"question": "Which historic military conflict ended with the permanent destruction and burning of the city-state of Carthage?",
+"options": [
+"First Punic War",
+"Second Punic War",
+"Third Punic War",
+"The Mercenary War"
+],
+"correctAnswer": "Third Punic War",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "The Third Punic War concluded in 146 BCE when Roman general Scipio Aemilianus captured and razed Carthage.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"rome",
+"carthage"
+]
+},
+{
+"id": "ancient_civilizations_177",
+"question": "The highly strategic stone inscriptions detailing Darius the Great's ascension in multiple cuneiform languages are called what?",
+"options": [
+"The Behistun Inscription",
+"The Tel Dan Stele",
+"The Black Obelisk",
+"The Rosetta Stone"
+],
+"correctAnswer": "The Behistun Inscription",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "The Behistun Inscription provided the crucial multi-language baseline text required to translate cuneiform scripts.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"persia",
+"writing"
+]
+},
+{
+"id": "ancient_civilizations_178",
+"question": "What highly advanced ancient water management feature was developed by the Indus Valley Civilization?",
+"options": [
+"High-pressure stone aqueducts",
+"Underground brick-lined sewage and drainage channels",
+"Deep mountain qanat channels",
+"Terraced lock dams"
+],
+"correctAnswer": "Underground brick-lined sewage and drainage channels",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "Indus Valley urban grid centers possessed sophisticated domestic plumbing tied directly to covered street drains.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"indus-valley",
+"engineering"
+]
+},
+{
+"id": "ancient_civilizations_179",
+"question": "Which historical Greek figure is celebrated as the structural pioneer of Western history writing through his accounts of the Persian Wars?",
+"options": [
+"Thucydides",
+"Herodotus",
+"Xenophon",
+"Polybius"
+],
+"correctAnswer": "Herodotus",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "Herodotus is traditionally titled the 'Father of History' due to his systematic narrative project, 'The Histories'.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"greece",
+"literature"
+]
+},
+{
+"id": "ancient_civilizations_180",
+"question": "What unique physical material was used to scribe administrative tracking records during China's Shang Dynasty?",
+"options": [
+"Vellum leaves",
+"Animal oracle bones",
+"Clay tablets",
+"Papyrus sheets"
+],
+"correctAnswer": "Animal oracle bones",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "Oracle bone script represents the earliest known phase of Chinese writing, carved onto ox scapulae and turtle shells.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"china",
+"writing"
+]
+},
+{
+"id": "ancient_civilizations_181",
+"question": "Which pre-Inca coastal civilization engineered the complex adobe brick royal city of Chan Chan in Peru?",
+"options": [
+"Moche Culture",
+"Chimu Culture",
+"Nazca Culture",
+"Tiwanaku Culture"
+],
+"correctAnswer": "Chimu Culture",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "The Chimor Empire built Chan Chan, the largest adobe brick city architecture discovered in the pre-Columbian Americas.",
+"imageUrl": "[https://example.com/images/ancient_civilizations_181.jpg](https://www.google.com/search?q=https://example.com/images/ancient_civilizations_181.jpg)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"chimu",
+"cities"
+]
+},
+{
+"id": "ancient_civilizations_182",
+"question": "The strategic mountain pass Battle of Thermopylae was defended by a Greek coalition force primarily anchored by troops from where?",
+"options": [
+"Athens",
+"Sparta",
+"Thebes",
+"Corinth"
+],
+"correctAnswer": "Sparta",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "King Leonidas of Sparta famously commanded a small vanguard force to delay the massive advancing Persian army at Thermopylae.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"greece",
+"warfare"
+]
+},
+{
+"id": "ancient_civilizations_183",
+"question": "Which historic legal code was formulated during the reign of the first Christian Roman Emperor?",
+"options": [
+"The Code of Justinian",
+"The Theodosian Code",
+"The Twelve Tables",
+"The Edicts of Gratian"
+],
+"correctAnswer": "The Theodosian Code",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "The Theodosian Code was a collection of Roman laws organized by Emperor Theodosius II to codify laws since Constantine's reign.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"rome",
+"law"
+]
+},
+{
+"id": "ancient_civilizations_184",
+"question": "What unique geographic trade port linked the Indian subcontinent to Mediterranean maritime networks during the Roman era?",
+"options": [
+"Arikamedu",
+"Taxila",
+"Pataliputra",
+"Calicut"
+],
+"correctAnswer": "Arikamedu",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "Arikamedu was an active Indo-Roman trading port site in southern India, verified by extensive finds of Roman amphorae.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"india",
+"trade"
+]
+},
+{
+"id": "ancient_civilizations_185",
+"question": "Which early civilization constructed the sprawling city architectural complex of Great Zimbabwe?",
+"options": [
+"The Kingdom of Aksum",
+"The Kingdom of Zimbabwe",
+"The Mali Empire",
+"The Kingdom of Ghana"
+],
+"correctAnswer": "The Kingdom of Zimbabwe",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "Great Zimbabwe served as the royal palace and capital center for a powerful late Iron Age Shona kingdom.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"zimbabwe",
+"africa"
+]
+},
+{
+"id": "ancient_civilizations_186",
+"question": "What highly specific technological development characterized the tools of the upper Paleolithic era?",
+"options": [
+"Smelted copper blades",
+"Polished stone celts",
+"Microlithic composite blade tools",
+"Cast bronze spearpoints"
+],
+"correctAnswer": "Microlithic composite blade tools",
+"category": "Ancient Civilizations",
+"difficulty": "hard",
+"explanation": "Upper Paleolithic cultures engineered microliths—small flint blades attached to bone or wood shafts to form spears or arrows.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"prehistory",
+"innovation"
+]
+},
+{
+"id": "ancient_civilizations_187",
+"question": "The enigmatic 'Gundestrup Cauldron', showcasing dynamic silver reliefs of Celtic deities, was recovered from a bog in which country?",
+"options": [
+"Ireland",
+"Denmark",
+"France",
+"Scotland"
+],
+"correctAnswer": "Denmark",
+"category": "Ancient Civilizations",
+"difficulty": "hard",
+"explanation": "Found in a peat bog in Jutland, Denmark, the Gundestrup Cauldron is a masterful Iron Age silver vessel featuring Thracian styling.",
+"imageUrl": "[https://example.com/images/ancient_civilizations_187.jpg](https://www.google.com/search?q=https://example.com/images/ancient_civilizations_187.jpg)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"art",
+"archaeology"
+]
+},
+{
+"id": "ancient_civilizations_188",
+"question": "Which Mesopotamian state system created the first known standard bureaucratic postal delivery network under Sargon of Akkad?",
+"options": [
+"Sumerian Empire",
+"Akkadian Empire",
+"Old Babylonian Kingdom",
+"Neo-Assyrian Empire"
+],
+"correctAnswer": "Akkadian Empire",
+"category": "Ancient Civilizations",
+"difficulty": "hard",
+"explanation": "Sargon of Akkad maintained political control over city-states by utilizing a standardized clay-tablet courier routing layout.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"akkad",
+"politics"
+]
+},
+{
+"id": "ancient_civilizations_189",
+"question": "What highly localized diplomatic event in 449 BCE supposedly ended the hot warfare phases between the Greek states and Persia?",
+"options": [
+"The Peace of Nicias",
+"The Peace of Callias",
+"The Treaty of Sardis",
+"The Edict of Susa"
+],
+"correctAnswer": "The Peace of Callias",
+"category": "Ancient Civilizations",
+"difficulty": "hard",
+"explanation": "The Peace of Callias was an alleged treaty negotiated by the Athenian diplomat Callias that finalized Greco-Persian hostilities.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"greece",
+"diplomacy"
+]
+},
+{
+"id": "ancient_civilizations_190",
+"question": "Which early civilization configured the architectural stone complex of Chavin de Huantar in the high Andes?",
+"options": [
+"Chavin Civilization",
+"Moche Civilization",
+"Nazca Civilization",
+"Wari Civilization"
+],
+"correctAnswer": "Chavin Civilization",
+"category": "Ancient Civilizations",
+"difficulty": "hard",
+"explanation": "Chavin de Huantar was a major ceremonial pilgrimage destination that flourished from roughly 900 to 200 BCE.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"chavin",
+"architecture"
+]
+},
+{
+"id": "ancient_civilizations_191",
+"question": "What specific legislative provision enacted in 287 BCE gave resolutions passed by the Roman Plebeian Council the full force of law?",
+"options": [
+"Lex Canuleia",
+"Lex Hortensia",
+"Lex Ogulnia",
+"Lex Publilia"
+],
+"correctAnswer": "Lex Hortensia",
+"category": "Ancient Civilizations",
+"difficulty": "hard",
+"explanation": "The Lex Hortensia ended the structural Conflict of the Orders by making all plebiscites binding on all Roman citizens.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"rome",
+"law"
+]
+},
+{
+"id": "ancient_civilizations_192",
+"question": "The historical maritime script known as the 'Meroitic script' was developed by modifying which prior system?",
+"options": [
+"Phoenician alphabet",
+"Egyptian hieroglyphics and demotic",
+"Mesopotamian cuneiform",
+"Early Greek alphabetic script"
+],
+"correctAnswer": "Egyptian hieroglyphics and demotic",
+"category": "Ancient Civilizations",
+"difficulty": "hard",
+"explanation": "The Kingdom of Kush developed Meroitic around the 2nd century BCE, drawing symbols directly from Egyptian configurations.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"kush",
+"writing"
+]
+},
+{
+"id": "ancient_civilizations_193",
+"question": "Which early civilization located along the coast of modern Peru is famous for its hyper-realistic portrait vessel ceramics?",
+"options": [
+"Moche Civilization",
+"Nazca Civilization",
+"Paracas Civilization",
+"Wari Civilization"
+],
+"correctAnswer": "Moche Civilization",
+"category": "Ancient Civilizations",
+"difficulty": "hard",
+"explanation": "Moche artisans produced detailed ceramic vessel sculpture portraits depicting elite status individuals and cultural ceremonies.",
+"imageUrl": "[https://example.com/images/ancient_civilizations_193.jpg](https://www.google.com/search?q=https://example.com/images/ancient_civilizations_193.jpg)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"moche",
+"art"
+]
+},
+{
+"id": "ancient_civilizations_194",
+"question": "What highly unusual mathematical notation feature was integrated into the structural layout of the Mayan calendar tracking long count?",
+"options": [
+"A base-60 system lacking geometric tracking",
+"A base-20 vigesimal system utilizing a concept of zero",
+"A strict binary code tracking",
+"A base-12 duodecimal system utilizing fractions"
+],
+"correctAnswer": "A base-20 vigesimal system utilizing a concept of zero",
+"category": "Ancient Civilizations",
+"difficulty": "hard",
+"explanation": "The Mayas independently formulated a place-value mathematical system using dots, bars, and shell-style zero glyphs.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"maya",
+"science"
+]
+},
+{
+"id": "ancient_civilizations_195",
+"question": "Which historic battle in 338 BCE saw Philip II of Macedon crush the allied forces of Athens and Thebes, dominating Greece?",
+"options": [
+"Battle of Chaeronea",
+"Battle of Leuctra",
+"Battle of Mantinea",
+"Battle of Granicus"
+],
+"correctAnswer": "Battle of Chaeronea",
+"category": "Ancient Civilizations",
+"difficulty": "hard",
+"explanation": "The Battle of Chaeronea secured Macedonian military and political hegemony over the southern Greek city-states.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"greece",
+"warfare"
+]
+},
+{
+"id": "ancient_civilizations_196",
+"question": "What complex engineering network was constructed beneath Rome to clear urban waste and drain low-lying marshes?",
+"options": [
+"The Aqua Appia",
+"The Cloaca Maxima",
+"The Via Appia",
+"The Anio Vetus"
+],
+"correctAnswer": "The Cloaca Maxima",
+"category": "Ancient Civilizations",
+"difficulty": "hard",
+"explanation": "The Cloaca Maxima ('Greatest Sewer') was initially built by Etruscan kings as an open drainage canal before being enclosed.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"rome",
+"engineering"
+]
+},
+{
+"id": "ancient_civilizations_197",
+"question": "The distinctive administrative record catalog known as the 'Uruk Expansion' tracks what historical development?",
+"options": [
+"The military conquest of the Nile valley",
+"The widespread colonial export of southern Mesopotamian material culture",
+"The introduction of domestic iron smelting technology",
+"The spread of Mayan stylistic religious cult structures"
+],
+"correctAnswer": "The widespread colonial export of southern Mesopotamian material culture",
+"category": "Ancient Civilizations",
+"difficulty": "hard",
+"explanation": "During the 4th millennium BCE, Uruk-style pottery and architectural styles appeared broadly across the Middle East.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"uruk",
+"trade"
+]
+},
+{
+"id": "ancient_civilizations_198",
+"question": "Which legendary regional leader coordinated the construction of the massive initial stone ziggurat layout at Saqqara?",
+"options": [
+"Khufu",
+"Djoser",
+"Narmer",
+"Khafre"
+],
+"correctAnswer": "Djoser",
+"category": "Ancient Civilizations",
+"difficulty": "hard",
+"explanation": "Pharaoh Djoser commissioned his royal architect Imhotep to construct the unique Step Pyramid configuration at Saqqara.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"egypt",
+"architecture"
+]
+},
+{
+"id": "ancient_civilizations_199",
+"question": "What highly influential text on economic policy, military strategy, and statecraft was composed by Chanakya in ancient India?",
+"options": [
+"The Laws of Manu",
+"The Arthashastra",
+"The Mahabharata",
+"The Rigveda"
+],
+"correctAnswer": "The Arthashastra",
+"category": "Ancient Civilizations",
+"difficulty": "hard",
+"explanation": "The Arthashastra is an ancient Indian treatise detailing realpolitik governance, authored by the prime minister to Chandragupta Maurya.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"india",
+"politics"
+]
+},
+{
+"id": "ancient_civilizations_200",
+"question": "The structural, historical system of 'Ostracism' was used in Athens to accomplish what civic objective?",
+"options": [
+"To choose public religious priests by random lottery draws",
+"To banish an overly powerful citizen for ten years via community votes",
+"To execute prisoners convicted of structural treason",
+"To select elite military naval captains for active campaigns"
+],
+"correctAnswer": "To banish an overly powerful citizen for ten years via community votes",
+"category": "Ancient Civilizations",
+"difficulty": "hard",
+"explanation": "Athenians wrote names on broken pottery shards (ostraka); if a citizen received enough votes, they were exiled to prevent tyranny.",
+"imageUrl": "[https://example.com/images/ancient_civilizations_200.jpg](https://www.google.com/search?q=https://example.com/images/ancient_civilizations_200.jpg)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"greece",
+"politics"
+]
+},
+{
+"id": "ancient_civilizations_201",
+"question": "What primary geographic river supported the growth of the ancient Indus Valley Civilization?",
+"options": [
+"Ganges River",
+"Indus River",
+"Nile River",
+"Tigris River"
+],
+"correctAnswer": "Indus River",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "The Indus Valley Civilization grew along the alluvial plains of the Indus River system in South Asia.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"indus-valley",
+"geography"
+]
+},
+{
+"id": "ancient_civilizations_202",
+"question": "Which monumental stone structures served as royal tombs for Egyptian Old Kingdom pharaohs?",
+"options": [
+"Ziggurats",
+"Pyramids",
+"Obelisks",
+"Catacombs"
+],
+"correctAnswer": "Pyramids",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "The Old Kingdom pharaohs built monumental limestone pyramids as eternal tombs and spiritual preservation sites.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"egypt",
+"monuments"
+]
+},
+{
+"id": "ancient_civilizations_203",
+"question": "What ancient city-state was famous for its strict martial code and rivalry with Athens?",
+"options": [
+"Thebes",
+"Sparta",
+"Corinth",
+"Delphi"
+],
+"correctAnswer": "Sparta",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "Sparta was a dominant military power in ancient Greece, structured entirely around physical training and defense.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"greece",
+"cities"
+]
+},
+{
+"id": "ancient_civilizations_204",
+"question": "Who was the historic founder of the Persian Achaemenid Empire, known for freeing displaced peoples in Babylon?",
+"options": [
+"Darius the Great",
+"Cyrus the Great",
+"Xerxes I",
+"Cambyses II"
+],
+"correctAnswer": "Cyrus the Great",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "Cyrus the Great conquered widely but allowed subject nations to retain their religious customs.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"persia",
+"rulers"
+]
+},
+{
+"id": "ancient_civilizations_205",
+"question": "The ancient Roman system of long-distance water channels supported by arched bridge stonework is called what?",
+"options": [
+"Viaducts",
+"Aqueducts",
+"Catacombs",
+"Basilicas"
+],
+"correctAnswer": "Aqueducts",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "Aqueducts utilized precise gravity grading to transport freshwater from distant mountain springs directly into cities.",
+"imageUrl": "[https://example.com/images/ancient_civilizations_205.jpg](https://www.google.com/search?q=https://example.com/images/ancient_civilizations_205.jpg)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"rome",
+"engineering"
+]
+},
+{
+"id": "ancient_civilizations_206",
+"question": "Which historic modern-day country matches the geographical center of the ancient Aztec Empire?",
+"options": [
+"Peru",
+"Mexico",
+"Guatemala",
+"Honduras"
+],
+"correctAnswer": "Mexico",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "The Aztec Empire expanded across central Mexico, establishing its capital city at Tenochtitlan.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"aztec",
+"geography"
+]
+},
+{
+"id": "ancient_civilizations_207",
+"question": "What unique, early recording system utilized by the Sumerians involves stamping soft clay tablets with a reed?",
+"options": [
+"Hieroglyphics",
+"Cuneiform",
+"Alphabet",
+"Runes"
+],
+"correctAnswer": "Cuneiform",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "Sumerian cuneiform script consists of wedge-shaped signs created by pressing reeds into clay.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"sumer",
+"writing"
+]
+},
+{
+"id": "ancient_civilizations_208",
+"question": "Which athletic festival was initiated in ancient Greece in 776 BCE to honor the god Zeus?",
+"options": [
+"Pythian Games",
+"Olympic Games",
+"Nemean Games",
+"Isthmian Games"
+],
+"correctAnswer": "Olympic Games",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "The ancient Olympic Games were held every four years at the sanctuary site of Olympia.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"greece",
+"sports"
+]
+},
+{
+"id": "ancient_civilizations_209",
+"question": "The legendary defensive barrier known as the Great Wall of China was first consolidated under which imperial dynasty?",
+"options": [
+"Han Dynasty",
+"Qin Dynasty",
+"Tang Dynasty",
+"Ming Dynasty"
+],
+"correctAnswer": "Qin Dynasty",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "Emperor Qin Shi Huang ordered the joining and extension of existing northern walls to protect his unified empire.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"china",
+"architecture"
+]
+},
+{
+"id": "ancient_civilizations_210",
+"question": "What large Mediterranean island was home to the ancient Minoan civilization and its palace at Knossos?",
+"options": [
+"Sicily",
+"Cyprus",
+"Crete",
+"Rhodes"
+],
+"correctAnswer": "Crete",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "Minoan culture developed as a highly advanced Bronze Age mercantile system centered on the island of Crete.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"minoan",
+"geography"
+]
+},
+{
+"id": "ancient_civilizations_211",
+"question": "The iconic profile statue known as the Great Sphinx sits adjacent to the pyramids in which Egyptian location?",
+"options": [
+"Luxor",
+"Giza",
+"Thebes",
+"Alexandria"
+],
+"correctAnswer": "Giza",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "The Great Sphinx is situated on the Giza Plateau alongside the three major pyramids of the Old Kingdom.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"egypt",
+"monuments"
+]
+},
+{
+"id": "ancient_civilizations_212",
+"question": "Which historic political leader transitioned Rome from a republic into an empire by becoming its first official Emperor?",
+"options": [
+"Julius Caesar",
+"Augustus",
+"Nero",
+"Trajan"
+],
+"correctAnswer": "Augustus",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "Augustus consolidated executive powers under the title of Princeps, ending decades of civil strife.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"rome",
+"rulers"
+]
+},
+{
+"id": "ancient_civilizations_213",
+"question": "The monumental Parthenon temple stands on top of which elevated rocky fortress area in Athens?",
+"options": [
+"The Agora",
+"The Acropolis",
+"Mount Olympus",
+"The Pnyx"
+],
+"correctAnswer": "The Acropolis",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "The Acropolis of Athens is an ancient citadel containing the architectural remains of the Parthenon.",
+"imageUrl": "[https://example.com/images/ancient_civilizations_213.jpg](https://www.google.com/search?q=https://example.com/images/ancient_civilizations_213.jpg)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"greece",
+"architecture"
+]
+},
+{
+"id": "ancient_civilizations_214",
+"question": "What primary geographic river valley supported the early development of ancient Mesopotamian states?",
+"options": [
+"Tigris and Euphrates Rivers",
+"Nile River Valley",
+"Indus River Valley",
+"Yangtze River Valley"
+],
+"correctAnswer": "Tigris and Euphrates Rivers",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "Mesopotamia translates to 'between the rivers', referencing the lands bounded by the Tigris and Euphrates.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"mesopotamia",
+"geography"
+]
+},
+{
+"id": "ancient_civilizations_215",
+"question": "Which early civilization crafted the intricate, giant geoglyph lines across high desert plains in Peru?",
+"options": [
+"Inca Civilization",
+"Nazca Civilization",
+"Maya Civilization",
+"Moche Civilization"
+],
+"correctAnswer": "Nazca Civilization",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "The Nazca culture created the desert geometric patterns and animal outlines by removing dark surface pebbles.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"nazca",
+"monuments"
+]
+},
+{
+"id": "ancient_civilizations_216",
+"question": "The historic, elite military force known as the Immortals served the rulers of which ancient empire?",
+"options": [
+"Roman Empire",
+"Persian Empire",
+"Egyptian Empire",
+"Greek Coalition"
+],
+"correctAnswer": "Persian Empire",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "The Immortals were an elite heavy infantry unit of 10,000 soldiers within the Achaemenid Persian army.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"persia",
+"warfare"
+]
+},
+{
+"id": "ancient_civilizations_217",
+"question": "What is the common architectural term for the tall, four-sided stone monument pillars built by ancient Egyptians?",
+"options": [
+"Ziggurats",
+"Obelisks",
+"Stelas",
+"Pylons"
+],
+"correctAnswer": "Obelisks",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "Obelisks were monolithic pillars tapering to a pyramidion top, placed at temple entrances to honor solar gods.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"egypt",
+"architecture"
+]
+},
+{
+"id": "ancient_civilizations_218",
+"question": "Which legendary city-state served as the epic maritime center of Hannibal Barca's home empire?",
+"options": [
+"Rome",
+"Carthage",
+"Alexandria",
+"Tyre"
+],
+"correctAnswer": "Carthage",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "Carthage was an expansive Phoenician-descended trading powerhouse in North Africa that fought Rome in the Punic Wars.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"carthage",
+"cities"
+]
+},
+{
+"id": "ancient_civilizations_219",
+"question": "The Code of Hammurabi, famous for its legal structures, was created in which historic capital city?",
+"options": [
+"Nineveh",
+"Babylon",
+"Persepolis",
+"Ur"
+],
+"correctAnswer": "Babylon",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "King Hammurabi enacted his laws during the First Babylonian Empire, anchoring them within his capital city.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"babylon",
+"law"
+]
+},
+{
+"id": "ancient_civilizations_220",
+"question": "What high-altitude structural citadel complex in Peru was built by the Inca Emperor Pachacuti?",
+"options": [
+"Machu Picchu",
+"Chichen Itza",
+"Tikal",
+"Teotihuacan"
+],
+"correctAnswer": "Machu Picchu",
+"category": "Ancient Civilizations",
+"difficulty": "easy",
+"explanation": "Machu Picchu was built as an elite royal estate and sanctuary peak during the height of the Inca Empire.",
+"imageUrl": "[https://example.com/images/ancient_civilizations_220.jpg](https://www.google.com/search?q=https://example.com/images/ancient_civilizations_220.jpg)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"inca",
+"architecture"
+]
+},
+{
+"id": "ancient_civilizations_221",
+"question": "Which early civilization designed the expansive public bath complex known as the Great Bath at Mohenjo-daro?",
+"options": [
+"Sumerian Civilization",
+"Indus Valley Civilization",
+"Minoan Civilization",
+"Egyptian Old Kingdom"
+],
+"correctAnswer": "Indus Valley Civilization",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "The Great Bath indicates that public sanitation and ritual purification were central to Indus Valley civic layouts.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"indus-valley",
+"architecture"
+]
+},
+{
+"id": "ancient_civilizations_222",
+"question": "The dynamic multi-lingual Behistun Inscription was engineered to declare the achievements of which ruler?",
+"options": [
+"Cyrus the Great",
+"Darius the Great",
+"Xerxes I",
+"Artaxerxes I"
+],
+"correctAnswer": "Darius the Great",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "Darius I ordered the text carved into a cliffside in Old Persian, Elamite, and Babylonian to legitimize his reign.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"persia",
+"writing"
+]
+},
+{
+"id": "ancient_civilizations_223",
+"question": "What unique physical material forms the basis of the historical 'Twelve Tables' legislative framework of early Rome?",
+"options": [
+"Inscribed papyrus rolls",
+"Engraved bronze plaques",
+"Carved marble monoliths",
+"Stamped clay cylinders"
+],
+"correctAnswer": "Engraved bronze plaques",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "The laws were transcribed onto bronze tablets and posted in the Roman Forum to establish standard civic transparency.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"rome",
+"law"
+]
+},
+{
+"id": "ancient_civilizations_224",
+"question": "Which early civilization engineered the fortified mountain capital city of Hattusa in central Turkey?",
+"options": [
+"Lydians",
+"Hittites",
+"Phrygians",
+"Minoans"
+],
+"correctAnswer": "Hittites",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "Hattusa featured double-walled monumental gates and underground defensive corbeled tunnel structures.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"hittite",
+"cities"
+]
+},
+{
+"id": "ancient_civilizations_225",
+"question": "The iconic 'Blue Fresco' showcasing detailed representations of monkeys jumping across rocks was excavated on which island?",
+"options": [
+"Crete",
+"Santorini (Thera)",
+"Cyprus",
+"Rhodes"
+],
+"correctAnswer": "Santorini (Thera)",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "Discovered at the buried settlement of Akrotiri, this art piece demonstrates deep Minoan trade connections with Africa.",
+"imageUrl": "[https://example.com/images/ancient_civilizations_225.jpg](https://www.google.com/search?q=https://example.com/images/ancient_civilizations_225.jpg)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"art",
+"greece"
+]
+},
+{
+"id": "ancient_civilizations_226",
+"question": "What highly organized system of political governance was introduced to Athens by the reforms of Cleisthenes?",
+"options": [
+"Constitutional Monarchy",
+"Direct Democracy",
+"Oligarchic Council",
+"Militaristic Meritocracy"
+],
+"correctAnswer": "Direct Democracy",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "Cleisthenes restructured Athenian tribal definitions in 508 BCE, earning him historical recognition as the father of democracy.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"greece",
+"politics"
+]
+},
+{
+"id": "ancient_civilizations_227",
+"question": "Which regional African powerhouse ruled over Egypt as the 25th Dynasty, producing the 'Black Pharaohs'?",
+"options": [
+"Kingdom of Axum",
+"Kingdom of Kush",
+"Carthaginian Empire",
+"Land of Punt"
+],
+"correctAnswer": "Kingdom of Kush",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "Kushite King Piye invaded and unified Egypt, initiating a century of combined Nubian-Egyptian imperial administration.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"kush",
+"egypt",
+"africa"
+]
+},
+{
+"id": "ancient_civilizations_228",
+"question": "The grand historical roadway project known as the Appian Way initialed connected Rome to which strategic hub?",
+"options": [
+"Capua",
+"Brundisium",
+"Pompeii",
+"Mediolanum"
+],
+"correctAnswer": "Capua",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "Appius Claudius Caecus oversaw the initial phase of the road in 312 BCE to aid troop transport during the Samnite Wars.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"rome",
+"infrastructure"
+]
+},
+{
+"id": "ancient_civilizations_229",
+"question": "What distinct administrative mechanism allowed the emperors of China's Han Dynasty to select qualified civil servants?",
+"options": [
+"Strict hereditary succession lotteries",
+"The Imperial Examination system based on Confucian texts",
+"Direct random civic sortition draws",
+"Militaristic battlefield gladiatorial trials"
+],
+"correctAnswer": "The Imperial Examination system based on Confucian texts",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "The Han Dynasty began testing candidates on classic philosophy to ensure governance relied on merit rather than birth.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"china",
+"governance"
+]
+},
+{
+"id": "ancient_civilizations_230",
+"question": "The massive Neolithic architectural stone alignment site of Carnac is located in which region?",
+"options": [
+"Wiltshire, England",
+"Brittany, France",
+"Boyne Valley, Ireland",
+"Andalusia, Spain"
+],
+"correctAnswer": "Brittany, France",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "The Carnac alignments contain over 3,000 standing stones erected by local prehistoric communities.",
+"imageUrl": "[https://example.com/images/ancient_civilizations_230.jpg](https://www.google.com/search?q=https://example.com/images/ancient_civilizations_230.jpg)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"prehistory",
+"monuments"
+]
+},
+{
+"id": "ancient_civilizations_231",
+"question": "Which significant Bronze Age Greek civilization built the structural tombs known as tholos or beehive tombs?",
+"options": [
+"Minoan Civilization",
+"Mycenaean Civilization",
+"Cycladic Culture",
+"Classic Spartan State"
+],
+"correctAnswer": "Mycenaean Civilization",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "The Mycenaeans built monumental vaulted stone masonry tombs, such as the famous Treasury of Atreus.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"mycenae",
+"architecture"
+]
+},
+{
+"id": "ancient_civilizations_232",
+"question": "What highly organized civilization in Peru engineered the underground Puquios aqueduct water ventilation system?",
+"options": [
+"Inca Civilization",
+"Nazca Civilization",
+"Moche Civilization",
+"Chavin Civilization"
+],
+"correctAnswer": "Nazca Civilization",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "The Puquios were sophisticated stone-lined underground channels that brought subterranean water into arid agricultural fields.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"nazca",
+"engineering"
+]
+},
+{
+"id": "ancient_civilizations_233",
+"question": "The strategic, historical non-aggression pact known as the Treaty of Kadesh was signed by Ramesses II and which king?",
+"options": [
+"Muwatalli II",
+"Hattusili III",
+"Suppiluliuma I",
+"Mursili II"
+],
+"correctAnswer": "Hattusili III",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "Signed years after the battle, the Treaty of Kadesh stands as the earliest fully recorded international peace accord.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"egypt",
+"hittite",
+"diplomacy"
+]
+},
+{
+"id": "ancient_civilizations_234",
+"question": "Which Chinese text, compiled during the Warring States period, serves as the foundational canon of classic Daoism?",
+"options": [
+"The Analects",
+"The Dao De Jing",
+"The Book of Changes",
+"The Xunzi"
+],
+"correctAnswer": "The Dao De Jing",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "Traditionally attributed to Laozi, the Dao De Jing focuses on living in harmony with the natural flow of the universe.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"china",
+"philosophy"
+]
+},
+{
+"id": "ancient_civilizations_235",
+"question": "What highly organized pre-Columbian urban layout centered around the grand Pyramids of the Sun and Moon?",
+"options": [
+"Teotihuacan",
+"Tenochtitlan",
+"Palenque",
+"Copan"
+],
+"correctAnswer": "Teotihuacan",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "Teotihuacan was an multi-ethnic valley metropolis that peaked around 450 CE in the valley of Mexico.",
+"imageUrl": "[https://example.com/images/ancient_civilizations_235.jpg](https://www.google.com/search?q=https://example.com/images/ancient_civilizations_235.jpg)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"mesoamerica",
+"architecture"
+]
+},
+{
+"id": "ancient_civilizations_236",
+"question": "Which administrative emperor moved the formal capital of the Roman Empire to the ancient city of Byzantium?",
+"options": [
+"Diocletian",
+"Constantine the Great",
+"Theodosius I",
+"Justin I"
+],
+"correctAnswer": "Constantine the Great",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "Constantine inaugurated the city as 'Nova Roma' in 330 CE, though it quickly became universally known as Constantinople.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"rome",
+"politics"
+]
+},
+{
+"id": "ancient_civilizations_237",
+"question": "What primary geographic valley system hosted the prehistoric agricultural community of Norte Chico?",
+"options": [
+"Supe Valley, Peru",
+"Oaxaca Valley, Mexico",
+"Amazon Basin, Brazil",
+"Urubamba Valley, Peru"
+],
+"correctAnswer": "Supe Valley, Peru",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "The Supe Valley hosted the complex development of Caral-Supe, establishing coastal-inland trade structures.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"peru",
+"geography"
+]
+},
+{
+"id": "ancient_civilizations_238",
+"question": "The strategic regional Battle of Leuctra in 371 BCE permanently shattered the military dominance of which state?",
+"options": [
+"Athens",
+"Sparta",
+"Thebes",
+"Corinth"
+],
+"correctAnswer": "Sparta",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "Theban general Epaminondas deployed tactical innovations at Leuctra, ending centuries of Spartan land supremacy.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"greece",
+"warfare"
+]
+},
+{
+"id": "ancient_civilizations_239",
+"question": "Which historic legal code served as the absolute administrative compilation foundation for the Byzantine Empire under Justinian I?",
+"options": [
+"The Theodosian Code",
+"The Corpus Juris Civilis",
+"The Twelve Tables",
+"The Basilica Laws"
+],
+"correctAnswer": "The Corpus Juris Civilis",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "The Corpus Juris Civilis ('Body of Civil Law') updated and unified centuries of chaotic Roman legal decrees.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"byzantine",
+"law"
+]
+},
+{
+"id": "ancient_civilizations_240",
+"question": "The spectacular 'Lion Capital of Ashoka' sculpture artifact was originally erected at which spiritual site?",
+"options": [
+"Sarnath",
+"Sanchi",
+"Taxila",
+"Pataliputra"
+],
+"correctAnswer": "Sarnath",
+"category": "Ancient Civilizations",
+"difficulty": "medium",
+"explanation": "Ashoka placed the capital pillar at Sarnath to mark where Gautama Buddha historically delivered his initial sermon.",
+"imageUrl": "[https://example.com/images/ancient_civilizations_240.jpg](https://www.google.com/search?q=https://example.com/images/ancient_civilizations_240.jpg)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"india",
+"art"
+]
+},
+{
+"id": "ancient_civilizations_241",
+"question": "What highly specific mathematical tracking device is represented by the ancient Antikythera Mechanism?",
+"options": [
+"A mechanical calendar tracking device to compute astronomical positions",
+"A hydraulic device engineered to measure water volumes in city aqueducts",
+"A weight scaling balance used in elite maritime trade ports",
+"A primitive compass geared to locate directional magnetic north fields"
+],
+"correctAnswer": "A mechanical calendar tracking device to compute astronomical positions",
+"category": "Ancient Civilizations",
+"difficulty": "hard",
+"explanation": "Recovered from a Greek shipwreck, the Antikythera Mechanism utilized complex bronze gear trains to track planetary cycles.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"greece",
+"science"
+]
+},
+{
+"id": "ancient_civilizations_242",
+"question": "Which Mesopotamian legal compilation represents the oldest surviving fragmentary code, predating Hammurabi by centuries?",
+"options": [
+"The Laws of Eshnunna",
+"The Code of Lipit-Ishtar",
+"The Code of Ur-Nammu",
+"The Edicts of Urukagina"
+],
+"correctAnswer": "The Code of Ur-Nammu",
+"category": "Ancient Civilizations",
+"difficulty": "hard",
+"explanation": "The Sumerian Code of Ur-Nammu, compiled around 2100 BCE, instituted monetary fines instead of purely physical mutilation.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"sumer",
+"law"
+]
+},
+{
+"id": "ancient_civilizations_243",
+"question": "What highly specific internal political action triggered the outbreak of Rome's historic Social War?",
+"options": [
+"A slave rebellion inside Sicilian silver mines",
+"Rome's refusal to grant full citizenship rights to its allied Italian states",
+"An unauthorized crossing of the Rubicon by regional cohorts",
+"The assassination of Julius Caesar by members of the Senate"
+],
+"correctAnswer": "Rome's refusal to grant full citizenship rights to its allied Italian states",
+"category": "Ancient Civilizations",
+"difficulty": "hard",
+"explanation": "The Italian socii revolted to form an independent confederation after Roman courts repeatedly blocked franchise expansion.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"rome",
+"warfare"
+]
+},
+{
+"id": "ancient_civilizations_244",
+"question": "The spectacular Bronze Age artifact known as the 'Sky Disc of Nebra' shows early representations of what features?",
+"options": [
+"The solar system and cosmic bodies using gold leaf on bronze",
+"A topographic layout map of an early European river valley",
+"The lineage records of a local ruling dynasty",
+"A complex code of laws for trade regulation"
+],
+"correctAnswer": "The solar system and cosmic bodies using gold leaf on bronze",
+"category": "Ancient Civilizations",
+"difficulty": "hard",
+"explanation": "Discovered in Germany, the Nebra Sky Disc is considered the oldest concrete depiction of cosmic phenomena globally.",
+"imageUrl": "[https://example.com/images/ancient_civilizations_244.jpg](https://www.google.com/search?q=https://example.com/images/ancient_civilizations_244.jpg)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"prehistory",
+"science"
+]
+},
+{
+"id": "ancient_civilizations_245",
+"question": "Which powerful administrative capital center served as the primary base for the ancient Elamite Kingdom?",
+"options": [
+"Persepolis",
+"Susa",
+"Ecbatana",
+"Pasargadae"
+],
+"correctAnswer": "Susa",
+"category": "Ancient Civilizations",
+"difficulty": "hard",
+"explanation": "Susa was the historical heart of Elam in southwestern Iran before later transforming into an Achaemenid royal center.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"elam",
+"cities"
+]
+},
+{
+"id": "ancient_civilizations_246",
+"question": "What highly unusual phonetic script was engineered by the ancient civilization of Kush in its later cultural phases?",
+"options": [
+"Meroitic alphabetic script",
+"Hieratic cursive shorthand",
+"Cuneiform syllable boards",
+"Linear B tablet scripts"
+],
+"correctAnswer": "Meroitic alphabetic script",
+"category": "Ancient Civilizations",
+"difficulty": "hard",
+"explanation": "Meroitic script consisted of 23 signs used as an alphabet, developed to write the native language of Kush.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"kush",
+"writing"
+]
+},
+{
+"id": "ancient_civilizations_247",
+"question": "The historic, elite gold vessel treasure known as the 'Panagyurishte Treasure' was created by which culture?",
+"options": [
+"Scythians",
+"Thracians",
+"Celts",
+"Mycenaeans"
+],
+"correctAnswer": "Thracians",
+"category": "Ancient Civilizations",
+"difficulty": "hard",
+"explanation": "Discovered in Bulgaria, this ceremonial set consists of nine pure gold vessels intricately decorated with mythical scenes.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"art",
+"thracian"
+]
+},
+{
+"id": "ancient_civilizations_248",
+"question": "What distinctive archaeological phase in ancient China is scientifically recognized as the cradle of Chinese bronze casting?",
+"options": [
+"Erlitou Culture",
+"Yangshao Culture",
+"Hemudu Culture",
+"Dawenkou Culture"
+],
+"correctAnswer": "Erlitou Culture",
+"category": "Ancient Civilizations",
+"difficulty": "hard",
+"explanation": "Centered in Henan, the Erlitou culture represents a crucial transition from the Neolithic to complex state society structures.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"china",
+"archaeology"
+]
+},
+{
+"id": "ancient_civilizations_249",
+"question": "Which historic legislative resolution passed in 287 BCE finalized the Plebeian domestic struggles by making tribal bills binding?",
+"options": [
+"Lex Ogulnia",
+"Lex Hortensia",
+"Lex Publilia",
+"Lex Poetelia Papiria"
+],
+"correctAnswer": "Lex Hortensia",
+"category": "Ancient Civilizations",
+"difficulty": "hard",
+"explanation": "Dictator Quintus Hortensius passed the law after plebeians seceded to the Janiculum hill during a fiscal crisis.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"rome",
+"politics"
+]
+},
+{
+"id": "ancient_civilizations_250",
+"question": "The spectacular prehistoric temple complex architectural layers of Tarxien are located on which island country?",
+"options": [
+"Cyprus",
+"Malta",
+"Crete",
+"Sardinia"
+],
+"correctAnswer": "Malta",
+"category": "Ancient Civilizations",
+"difficulty": "hard",
+"explanation": "The Tarxien Temples are megalithic structures in Malta dating to roughly 3150 BCE, showcasing advanced carving work.",
+"imageUrl": "[https://example.com/images/ancient_civilizations_250.jpg](https://www.google.com/search?q=https://example.com/images/ancient_civilizations_250.jpg)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"malta",
+"monuments"
+]
+}
+]

@@ -1,0 +1,3003 @@
+﻿[
+{
+"id": "tech_001",
+"question": "What does AI stand for?",
+"options": [
+"Artificial Intelligence",
+"Automated Internet",
+"Advanced Integration",
+"Asymmetric Information"
+],
+"correctAnswer": "Artificial Intelligence",
+"category": "Artificial Intelligence",
+"difficulty": "easy",
+"explanation": "AI stands for Artificial Intelligence, which refers to the simulation of human intelligence in machines.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["basics", "intro"]
+},
+{
+"id": "tech_002",
+"question": "Which of the following is a primary language used for AI development?",
+"options": [
+"Python",
+"HTML",
+"CSS",
+"SQL"
+],
+"correctAnswer": "Python",
+"category": "Artificial Intelligence",
+"difficulty": "easy",
+"explanation": "Python is widely used in AI due to its simplicity and extensive libraries like TensorFlow and PyTorch.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["programming", "python"]
+},
+{
+"id": "tech_003",
+"question": "Who is often considered the father of computer science and artificial intelligence?",
+"options": [
+"Alan Turing",
+"Bill Gates",
+"Steve Jobs",
+"Tim Berners-Lee"
+],
+"correctAnswer": "Alan Turing",
+"category": "Artificial Intelligence",
+"difficulty": "easy",
+"explanation": "Alan Turing proposed the Turing Test in 1950, which became a foundational concept in AI.",
+"imageUrl": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["history", "biography"]
+},
+{
+"id": "tech_004",
+"question": "What is the main goal of Machine Learning?",
+"options": [
+"To allow computers to learn from data without explicit programming",
+"To make websites load faster",
+"To protect computers from viruses",
+"To build physical human-like robots"
+],
+"correctAnswer": "To allow computers to learn from data without explicit programming",
+"category": "Artificial Intelligence",
+"difficulty": "easy",
+"explanation": "Machine learning focuses on developing algorithms that can learn and make predictions based on data.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["machine-learning", "concepts"]
+},
+{
+"id": "tech_005",
+"question": "What type of AI is designed to perform a single, specific task?",
+"options": [
+"Narrow AI",
+"General AI",
+"Super AI",
+"Deep AI"
+],
+"correctAnswer": "Narrow AI",
+"category": "Artificial Intelligence",
+"difficulty": "easy",
+"explanation": "Narrow AI (or Weak AI) is trained and focused on a single specific task, like facial recognition.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["types", "basics"]
+},
+{
+"id": "tech_006",
+"question": "Which of these is an example of an AI voice assistant?",
+"options": [
+"Apple Siri",
+"Adobe Photoshop",
+"Google Chrome",
+"Microsoft Word"
+],
+"correctAnswer": "Apple Siri",
+"category": "Artificial Intelligence",
+"difficulty": "easy",
+"explanation": "Siri is a well-known virtual assistant developed by Apple that uses natural language processing.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["applications", "voice"]
+},
+{
+"id": "tech_007",
+"question": "What does NLP stand for in the context of AI?",
+"options": [
+"Natural Language Processing",
+"Network Layer Protocol",
+"Neural Logical Programming",
+"Node Location Protocol"
+],
+"correctAnswer": "Natural Language Processing",
+"category": "Artificial Intelligence",
+"difficulty": "easy",
+"explanation": "NLP is a subfield of AI that helps computers understand, interpret, and manipulate human language.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["nlp", "terminology"]
+},
+{
+"id": "tech_008",
+"question": "Which company developed the famous AI program AlphaGo?",
+"options": [
+"DeepMind",
+"Microsoft",
+"Meta",
+"IBM"
+],
+"correctAnswer": "DeepMind",
+"category": "Artificial Intelligence",
+"difficulty": "easy",
+"explanation": "AlphaGo was developed by Google DeepMind and defeated a world champion Go player in 2016.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["history", "alphago"]
+},
+{
+"id": "tech_009",
+"question": "What is the process of training an AI model with labeled data called?",
+"options": [
+"Supervised Learning",
+"Unsupervised Learning",
+"Reinforcement Learning",
+"Self-learning"
+],
+"correctAnswer": "Supervised Learning",
+"category": "Artificial Intelligence",
+"difficulty": "easy",
+"explanation": "Supervised learning uses a dataset containing input-output pairs to train algorithms.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["machine-learning", "training"]
+},
+{
+"id": "tech_010",
+"question": "In AI, what do we call a network inspired by the biological brain?",
+"options": [
+"Artificial Neural Network",
+"Binary Decision Tree",
+"Logical Flowchart",
+"Linear Regression Network"
+],
+"correctAnswer": "Artificial Neural Network",
+"category": "Artificial Intelligence",
+"difficulty": "easy",
+"explanation": "Artificial Neural Networks (ANNs) are computational models inspired by the structure of biological brains.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["neural-networks", "basics"]
+},
+{
+"id": "tech_011",
+"question": "Which of these is a popular open-source library for Machine Learning developed by Google?",
+"options": [
+"TensorFlow",
+"PyTorch",
+"Scikit-Learn",
+"Pandas"
+],
+"correctAnswer": "TensorFlow",
+"category": "Artificial Intelligence",
+"difficulty": "easy",
+"explanation": "TensorFlow is a comprehensive, open-source platform for machine learning developed by Google.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["frameworks", "google"]
+},
+{
+"id": "tech_012",
+"question": "What is the term for an AI's ability to recognize objects within an image?",
+"options": [
+"Computer Vision",
+"Natural Language Processing",
+"Speech Synthesis",
+"Data Mining"
+],
+"correctAnswer": "Computer Vision",
+"category": "Artificial Intelligence",
+"difficulty": "easy",
+"explanation": "Computer Vision enables computers to derive meaningful information from digital images or videos.",
+"imageUrl": "https://images.unsplash.com/photo-1527474305487-b87b222841cc?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["computer-vision", "basics"]
+},
+{
+"id": "tech_013",
+"question": "What kind of machine learning involves an agent learning through rewards and penalties?",
+"options": [
+"Reinforcement Learning",
+"Supervised Learning",
+"Unsupervised Learning",
+"Clustering"
+],
+"correctAnswer": "Reinforcement Learning",
+"category": "Artificial Intelligence",
+"difficulty": "easy",
+"explanation": "Reinforcement learning involves taking actions in an environment to maximize cumulative reward.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["reinforcement-learning"]
+},
+{
+"id": "tech_014",
+"question": "Which AI test measures a machine's ability to exhibit intelligent behavior indistinguishable from a human?",
+"options": [
+"Turing Test",
+"Voight-Kampff Test",
+"Rorschach Test",
+"CAPTCHA"
+],
+"correctAnswer": "Turing Test",
+"category": "Artificial Intelligence",
+"difficulty": "easy",
+"explanation": "The Turing Test, developed by Alan Turing, evaluates if a machine can think like a human.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["turing-test", "history"]
+},
+{
+"id": "tech_015",
+"question": "What is the primary purpose of a CAPTCHA?",
+"options": [
+"To distinguish human users from automated bots",
+"To accelerate data processing speed",
+"To encrypt passwords",
+"To serve as an AI chatbot"
+],
+"correctAnswer": "To distinguish human users from automated bots",
+"category": "Artificial Intelligence",
+"difficulty": "easy",
+"explanation": "CAPTCHA stands for Completely Automated Public Turing test to tell Computers and Humans Apart.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["security", "captcha"]
+},
+{
+"id": "tech_016",
+"question": "Which of these fields is heavily dependent on Computer Vision?",
+"options": [
+"Self-driving cars",
+"Database indexing",
+"Email spam filtering",
+"Spreadsheet calculation"
+],
+"correctAnswer": "Self-driving cars",
+"category": "Artificial Intelligence",
+"difficulty": "easy",
+"explanation": "Self-driving cars rely intensely on computer vision to interpret road signs, lanes, obstacles, and pedestrians.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["autonomous-vehicles", "cv"]
+},
+{
+"id": "tech_017",
+"question": "What is ChatGPT primarily classified as?",
+"options": [
+"Large Language Model",
+"Operating System",
+"Computer Virus",
+"Hardware Accelerator"
+],
+"correctAnswer": "Large Language Model",
+"category": "Artificial Intelligence",
+"difficulty": "easy",
+"explanation": "ChatGPT is a type of generative AI called a Large Language Model (LLM).",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["llm", "chatgpt"]
+},
+{
+"id": "tech_018",
+"question": "What type of data is typically used in Unsupervised Learning?",
+"options": [
+"Unlabeled data",
+"Labeled data",
+"Encrypted data",
+"Structured SQL data"
+],
+"correctAnswer": "Unlabeled data",
+"category": "Artificial Intelligence",
+"difficulty": "easy",
+"explanation": "Unsupervised learning tries to find hidden patterns in data that has not been labeled or classified.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["unsupervised-learning"]
+},
+{
+"id": "tech_019",
+"question": "Which of these is a common application of AI in email services?",
+"options": [
+"Spam filtering",
+"Deleting unread emails randomly",
+"Changing email fonts daily",
+"Increasing internet bandwidth"
+],
+"correctAnswer": "Spam filtering",
+"category": "Artificial Intelligence",
+"difficulty": "easy",
+"explanation": "AI models are extensively used to identify and filter out spam or phishing emails from your inbox.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["applications"]
+},
+{
+"id": "tech_020",
+"question": "What is the name of Meta's open-source large language model?",
+"options": [
+"Llama",
+"Claude",
+"Gemini",
+"GPT-4"
+],
+"correctAnswer": "Llama",
+"category": "Artificial Intelligence",
+"difficulty": "easy",
+"explanation": "Llama is a family of large language models developed and released openly by Meta.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["models", "meta"]
+},
+{
+"id": "tech_021",
+"question": "What term describes the phenomenon where an AI generates realistic-sounding but completely false information?",
+"options": [
+"Hallucination",
+"Buffering",
+"Glitching",
+"Overclocking"
+],
+"correctAnswer": "Hallucination",
+"category": "Artificial Intelligence",
+"difficulty": "easy",
+"explanation": "AI hallucination is when a model generates convincing but factually incorrect outputs.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["llm", "ethics"]
+},
+{
+"id": "tech_022",
+"question": "Which hardware component is most widely used to accelerate AI training and inference?",
+"options": [
+"GPU",
+"Sound Card",
+"Hard Drive",
+"Network Switch"
+],
+"correctAnswer": "GPU",
+"category": "Artificial Intelligence",
+"difficulty": "easy",
+"explanation": "Graphics Processing Units (GPUs) are ideal for AI tasks due to their high parallel computational power.",
+"imageUrl": "https://images.unsplash.com/photo-1601524909162-be87252be298?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["hardware", "gpu"]
+},
+{
+"id": "tech_023",
+"question": "What type of machine learning task involves predicting a continuous numerical value?",
+"options": [
+"Regression",
+"Classification",
+"Clustering",
+"Dimensionality Reduction"
+],
+"correctAnswer": "Regression",
+"category": "Artificial Intelligence",
+"difficulty": "easy",
+"explanation": "Regression tasks predict continuous numerical scores, such as home prices or temperatures.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["machine-learning", "regression"]
+},
+{
+"id": "tech_024",
+"question": "What is the primary task of a machine learning 'Classification' model?",
+"options": [
+"Assigning data items to predefined categories",
+"Sorting numbers sequentially",
+"Compiling source code into machine code",
+"Compressing files into smaller archives"
+],
+"correctAnswer": "Assigning data items to predefined categories",
+"category": "Artificial Intelligence",
+"difficulty": "easy",
+"explanation": "Classification models predict categorical class labels, such as identifying if an image contains a cat or a dog.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["machine-learning", "classification"]
+},
+{
+"id": "tech_025",
+"question": "Which company developed the AI model named Gemini?",
+"options": [
+"Google",
+"OpenAI",
+"Microsoft",
+"Apple"
+],
+"correctAnswer": "Google",
+"category": "Artificial Intelligence",
+"difficulty": "easy",
+"explanation": "Gemini is a family of highly capable multimodal AI models developed by Google.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["models", "google"]
+},
+{
+"id": "tech_026",
+"question": "What does a 'chatbot' do?",
+"options": [
+"Simulates human conversation via text or voice",
+"Cleans computer physical components",
+"Increases internet connection speeds",
+"Hosts multiplayer video games"
+],
+"correctAnswer": "Simulates human conversation via text or voice",
+"category": "Artificial Intelligence",
+"difficulty": "easy",
+"explanation": "Chatbots use NLP and rule-based or AI systems to simulate realistic interactive dialogue with users.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["chatbot", "nlp"]
+},
+{
+"id": "tech_027",
+"question": "What term describes the process of modifying an existing pre-trained model for a specific task?",
+"options": [
+"Fine-tuning",
+"Garbage collection",
+"Web scraping",
+"Multithreading"
+],
+"correctAnswer": "Fine-tuning",
+"category": "Artificial Intelligence",
+"difficulty": "easy",
+"explanation": "Fine-tuning takes an AI model already trained on a massive dataset and trains it further on a smaller, specific dataset.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["fine-tuning", "training"]
+},
+{
+"id": "tech_028",
+"question": "Which of these is a typical application of unsupervised learning?",
+"options": [
+"Customer segmentation",
+"Spam detection",
+"Stock price exact prediction",
+"Image labeling"
+],
+"correctAnswer": "Customer segmentation",
+"category": "Artificial Intelligence",
+"difficulty": "easy",
+"explanation": "Customer segmentation relies on clustering algorithms to group users with similar behaviors without predefined labels.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["clustering", "business"]
+},
+{
+"id": "tech_029",
+"question": "What type of artificial intelligence can write essays, generate images, or compose music?",
+"options": [
+"Generative AI",
+"Analytical AI",
+"Reactive AI",
+"Symbolic AI"
+],
+"correctAnswer": "Generative AI",
+"category": "Artificial Intelligence",
+"difficulty": "easy",
+"explanation": "Generative AI describes algorithms that can be used to create new content, including text, images, audio, and code.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["generative-ai"]
+},
+{
+"id": "tech_030",
+"question": "What is OpenAI's popular AI tool used for generating high-quality images from text descriptions?",
+"options": [
+"DALL-E",
+"Stable Diffusion",
+"Midjourney",
+"Sora"
+],
+"correctAnswer": "DALL-E",
+"category": "Artificial Intelligence",
+"difficulty": "easy",
+"explanation": "DALL-E is developed by OpenAI to generate digital images from natural language text prompts.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["images", "openai"]
+},
+{
+"id": "tech_031",
+"question": "Which historical conference in 1956 is widely recognized as the birth of Artificial Intelligence as a field?",
+"options": [
+"Dartmouth Summer Research Project",
+"The Turing Symposium",
+"Silicon Valley Expo",
+"MIT Computing Summit"
+],
+"correctAnswer": "Dartmouth Summer Research Project",
+"category": "Artificial Intelligence",
+"difficulty": "easy",
+"explanation": "The 1956 Dartmouth workshop was where the term 'Artificial Intelligence' was first coined and established as an academic field.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["history"]
+},
+{
+"id": "tech_032",
+"question": "What is the term for a subset of machine learning that relies on deep artificial neural networks with many layers?",
+"options": [
+"Deep Learning",
+"Linear Learning",
+"Shallow Learning",
+"Quantum Learning"
+],
+"correctAnswer": "Deep Learning",
+"category": "Artificial Intelligence",
+"difficulty": "easy",
+"explanation": "Deep learning focuses on neural networks with many 'deep' layers to solve highly complex pattern recognition tasks.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["deep-learning", "basics"]
+},
+{
+"id": "tech_033",
+"question": "What does a text prompt in Generative AI refer to?",
+"options": [
+"The input provided by the user to guide the AI's output",
+"The error log generated by a compiler",
+"The processing speed of the CPU",
+"A software update reminder notice"
+],
+"correctAnswer": "The input provided by the user to guide the AI's output",
+"category": "Artificial Intelligence",
+"difficulty": "easy",
+"explanation": "A prompt is natural language instruction or query provided to an AI model to obtain a specific response.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["prompt-engineering"]
+},
+{
+"id": "tech_034",
+"question": "Which of these is an example of biometric AI technology?",
+"options": [
+"Facial recognition unlocking a smartphone",
+"Saving a document as a PDF",
+"Compressing a file to ZIP format",
+"Sending an email via SMTP"
+],
+"correctAnswer": "Facial recognition unlocking a smartphone",
+"category": "Artificial Intelligence",
+"difficulty": "easy",
+"explanation": "Facial recognition relies on advanced deep learning and computer vision to measure and analyze unique physical facial structures.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["biometrics", "cv"]
+},
+{
+"id": "tech_035",
+"question": "What kind of problem is an AI trying to solve when it detects fraud in credit card transactions?",
+"options": [
+"Anomaly Detection",
+"Image Synthesis",
+"Machine Translation",
+"Style Transfer"
+],
+"correctAnswer": "Anomaly Detection",
+"category": "Artificial Intelligence",
+"difficulty": "easy",
+"explanation": "Anomaly detection identifies rare items, events, or observations that raise suspicions by differing significantly from the norm.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["cybersecurity", "anomaly"]
+},
+{
+"id": "tech_036",
+"question": "What is the primary function of an AI 'Encoder' module?",
+"options": [
+"To compress or transform input data into an internal meaningful representation",
+"To output text directly to the user display",
+"To delete outlier data from a database table",
+"To physically cool the processing hardware unit"
+],
+"correctAnswer": "To compress or transform input data into an internal meaningful representation",
+"category": "Artificial Intelligence",
+"difficulty": "easy",
+"explanation": "Encoders process input sequences to construct deep mathematical vector embeddings containing context.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["architecture", "transformers"]
+},
+{
+"id": "tech_037",
+"question": "Which of these is considered an ethical concern surrounding the adoption of AI?",
+"options": [
+"Algorithmic bias and unfair discrimination",
+"Faster calculations in physics laboratories",
+"Decreasing costs of storage hardware items",
+"The introduction of high-resolution monitors"
+],
+"correctAnswer": "Algorithmic bias and unfair discrimination",
+"category": "Artificial Intelligence",
+"difficulty": "easy",
+"explanation": "AI systems can inherit biases present in training datasets, leading to systemic and unfair discrimination.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["ethics", "bias"]
+},
+{
+"id": "tech_038",
+"question": "What does 'training data' refer to in machine learning?",
+"options": [
+"The dataset used to teach an AI model patterns",
+"The finalized production codebase of an app",
+"The instructions manual given to human employees",
+"The performance log records of cloud servers"
+],
+"correctAnswer": "The dataset used to teach an AI model patterns",
+"category": "Artificial Intelligence",
+"difficulty": "easy",
+"explanation": "Training data is the initial dataset used to fit parameters and teach machine learning models how to recognize patterns.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["data", "training"]
+},
+{
+"id": "tech_039",
+"question": "Which term describes an AI system that matches or surpasses human capabilities across a broad range of cognitive tasks?",
+"options": [
+"Artificial General Intelligence (AGI)",
+"Narrow Artificial Intelligence (ANI)",
+"Expert Rule-based System",
+"Linear Regression Model"
+],
+"correctAnswer": "Artificial General Intelligence (AGI)",
+"category": "Artificial Intelligence",
+"difficulty": "easy",
+"explanation": "AGI represents theoretical AI that has autonomous human-like cognitive flexibility across diverse domains.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["agi", "concepts"]
+},
+{
+"id": "tech_040",
+"question": "What is the purpose of sentiment analysis?",
+"options": [
+"To identify the emotional tone behind a piece of text",
+"To measure the physical heat of processing chips",
+"To compute chemical mixture ratios accurately",
+"To identify malware inside an application package"
+],
+"correctAnswer": "To identify the emotional tone behind a piece of text",
+"category": "Artificial Intelligence",
+"difficulty": "easy",
+"explanation": "Sentiment analysis uses NLP to determine if text data expresses positive, negative, or neutral feelings.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["nlp", "sentiment"]
+},
+{
+"id": "tech_041",
+"question": "What specific neural network architecture is most commonly used for processing grid-like structures like images?",
+"options": [
+"Convolutional Neural Network (CNN)",
+"Recurrent Neural Network (RNN)",
+"Long Short-Term Memory (LSTM)",
+"Generative Adversarial Network (GAN)"
+],
+"correctAnswer": "Convolutional Neural Network (CNN)",
+"category": "Artificial Intelligence",
+"difficulty": "medium",
+"explanation": "CNNs use spatial convolutions to extract local visual patterns efficiently from images.",
+"imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["cnn", "deep-learning"]
+},
+{
+"id": "tech_042",
+"question": "What core mechanism introduced in a 2017 paper revolutionized NLP and enabled modern Large Language Models?",
+"options": [
+"Self-Attention mechanism",
+"Backpropagation through time",
+"Stochastic Gradient Descent",
+"Principal Component Analysis"
+],
+"correctAnswer": "Self-Attention mechanism",
+"category": "Artificial Intelligence",
+"difficulty": "medium",
+"explanation": "The 'Attention Is All You Need' paper introduced the attention mechanism, allowing models to weigh the importance of different words in a sentence regardless of distance.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["transformers", "attention"]
+},
+{
+"id": "tech_043",
+"question": "What issue is a model facing if it performs exceptionally well on training data but terribly on unseen test data?",
+"options": [
+"Overfitting",
+"Underfitting",
+"Data leakage",
+"Vanishing gradients"
+],
+"correctAnswer": "Overfitting",
+"category": "Artificial Intelligence",
+"difficulty": "medium",
+"explanation": "Overfitting occurs when a model learns noise and details in training data to the extent that it hurts performance on new data.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["overfitting", "validation"]
+},
+{
+"id": "tech_044",
+"question": "In neural networks, what is the purpose of an 'Activation Function'?",
+"options": [
+"To introduce non-linearity into the network model",
+"To scale down input dimensionality to zero",
+"To save model checkpoints onto storage disks",
+"To split data automatically into validation sets"
+],
+"correctAnswer": "To introduce non-linearity into the network model",
+"category": "Artificial Intelligence",
+"difficulty": "medium",
+"explanation": "Without non-linear activation functions (like ReLU or Sigmoid), a neural network would just behave like a simple linear regression model.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["math", "neural-networks"]
+},
+{
+"id": "tech_045",
+"question": "What kind of AI architecture consists of two networks (a Generator and a Discriminator) competing against each other?",
+"options": [
+"Generative Adversarial Network (GAN)",
+"Transformer Network",
+"Recurrent Neural Network",
+"Support Vector Machine"
+],
+"correctAnswer": "Generative Adversarial Network (GAN)",
+"category": "Artificial Intelligence",
+"difficulty": "medium",
+"explanation": "GANs use a competitive game design where the generator fabricates highly realistic data while the discriminator attempts to spot fakes.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["gan", "generative-ai"]
+},
+{
+"id": "tech_046",
+"question": "Which evaluation metric is calculated as True Positives divided by the sum of True Positives and False Positives?",
+"options": [
+"Precision",
+"Recall",
+"F1-Score",
+"Accuracy"
+],
+"correctAnswer": "Precision",
+"category": "Artificial Intelligence",
+"difficulty": "medium",
+"explanation": "Precision evaluates how accurate positive predictions are. Formula: TP / (TP + FP).",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["metrics", "math"]
+},
+{
+"id": "tech_047",
+"question": "What problem do Recurrent Neural Networks (RNNs) suffer from when processing long input sequences?",
+"options": [
+"Vanishing or Exploding Gradients",
+"Lack of activation options",
+"Deterministic freezing",
+"Loss of spatial pixel pooling channels"
+],
+"correctAnswer": "Vanishing or Exploding Gradients",
+"category": "Artificial Intelligence",
+"difficulty": "medium",
+"explanation": "As paths through time lengthen, backpropagated gradients can shrink exponentially toward zero or grow uncontrollably.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["rnn", "deep-learning"]
+},
+{
+"id": "tech_048",
+"question": "What is the technique called where a neural network drops random units during training to prevent overfitting?",
+"options": [
+"Dropout",
+"Pruning",
+"Quantization",
+"Batch Normalization"
+],
+"correctAnswer": "Dropout",
+"category": "Artificial Intelligence",
+"difficulty": "medium",
+"explanation": "Dropout randomly deactivates neurons during training cycles, preventing co-dependency behaviors.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["regularization", "training"]
+},
+{
+"id": "tech_049",
+"question": "Which algorithm finds the absolute best separating hyperplane between multiple distinct classes of data?",
+"options": [
+"Support Vector Machine (SVM)",
+"K-Means Clustering",
+"Naïve Bayes Classifier",
+"Random Forest Regression"
+],
+"correctAnswer": "Support Vector Machine (SVM)",
+"category": "Artificial Intelligence",
+"difficulty": "medium",
+"explanation": "An SVM seeks a clear boundary hyperplane maximizing margins between support vector coordinates.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["svm", "algorithms"]
+},
+{
+"id": "tech_050",
+"question": "What technique is used to convert text tokens into dense continuous vectors of fixed size containing context?",
+"options": [
+"Word Embeddings",
+"One-Hot Encoding",
+"Token Hashing",
+"String Serialization"
+],
+"correctAnswer": "Word Embeddings",
+"category": "Artificial Intelligence",
+"difficulty": "medium",
+"explanation": "Embeddings map semantic word definitions into high-dimensional geometric spaces where similar words sit closer together.",
+"imageUrl": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["nlp", "embeddings"]
+},
+{
+"id": "tech_051",
+"question": "What optimization algorithm is primarily used to minimize loss functions by iteratively taking small steps?",
+"options": [
+"Gradient Descent",
+"A* Search",
+"K-Nearest Neighbors",
+"Monte Carlo Simulation"
+],
+"correctAnswer": "Gradient Descent",
+"category": "Artificial Intelligence",
+"difficulty": "medium",
+"explanation": "Gradient Descent calculates partial derivatives to steer internal weights smoothly toward lowest cost values.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["optimization", "math"]
+},
+{
+"id": "tech_052",
+"question": "What type of data leakage occurs when information from outside the training dataset is used to create the model?",
+"options": [
+"Target Leakage",
+"Feature Pruning",
+"Cross-validation decay",
+"Gradient drift"
+],
+"correctAnswer": "Target Leakage",
+"category": "Artificial Intelligence",
+"difficulty": "medium",
+"explanation": "Target leakage occurs when predictors include data points that won't be accessible at real-world prediction time.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["data-science", "leakage"]
+},
+{
+"id": "tech_053",
+"question": "In ML pipeline design, what does 'One-Hot Encoding' accomplish?",
+"options": [
+"Converts categorical strings into numerical binary vectors",
+"Encrypts highly sensitive feature arrays",
+"Compresses large deep image matrices",
+"Parallelizes model validation routines across GPUs"
+],
+"correctAnswer": "Converts categorical strings into numerical binary vectors",
+"category": "Artificial Intelligence",
+"difficulty": "medium",
+"explanation": "It creates a column for every unique label category, populating a '1' in the active row and '0' everywhere else.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["data-preprocessing"]
+},
+{
+"id": "tech_054",
+"question": "What framework design handles reinforcement learning challenges by utilizing deep networks to estimate Q-values?",
+"options": [
+"Deep Q-Network (DQN)",
+"Recurrent Variational Autoencoder",
+"Markov Chain Decision Tree",
+"Convolutional Policy Gradient"
+],
+"correctAnswer": "Deep Q-Network (DQN)",
+"category": "Artificial Intelligence",
+"difficulty": "medium",
+"explanation": "DQNs combine deep neural networks with standard reinforcement learning tabular Q-learning mechanisms.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["reinforcement-learning", "dqn"]
+},
+{
+"id": "tech_055",
+"question": "What is the primary role of the hyperparameter known as the 'Learning Rate'?",
+"options": [
+"Controls the step magnitude taken during optimization steps",
+"Specifies total layers configured within a model",
+"Controls raw thread counts given to GPU cards",
+"Determines the ratio mix of train-test data partitioning"
+],
+"correctAnswer": "Controls the step magnitude taken during optimization steps",
+"category": "Artificial Intelligence",
+"difficulty": "medium",
+"explanation": "Learning rate controls how rapidly internal structural weights adapt when updating with respect to loss gradients.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["hyperparameters", "optimization"]
+},
+{
+"id": "tech_056",
+"question": "Which method systematically splits a primary dataset multiple times to comprehensively validate performance?",
+"options": [
+"K-Fold Cross-Validation",
+"Randomized feature drop",
+"Hyperparameter sweeps",
+"Stochastic shuffling"
+],
+"correctAnswer": "K-Fold Cross-Validation",
+"category": "Artificial Intelligence",
+"difficulty": "medium",
+"explanation": "K-Fold splits subsets iteratively so each segment serves as a validation reference at least once.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["validation", "metrics"]
+},
+{
+"id": "tech_057",
+"question": "What mathematical problem occurs when gradients shrink exponentially during backpropagation?",
+"options": [
+"Vanishing Gradient Problem",
+"Exploding Matrix Condition",
+"Stochastic Freezing Fault",
+"Asymmetric Local Minima"
+],
+"correctAnswer": "Vanishing Gradient Problem",
+"category": "Artificial Intelligence",
+"difficulty": "medium",
+"explanation": "When shallow layers receive minuscule weight update changes, early networks struggle to learn complex base rules.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["deep-learning", "math"]
+},
+{
+"id": "tech_058",
+"question": "What mathematical principle underpins the operations of Naïve Bayes Classifiers?",
+"options": [
+"Bayes' Theorem of conditional probability",
+"Euclidean distance tracking functions",
+"Fourier Wavelet transformation matrix",
+"Markov state chain matrix logic"
+],
+"correctAnswer": "Bayes' Theorem of conditional probability",
+"category": "Artificial Intelligence",
+"difficulty": "medium",
+"explanation": "Naïve Bayes relies on conditional probabilities, assuming structural independence across input predictors.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["probability", "naive-bayes"]
+},
+{
+"id": "tech_059",
+"question": "What clustering algorithm requires pre-specifying the absolute quantity of target cluster groups beforehand?",
+"options": [
+"K-Means Clustering",
+"DBSCAN Density Clustering",
+"Agglomerative Hierarchy Clustering",
+"Mean-Shift Vector Segmentation"
+],
+"correctAnswer": "K-Means Clustering",
+"category": "Artificial Intelligence",
+"difficulty": "medium",
+"explanation": "K-Means shifts cluster centroids across iterative loops, but relies on users explicitly assigning the value of 'K' upfront.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["clustering", "unsupervised"]
+},
+{
+"id": "tech_060",
+"question": "What technology is typically deployed to compress a model's size by downscaling 32-bit floating values to 8-bit integers?",
+"options": [
+"Quantization",
+"Knowledge Distillation",
+"Pruning",
+"Hyperparameter tuning"
+],
+"correctAnswer": "Quantization",
+"category": "Artificial Intelligence",
+"difficulty": "medium",
+"explanation": "Quantization simplifies weight representations from float32 to float16 or int8 to execute faster on mobile or edge nodes.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["optimization", "deployment"]
+},
+{
+"id": "tech_061",
+"question": "What methodology trains a small student model to replicate predictions of a massive complex teacher model?",
+"options": [
+"Knowledge Distillation",
+"Transfer Learning",
+"Adversarial Augmentation",
+"Contrastive pre-training"
+],
+"correctAnswer": "Knowledge Distillation",
+"category": "Artificial Intelligence",
+"difficulty": "medium",
+"explanation": "Knowledge distillation minimizes structural footprint while preserving accuracy metrics by transferring soft probability maps.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["optimization", "distillation"]
+},
+{
+"id": "tech_062",
+"question": "Which of these represents a core problem when designing recommender systems for a brand-new user with zero history?",
+"options": [
+"Cold Start Problem",
+"Exploding Feature Sparsity",
+"Overfitting feedback loops",
+"Vanishing categorical tokens"
+],
+"correctAnswer": "Cold Start Problem",
+"category": "Artificial Intelligence",
+"difficulty": "medium",
+"explanation": "The cold start problem happens when collaborative filtering algorithms lack data points to construct accurate personalized profiles.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["recommender-systems"]
+},
+{
+"id": "tech_063",
+"question": "What component within standard autoencoders contracts input attributes into a tight compressed vector layer?",
+"options": [
+"Bottleneck",
+"Discriminator",
+"Attention filter",
+"Residual link"
+],
+"correctAnswer": "Bottleneck",
+"category": "Artificial Intelligence",
+"difficulty": "medium",
+"explanation": "The bottleneck holds a highly dense latent space representation, discarding non-essential background noise values.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["autoencoders", "architecture"]
+},
+{
+"id": "tech_064",
+"question": "What function is best optimized to handle multi-class mutually-exclusive labels at the output layer of neural networks?",
+"options": [
+"Softmax",
+"Sigmoid",
+"Hyperbolic Tangent (tanh)",
+"Leaky ReLU"
+],
+"correctAnswer": "Softmax",
+"category": "Artificial Intelligence",
+"difficulty": "medium",
+"explanation": "Softmax transforms vector values into an elegant probability map summing up precisely to 1.0.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["math", "activation-functions"]
+},
+{
+"id": "tech_065",
+"question": "What metric balances precision and recall together into one singular indicator score?",
+"options": [
+"F1-Score",
+"Mean Absolute Error",
+"R-Squared Factor",
+"Receiver Operating Curve"
+],
+"correctAnswer": "F1-Score",
+"category": "Artificial Intelligence",
+"difficulty": "medium",
+"explanation": "The F1-Score calculates the harmonic mean of precision and recall parameters.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["metrics", "f1-score"]
+},
+{
+"id": "tech_066",
+"question": "What linear method projects high-dimensional structural data attributes down onto fewer uncorrelated geometric axes?",
+"options": [
+"Principal Component Analysis (PCA)",
+"Linear Ridge Scaling",
+"Hierarchical Clustering Matrix",
+"Gradient Boosting trees"
+],
+"correctAnswer": "Principal Component Analysis (PCA)",
+"category": "Artificial Intelligence",
+"difficulty": "medium",
+"explanation": "PCA maximizes spatial variance along newly constructed orthogonal dimensions to compress data.",
+"imageUrl": "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["pca", "dimensionality-reduction"]
+},
+{
+"id": "tech_067",
+"question": "What is an advanced computer vision technique that isolates the exact pixel-level masks of individual objects?",
+"options": [
+"Instance Segmentation",
+"Bounding Box Regression",
+"Image Classification",
+"Edge Filtering"
+],
+"correctAnswer": "Instance Segmentation",
+"category": "Artificial Intelligence",
+"difficulty": "medium",
+"explanation": "Instance segmentation tracks and colors every separate entity down to its exact overlapping pixel coordinates.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["computer-vision", "segmentation"]
+},
+{
+"id": "tech_068",
+"question": "What structural building block in Deep Learning uses identity mappings to let gradients skip across processing blocks?",
+"options": [
+"Residual Connection",
+"Recurrent Loop Gateway",
+"Max-Pooling window",
+"Fully Connected dense step"
+],
+"correctAnswer": "Residual Connection",
+"category": "Artificial Intelligence",
+"difficulty": "medium",
+"explanation": "Residual connections (skip connections) mitigate vanishing gradients by allowing direct flow across structural network blocks.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["resnet", "architecture"]
+},
+{
+"id": "tech_069",
+"question": "What specific variant of RNN includes an update gate and a reset gate to control long-term information state memory?",
+"options": [
+"Gated Recurrent Unit (GRU)",
+"Standard Hopfield Node",
+"Transformer Layer Node",
+"Perceptron Vector Cell"
+],
+"correctAnswer": "Gated Recurrent Unit (GRU)",
+"category": "Artificial Intelligence",
+"difficulty": "medium",
+"explanation": "GRU functions as a more efficient, streamlined version of traditional LSTM sequence blocks.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["gru", "rnn"]
+},
+{
+"id": "tech_070",
+"question": "What type of fine-tuning approach freezes base weights and optimizes a minuscule set of newly injected low-rank adapter matrices?",
+"options": [
+"LoRA (Low-Rank Adaptation)",
+"Full Hyper-parameter tuning",
+"Stochastic Weight Averaging",
+"Layer-wise Discriminative Training"
+],
+"correctAnswer": "LoRA (Low-Rank Adaptation)",
+"category": "Artificial Intelligence",
+"difficulty": "medium",
+"explanation": "LoRA tracks factorized rank-decomposition updates, drastically dropping memory resource requirements during model adaptation phases.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["lora", "fine-tuning"]
+},
+{
+"id": "tech_071",
+"question": "Which of these best defines a 'Token' in Large Language Model workflows?",
+"options": [
+"A piece of text (word or sub-word portion) processed as a single unit",
+"An encrypted cryptographic login credential key string",
+"A physical hardware accelerator device module unit",
+"An automated loop condition flag set in source systems"
+],
+"correctAnswer": "A piece of text (word or sub-word portion) processed as a single unit",
+"category": "Artificial Intelligence",
+"difficulty": "medium",
+"explanation": "Tokenization converts text streams into sub-word token sequences before translating them into geometric model vectors.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["tokenization", "llm"]
+},
+{
+"id": "tech_072",
+"question": "What operational design combines external structural vector knowledge engines with LLM text generation dynamically?",
+"options": [
+"Retrieval-Augmented Generation (RAG)",
+"Recurrent Adversarial Processing",
+"Supervised Layer Optimization",
+"Quantized Prompt Execution"
+],
+"correctAnswer": "Retrieval-Augmented Generation (RAG)",
+"category": "Artificial Intelligence",
+"difficulty": "medium",
+"explanation": "RAG interfaces search mechanisms with generative models to look up reliable source data fields prior to generating responses.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["rag", "llm"]
+},
+{
+"id": "tech_073",
+"question": "Which evaluation score uses an overlapping n-gram match ratio method to grade Machine Translation applications?",
+"options": [
+"BLEU Score",
+"F1 Categorization metric",
+"Mean Absolute Loss index",
+"Perplexity factor"
+],
+"correctAnswer": "BLEU Score",
+"category": "Artificial Intelligence",
+"difficulty": "medium",
+"explanation": "The BLEU score grades how close machine outputs match high-quality human reference translations using token n-grams.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["nlp", "metrics"]
+},
+{
+"id": "tech_074",
+"question": "What type of data representation strategy translates words into sparse vectors filled with zeros except for a single entry?",
+"options": [
+"One-Hot Encoding",
+"Latent Space Embedding",
+"Dense Matrix Hashing",
+"PCA Transformation"
+],
+"correctAnswer": "One-Hot Encoding",
+"category": "Artificial Intelligence",
+"difficulty": "medium",
+"explanation": "One-hot formats yield huge sparse matrices lacking cross-word semantic structural connection properties.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["data-science", "encoding"]
+},
+{
+"id": "tech_075",
+"question": "What specialized layer pattern extracts and normalizes hidden statistical profiles using batch means inside neural pipelines?",
+"options": [
+"Batch Normalization",
+"Dropout reduction layer",
+"Softmax distribution block",
+"Residual skip framework"
+],
+"correctAnswer": "Batch Normalization",
+"category": "Artificial Intelligence",
+"difficulty": "medium",
+"explanation": "Batch Norm scales outputs across mini-batches, accelerating model convergence stability significantly.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["deep-learning", "normalization"]
+},
+{
+"id": "tech_076",
+"question": "What metric charts true positive versus false positive classifications over varying output threshold margins?",
+"options": [
+"ROC-AUC Curve",
+"Confusion Precision matrix",
+"L2 regularized loss factor",
+"Mean Squared Cross-Entropy"
+],
+"correctAnswer": "ROC-AUC Curve",
+"category": "Artificial Intelligence",
+"difficulty": "medium",
+"explanation": "The Area Under the Receiver Operating Characteristic (ROC-AUC) assesses binary sorting efficiency traits comprehensively.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["metrics", "roc-auc"]
+},
+{
+"id": "tech_077",
+"question": "What type of data distortion occurs when an algorithmic model starts predicting skewed outcomes due to historical dataset collection biases?",
+"options": [
+"Automation Bias",
+"Selection Bias",
+"Pruning Distortion",
+"Gradient drift"
+],
+"correctAnswer": "Selection Bias",
+"category": "Artificial Intelligence",
+"difficulty": "medium",
+"explanation": "Selection bias occurs when sample datasets fail to accurately represent the population's true distribution proportions.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["ethics", "bias"]
+},
+{
+"id": "tech_078",
+"question": "Which of these models uses multiple independent decision trees voted collectively to render final predictions?",
+"options": [
+"Random Forest",
+"Support Vector Machine",
+"Linear Perceptron",
+"Deep Autoencoder"
+],
+"correctAnswer": "Random Forest",
+"category": "Artificial Intelligence",
+"difficulty": "medium",
+"explanation": "Random Forest is an ensemble learning method that builds multiple decision trees to improve accuracy and control overfitting.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["ensemble-learning", "random-forest"]
+},
+{
+"id": "tech_079",
+"question": "What specific framework methodology uses human preferences feedback to align LLM generation choices?",
+"options": [
+"RLHF (Reinforcement Learning from Human Feedback)",
+"Supervised Target Labeling",
+"Contrastive Language-Image Training",
+"Unsupervised Vector Selection"
+],
+"correctAnswer": "RLHF (Reinforcement Learning from Human Feedback)",
+"category": "Artificial Intelligence",
+"difficulty": "medium",
+"explanation": "RLHF utilizes direct human feedback to optimize reward models, aligning AI responses with safety guidelines.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["rlhf", "alignment"]
+},
+{
+"id": "tech_080",
+"question": "What property measures an LLM's performance efficiency relative to how surprised it is by upcoming token sequences?",
+"options": [
+"Perplexity",
+"BLEU alignment factor",
+"Recall score variance",
+"Latent variance scalar"
+],
+"correctAnswer": "Perplexity",
+"category": "Artificial Intelligence",
+"difficulty": "medium",
+"explanation": "Perplexity measures language model prediction quality. Lower perplexity means the model predicts text accurately.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["llm", "perplexity"]
+},
+{
+"id": "tech_081",
+"question": "What loss function measures the divergence between two probability distributions over the same sample space?",
+"options": [
+"Kullback-Leibler (KL) Divergence",
+"Huber Loss Function",
+"Mean Absolute Error Function",
+"Hinge Loss Multiplier"
+],
+"correctAnswer": "Kullback-Leibler (KL) Divergence",
+"category": "Artificial Intelligence",
+"difficulty": "hard",
+"explanation": "KL divergence quantifies the statistical distance and relative entropy between two probability distributions.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["math", "information-theory"]
+},
+{
+"id": "tech_082",
+"question": "What position embedding mechanism uses complex-valued rotation operations to bake structural order into Transformer systems?",
+"options": [
+"RoPE (Rotary Position Embedding)",
+"Sinusoidal absolute vectors",
+"Learned absolute static matrices",
+"AlBiBi relative distance scalar"
+],
+"correctAnswer": "RoPE (Rotary Position Embedding)",
+"category": "Artificial Intelligence",
+"difficulty": "hard",
+"explanation": "RoPE applies a rotation matrix to query and key vectors, incorporating relative position data in self-attention fields.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["transformers", "rope"]
+},
+{
+"id": "tech_083",
+"question": "In diffusion generative architectures, what mathematical process reverses forward Gaussian noise steps to construct clear data patterns?",
+"options": [
+"Denoising Score Matching",
+"Latent Vector Bottleneck scaling",
+"Adversarial Discriminator filter",
+"Orthogonal Principal projection"
+],
+"correctAnswer": "Denoising Score Matching",
+"category": "Artificial Intelligence",
+"difficulty": "hard",
+"explanation": "Diffusion systems utilize neural networks to parameterize score-matching fields, removing step-by-step Gaussian mutations.",
+"imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["diffusion-models", "generative-ai"]
+},
+{
+"id": "tech_084",
+"question": "What technique drastically drops IO bottlenecks by restructuring GPU kernel operations inside modern multi-head attention systems?",
+"options": [
+"FlashAttention",
+"DeepSpeed Quantization",
+"Model Parallelism scaling",
+"TensorRT layer fusion"
+],
+"correctAnswer": "FlashAttention",
+"category": "Artificial Intelligence",
+"difficulty": "hard",
+"explanation": "FlashAttention avoids slow high-bandwidth memory transfers by tiling attention matrices inside fast SRAM cache blocks.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["hardware", "flash-attention"]
+},
+{
+"id": "tech_085",
+"question": "What algorithmic method handles scaling limits by routing token subsets to specialized sub-networks dynamically?",
+"options": [
+"Mixture of Experts (MoE)",
+"Dense Transformer Layering",
+"Asymmetric Pipeline Parallelism",
+"Knowledge Distillation Pipeline"
+],
+"correctAnswer": "Mixture of Experts (MoE)",
+"category": "Artificial Intelligence",
+"difficulty": "hard",
+"explanation": "MoE utilizes gating networks to activate individual expert layers per token, keeping processing costs low.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["moe", "architecture"]
+},
+{
+"id": "tech_086",
+"question": "What mathematical issue occurs when optimizing deep networks where activation vectors grow towards infinite values?",
+"options": [
+"Exploding Gradient Problem",
+"Vanishing Vector Condition",
+"Dying ReLU terminal phase",
+"Asymmetric local extrema loop"
+],
+"correctAnswer": "Exploding Gradient Problem",
+"category": "Artificial Intelligence",
+"difficulty": "hard",
+"explanation": "Exploding gradients involve matrix multiplications accumulating massive derivatives, causing weight updates to fluctuate uncontrollably.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["math", "deep-learning"]
+},
+{
+"id": "tech_087",
+"question": "Which of these represents a foundational theorem describing deep neural networks as universal function approximators?",
+"options": [
+"Universal Approximation Theorem",
+"Central Limit Theorem",
+"Nyquist-Shannon Sampling Theorem",
+"Bellman Optimality Principle"
+],
+"correctAnswer": "Universal Approximation Theorem",
+"category": "Artificial Intelligence",
+"difficulty": "hard",
+"explanation": "The theorem proves that a single feedforward hidden layer can approximate continuous functions given sufficient hidden neurons.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["theory", "math"]
+},
+{
+"id": "tech_088",
+"question": "What specific alignment method optimizes preference mappings directly without requiring an intermediate reward model?",
+"options": [
+"DPO (Direct Preference Optimization)",
+"PPO (Proximal Policy Optimization)",
+"TRPO (Trust Region Policy)",
+"A3C (Asymmetric Actor Critic)"
+],
+"correctAnswer": "DPO (Direct Preference Optimization)",
+"category": "Artificial Intelligence",
+"difficulty": "hard",
+"explanation": "DPO derives a closed-form substitution showing that language models can act as their own reward models, simplifying preference fine-tuning.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["alignment", "dpo"]
+},
+{
+"id": "tech_089",
+"question": "What mechanism stabilizes Variational Autoencoders (VAEs) by re-routing stochastic sampling via deterministic paths?",
+"options": [
+"Reparameterization Trick",
+"Batch Normalization Loop",
+"Orthogonal Vector Projection",
+"Softmax Temperature scaling"
+],
+"correctAnswer": "Reparameterization Trick",
+"category": "Artificial Intelligence",
+"difficulty": "hard",
+"explanation": "The reparameterization trick isolates random noise variables, enabling standard gradient backpropagation through stochastic latent nodes.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["vae", "math"]
+},
+{
+"id": "tech_090",
+"question": "What regularization methodology applies penalty weights directly proportional to the square of vector magnitudes?",
+"options": [
+"L2 Regularization (Ridge)",
+"L1 Regularization (Lasso)",
+"Elastic Net combination",
+"Dropout coefficient filtering"
+],
+"correctAnswer": "L2 Regularization (Ridge)",
+"category": "Artificial Intelligence",
+"difficulty": "hard",
+"explanation": "L2 penalties introduce squared magnitude constraints to keep internal parameter distributions balanced.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["regularization", "math"]
+},
+{
+"id": "tech_091",
+"question": "Which component manages trade-offs between exact trajectory exploitation and broader environment exploration in Reinforcement Learning?",
+"options": [
+"Exploration-Exploitation Dilemma",
+"Markov Reward Transition Matrix",
+"Bellman Temporal Horizon value",
+"Policy Gradient convergence index"
+],
+"correctAnswer": "Exploration-Exploitation Dilemma",
+"category": "Artificial Intelligence",
+"difficulty": "hard",
+"explanation": "Agents must balance maximizing known state rewards (exploitation) with discovering unknown pathways (exploration).",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["reinforcement-learning"]
+},
+{
+"id": "tech_092",
+"question": "What architectural configuration scales multi-head attention linearly by replacing key-value heads with a single instance?",
+"options": [
+"MQA (Multi-Query Attention)",
+"GQA (Grouped-Query Attention)",
+"Swin Window Attention block",
+"Sparse Axial Attention array"
+],
+"correctAnswer": "MQA (Multi-Query Attention)",
+"category": "Artificial Intelligence",
+"difficulty": "hard",
+"explanation": "Multi-Query Attention shares a single key-value head across query heads, reducing KV cache overhead during decoding stages.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["transformers", "optimization"]
+},
+{
+"id": "tech_093",
+"question": "What complex mathematical challenge describes the rapid decay of mutual information in deep architectures as layers expand?",
+"options": [
+"Information Bottleneck Principle",
+"Curse of Dimensionality",
+"No Free Lunch Theorem",
+"Spectral Bias Theorem"
+],
+"correctAnswer": "Information Bottleneck Principle",
+"category": "Artificial Intelligence",
+"difficulty": "hard",
+"explanation": "The information bottleneck principle describes how deep layers balance data compression with task predictive accuracy.",
+"imageUrl": "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["theory", "information-theory"]
+},
+{
+"id": "tech_094",
+"question": "What theorem states that no single machine learning algorithm outperforms all others when averaged across all possible problem domains?",
+"options": [
+"No Free Lunch Theorem",
+"Universal Function Theorem",
+"Central Bias Optimality",
+"Asymmetric Variance Bound"
+],
+"correctAnswer": "No Free Lunch Theorem",
+"category": "Artificial Intelligence",
+"difficulty": "hard",
+"explanation": "The No Free Lunch Theorem proves that all optimization strategies show equivalent average performance across all possible problem spaces.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["theory", "algorithms"]
+},
+{
+"id": "tech_095",
+"question": "What process modifies data profiles geometric distribution properties to handle structural multi-collinearity errors?",
+"options": [
+"Whitening (ZCA Transformation)",
+"Standard Scaling (Z-Score)",
+"Min-Max Normalization matrix",
+"One-Hot transformation array"
+],
+"correctAnswer": "Whitening (ZCA Transformation)",
+"category": "Artificial Intelligence",
+"difficulty": "hard",
+"explanation": "Whitening decorrelates input vectors, ensuring the identity matrix matches the covariance matrix properties.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["preprocessing", "math"]
+},
+{
+"id": "tech_096",
+"question": "What paradigm structures reinforcement tasks where transitions depend entirely on the present state status?",
+"options": [
+"Markov Decision Process (MDP)",
+"Bellman Optimality Tree",
+"Temporal Difference matrix",
+"Monte Carlo sequence chain"
+],
+"correctAnswer": "Markov Decision Process (MDP)",
+"category": "Artificial Intelligence",
+"difficulty": "hard",
+"explanation": "An MDP satisfies the Markov property if future state distributions depend solely on the current state and action.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["mdp", "math"]
+},
+{
+"id": "tech_097",
+"question": "What foundational algorithm tracks multi-class gradient weights updates efficiently using running square roots averages?",
+"options": [
+"Adam Optimizer",
+"Stochastic Gradient Descent",
+"Nesterov Accelerated Descent",
+"Levenberg-Marquardt optimizer"
+],
+"correctAnswer": "Adam Optimizer",
+"category": "Artificial Intelligence",
+"difficulty": "hard",
+"explanation": "Adam computes adaptive learning rates for each parameter, incorporating first and second momentum tracking vectors.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["optimization", "adam"]
+},
+{
+"id": "tech_098",
+"question": "What mathematical function assesses the training loss discrepancies between real joint data arrays and factorized approximations?",
+"options": [
+"Evidence Lower Bound (ELBO)",
+"Mean Absolute Error Function",
+"Contrastive Loss Function",
+"Cross-Entropy Loss Multiplier"
+],
+"correctAnswer": "Evidence Lower Bound (ELBO)",
+"category": "Artificial Intelligence",
+"difficulty": "hard",
+"explanation": "ELBO serves as the primary objective function optimized within Variational Autoencoders to bound data log-likelihood.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["vae", "math"]
+},
+{
+"id": "tech_099",
+"question": "What type of optimization variant samples partial gradient vectors from small sub-portions of data iteratively?",
+"options": [
+"Mini-batch Gradient Descent",
+"Full Batch Gradient Descent",
+"Stochastic Coordinate Descent",
+"Newton-Raphson approximation step"
+],
+"correctAnswer": "Mini-batch Gradient Descent",
+"category": "Artificial Intelligence",
+"difficulty": "hard",
+"explanation": "Mini-batch optimization updates network parameter updates using balanced data shards, preserving speed and generalization properties.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["optimization", "training"]
+},
+{
+"id": "tech_100",
+"question": "What structural design allows a Transformer model to dynamically adjust key-value sequence sizes dynamically across groups?",
+"options": [
+"GQA (Grouped-Query Attention)",
+"MHA (Multi-Head Attention)",
+"MQA (Multi-Query Attention)",
+"FlashAttention kernel layout"
+],
+"correctAnswer": "GQA (Grouped-Query Attention)",
+"category": "Artificial Intelligence",
+"difficulty": "hard",
+"explanation": "GQA groups query heads into subsets that share single key and value heads, offering a balance between speed and capacity.",
+"imageUrl": "https://images.unsplash.com/photo-1639322537228-f710d846310a?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["transformers", "architecture"]
+},
+{
+"id": "tech_101",
+"question": "What is the primary objective of computer vision models that perform 'Object Detection'?",
+"options": [
+"To identify what objects are present and locate them with bounding boxes",
+"To convert spoken words into digital text files",
+"To predict stock market trends over fiscal quarters",
+"To clean blurred noise artifacts completely from images"
+],
+"correctAnswer": "To identify what objects are present and locate them with bounding boxes",
+"category": "Artificial Intelligence",
+"difficulty": "easy",
+"explanation": "Object detection goes a step beyond classification by identifying objects and drawing rectangular bounding boxes around them.",
+"imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["computer-vision", "basics"]
+},
+{
+"id": "tech_102",
+"question": "Which of the following describes the core functionality of machine learning 'Regression' models?",
+"options": [
+"Predicting continuous numerical outcomes",
+"Categorizing text into spam or not spam",
+"Grouping similar images into clusters",
+"Translating English sentences into French"
+],
+"correctAnswer": "Predicting continuous numerical outcomes",
+"category": "Artificial Intelligence",
+"difficulty": "easy",
+"explanation": "Regression models are designed to predict a continuous numeric value, such as estimating a house price or temperature.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["machine-learning", "regression"]
+},
+{
+"id": "tech_103",
+"question": "What common machine learning approach does a streaming service use to suggest movies based on your viewing history?",
+"options": [
+"Recommendation Engine",
+"Anomaly Detector",
+"Image Segmentation",
+"Speech Synthesizer"
+],
+"correctAnswer": "Recommendation Engine",
+"category": "Artificial Intelligence",
+"difficulty": "easy",
+"explanation": "Recommendation engines analyze user preferences and historical behavior data to predict and suggest relevant content.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["applications", "recommender"]
+},
+{
+"id": "tech_104",
+"question": "What basic unit makes up an artificial neural network, mimicking human brain cells?",
+"options": [
+"Artificial Neuron (Perceptron)",
+"Logic Gate Switch",
+"Binary Transistor",
+"Pixel Sensor Element"
+],
+"correctAnswer": "Artificial Neuron (Perceptron)",
+"category": "Artificial Intelligence",
+"difficulty": "easy",
+"explanation": "Artificial neurons or nodes are the fundamental building blocks of neural networks, passing signals to successive layers.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["neural-networks", "basics"]
+},
+{
+"id": "tech_105",
+"question": "Which company developed the open-source deep learning framework named PyTorch?",
+"options": [
+"Meta (Facebook)",
+"Google",
+"Microsoft",
+"OpenAI"
+],
+"correctAnswer": "Meta (Facebook)",
+"category": "Artificial Intelligence",
+"difficulty": "easy",
+"explanation": "PyTorch was primarily developed by Meta's AI Research lab (FAIR) and has become highly popular in academia and production.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["frameworks", "pytorch"]
+},
+{
+"id": "tech_106",
+"question": "What is the primary role of an 'Epoch' in machine learning training context?",
+"options": [
+"One full pass of the entire training dataset through the network",
+"The processing speed measured in floating-point operations",
+"The extraction phase of data from online web scraping systems",
+"The specific timestamp when a model was officially deployed"
+],
+"correctAnswer": "One full pass of the entire training dataset through the network",
+"category": "Artificial Intelligence",
+"difficulty": "easy",
+"explanation": "An epoch terminates when the machine learning algorithm has seen every single example in the training dataset once.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["training", "terminology"]
+},
+{
+"id": "tech_107",
+"question": "What terminology defines text formatting instructions used to communicate with an LLM?",
+"options": [
+"Prompt",
+"Source Code",
+"Hyperlink",
+"Database Query"
+],
+"correctAnswer": "Prompt",
+"category": "Artificial Intelligence",
+"difficulty": "easy",
+"explanation": "Prompts provide the fundamental context, inputs, and constraints that guide generative AI engines toward useful outputs.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["prompt-engineering"]
+},
+{
+"id": "tech_108",
+"question": "Which of these is a popular application of Natural Language Processing in smartphones?",
+"options": [
+"Predictive text and auto-correct typing tools",
+"Battery thermal management software",
+"Camera optical image stabilization systems",
+"Flash storage file system defragmentation"
+],
+"correctAnswer": "Predictive text and auto-correct typing tools",
+"category": "Artificial Intelligence",
+"difficulty": "easy",
+"explanation": "Predictive text keyboards use language models to anticipate the next most likely token or word a user will type.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["nlp", "applications"]
+},
+{
+"id": "tech_109",
+"question": "What category of AI capability describes chess programs like Deep Blue?",
+"options": [
+"Narrow AI",
+"General AI",
+"Super AI",
+"Strong AI"
+],
+"correctAnswer": "Narrow AI",
+"category": "Artificial Intelligence",
+"difficulty": "easy",
+"explanation": "Even though Deep Blue defeated a world chess champion, it is Narrow AI because it cannot perform any task outside chess.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["types", "history"]
+},
+{
+"id": "tech_110",
+"question": "What is the purpose of image data augmentation in deep learning setups?",
+"options": [
+"To expand dataset sizes by modifying existing images randomly",
+"To make images look sharper on ultra-high-resolution monitors",
+"To instantly clear corrupt background files automatically",
+"To transfer files faster over weak networking setups"
+],
+"correctAnswer": "To expand dataset sizes by modifying existing images randomly",
+"category": "Artificial Intelligence",
+"difficulty": "easy",
+"explanation": "Augmentation techniques like cropping, flipping, and rotating help prevent overfitting by fabricating diverse training samples.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["data-preprocessing", "images"]
+},
+{
+"id": "tech_111",
+"question": "What does a 'Loss Function' evaluate in machine learning models?",
+"options": [
+"The mathematical error margin between predicted and true answers",
+"The electric power consumption of data center hardware servers",
+"The speed decrease over long processing schedules",
+"The volume of missing attributes across input database forms"
+],
+"correctAnswer": "The mathematical error margin between predicted and true answers",
+"category": "Artificial Intelligence",
+"difficulty": "easy",
+"explanation": "Loss functions measure how poorly a model performs; the lower the loss value, the closer predictions are to actual reality targets.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["basics", "training"]
+},
+{
+"id": "tech_112",
+"question": "In the context of generative AI, what does 'Sora' by OpenAI specialize in creating?",
+"options": [
+"High-fidelity digital video clips from text descriptions",
+"Source code files for web applications",
+"Musical instrumental symphonies",
+"Relational database management tables"
+],
+"correctAnswer": "High-fidelity digital video clips from text descriptions",
+"category": "Artificial Intelligence",
+"difficulty": "easy",
+"explanation": "Sora is OpenAI's text-to-video generative AI model capable of producing realistic and imaginative scenes from prompt instructions.",
+"imageUrl": "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["video-generation", "openai"]
+},
+{
+"id": "tech_113",
+"question": "Which prominent AI researcher co-founded OpenAI and later launched an AI company named xAI?",
+"options": [
+"Elon Musk",
+"Sam Altman",
+"Yann LeCun",
+"Demis Hassabis"
+],
+"correctAnswer": "Elon Musk",
+"category": "Artificial Intelligence",
+"difficulty": "easy",
+"explanation": "Elon Musk was an early co-founder and financial backer of OpenAI before later creating xAI to build Grok.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["history", "biography"]
+},
+{
+"id": "tech_114",
+"question": "What feature allows AI computer systems to translate speech instantly from one language into another audio voice stream?",
+"options": [
+"Speech-to-Speech Translation",
+"Optical Character Recognition",
+"Data Warehouse Extraction",
+"Structured Query Parsing"
+],
+"correctAnswer": "Speech-to-Speech Translation",
+"category": "Artificial Intelligence",
+"difficulty": "easy",
+"explanation": "Speech-to-speech pipelines connect automatic speech recognition, machine translation, and text-to-speech synthesis directly.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["speech", "translation"]
+},
+{
+"id": "tech_115",
+"question": "What parameter typically regulates the creativity or randomness of text answers inside LLMs?",
+"options": [
+"Temperature",
+"Layer Count",
+"Learning Rate",
+"Batch Size"
+],
+"correctAnswer": "Temperature",
+"category": "Artificial Intelligence",
+"difficulty": "easy",
+"explanation": "A lower temperature creates predictable and deterministic text, while higher values allow for more varied and creative wording outputs.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["llm", "hyperparameters"]
+},
+{
+"id": "tech_116",
+"question": "What is the primary function of a vector database in modern AI architectures?",
+"options": [
+"To store and search high-dimensional mathematical embeddings efficiently",
+"To compile raw Python files into desktop application executable formats",
+"To coordinate clock speeds between multiple processing GPU setups",
+"To host public open-source project revision code repositories"
+],
+"correctAnswer": "To store and search high-dimensional mathematical embeddings efficiently",
+"category": "Artificial Intelligence",
+"difficulty": "easy",
+"explanation": "Vector databases are optimized to store numerical vectors and perform fast semantic similarity searches using algorithms like KNN.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["vector-database", "infrastructure"]
+},
+{
+"id": "tech_117",
+"question": "What does 'MLOps' refer to in enterprise artificial intelligence projects?",
+"options": [
+"The operational practices for deploying and maintaining machine learning models",
+"The legal framework governing worldwide intellectual data property rights",
+"The manual labeling process of raw images by outsourcing firms",
+"The chemical processing required to manufacture microprocessing chips"
+],
+"correctAnswer": "The operational practices for deploying and maintaining machine learning models",
+"category": "Artificial Intelligence",
+"difficulty": "easy",
+"explanation": "MLOps focuses on scaling, automating, and monitoring machine learning models systematically within commercial production environments.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["mlops", "deployment"]
+},
+{
+"id": "tech_118",
+"question": "What type of device form factor describes specialized hardware like the Rabbit R1 or Humane AI Pin?",
+"options": [
+"AI Gadgets / Wearables",
+"Quantum Mainframe Units",
+"Desktop Server Towers",
+"Virtual Reality Headsets"
+],
+"correctAnswer": "AI Gadgets / Wearables",
+"category": "Artificial Intelligence",
+"difficulty": "easy",
+"explanation": "These are dedicated consumer hardware devices designed around natural language interfaces and AI agent actions instead of typical apps.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["hardware", "gadgets"]
+},
+{
+"id": "tech_119",
+"question": "What name is given to an AI system that is built to act autonomously on behalf of a user to accomplish multi-step digital goals?",
+"options": [
+"AI Agent",
+"Static Compiler",
+"Database Indexer",
+"Network Router"
+],
+"correctAnswer": "AI Agent",
+"category": "Artificial Intelligence",
+"difficulty": "easy",
+"explanation": "AI agents can reason, plan, use tools, and interact with software systems autonomously to achieve complex objectives without constant prompt updates.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["ai-agents", "concepts"]
+},
+{
+"id": "tech_120",
+"question": "What basic technique helps prevent an LLM from losing context when conversational text streams grow too long?",
+"options": [
+"Context Window Management",
+"Increasing the cooling fans",
+"Re-installing deep framework codes",
+"Deleting random numbers from arrays"
+],
+"correctAnswer": "Context Window Management",
+"category": "Artificial Intelligence",
+"difficulty": "easy",
+"explanation": "Context window limits dictate the maximum token payload size a model can digest and reference at any single moment.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["llm", "basics"]
+},
+{
+"id": "tech_121",
+"question": "What machine learning paradigm optimizes policies by introducing a 'Discount Factor' ($\\gamma$) for future scenario rewards?",
+"options": [
+"Reinforcement Learning",
+"Supervised Classification",    
+"Hierarchical Clustering",
+"Principal Feature Selection"
+],
+"correctAnswer": "Reinforcement Learning",
+"category": "Artificial Intelligence",
+"difficulty": "medium",
+"explanation": "The discount factor determines the current value of future rewards. A value closer to 0 makes the agent shortsighted, prioritizing immediate gains.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["reinforcement-learning", "math"]
+},
+{
+"id": "tech_122",
+"question": "What problem occurs during image generation when diffusion architectures add text strings that contain garbled characters or extra fingers on hands?",
+"options": [
+"Anatomy and Spatial Incoherence",
+"Vanishing matrix dimensions",
+"One-hot feature displacement",
+"Token encoding collisions"
+],
+"correctAnswer": "Anatomy and Spatial Incoherence",
+"category": "Artificial Intelligence",
+"difficulty": "medium",
+"explanation": "Generative models can struggle with fine-grained spatial and structural patterns, like complex human extremities or spelling precise text glyphs.",
+"imageUrl": "https://images.unsplash.com/photo-1614741118887-7a4ee193a5fa?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["generative-ai", "diffusion-models"]
+},
+{
+"id": "tech_123",
+"question": "In evaluation metrics, how does 'Recall' fundamentally differ from 'Precision'?",
+"options": [
+"Recall measures true positives out of all actual real positives available",
+"Recall measures false positives out of all predicted labels",
+"Recall only tracks continuous regression value parameters",
+"Recall estimates server execution times over hardware networks"
+],
+"correctAnswer": "Recall measures true positives out of all actual real positives available",
+"category": "Artificial Intelligence",
+"difficulty": "medium",
+"explanation": "Recall (Sensitivity) is calculated as TP / (TP + FN). It gauges the model's ability to find all the positive cases within a dataset.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["metrics", "classification"]
+},
+{
+"id": "tech_124",
+"question": "What design strategy describes modern multimodal models like GPT-4o or Gemini 1.5 Pro?",
+"options": [
+"Native integration of audio, vision, and text tokens inside a single model",
+"Chaining completely separate models together through basic web APIs",
+"Converting all image files into raw base64 ASCII characters first",
+"Running data operations sequentially across CPU motherboards only"
+],
+"correctAnswer": "Native integration of audio, vision, and text tokens inside a single model",
+"category": "Artificial Intelligence",
+"difficulty": "medium",
+"explanation": "Native multimodal architectures utilize unified token tokenizers, allowing single networks to digest sound, pixels, and strings concurrently.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["multimodal", "architecture"]
+},
+{
+"id": "tech_125",
+"question": "What structural problem in deep neural networks does the Leaky ReLU activation function aim to fix?",
+"options": [
+"Dying ReLU problem where nodes get permanently deactivated",
+"Exploding matrix parameters in shallow structures",
+"High storage footprint constraints of networks",
+"Slow initial data partitioning across server nodes"
+],
+"correctAnswer": "Dying ReLU problem where nodes get permanently deactivated",
+"category": "Artificial Intelligence",
+"difficulty": "medium",
+"explanation": "Standard ReLU sets negative inputs to zero, freezing gradient paths. Leaky ReLU maintains a minuscule positive slope ($\\alpha = 0.01$) for negative inputs.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["activation-functions", "neural-networks"]
+},
+{
+"id": "tech_126",
+"question": "What is the primary operational mechanism used within Vector Databases to locate similar embeddings quickly?",
+"options": [
+"Approximate Nearest Neighbor (ANN) search algorithms",
+"Standard SQL relational indexing sequences",
+"Simple alphabetic regex string sorting patterns",
+"Linear scanning across entire hard drive disks sequentially"
+],
+"correctAnswer": "Approximate Nearest Neighbor (ANN) search algorithms",
+"category": "Artificial Intelligence",
+"difficulty": "medium",
+"explanation": "ANN searching scales efficiently by sacrificing perfect recall accuracy to discover near matches across massive semantic vectors rapidly.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["vector-database", "search"]
+},
+{
+"id": "tech_127",
+"question": "Which of these methodologies constitutes an ensemble machine learning strategy based on boosting parameters?",
+"options": [
+"XGBoost",
+"Random Forest",
+"K-Nearest Neighbors",
+"Support Vector Machine"
+],
+"correctAnswer": "XGBoost",
+"category": "Artificial Intelligence",
+"difficulty": "medium",
+"explanation": "XGBoost is an advanced implementation of gradient boosted decision trees, designed explicitly for high computational speed and accuracy.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["ensemble-learning", "xgboost"]
+},
+{
+"id": "tech_128",
+"question": "What does a 'Confusion Matrix' depict when evaluating a categorization model?",
+"options": [
+"A table showing True Positives, False Positives, True Negatives, and False Negatives",
+"The exact timeline schedule of high-dimensional grid operations",
+"A breakdown of broken missing feature values in arrays",
+"The hardware performance degradation curves across multiple GPUs"
+],
+"correctAnswer": "A table showing True Positives, False Positives, True Negatives, and False Negatives",
+"category": "Artificial Intelligence",
+"difficulty": "medium",
+"explanation": "A confusion matrix provides a granular view of classification performance by contrasting observed real targets against model predictions.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["metrics", "validation"]
+},
+{
+"id": "tech_129",
+"question": "What is the primary role of 'Fine-Tuning' when adapting large foundational models?",
+"options": [
+"Updating a pre-trained model's existing weights using a specific domain dataset",
+"Scraping the internet to gather initial pre-training text repositories",
+"Downscaling model parameters down onto hardware chips through code execution",
+"Encrypting public prompt lines before routing them across secure APIs"
+],
+"correctAnswer": "Updating a pre-trained model's existing weights using a specific domain dataset",
+"category": "Artificial Intelligence",
+"difficulty": "medium",
+"explanation": "Fine-tuning builds upon the foundational capabilities of a pre-trained model, slightly altering its weights to specialize in distinct enterprise tasks.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["training", "fine-tuning"]
+},
+{
+"id": "tech_130",
+"question": "Which distance metric calculates the inner product of two vectors normalized to length 1 to determine semantic similarity?",
+"options": [
+"Cosine Similarity",
+"Euclidean Distance",
+"Manhattan Distance",
+"Minkowski Metric"
+],
+"correctAnswer": "Cosine Similarity",
+"category": "Artificial Intelligence",
+"difficulty": "medium",
+"explanation": "Cosine similarity measures the angle cosine between two multi-dimensional coordinates, ignoring scale and focusing purely on vector orientation paths.",
+"imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["math", "embeddings"]
+},
+{
+"id": "tech_131",
+"question": "What specific terminology describes the structural data problem caused by adding too many sparse independent variables into basic distance models?",
+"options": [
+"Curse of Dimensionality",
+"Information Bottleneck",
+"Overfitting Factor",
+"Multi-collinearity Fault"
+],
+"correctAnswer": "Curse of Dimensionality",
+"category": "Artificial Intelligence",
+"difficulty": "medium",
+"explanation": "As dimensions grow, data points become sparse and distance metrics lose meaning, causing algorithms to struggle with pattern isolation.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["data-science", "concepts"]
+},
+{
+"id": "tech_132",
+"question": "What kind of machine learning architecture uses explicit feedback tags to score image translations directly?",
+"options": [
+"Supervised Learning",
+"Unsupervised Learning",
+"Reinforcement Engine",
+"Self-supervised Training"
+],
+"correctAnswer": "Supervised Learning",
+"category": "Artificial Intelligence",
+"difficulty": "medium",
+"explanation": "Supervised learning algorithms infer patterns by optimizing predictions against explicit target label annotations provided in datasets.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["basics", "supervised-learning"]
+},
+{
+"id": "tech_133",
+"question": "What does 'RAG' stand for in contemporary generative artificial intelligence infrastructure architecture blueprints?",
+"options": [
+"Retrieval-Augmented Generation",
+"Recurrent Adversarial Graph",
+"Randomized Attribute Gradient",
+"Residual Attention Gateway"
+],
+"correctAnswer": "Retrieval-Augmented Generation",
+"category": "Artificial Intelligence",
+"difficulty": "medium",
+"explanation": "Retrieval-Augmented Generation enhances LLM outputs by querying trusted external vector documents to supply up-to-date facts.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["rag", "llm"]
+},
+{
+"id": "tech_134",
+"question": "What does a 'Max Pooling' layer achieve inside conventional Convolutional Neural Network architectures?",
+"options": [
+"Reduces structural dimensions by selecting the peak values from feature sub-windows",
+"Flattens all parameters directly into single strings format arrays",
+"Randomly deletes model structural pathways during testing routines",
+"Adjusts step rates automatically during optimization loop runs"
+],
+"correctAnswer": "Reduces structural dimensions by selecting the peak values from feature sub-windows",
+"category": "Artificial Intelligence",
+"difficulty": "medium",
+"explanation": "Max pooling scales down the spatial footprint of feature maps, preserving key activations while lowering computational costs.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["cnn", "deep-learning"]
+},
+{
+"id": "tech_135",
+"question": "What specific operational bottleneck limits the sequence tracking efficiency of classic Recurrent Neural Networks?",
+"options": [
+"Sequential execution requirements that prevent parallel processing during training",
+"Inability to handle floating vector conversions completely",
+"Lack of activation parameters across deep structural layers",
+"High storage footprint weights that clip execution speeds"
+],
+"correctAnswer": "Sequential execution requirements that prevent parallel processing during training",
+"category": "Artificial Intelligence",
+"difficulty": "medium",
+"explanation": "RNNs process tokens one by one because each step depends on the prior state, making them harder to scale across GPUs than Transformers.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["rnn", "architecture"]
+},
+{
+"id": "tech_136",
+"question": "What advanced regularizing methodology drops connecting pathways randomly during training phases to isolate features independently?",
+"options": [
+"Dropout",
+"Pruning",
+"Quantization",
+"Batch Normalization"
+],
+"correctAnswer": "Dropout",
+"category": "Artificial Intelligence",
+"difficulty": "medium",
+"explanation": "Dropout prevents co-adaptation of features by randomly turning off a subset of neurons at each training iteration step.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["regularization", "training"]
+},
+{
+"id": "tech_137",
+"question": "What primary problem does an enterprise aim to mitigate when setting up systematic red-teaming audits for deployed LLMs?",
+"options": [
+"Prompt injection vulnerability and dangerous safety jailbreaks",
+"High database infrastructure billing from network nodes",
+"Slow API execution response latency anomalies",
+"Storage compression errors during asset archive phases"
+],
+"correctAnswer": "Prompt injection vulnerability and dangerous safety jailbreaks",
+"category": "Artificial Intelligence",
+"difficulty": "medium",
+"explanation": "AI Red Teaming adversarial groups deliberately stress-test models to uncover security holes, biases, or jailbreak loops before shipping.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["security", "llm"]
+},
+{
+"id": "tech_138",
+"question": "Which optimization strategy implements a localized safety margin boundary technique inside reinforcement system tuning engines?",
+"options": [
+"Proximal Policy Optimization (PPO)",
+"Standard Q-Learning Tables",
+"Deep Q-Networks Framework",
+"Monte Carlo Search Paths"
+],
+"correctAnswer": "Proximal Policy Optimization (PPO)",
+"category": "Artificial Intelligence",
+"difficulty": "medium",
+"explanation": "PPO uses a clipped objective function to keep policy updates within a stable range, preventing sudden drops in training performance.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["reinforcement-learning", "ppo"]
+},
+{
+"id": "tech_139",
+"question": "What specific compression framework allows high-quality foundation models to function natively on edge devices without massive quality dropouts?",
+"options": [
+"4-bit or 8-bit Model Quantization",
+"Converting script structures to raw JSON files",
+"Full network retraining loops from scratch",
+"Disabling all internal multi-head attention systems"
+],
+"correctAnswer": "4-bit or 8-bit Model Quantization",
+"category": "Artificial Intelligence",
+"difficulty": "medium",
+"explanation": "Quantization lowers numerical precision requirements (e.g., FP16 down to INT4), drastically reducing model weight memory sizes for local execution.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["quantization", "edge-computing"]
+},
+{
+"id": "tech_140",
+"question": "Which of the following describes the purpose of 'Few-Shot Prompting' when using language models?",
+"options": [
+"Providing a few concrete input-output examples inside the prompt text context",
+"Updating millions of core parameter weights using high-speed cloud networks",
+"Running the inference engine multiple times sequentially to average out text logs",
+"Compressing the token tracking sequence length down to tiny dimensions"
+],
+"correctAnswer": "Providing a few concrete input-output examples inside the prompt text context",
+"category": "Artificial Intelligence",
+"difficulty": "medium",
+"explanation": "Few-shot prompting shows the model explicit target pattern demonstrations within the context window to guide its formatting and output behavior.",
+"imageUrl": "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["prompt-engineering", "llm"]
+},
+{
+"id": "tech_141",
+"question": "What is the primary function of the 'Self-Attention' mechanism in Transformer models?",
+"options": [
+"To calculate mathematical relevance weights between every token pair in a sequence concurrently",
+"To randomly drop early deep framework layer nodes during gradient backpropagation workflows",
+"To convert raw continuous color images straight into one-hot binary matrix indices",
+"To restrict network processing thread allocations strictly across selected local GPUs"
+],
+"correctAnswer": "To calculate mathematical relevance weights between every token pair in a sequence concurrently",
+"category": "Artificial Intelligence",
+"difficulty": "hard",
+"explanation": "Self-attention constructs scaled dot-product attention maps across query, key, and value vectors to map contextual links regardless of token distance.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["transformers", "attention-mechanism"]
+},
+{
+  "id": "tech_142",
+  "question": "In information theory, which mathematical formula precisely defines the discrete Kullback-Leibler (KL) Divergence of distribution $Q$ from distribution $P$?",
+  "options": [
+    "$D_{KL}(P \\\\parallel Q) = \\\\sum_{x} P(x) \\\\log \\\\left(\\\\frac{P(x)}{Q(x)}\\\\right)$",
+    "$D_{KL}(P \\\\parallel Q) = \\\\sum_{x} Q(x) \\\\log \\\\left(\\\\frac{Q(x)}{P(x)}\\\\right)$",
+    "$D_{KL}(P \\\\parallel Q) = \\\\sqrt{\\\\sum_{x} (P(x) - Q(x))^2}$",
+    "$D_{KL}(P \\\\parallel Q) = \\\\sum_{x} |P(x) - Q(x)|$"
+  ],
+  "correctAnswer": "$D_{KL}(P \\\\parallel Q) = \\\\sum_{x} P(x) \\\\log \\\\left(\\\\frac{P(x)}{Q(x)}\\\\right)$",
+  "category": "Artificial Intelligence",
+  "difficulty": "hard",
+  "explanation": "Kullback-Leibler (KL) Divergence quantifies the asymmetric difference between two probability distributions. For discrete distributions, it calculates the expected information loss when using an approximating distribution $Q$ instead of the true target distribution $P$.",
+  "imageUrl": null,
+  "createdBy": "system",
+  "createdAt": "2026-01-01T00:00:00.000Z",
+  "updatedAt": "2026-01-01T00:00:00.000Z",
+  "isUserGenerated": false,
+  "tags": ["math", "information-theory", "machine-learning"]
+},
+{
+"id": "tech_143",
+"question": "What algorithmic innovation underpins 'FlashAttention' to achieve massive speedups in processing long context windows?",
+"options": [
+"Tiling attention matrix operations through fast GPU SRAM blocks to minimize slow HBM transfers",
+"Pruning down the model's structural parameters permanently using knowledge distillation",
+"Converting full floating-point coordinate matrices into highly compressed 1-bit integer files",
+"Splitting attention sequence queues evenly across distinct CPU asynchronous processes"
+],
+"correctAnswer": "Tiling attention matrix operations through fast GPU SRAM blocks to minimize slow HBM transfers",
+"category": "Artificial Intelligence",
+"difficulty": "hard",
+"explanation": "FlashAttention leverages hardware-aware memory design, computing exact attention tracking incrementally without saving massive $O(N^2)$ intermediate maps to high-bandwidth memory.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["hardware-optimization", "flash-attention"]
+},
+{
+"id": "tech_144",
+"question": "What is the core mathematical feature of 'Rotary Position Embeddings' (RoPE) used in modern LLMs like Llama?",
+"options": [
+"It applies a complex rotation matrix directly to query and key vectors to embed relative position properties",
+"It appends a static sinusoidal absolute coordinate vector straight to early sequence representations",
+"It scales down attention scores linearly according to token distance gaps",
+"It randomizes the order of feature attributes during optimization update passes"
+],
+"correctAnswer": "It applies a complex rotation matrix directly to query and key vectors to embed relative position properties",
+"category": "Artificial Intelligence",
+"difficulty": "hard",
+"explanation": "RoPE implements relative position metrics gracefully by rotating coordinates in 2D vector subspaces, showing superior generalization on longer text sequences.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["rope", "transformers"]
+},
+{
+"id": "tech_145",
+"question": "In the training of Generative Adversarial Networks (GANs), what mathematical objective describes the minimax game equilibrium?",
+"options": [
+"$\\min_{G} \\max_{D} V(D, G) = \\mathbb{E}_{x \\sim p_{data}}[\\log D(x)] + \\mathbb{E}_{z \\sim p_{z}}[\\log(1 - D(G(z)))]$",
+"$\\max_{G} \\min_{D} V(D, G) = \\mathbb{E}_{x \\sim p_{data}}[\\log D(x)] - \\mathbb{E}_{z \\sim p_{z}}[\\log D(G(z))]$",
+"$\\min_{G} \\max_{D} V(D, G) = \\sum |D(x) - G(z)|^2$",
+"$\\max_{G} \\max_{D} V(D, G) = \\mathbb{E}[\\log (D(x) \\cdot G(z))]$"
+],
+"correctAnswer": "$\\min_{G} \\max_{D} V(D, G) = \\mathbb{E}_{x \\sim p_{data}}[\\log D(x)] + \\mathbb{E}_{z \\sim p_{z}}[\\log(1 - D(G(z)))]$",
+"category": "Artificial Intelligence",
+"difficulty": "hard",
+"explanation": "The Discriminator (D) maximizes classification accuracy, while the Generator (G) minimizes the probability that the discriminator identifies its synthetic creations as fake.",
+"imageUrl": "https://images.unsplash.com/photo-1543946207-39bd91e70ca7?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["gan", "math"]
+},
+{
+"id": "tech_146",
+"question": "What alignment approach skips training separate reward networks by optimizing preferences directly on the target model's policy?",
+"options": [
+"Direct Preference Optimization (DPO)",
+"Proximal Policy Optimization (PPO)",
+"Trust Region Policy Optimization (TRPO)",
+"Asynchronous Actor-Critic (A3C)"
+],
+"correctAnswer": "Direct Preference Optimization (DPO)",
+"category": "Artificial Intelligence",
+"difficulty": "hard",
+"explanation": "DPO mathematically reformulates the RLHF objective, allowing stable preference alignment via a simple binary cross-entropy loss function over chosen and rejected model text responses.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["dpo", "alignment"]
+},
+{
+"id": "tech_147",
+"question": "What is the structural difference between Multi-Query Attention (MQA) and Grouped-Query Attention (GQA)?",
+"options": [
+"MQA uses a single Key-Value head for all queries; GQA assigns single Key-Value heads to specific subgroups of queries",
+"MQA restricts sequence token sizing limits; GQA flattens attention matrices permanently into simple formats",
+"MQA applies static position vector markers; GQA enforces dynamic rotary position tracking variables exclusively",
+"MQA is strictly deployed across local CPU clusters; GQA runs exclusively inside synchronized cloud TPU arrays"
+],
+"correctAnswer": "MQA uses a single Key-Value head for all queries; GQA assigns single Key-Value heads to specific subgroups of queries",
+"category": "Artificial Intelligence",
+"difficulty": "hard",
+"explanation": "GQA provides a middle ground between standard Multi-Head Attention and ultra-compressed MQA, regaining model accuracy while keeping memory IO benefits during text decoding steps.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["transformers", "architecture"]
+},
+{
+"id": "tech_148",
+"question": "Which mathematical challenge occurs when training deep networks using standard sigmoid units due to saturation characteristics?",
+"options": [
+"Vanishing Gradient Problem",
+"Exploding Matrix Condition",
+"Stochastic Multi-collinearity Error",
+"Asymmetric Bias Displaced Extrema"
+],
+"correctAnswer": "Vanishing Gradient Problem",
+"category": "Artificial Intelligence",
+"difficulty": "hard",
+"explanation": "As sigmoid values reach extremes near 0 or 1, their derivative approaches zero. During backpropagation, multiplying these minuscule gradients across deep layers causes early weights to stop updating.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["math", "deep-learning"]
+},
+{
+"id": "tech_149",
+"question": "What mathematical objective function is optimized in Variational Autoencoders (VAEs) to approximate data log-likelihood properties?",
+"options": [
+"Evidence Lower Bound (ELBO)",
+"Mean Squared Error (MSE)",
+"Contrastive Divergence Matrix",
+"Hinge Loss Regularization Factor"
+],
+"correctAnswer": "Evidence Lower Bound (ELBO)",
+"category": "Artificial Intelligence",
+"difficulty": "hard",
+"explanation": "ELBO balances structural reconstruction loss with reconstruction regularization against a prior distribution using Kullback-Leibler divergence constraints.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["vae", "math"]
+},
+{
+"id": "tech_150",
+"question": "What architectural design describes 'Mixture of Experts' (MoE) transformer systems like Mixtral models?",
+"options": [
+"Activating a small subset of expert feed-forward layers per token via a learned routing network",
+"Chaining completely separate image and text models sequentially through custom local web scripts",
+"Re-training a unified model multiple times on distinct data partitions sequentially",
+"Using fixed hard-coded logic filters to distribute tokens based on character sequence counts"
+],
+"correctAnswer": "Activating a small subset of expert feed-forward layers per token via a learned routing network",
+"category": "Artificial Intelligence",
+"difficulty": "hard",
+"explanation": "MoE scales parameter counts up while keeping inference compute costs flat by selectively routing tokens to specialized feed-forward sub-networks.",
+"imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": ["moe", "architecture"]
+}
+]
+

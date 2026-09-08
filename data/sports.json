@@ -1,0 +1,2283 @@
+﻿
+[
+  {
+    "id": "sport_001",
+    "question": "How many players are on the field for one team in a standard soccer match?",
+    "options": [
+      "11",
+      "9",
+      "10",
+      "12"
+    ],
+    "correctAnswer": "11",
+    "category": "Sports",
+    "difficulty": "easy",
+    "explanation": "A standard game of table tennis is played to 11 points, and a player must win by a margin of 2 points.",
+    "imageUrl": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=500",
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "soccer",
+      "rules"
+    ]
+  },
+  {
+    "id": "sport_002",
+    "question": "Which sport uses a shuttlecock?",
+    "options": [
+      "Badminton",
+      "Tennis",
+      "Table Tennis",
+      "Squash"
+    ],
+    "correctAnswer": "Badminton",
+    "category": "Sports",
+    "difficulty": "easy",
+    "explanation": "Badminton is a racquet sport played using racquets to hit a shuttlecock across a net.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "badminton",
+      "equipment"
+    ]
+  },
+  {
+    "id": "sport_003",
+    "question": "In bowling, what is the term for knocking down all ten pins with the first ball?",
+    "options": [
+      "Strike",
+      "Spare",
+      "Turkey",
+      "Split"
+    ],
+    "correctAnswer": "Strike",
+    "category": "Sports",
+    "difficulty": "easy",
+    "explanation": "A strike is achieved when all ten pins are knocked down on the first delivery of a frame.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "bowling",
+      "rules"
+    ]
+  },
+  {
+    "id": "sport_004",
+    "question": "How long is a standard marathon in miles?",
+    "options": [
+      "26.2 miles",
+      "24.2 miles",
+      "28.2 miles",
+      "25.2 miles"
+    ],
+    "correctAnswer": "26.2 miles",
+    "category": "Sports",
+    "difficulty": "easy",
+    "explanation": "The official distance of a modern marathon is 26 miles and 385 yards, or approximately 26.2 miles.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "running",
+      "marathon"
+    ]
+  },
+  {
+    "id": "sport_005",
+    "question": "Which country won the 2022 FIFA World Cup?",
+    "options": [
+      "Argentina",
+      "France",
+      "Brazil",
+      "Croatia"
+    ],
+    "correctAnswer": "Argentina",
+    "category": "Sports",
+    "difficulty": "easy",
+    "explanation": "Argentina defeated France on penalties in the 2022 FIFA World Cup Final to win their third title.",
+    "imageUrl": "https://images.unsplash.com/photo-1544698310-74ea9d1c8258?w=500",
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "soccer",
+      "world-cup"
+    ]
+  },
+  {
+    "id": "sport_006",
+    "question": "In basketball, how many points is a regular basket worth if shot inside the arc?",
+    "options": [
+      "2",
+      "1",
+      "3",
+      "4"
+    ],
+    "correctAnswer": "2",
+    "category": "Sports",
+    "difficulty": "easy",
+    "explanation": "A regular field goal scored inside the three-point line is worth 2 points in basketball.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "basketball",
+      "rules"
+    ]
+  },
+  {
+    "id": "sport_007",
+    "question": "What is the highest possible break in a standard game of snooker?",
+    "options": [
+      "147",
+      "155",
+      "142",
+      "150"
+    ],
+    "correctAnswer": "147",
+    "category": "Sports",
+    "difficulty": "easy",
+    "explanation": "The maximum standard break in snooker is 147, achieved by potting all 15 reds with 15 blacks, then all colors.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "snooker",
+      "records"
+    ]
+  },
+  {
+    "id": "sport_008",
+    "question": "Which sport is known as America's pastime?",
+    "options": [
+      "Baseball",
+      "American Football",
+      "Basketball",
+      "Ice Hockey"
+    ],
+    "correctAnswer": "Baseball",
+    "category": "Sports",
+    "difficulty": "easy",
+    "explanation": "Baseball has long been traditionally known as America's national pastime.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "baseball",
+      "culture"
+    ]
+  },
+  {
+    "id": "sport_009",
+    "question": "How many rings are there on the Olympic flag?",
+    "options": [
+      "5",
+      "6",
+      "4",
+      "7"
+    ],
+    "correctAnswer": "5",
+    "category": "Sports",
+    "difficulty": "easy",
+    "explanation": "The five colors are blue, yellow, black, green, and red, representing the global union of athletes.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "olympics",
+      "history"
+    ]
+  },
+  {
+    "id": "sport_010",
+    "question": "What color jersey is worn by the leader of the general classification in the Tour de France?",
+    "options": [
+      "Yellow",
+      "Green",
+      "White",
+      "Red"
+    ],
+    "correctAnswer": "Yellow",
+    "category": "Sports",
+    "difficulty": "easy",
+    "explanation": "Optic yellow tennis balls were introduced in 1972 to improve visibility on television broadcasts.",
+    "imageUrl": "https://images.unsplash.com/photo-1517649763962-0c623066013b?w=500",
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "cycling",
+      "tour-de-france"
+    ]
+  },
+  {
+    "id": "sport_011",
+    "question": "In tennis, what word represents a score of zero?",
+    "options": [
+      "Love",
+      "Nil",
+      "Zero",
+      "Blank"
+    ],
+    "correctAnswer": "Love",
+    "category": "Sports",
+    "difficulty": "easy",
+    "explanation": "In tennis scoring, 'love' indicates a score of zero for the player or side.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "tennis",
+      "rules"
+    ]
+  },
+  {
+    "id": "sport_012",
+    "question": "Which city hosted the 2012 Summer Olympic Games?",
+    "options": [
+      "London",
+      "Beijing",
+      "Rio de Janeiro",
+      "Tokyo"
+    ],
+    "correctAnswer": "London",
+    "category": "Sports",
+    "difficulty": "easy",
+    "explanation": "Wimbledon is an upscale district in southwest London, England, famous for hosting the grass-court Grand Slam.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "olympics",
+      "history"
+    ]
+  },
+  {
+    "id": "sport_013",
+    "question": "What is the maximum number of clubs a golfer can carry in their bag during a round?",
+    "options": [
+      "14",
+      "12",
+      "15",
+      "10"
+    ],
+    "correctAnswer": "14",
+    "category": "Sports",
+    "difficulty": "easy",
+    "explanation": "Rule 4.1b of the Official Rules of Golf restricts players from carrying more than 14 clubs during a round.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "golf",
+      "rules"
+    ]
+  },
+  {
+    "id": "sport_014",
+    "question": "Which driver has won the joint-most Formula 1 World Championships (7) alongside Michael Schumacher?",
+    "options": [
+      "Lewis Hamilton",
+      "Sebastian Vettel",
+      "Max Verstappen",
+      "Fernando Alonso"
+    ],
+    "correctAnswer": "Lewis Hamilton",
+    "category": "Sports",
+    "difficulty": "easy",
+    "explanation": "Lewis Hamilton won his seventh world championship title in 2020, equaling Michael Schumacher's all-time record.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "formula1",
+      "racing"
+    ]
+  },
+  {
+    "id": "sport_015",
+    "question": "In which sport would you use a 'puck'?",
+    "options": [
+      "Ice Hockey",
+      "Field Hockey",
+      "Lacrosse",
+      "Curling"
+    ],
+    "correctAnswer": "Ice Hockey",
+    "category": "Sports",
+    "difficulty": "easy",
+    "explanation": "Ice hockey matches are played using a flat, vulcanized rubber disc known as a puck.",
+    "imageUrl": "https://images.unsplash.com/photo-1515238152791-8216bfdf89a7?w=500",
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "hockey",
+      "equipment"
+    ]
+  },
+  {
+    "id": "sport_016",
+    "question": "How many points is a touchdown worth in American football (excluding the extra point)?",
+    "options": [
+      "6",
+      "3",
+      "7",
+      "5"
+    ],
+    "correctAnswer": "6",
+    "category": "Sports",
+    "difficulty": "easy",
+    "explanation": "A standard pool table features six pockets: one at each of the four corners and two in the middle of the long sides.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "american-football",
+      "rules"
+    ]
+  },
+  {
+    "id": "sport_017",
+    "question": "What is the name of the championship game of the National Football League (NFL)?",
+    "options": [
+      "Super Bowl",
+      "World Series",
+      "Stanley Cup",
+      "NBA Finals"
+    ],
+    "correctAnswer": "Super Bowl",
+    "category": "Sports",
+    "difficulty": "easy",
+    "explanation": "The Super Bowl is the annual championship game of the NFL, played between the AFC and NFC champions.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "american-football",
+      "nfl"
+    ]
+  },
+  {
+    "id": "sport_018",
+    "question": "Which country is famous for the sport of cricket and won the first ever Cricket World Cup in 1975?",
+    "options": [
+      "West Indies",
+      "Australia",
+      "England",
+      "India"
+    ],
+    "correctAnswer": "West Indies",
+    "category": "Sports",
+    "difficulty": "easy",
+    "explanation": "The West Indies won the first ICC Cricket World Cup in 1975 by defeating Australia in the final.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "cricket",
+      "history"
+    ]
+  },
+  {
+    "id": "sport_019",
+    "question": "In golf, what is the term for scoring one stroke under par on a hole?",
+    "options": [
+      "Birdie",
+      "Eagle",
+      "Bogey",
+      "Albatross"
+    ],
+    "correctAnswer": "Birdie",
+    "category": "Sports",
+    "difficulty": "easy",
+    "explanation": "A birdie is a score of one stroke under par (-1) on an individual golf hole.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "golf",
+      "rules"
+    ]
+  },
+  {
+    "id": "sport_020",
+    "question": "What is the color of the ball used in a standard game of competitive field hockey?",
+    "options": [
+      "White",
+      "Yellow",
+      "Orange",
+      "Red"
+    ],
+    "correctAnswer": "White",
+    "category": "Sports",
+    "difficulty": "easy",
+    "explanation": "Standard competitive outdoor field hockey balls are solid white in color for high visibility.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "hockey",
+      "equipment"
+    ]
+  },
+  {
+    "id": "sport_021",
+    "question": "How many grand slam titles has Serena Williams won in women's singles?",
+    "options": [
+      "23",
+      "22",
+      "24",
+      "25"
+    ],
+    "correctAnswer": "23",
+    "category": "Sports",
+    "difficulty": "easy",
+    "explanation": "Serena Williams holds the record for the most Grand Slam singles titles in the Open Era with 23 trophies.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "tennis",
+      "records"
+    ]
+  },
+  {
+    "id": "sport_022",
+    "question": "Which swimming stroke is considered the slowest?",
+    "options": [
+      "Breaststroke",
+      "Backstroke",
+      "Butterfly",
+      "Freestyle"
+    ],
+    "correctAnswer": "Breaststroke",
+    "category": "Sports",
+    "difficulty": "easy",
+    "explanation": "Breaststroke is mechanically the slowest of the four primary competitive swimming strokes.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "swimming",
+      "techniques"
+    ]
+  },
+  {
+    "id": "sport_023",
+    "question": "What do the initials NBA stand for?",
+    "options": [
+      "National Basketball Association",
+      "National Basketball Alliance",
+      "North American Basketball Association",
+      "National Basketball Academy"
+    ],
+    "correctAnswer": "National Basketball Association",
+    "category": "Sports",
+    "difficulty": "easy",
+    "explanation": "The NBA stands for the National Basketball Association, founded in 1946.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "basketball",
+      "nba"
+    ]
+  },
+  {
+    "id": "sport_024",
+    "question": "In which sport would you execute a 'slam dunk'?",
+    "options": [
+      "Basketball",
+      "Volleyball",
+      "Tennis",
+      "Handball"
+    ],
+    "correctAnswer": "Basketball",
+    "category": "Sports",
+    "difficulty": "easy",
+    "explanation": "A slam dunk is a type of basketball shot performed when a player jumps high to force the ball through the hoop.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "basketball"
+    ]
+  },
+  {
+    "id": "sport_025",
+    "question": "How many positions are there on a standard netball team?",
+    "options": [
+      "7",
+      "6",
+      "5",
+      "8"
+    ],
+    "correctAnswer": "7",
+    "category": "Sports",
+    "difficulty": "easy",
+    "explanation": "The women's heptathlon includes 100m hurdles, high jump, shot put, 200m, long jump, javelin, and 800m.",
+    "imageUrl": "https://images.unsplash.com/photo-1628891890467-b79f2c87c69a?w=500",
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "netball",
+      "rules"
+    ]
+  },
+  {
+    "id": "sport_026",
+    "question": "Which country hosts the famous tennis tournament called Roland Garros?",
+    "options": [
+      "France",
+      "United Kingdom",
+      "United States",
+      "Australia"
+    ],
+    "correctAnswer": "France",
+    "category": "Sports",
+    "difficulty": "easy",
+    "explanation": "Roland Garros, also known as the French Open, is held annually in Paris, France.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "tennis",
+      "tournaments"
+    ]
+  },
+  {
+    "id": "sport_027",
+    "question": "What is the diameter of a standard basketball hoop in inches?",
+    "options": [
+      "18 inches",
+      "16 inches",
+      "20 inches",
+      "22 inches"
+    ],
+    "correctAnswer": "18 inches",
+    "category": "Sports",
+    "difficulty": "easy",
+    "explanation": "An official NBA and FIBA basketball rim has an inside diameter of exactly 18 inches.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "basketball",
+      "equipment"
+    ]
+  },
+  {
+    "id": "sport_028",
+    "question": "Which heavy object is thrown in the Olympic sport of discus?",
+    "options": [
+      "A heavy disc",
+      "A metal ball",
+      "A spear",
+      "A heavy hammer"
+    ],
+    "correctAnswer": "A heavy disc",
+    "category": "Sports",
+    "difficulty": "easy",
+    "explanation": "The discus throw involves launching a heavy, lens-shaped disc as far as possible.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "olympics",
+      "athletics"
+    ]
+  },
+  {
+    "id": "sport_029",
+    "question": "How many players are on the court for a single team in a volleyball match?",
+    "options": [
+      "6",
+      "5",
+      "7",
+      "4"
+    ],
+    "correctAnswer": "6",
+    "category": "Sports",
+    "difficulty": "easy",
+    "explanation": "A standard pool table features six pockets: one at each of the four corners and two in the middle of the long sides.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "volleyball",
+      "rules"
+    ]
+  },
+  {
+    "id": "sport_030",
+    "question": "What is the term used in cricket when a bowler dismisses three batsmen with consecutive deliveries?",
+    "options": [
+      "Hat-trick",
+      "Three-peat",
+      "Triple strike",
+      "Century"
+    ],
+    "correctAnswer": "Hat-trick",
+    "category": "Sports",
+    "difficulty": "easy",
+    "explanation": "A hat-trick occurs when a bowler takes three wickets with three consecutive deliveries.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "cricket",
+      "rules"
+    ]
+  },
+  {
+    "id": "sport_031",
+    "question": "Which sport features positions called 'Quarterback' and 'Linebacker'?",
+    "options": [
+      "American Football",
+      "Rugby",
+      "Baseball",
+      "Cricket"
+    ],
+    "correctAnswer": "American Football",
+    "category": "Sports",
+    "difficulty": "easy",
+    "explanation": "The Quarterback and Linebacker are crucial offensive and defensive positions respectively in American football.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "american-football"
+    ]
+  },
+  {
+    "id": "sport_032",
+    "question": "What is the national sport of Japan?",
+    "options": [
+      "Sumo Wrestling",
+      "Karate",
+      "Judo",
+      "Baseball"
+    ],
+    "correctAnswer": "Sumo Wrestling",
+    "category": "Sports",
+    "difficulty": "easy",
+    "explanation": "Sumo wrestling is widely recognized as the official national sport of Japan.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "sumo",
+      "culture"
+    ]
+  },
+  {
+    "id": "sport_033",
+    "question": "How many minutes is a standard rugby union match?",
+    "options": [
+      "80 minutes",
+      "90 minutes",
+      "70 minutes",
+      "60 minutes"
+    ],
+    "correctAnswer": "80 minutes",
+    "category": "Sports",
+    "difficulty": "easy",
+    "explanation": "A standard rugby union match consists of two halves of 40 minutes each, totaling 80 minutes.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "rugby",
+      "rules"
+    ]
+  },
+  {
+    "id": "sport_034",
+    "question": "What is the primary color of the ball used in a standard tennis match?",
+    "options": [
+      "Yellow",
+      "White",
+      "Green",
+      "Pink"
+    ],
+    "correctAnswer": "Yellow",
+    "category": "Sports",
+    "difficulty": "easy",
+    "explanation": "Optic yellow tennis balls were introduced in 1972 to improve visibility on television broadcasts.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "tennis",
+      "equipment"
+    ]
+  },
+  {
+    "id": "sport_035",
+    "question": "Which boxer was known as 'The Greatest'?",
+    "options": [
+      "Muhammad Ali",
+      "Mike Tyson",
+      "Sugar Ray Robinson",
+      "Joe Louis"
+    ],
+    "correctAnswer": "Muhammad Ali",
+    "category": "Sports",
+    "difficulty": "easy",
+    "explanation": "Muhammad Ali is widely considered one of the most significant and celebrated sports figures of the 20th century.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "boxing",
+      "legends"
+    ]
+  },
+  {
+    "id": "sport_036",
+    "question": "How many colors make up the Olympic rings?",
+    "options": [
+      "5",
+      "6",
+      "4",
+      "3"
+    ],
+    "correctAnswer": "5",
+    "category": "Sports",
+    "difficulty": "easy",
+    "explanation": "The five colors are blue, yellow, black, green, and red, representing the global union of athletes.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "olympics"
+    ]
+  },
+  {
+    "id": "sport_037",
+    "question": "In baseball, how many strikes equal an out?",
+    "options": [
+      "3",
+      "4",
+      "2",
+      "5"
+    ],
+    "correctAnswer": "3",
+    "category": "Sports",
+    "difficulty": "easy",
+    "explanation": "A batter is ruled out if they accumulate three strikes during an at-bat.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "baseball",
+      "rules"
+    ]
+  },
+  {
+    "id": "sport_038",
+    "question": "Which city is hosting the 2024 Summer Olympic Games?",
+    "options": [
+      "Paris",
+      "Los Angeles",
+      "Brisbane",
+      "Tokyo"
+    ],
+    "correctAnswer": "Paris",
+    "category": "Sports",
+    "difficulty": "easy",
+    "explanation": "The 2024 Summer Olympics were officially hosted by the city of Paris, France.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "olympics"
+    ]
+  },
+  {
+    "id": "sport_039",
+    "question": "Which country dominates the historic rivalry of the 'Ashes' test cricket series against England?",
+    "options": [
+      "Australia",
+      "India",
+      "South Africa",
+      "New Zealand"
+    ],
+    "correctAnswer": "Australia",
+    "category": "Sports",
+    "difficulty": "easy",
+    "explanation": "Australia holds the overall lead in most Ashes series wins against England since the late 19th century.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "cricket",
+      "ashes"
+    ]
+  },
+  {
+    "id": "sport_040",
+    "question": "In table tennis, what is the maximum number of points required to win a standard game (assuming a 2-point lead)?",
+    "options": [
+      "11",
+      "21",
+      "15",
+      "10"
+    ],
+    "correctAnswer": "11",
+    "category": "Sports",
+    "difficulty": "easy",
+    "explanation": "A standard game of table tennis is played to 11 points, and a player must win by a margin of 2 points.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "table-tennis",
+      "rules"
+    ]
+  },
+  {
+    "id": "sport_041",
+    "question": "Who is the only soccer player to win three FIFA World Cups?",
+    "options": [
+      "Pelé",
+      "Diego Maradona",
+      "Lionel Messi",
+      "Zinedine Zidane"
+    ],
+    "correctAnswer": "Pelé",
+    "category": "Sports",
+    "difficulty": "medium",
+    "explanation": "Pelé is the only player to win three FIFA World Cups, achieving this feat in 1958, 1962, and 1970.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "soccer",
+      "history"
+    ]
+  },
+  {
+    "id": "sport_042",
+    "question": "In which city is the famous tennis venue 'Wimbledon' located?",
+    "options": [
+      "London",
+      "Manchester",
+      "Birmingham",
+      "Liverpool"
+    ],
+    "correctAnswer": "London",
+    "category": "Sports",
+    "difficulty": "medium",
+    "explanation": "Wimbledon is an upscale district in southwest London, England, famous for hosting the grass-court Grand Slam.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "tennis",
+      "wimbledon"
+    ]
+  },
+  {
+    "id": "sport_043",
+    "question": "Which NBA player holds the record for the most points scored in a single game (100 points)?",
+    "options": [
+      "Wilt Chamberlain",
+      "Michael Jordan",
+      "Kobe Bryant",
+      "LeBron James"
+    ],
+    "correctAnswer": "Wilt Chamberlain",
+    "category": "Sports",
+    "difficulty": "medium",
+    "explanation": "Wilt Chamberlain scored 100 points for the Philadelphia Warriors against the New York Knicks on March 2, 1962.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "basketball",
+      "records"
+    ]
+  },
+  {
+    "id": "sport_044",
+    "question": "Which country has won the most FIFA World Cups in total?",
+    "options": [
+      "Brazil",
+      "Germany",
+      "Italy",
+      "Argentina"
+    ],
+    "correctAnswer": "Brazil",
+    "category": "Sports",
+    "difficulty": "medium",
+    "explanation": "Brazil has won the FIFA World Cup five times (1958, 1962, 1970, 1994, and 2002).",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "soccer",
+      "world-cup"
+    ]
+  },
+  {
+    "id": "sport_045",
+    "question": "What is the length of an Olympic-size swimming pool?",
+    "options": [
+      "50 meters",
+      "25 meters",
+      "100 meters",
+      "60 meters"
+    ],
+    "correctAnswer": "50 meters",
+    "category": "Sports",
+    "difficulty": "medium",
+    "explanation": "An Olympic-size swimming pool must be exactly 50 meters long and 25 meters wide.",
+    "imageUrl": "https://images.unsplash.com/photo-1519766304817-4f37bda74a27?w=500",
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "swimming",
+      "olympics"
+    ]
+  },
+  {
+    "id": "sport_046",
+    "question": "In gymnastics, what is the maximum perfect score achievable under the old scoring system?",
+    "options": [
+      "10",
+      "100",
+      "9.9",
+      "20"
+    ],
+    "correctAnswer": "10",
+    "category": "Sports",
+    "difficulty": "medium",
+    "explanation": "Prior to 2006, elite gymnastics used a 10.0 scoring system popularized by Nadia Comăneci's perfect scores.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "gymnastics",
+      "history"
+    ]
+  },
+  {
+    "id": "sport_047",
+    "question": "Which Formula 1 team is known as the 'Prancing Horse'?",
+    "options": [
+      "Ferrari",
+      "McLaren",
+      "Mercedes",
+      "Red Bull"
+    ],
+    "correctAnswer": "Ferrari",
+    "category": "Sports",
+    "difficulty": "medium",
+    "explanation": "The Prancing Horse (Cavallino Rampante) is the iconic symbol of the historic Scuderia Ferrari racing team.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "formula1",
+      "ferrari"
+    ]
+  },
+  {
+    "id": "sport_048",
+    "question": "Who was the first track and field athlete to win consecutive Olympic decathlon titles?",
+    "options": [
+      "Daley Thompson",
+      "Bob Mathias",
+      "Ashton Eaton",
+      "Jim Thorpe"
+    ],
+    "correctAnswer": "Bob Mathias",
+    "category": "Sports",
+    "difficulty": "medium",
+    "explanation": "Bob Mathias won the Olympic decathlon gold in 1948 and defended his title successfully in 1952.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "athletics",
+      "olympics"
+    ]
+  },
+  {
+    "id": "sport_049",
+    "question": "In which sport is the 'Davis Cup' contested?",
+    "options": [
+      "Tennis",
+      "Golf",
+      "Cricket",
+      "Polo"
+    ],
+    "correctAnswer": "Tennis",
+    "category": "Sports",
+    "difficulty": "medium",
+    "explanation": "The Davis Cup is the premier international team event in men's tennis, run by the International Tennis Federation.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "tennis",
+      "tournaments"
+    ]
+  },
+  {
+    "id": "sport_050",
+    "question": "Which country won the first-ever FIFA World Cup held in 1930?",
+    "options": [
+      "Uruguay",
+      "Argentina",
+      "Brazil",
+      "Italy"
+    ],
+    "correctAnswer": "Uruguay",
+    "category": "Sports",
+    "difficulty": "medium",
+    "explanation": "Uruguay won the inaugural FIFA World Cup on home soil in 1930, defeating Argentina 4-2 in the final.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "soccer",
+      "history"
+    ]
+  },
+  {
+    "id": "sport_051",
+    "question": "How many minutes long is a standard professional ice hockey period?",
+    "options": [
+      "20 minutes",
+      "15 minutes",
+      "30 minutes",
+      "12 minutes"
+    ],
+    "correctAnswer": "20 minutes",
+    "category": "Sports",
+    "difficulty": "medium",
+    "explanation": "A standard professional ice hockey game consists of three periods of 20 minutes each.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "hockey",
+      "rules"
+    ]
+  },
+  {
+    "id": "sport_052",
+    "question": "Who holds the men's world record for the 100m sprint at 9.58 seconds?",
+    "options": [
+      "Usain Bolt",
+      "Tyson Gay",
+      "Yohan Blake",
+      "Asafa Powell"
+    ],
+    "correctAnswer": "Usain Bolt",
+    "category": "Sports",
+    "difficulty": "medium",
+    "explanation": "Usain Bolt set the historic 100-meter world record of 9.58 seconds at the 2009 World Championships in Berlin.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "athletics",
+      "records"
+    ]
+  },
+  {
+    "id": "sport_053",
+    "question": "Which country won the Rugby World Cup in 2023?",
+    "options": [
+      "South Africa",
+      "New Zealand",
+      "France",
+      "England"
+    ],
+    "correctAnswer": "South Africa",
+    "category": "Sports",
+    "difficulty": "medium",
+    "explanation": "South Africa won the 2023 Rugby World Cup in France, defeating New Zealand 12-11 in the final.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "rugby",
+      "world-cup"
+    ]
+  },
+  {
+    "id": "sport_054",
+    "question": "In horse racing, what is the triple crown consisting of the Kentucky Derby, Preakness Stakes, and which other race?",
+    "options": [
+      "Belmont Stakes",
+      "Epsom Derby",
+      "Melbourne Cup",
+      "Ascot Gold Cup"
+    ],
+    "correctAnswer": "Belmont Stakes",
+    "category": "Sports",
+    "difficulty": "medium",
+    "explanation": "The American Triple Crown consists of the Kentucky Derby, the Preakness Stakes, and the Belmont Stakes.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "horse-racing"
+    ]
+  },
+  {
+    "id": "sport_055",
+    "question": "Which team has won the most Super Bowl titles in NFL history (tied with New England Patriots)?",
+    "options": [
+      "Pittsburgh Steelers",
+      "Dallas Cowboys",
+      "San Francisco 49ers",
+      "Green Bay Packers"
+    ],
+    "correctAnswer": "Pittsburgh Steelers",
+    "category": "Sports",
+    "difficulty": "medium",
+    "explanation": "The Pittsburgh Steelers and the New England Patriots share the record for the most Super Bowl victories with 6 each.",
+    "imageUrl": "https://images.unsplash.com/photo-1587280501635-68a0e82cd5ff?w=500",
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "american-football",
+      "nfl"
+    ]
+  },
+  {
+    "id": "sport_056",
+    "question": "What is the name of the trophy awarded annually to the champion of the National Hockey League (NHL)?",
+    "options": [
+      "Stanley Cup",
+      "Lombardi Trophy",
+      "Commissioner's Trophy",
+      "Larry O'Brien Trophy"
+    ],
+    "correctAnswer": "Stanley Cup",
+    "category": "Sports",
+    "difficulty": "medium",
+    "explanation": "The Stanley Cup is the oldest trophy in North American professional sports, awarded to the NHL playoff champion.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "hockey",
+      "nhl"
+    ]
+  },
+  {
+    "id": "sport_057",
+    "question": "In cycling, what does the abbreviation 'UCI' stand for?",
+    "options": [
+      "Union Cycliste Internationale",
+      "United Cycling Institute",
+      "Universal Cycling Federation",
+      "Union of Cycling Internationals"
+    ],
+    "correctAnswer": "Union Cycliste Internationale",
+    "category": "Sports",
+    "difficulty": "medium",
+    "explanation": "The UCI is the world governing body for sports cycling, overseeing international competitive events.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "cycling"
+    ]
+  },
+  {
+    "id": "sport_058",
+    "question": "Which country has won the most Olympic gold medals in men's field hockey?",
+    "options": [
+      "India",
+      "Pakistan",
+      "Netherlands",
+      "Germany"
+    ],
+    "correctAnswer": "India",
+    "category": "Sports",
+    "difficulty": "medium",
+    "explanation": "India has won a record 8 Olympic gold medals in men's field hockey between 1928 and 1980.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "hockey",
+      "olympics"
+    ]
+  },
+  {
+    "id": "sport_059",
+    "question": "Who is the all-time leading goal scorer in UEFA Champions League history?",
+    "options": [
+      "Cristiano Ronaldo",
+      "Lionel Messi",
+      "Robert Lewandowski",
+      "Karim Benzema"
+    ],
+    "correctAnswer": "Cristiano Ronaldo",
+    "category": "Sports",
+    "difficulty": "medium",
+    "explanation": "Cristiano Ronaldo holds the record for the most goals scored in the UEFA Champions League tournament.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "soccer",
+      "champions-league"
+    ]
+  },
+  {
+    "id": "sport_060",
+    "question": "In which year were the first modern Olympic Games held in Athens?",
+    "options": [
+      "1896",
+      "1900",
+      "1904",
+      "1888"
+    ],
+    "correctAnswer": "1896",
+    "category": "Sports",
+    "difficulty": "medium",
+    "explanation": "The first modern Olympic Games were held in Athens, Greece, from April 6 to April 15, 1896.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "olympics",
+      "history"
+    ]
+  },
+  {
+    "id": "sport_061",
+    "question": "What is the nickname of the New Zealand men's national rugby union team?",
+    "options": [
+      "All Blacks",
+      "Wallabies",
+      "Springboks",
+      "The Blues"
+    ],
+    "correctAnswer": "All Blacks",
+    "category": "Sports",
+    "difficulty": "medium",
+    "explanation": "The New Zealand men's national rugby team is famously known worldwide as the All Blacks.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "rugby"
+    ]
+  },
+  {
+    "id": "sport_062",
+    "question": "Which female tennis player has won the most Grand Slam singles titles in the Open Era?",
+    "options": [
+      "Serena Williams",
+      "Steffi Graf",
+      "Margaret Court",
+      "Martina Navratilova"
+    ],
+    "correctAnswer": "Serena Williams",
+    "category": "Sports",
+    "difficulty": "medium",
+    "explanation": "The correct answer is Serena Williams.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "tennis",
+      "records"
+    ]
+  },
+  {
+    "id": "sport_063",
+    "question": "What is the term used in fencing for a valid touch/point scored?",
+    "options": [
+      "Touché",
+      "Riposte",
+      "Parry",
+      "En Garde"
+    ],
+    "correctAnswer": "Touché",
+    "category": "Sports",
+    "difficulty": "medium",
+    "explanation": "In fencing, 'Touché' is the acknowledgment of a hit or touch by an opponent.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "fencing"
+    ]
+  },
+  {
+    "id": "sport_064",
+    "question": "Which country won the UEFA Euro 2020 championship (played in 2021)?",
+    "options": [
+      "Italy",
+      "England",
+      "Spain",
+      "France"
+    ],
+    "correctAnswer": "Italy",
+    "category": "Sports",
+    "difficulty": "medium",
+    "explanation": "Italy won UEFA Euro 2020 by defeating England on penalties at Wembley Stadium in London.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "soccer",
+      "euro"
+    ]
+  },
+  {
+    "id": "sport_065",
+    "question": "How many pockets are there on a standard pool/billiards table?",
+    "options": [
+      "6",
+      "4",
+      "8",
+      "5"
+    ],
+    "correctAnswer": "6",
+    "category": "Sports",
+    "difficulty": "medium",
+    "explanation": "A standard pool table features six pockets: one at each of the four corners and two in the middle of the long sides.",
+    "imageUrl": "https://images.unsplash.com/photo-1541534741688-6078c6bfb5c5?w=500",
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "billiards"
+    ]
+  },
+  {
+    "id": "sport_066",
+    "question": "Who was the first person to run a mile in under 4 minutes?",
+    "options": [
+      "Roger Bannister",
+      "John Landy",
+      "Hicham El Guerrouj",
+      "Sebastian Coe"
+    ],
+    "correctAnswer": "Roger Bannister",
+    "category": "Sports",
+    "difficulty": "medium",
+    "explanation": "Sir Roger Bannister ran the first sub-four-minute mile on May 6, 1954, at Iffley Road Track in Oxford.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "athletics",
+      "history"
+    ]
+  },
+  {
+    "id": "sport_067",
+    "question": "Which MLB team won the World Series in 2016, breaking a legendary 108-year championship drought?",
+    "options": [
+      "Chicago Cubs",
+      "Cleveland Guardians",
+      "Boston Red Sox",
+      "Los Angeles Dodgers"
+    ],
+    "correctAnswer": "Chicago Cubs",
+    "category": "Sports",
+    "difficulty": "medium",
+    "explanation": "The Chicago Cubs won the 2016 World Series, breaking the famous 108-year 'Curse of the Billy Goat'.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "baseball",
+      "world-series"
+    ]
+  },
+  {
+    "id": "sport_068",
+    "question": "In mixed martial arts (MMA), what is the official shape of the UFC cage?",
+    "options": [
+      "Octagon",
+      "Hexagon",
+      "Circle",
+      "Square"
+    ],
+    "correctAnswer": "Octagon",
+    "category": "Sports",
+    "difficulty": "medium",
+    "explanation": "The UFC cage is an eight-sided structure known formally as the Octagon.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "mma",
+      "ufc"
+    ]
+  },
+  {
+    "id": "sport_069",
+    "question": "Which country has won the most Davis Cup titles in tennis history?",
+    "options": [
+      "United States",
+      "Australia",
+      "Spain",
+      "France"
+    ],
+    "correctAnswer": "United States",
+    "category": "Sports",
+    "difficulty": "medium",
+    "explanation": "The USA women's national soccer team won the inaugural FIFA Women's World Cup held in China in 1991.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "tennis"
+    ]
+  },
+  {
+    "id": "sport_070",
+    "question": "Who was the first draft pick in the historic 2003 NBA Draft?",
+    "options": [
+      "LeBron James",
+      "Carmelo Anthony",
+      "Dwyane Wade",
+      "Chris Bosh"
+    ],
+    "correctAnswer": "LeBron James",
+    "category": "Sports",
+    "difficulty": "medium",
+    "explanation": "LeBron James was selected 1st overall by the Cleveland Cavaliers in the legendary 2003 NBA Draft.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "basketball",
+      "nba"
+    ]
+  },
+  {
+    "id": "sport_071",
+    "question": "What is the maximum weight limit for a boxer competing in the Lightweight division?",
+    "options": [
+      "135 lbs",
+      "147 lbs",
+      "140 lbs",
+      "130 lbs"
+    ],
+    "correctAnswer": "135 lbs",
+    "category": "Sports",
+    "difficulty": "medium",
+    "explanation": "The lightweight division in professional boxing has an upper weight limit of exactly 135 pounds.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "boxing",
+      "rules"
+    ]
+  },
+  {
+    "id": "sport_072",
+    "question": "In water polo, how long is the shot clock for an attacking team?",
+    "options": [
+      "30 seconds",
+      "45 seconds",
+      "24 seconds",
+      "35 seconds"
+    ],
+    "correctAnswer": "30 seconds",
+    "category": "Sports",
+    "difficulty": "medium",
+    "explanation": "In water polo, teams have a 30-second possession clock to attempt a shot on the opponent's goal.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "water-polo",
+      "rules"
+    ]
+  },
+  {
+    "id": "sport_073",
+    "question": "Which country hosted the 1994 FIFA World Cup?",
+    "options": [
+      "United States",
+      "Mexico",
+      "Italy",
+      "France"
+    ],
+    "correctAnswer": "United States",
+    "category": "Sports",
+    "difficulty": "medium",
+    "explanation": "The USA women's national soccer team won the inaugural FIFA Women's World Cup held in China in 1991.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "soccer"
+    ]
+  },
+  {
+    "id": "sport_074",
+    "question": "What is the name of the international team golf competition held every two years between Europe and the USA?",
+    "options": [
+      "Ryder Cup",
+      "Presidents Cup",
+      "Solheim Cup",
+      "Walker Cup"
+    ],
+    "correctAnswer": "Ryder Cup",
+    "category": "Sports",
+    "difficulty": "medium",
+    "explanation": "The Ryder Cup is a biennial men's golf competition between teams from Europe and the United States.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "golf"
+    ]
+  },
+  {
+    "id": "sport_075",
+    "question": "Which country won the inaugural ICC Men's T20 World Cup in 2007?",
+    "options": [
+      "India",
+      "Pakistan",
+      "Australia",
+      "West Indies"
+    ],
+    "correctAnswer": "India",
+    "category": "Sports",
+    "difficulty": "medium",
+    "explanation": "India has won a record 8 Olympic gold medals in men's field hockey between 1928 and 1980.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "cricket"
+    ]
+  },
+  {
+    "id": "sport_076",
+    "question": "In ice hockey, what term refers to a team having a numerical advantage due to an opponent's penalty?",
+    "options": [
+      "Power play",
+      "Penalty shot",
+      "Icing",
+      "Offside"
+    ],
+    "correctAnswer": "Power play",
+    "category": "Sports",
+    "difficulty": "medium",
+    "explanation": "A power play occurs when at least one opposing player is serving a penalty, giving the other team a numerical advantage.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "hockey"
+    ]
+  },
+  {
+    "id": "sport_077",
+    "question": "How many distinct events are there in a women's heptathlon?",
+    "options": [
+      "7",
+      "6",
+      "8",
+      "5"
+    ],
+    "correctAnswer": "7",
+    "category": "Sports",
+    "difficulty": "medium",
+    "explanation": "The women's heptathlon includes 100m hurdles, high jump, shot put, 200m, long jump, javelin, and 800m.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "athletics"
+    ]
+  },
+  {
+    "id": "sport_078",
+    "question": "Which country won the most total medals at the 2020 Tokyo Olympic Games?",
+    "options": [
+      "United States",
+      "China",
+      "Japan",
+      "Great Britain"
+    ],
+    "correctAnswer": "United States",
+    "category": "Sports",
+    "difficulty": "medium",
+    "explanation": "The USA women's national soccer team won the inaugural FIFA Women's World Cup held in China in 1991.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "olympics"
+    ]
+  },
+  {
+    "id": "sport_079",
+    "question": "Who is the legendary skateboarder who first successfully completed the 900-degree spin trick in 1999?",
+    "options": [
+      "Tony Hawk",
+      "Rodney Mullen",
+      "Bucky Lasek",
+      "Bob Burnquist"
+    ],
+    "correctAnswer": "Tony Hawk",
+    "category": "Sports",
+    "difficulty": "medium",
+    "explanation": "Tony Hawk landed the first ever documented 900-degree spin on a skateboard ramp at the 1999 X Games.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "skateboarding"
+    ]
+  },
+  {
+    "id": "sport_080",
+    "question": "In badminton, what is the maximum number of points a standard game can go up to if there is a continuous tie?",
+    "options": [
+      "30",
+      "21",
+      "25",
+      "28"
+    ],
+    "correctAnswer": "30",
+    "category": "Sports",
+    "difficulty": "medium",
+    "explanation": "Under standard BWF badminton rules, if the score reaches 29-29, the side scoring the 30th point wins that game.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "badminton",
+      "rules"
+    ]
+  },
+  {
+    "id": "sport_081",
+    "question": "Who was the first female driver to score points in a Formula One World Championship race?",
+    "options": [
+      "Lella Lombardi",
+      "Maria Teresa de Filippis",
+      "Divina Galica",
+      "Desiré Wilson"
+    ],
+    "correctAnswer": "Lella Lombardi",
+    "category": "Sports",
+    "difficulty": "hard",
+    "explanation": "Lella Lombardi is the only female driver to score top-six points in a Formula One race (1975 Spanish GP).",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "formula1",
+      "history"
+    ]
+  },
+  {
+    "id": "sport_082",
+    "question": "Which cricketer has the highest individual score in a single Test match innings (400 not out)?",
+    "options": [
+      "Brian Lara",
+      "Don Bradman",
+      "Matthew Hayden",
+      "Chris Gayle"
+    ],
+    "correctAnswer": "Brian Lara",
+    "category": "Sports",
+    "difficulty": "hard",
+    "explanation": "West Indian batsman Brian Lara scored 400 not out against England at Antigua in 2004.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "cricket",
+      "records"
+    ]
+  },
+  {
+    "id": "sport_083",
+    "question": "In which city were the 1956 Summer Olympic Games held (excluding equestrian events)?",
+    "options": [
+      "Melbourne",
+      "Sydney",
+      "Stockholm",
+      "Helsinki"
+    ],
+    "correctAnswer": "Melbourne",
+    "category": "Sports",
+    "difficulty": "hard",
+    "explanation": "The 1956 Summer Olympics were held in Melbourne, Australia, while the equestrian events took place in Stockholm due to quarantine laws.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "olympics",
+      "history"
+    ]
+  },
+  {
+    "id": "sport_084",
+    "question": "Who is the only player to have won the European Golden Shoe while playing for a Scottish club?",
+    "options": [
+      "Henrik Larsson",
+      "Ally McCoist",
+      "Brian McClair",
+      "Mark Hateley"
+    ],
+    "correctAnswer": "Ally McCoist",
+    "category": "Sports",
+    "difficulty": "hard",
+    "explanation": "Rangers striker Ally McCoist won the European Golden Shoe consecutively in 1992 and 1993.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "soccer",
+      "records"
+    ]
+  },
+  {
+    "id": "sport_085",
+    "question": "Which country won the first ever Rugby World Cup in 1987?",
+    "options": [
+      "New Zealand",
+      "Australia",
+      "South Africa",
+      "France"
+    ],
+    "correctAnswer": "New Zealand",
+    "category": "Sports",
+    "difficulty": "hard",
+    "explanation": "New Zealand's All Blacks won the inaugural Rugby World Cup tournament co-hosted by New Zealand and Australia in 1987.",
+    "imageUrl": "https://images.unsplash.com/photo-1511556532299-8f662fc26c06?w=500",
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "rugby",
+      "history"
+    ]
+  },
+  {
+    "id": "sport_086",
+    "question": "In snooker, what was the fastest ever maximum 147 break time, set by Ronnie O'Sullivan in 1997?",
+    "options": [
+      "5 minutes 8 seconds",
+      "5 minutes 20 seconds",
+      "4 minutes 58 seconds",
+      "6 minutes 12 seconds"
+    ],
+    "correctAnswer": "5 minutes 8 seconds",
+    "category": "Sports",
+    "difficulty": "hard",
+    "explanation": "Ronnie O'Sullivan cleared the table for a maximum 147 break in a record-shattering 5 minutes and 8 seconds.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "snooker",
+      "records"
+    ]
+  },
+  {
+    "id": "sport_087",
+    "question": "Which track and field athlete won four gold medals at the 1936 Berlin Olympic Games?",
+    "options": [
+      "Jesse Owens",
+      "Carl Lewis",
+      "Jim Thorpe",
+      "Paavo Nurmi"
+    ],
+    "correctAnswer": "Jesse Owens",
+    "category": "Sports",
+    "difficulty": "hard",
+    "explanation": "African-American athlete Jesse Owens won four gold medals in Berlin 1936, undermining Nazi racial theories.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "athletics",
+      "olympics"
+    ]
+  },
+  {
+    "id": "sport_088",
+    "question": "Who holds the record for the most career home runs in Major League Baseball history?",
+    "options": [
+      "Barry Bonds",
+      "Hank Aaron",
+      "Babe Ruth",
+      "Alex Rodriguez"
+    ],
+    "correctAnswer": "Barry Bonds",
+    "category": "Sports",
+    "difficulty": "hard",
+    "explanation": "Barry Bonds holds the MLB career home run record with 762 home runs over his career.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "baseball",
+      "records"
+    ]
+  },
+  {
+    "id": "sport_089",
+    "question": "Which country won the first ever Men's Handball World Championship in 1938?",
+    "options": [
+      "Germany",
+      "Sweden",
+      "Denmark",
+      "Austria"
+    ],
+    "correctAnswer": "Germany",
+    "category": "Sports",
+    "difficulty": "hard",
+    "explanation": "Germany won the first ever indoor World Men's Handball Championship hosted on home soil in 1938.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "handball",
+      "history"
+    ]
+  },
+  {
+    "id": "sport_090",
+    "question": "What is the name of the oldest contested trophy in international sports, first awarded in 1851?",
+    "options": [
+      "America's Cup",
+      "The Ashes",
+      "Stanley Cup",
+      "The Open Claret Jug"
+    ],
+    "correctAnswer": "America's Cup",
+    "category": "Sports",
+    "difficulty": "hard",
+    "explanation": "The America's Cup is the oldest active trophy in international sport, predating the modern Olympics by 45 years.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "sailing",
+      "history"
+    ]
+  },
+  {
+    "id": "sport_091",
+    "question": "Who was the first gymnast to score a perfect 10 in Olympic history?",
+    "options": [
+      "Nadia Comăneci",
+      "Olga Korbut",
+      "Mary Lou Retton",
+      "Larisa Latynina"
+    ],
+    "correctAnswer": "Nadia Comăneci",
+    "category": "Sports",
+    "difficulty": "hard",
+    "explanation": "Romanian gymnast Nadia Comăneci scored the first perfect 10.0 at the 1976 Summer Olympics in Montreal.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "gymnastics",
+      "olympics"
+    ]
+  },
+  {
+    "id": "sport_092",
+    "question": "Which country won the first ever FIFA Women's World Cup in 1991?",
+    "options": [
+      "United States",
+      "Norway",
+      "Germany",
+      "China"
+    ],
+    "correctAnswer": "United States",
+    "category": "Sports",
+    "difficulty": "hard",
+    "explanation": "The USA women's national soccer team won the inaugural FIFA Women's World Cup held in China in 1991.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "soccer",
+      "world-cup"
+    ]
+  },
+  {
+    "id": "sport_093",
+    "question": "Who is the only boxer in history to hold world titles in eight different weight divisions?",
+    "options": [
+      "Manny Pacquiao",
+      "Floyd Mayweather Jr.",
+      "Oscar De La Hoya",
+      "Sugar Ray Leonard"
+    ],
+    "correctAnswer": "Manny Pacquiao",
+    "category": "Sports",
+    "difficulty": "hard",
+    "explanation": "Manny Pacquiao is the only eight-division world champion in the history of professional boxing.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "boxing",
+      "records"
+    ]
+  },
+  {
+    "id": "sport_094",
+    "question": "In cycling, who is known as 'The Cannibal' due to his insatiable appetite for winning?",
+    "options": [
+      "Eddy Merckx",
+      "Bernard Hinault",
+      "Jacques Anquetil",
+      "Miguel Indurain"
+    ],
+    "correctAnswer": "Eddy Merckx",
+    "category": "Sports",
+    "difficulty": "hard",
+    "explanation": "Belgian cyclist Eddy Merckx was nicknamed 'The Cannibal' due to his relentless dominance and refusal to let others win.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "cycling",
+      "legends"
+    ]
+  },
+  {
+    "id": "sport_095",
+    "question": "Which NFL team went completely undefeated throughout the entire 1972 regular season and postseason?",
+    "options": [
+      "Miami Dolphins",
+      "New England Patriots",
+      "San Francisco 49ers",
+      "Pittsburgh Steelers"
+    ],
+    "correctAnswer": "Miami Dolphins",
+    "category": "Sports",
+    "difficulty": "hard",
+    "explanation": "The 1972 Miami Dolphins achieved the only perfect season in NFL history, finishing 17-0.",
+    "imageUrl": "https://images.unsplash.com/photo-1530541930197-ff16ac917b0e?w=500",
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "american-football"
+    ]
+  },
+  {
+    "id": "sport_096",
+    "question": "In rowing, how many rowers are in a boat during a standard 'Coxed Eight' race?",
+    "options": [
+      "8 rowers",
+      "9 rowers",
+      "7 rowers",
+      "10 rowers"
+    ],
+    "correctAnswer": "8 rowers",
+    "category": "Sports",
+    "difficulty": "hard",
+    "explanation": "A standard coxed eight boat contains exactly 8 rowers pulling one oar each, plus one coxswain steering.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "rowing"
+    ]
+  },
+  {
+    "id": "sport_097",
+    "question": "Which nation has won the most overall medals in the history of the Winter Olympic Games?",
+    "options": [
+      "Norway",
+      "United States",
+      "Germany",
+      "Canada"
+    ],
+    "correctAnswer": "Norway",
+    "category": "Sports",
+    "difficulty": "hard",
+    "explanation": "Norway leads the all-time medal count for the Winter Olympic Games by a significant margin.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "olympics",
+      "records"
+    ]
+  },
+  {
+    "id": "sport_098",
+    "question": "Who was the first African-American player to play in Major League Baseball in the modern era?",
+    "options": [
+      "Jackie Robinson",
+      "Larry Doby",
+      "Satchel Paige",
+      "Roy Campanella"
+    ],
+    "correctAnswer": "Jackie Robinson",
+    "category": "Sports",
+    "difficulty": "hard",
+    "explanation": "Jackie Robinson broke the baseball color line when he started at first base for the Brooklyn Dodgers on April 15, 1947.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "baseball",
+      "history"
+    ]
+  },
+  {
+    "id": "sport_099",
+    "question": "In which city is the standard circuit layout for the Monaco Grand Prix located?",
+    "options": [
+      "Monte Carlo",
+      "La Condamine",
+      "Fontvieille",
+      "Monaco-Ville"
+    ],
+    "correctAnswer": "Monte Carlo",
+    "category": "Sports",
+    "difficulty": "hard",
+    "explanation": "The Monaco Grand Prix is laid out on the city streets of Monte Carlo and La Condamine.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "formula1"
+    ]
+  },
+  {
+    "id": "sport_100",
+    "question": "Which test cricket bowler has taken the most career wickets in Test history?",
+    "options": [
+      "Muttiah Muralitharan",
+      "Shane Warne",
+      "James Anderson",
+      "Anil Kumble"
+    ],
+    "correctAnswer": "Muttiah Muralitharan",
+    "category": "Sports",
+    "difficulty": "hard",
+    "explanation": "Sri Lankan spin bowler Muttiah Muralitharan took a record 800 wickets over his illustrious Test career.",
+    "imageUrl": null,
+    "createdBy": "system",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "isUserGenerated": false,
+    "tags": [
+      "cricket",
+      "records"
+    ]
+  }
+]

@@ -1,0 +1,5178 @@
+
+[
+{
+"id": "politics_001",
+"question": "What is the primary legislative body of the United States federal government?",
+"options": [
+"The Supreme Court",
+"The Congress",
+"The Parliament",
+"The Cabinet"
+],
+"correctAnswer": "The Congress",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "The United States Congress is the bicameral legislature of the federal government, consisting of the House of Representatives and the Senate.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"us politics",
+"government"
+]
+},
+{
+"id": "politics_002",
+"question": "Which political philosophy advocates for a classless society where all property is publicly owned?",
+"options": [
+"Capitalism",
+"Feudalism",
+"Communism",
+"Libertarianism"
+],
+"correctAnswer": "Communism",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "Communism is an ideology derived from Karl Marx, structured around common ownership of the means of production and the absence of social classes.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"ideology",
+"philosophy"
+]
+},
+{
+"id": "politics_003",
+"question": "The building shown in the image is the seat of which country's parliament?",
+"options": [
+"United Kingdom",
+"Canada",
+"Australia",
+"Hungary"
+],
+"correctAnswer": "United Kingdom",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "The Palace of Westminster serves as the meeting place for both the House of Commons and the House of Lords in the United Kingdom.",
+"imageUrl": "[https://example.com/images/politics_003.jpg](https://www.google.com/search?q=https://example.com/images/politics_003.jpg)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"institutions",
+"uk"
+]
+},
+{
+"id": "politics_004",
+"question": "What is the term lengths for a member of the United States Senate?",
+"options": [
+"2 years",
+"4 years",
+"6 years",
+"8 years"
+],
+"correctAnswer": "6 years",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "U.S. Senators are elected to six-year terms, with one-third of the Senate standing for election every two years.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"us politics",
+"elections"
+]
+},
+{
+"id": "politics_005",
+"question": "Which international organization was established in 1945 to maintain global peace and security?",
+"options": [
+"The League of Nations",
+"The United Nations",
+"NATO",
+"The European Union"
+],
+"correctAnswer": "The United Nations",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "The United Nations was founded immediately after World War II to replace the ineffective League of Nations and prevent future global conflicts.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"global affairs",
+"un"
+]
+},
+{
+"id": "politics_006",
+"question": "What political term describes a vote by which the electorate can express a view on a specific public policy proposal?",
+"options": [
+"Gerrymander",
+"Filibuster",
+"Referendum",
+"Coalition"
+],
+"correctAnswer": "Referendum",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "A referendum is a direct vote by the electorate on a single political question that has been referred to them for a direct decision.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"elections",
+"democracy"
+]
+},
+{
+"id": "politics_007",
+"question": "In political science, what does the 'Duverger's Law' theory assert?",
+"options": [
+"Proportional representation systems naturally tend to lead to a two-party system.",
+"Single-member district plurality voting systems tend to favor a two-party system.",
+"Dictatictorships inevitably transition to democracies over time.",
+"Voter turnout decreases as the number of active political parties increases."
+],
+"correctAnswer": "Single-member district plurality voting systems tend to favor a two-party system.",
+"category": "Politics",
+"difficulty": "hard",
+"explanation": " Duverger's Law suggests a structural relationship where winner-take-all electoral rules marginalize third parties, creating a stable two-party dynamic.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"theory",
+"elections"
+]
+},
+{
+"id": "politics_008",
+"question": "Who authored the influential 1513 political treatise 'The Prince'?",
+"options": [
+"Thomas Hobbes",
+"John Locke",
+"Niccolò Machiavelli",
+"Jean-Jacques Rousseau"
+],
+"correctAnswer": "Niccolò Machiavelli",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "Machiavelli wrote 'The Prince' as a practical guide for ruling, famous for its endorsement of realism and political pragmatism over conventional morality.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"philosophy",
+"history"
+]
+},
+{
+"id": "politics_009",
+"question": "Which country utilizes a unique directorial system of government where a seven-member council serves collective head of state?",
+"options": [
+"Switzerland",
+"San Marino",
+"New Zealand",
+"Singapore"
+],
+"correctAnswer": "Switzerland",
+"category": "Politics",
+"difficulty": "hard",
+"explanation": "The Federal Council of Switzerland acts as a collegial executive body, sharing executive duties and the presidency equally among seven elected members.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"systems",
+"global affairs"
+]
+},
+{
+"id": "politics_010",
+"question": "What is the primary function of the judicial branch in a system of separation of powers?",
+"options": [
+"To enforce and execute laws enacted by the state",
+"To interpret laws and resolve legal disputes",
+"To draft and pass public budget bills",
+"To negotiate and sign treaties with foreign powers"
+],
+"correctAnswer": "To interpret laws and resolve legal disputes",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "The judiciary evaluates laws to ensure compliance with constitutional principles, balancing the legislative and executive authorities.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"government",
+"law"
+]
+},
+{
+"id": "politics_011",
+"question": "Which system of governance concentrates all power within a central government, leaving subnational units with little to no independent authority?",
+"options": [
+"Federal system",
+"Unitary system",
+"Confederal system",
+"Anarchist system"
+],
+"correctAnswer": "Unitary system",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "In a unitary state, the central government is supreme, and any administrative divisions exercise only powers that the central government chooses to delegate.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"government",
+"systems"
+]
+},
+{
+"id": "politics_012",
+"question": "What political phenomenon describes redrawing electoral district boundaries to favor one specific political party over another?",
+"options": [
+"Filibustering",
+"Logrolling",
+"Gerrymandering",
+"Cloture"
+],
+"correctAnswer": "Gerrymandering",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "Gerrymandering manipulates district borders to maximize the voting power of the party in control of the redistricting process.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"elections",
+"us politics"
+]
+},
+{
+"id": "politics_013",
+"question": "The logo shown belongs to which prominent intergovernmental defense alliance established by the North Atlantic Treaty in 1949?",
+"options": [
+"The Warsaw Pact",
+"The European Union",
+"NATO",
+"ASEAN"
+],
+"correctAnswer": "NATO",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "The North Atlantic Treaty Organization (NATO) is a collective defense alliance established between North American and European nations.",
+"imageUrl": "[https://example.com/images/politics_013.jpg](https://www.google.com/search?q=https://example.com/images/politics_013.jpg)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"global affairs",
+"institutions"
+]
+},
+{
+"id": "politics_014",
+"question": "Which highly influential political philosopher authored 'Leviathan' in 1651, arguing for an absolute sovereign to avoid a state of nature?",
+"options": [
+"John Locke",
+"Thomas Hobbes",
+"Karl Marx",
+"Baron de Montesquieu"
+],
+"correctAnswer": "Thomas Hobbes",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "Hobbes argued that without a strong, undivided government, life would be 'solitary, poor, nasty, brutish, and short' due to human self-interest.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"philosophy",
+"theory"
+]
+},
+{
+"id": "politics_015",
+"question": "What term is used in parliamentary procedure to describe a prolonged speech intended to delay or entirely prevent a vote on a bill?",
+"options": [
+"Cloture",
+"Veto",
+"Filibuster",
+"Impeachment"
+],
+"correctAnswer": "Filibuster",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "A filibuster is a tactic used in legislative bodies, most notably the U.S. Senate, to obstruct progress by exploiting unlimited debate rules.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"parliamentary",
+"us politics"
+]
+},
+{
+"id": "politics_016",
+"question": "In a presidential system of government, who does the head of the executive branch report to and draw legitimacy from?",
+"options": [
+"The legislature directly",
+"The monarch or royal family",
+"The supreme judicial council",
+"The electorate, independently of the legislature"
+],
+"correctAnswer": "The electorate, independently of the legislature",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "Unlike parliamentary systems where the executive is chosen by parliament, a presidential system elects its executive head separate from the legislative body.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"systems",
+"government"
+]
+},
+{
+"id": "politics_017",
+"question": "Which major political ideology emphasizes individual liberty, the rule of law, private property, and limited government intervention?",
+"options": [
+"Socialism",
+"Fascism",
+"Liberalism",
+"Theocracy"
+],
+"correctAnswer": "Liberalism",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "Classical liberalism emerged during the Enlightenment, advocating for civil liberties, democracy, and free-market capitalist economic policies.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"ideology",
+"philosophy"
+]
+},
+{
+"id": "politics_018",
+"question": "What is the primary role of the International Court of Justice (ICJ)?",
+"options": [
+"To prosecute individuals for war crimes and genocide",
+"To settle legal disputes submitted to it by sovereign states",
+"To manage international trade tariffs and agreements",
+"To supervise elections in transitioning democratic nations"
+],
+"correctAnswer": "To settle legal disputes submitted to it by sovereign states",
+"category": "Politics",
+"difficulty": "hard",
+"explanation": "The ICJ is the principal judicial organ of the UN and handles state-to-state disputes, whereas the International Criminal Court (ICC) prosecutes individuals.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"global affairs",
+"law"
+]
+},
+{
+"id": "politics_019",
+"question": "Which economic and political thinker co-authored 'The Communist Manifesto' alongside Karl Marx in 1848?",
+"options": [
+"Friedrich Engels",
+"Vladimir Lenin",
+"Max Weber",
+"Adam Smith"
+],
+"correctAnswer": "Friedrich Engels",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "Friedrich Engels was a German philosopher who helped develop Marxist theory and financially supported Marx's critical analyses of capitalism.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"philosophy",
+"history"
+]
+},
+{
+"id": "politics_020",
+"question": "What constitutional mechanism allows a president or governor to reject a specific line item in an appropriations bill without rejecting the entire bill?",
+"options": [
+"Pocket veto",
+"Line-item veto",
+"Executive order",
+"Legislative override"
+],
+"correctAnswer": "Line-item veto",
+"category": "Politics",
+"difficulty": "hard",
+"explanation": "A line-item veto permits executives to strike specific spending items, though it was declared unconstitutional at the US federal level in 1998.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"law",
+"government"
+]
+},
+{
+"id": "politics_021",
+"question": "The flag shown belongs to which major international political and economic union consisting of 27 member states primarily located in Europe?",
+"options": [
+"Council of Europe",
+"Schengen Area",
+"European Union",
+"Eurozone"
+],
+"correctAnswer": "European Union",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "The European Union operates through a hybrid system of supranational independent institutions and intergovernmental negotiated decisions.",
+"imageUrl": "[https://example.com/images/politics_021.jpg](https://www.google.com/search?q=https://example.com/images/politics_021.jpg)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"global affairs",
+"institutions"
+]
+},
+{
+"id": "politics_022",
+"question": "What structural concept prevents any single branch of government from obtaining dominant, unmonitored power over the state?",
+"options": [
+"Federalism",
+"Checks and balances",
+"Proportionality",
+"Popular sovereignty"
+],
+"correctAnswer": "Checks and balances",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "Checks and balances give branches of government constitutional mechanisms to counter and limit the actions of other branches.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"government",
+"democracy"
+]
+},
+{
+"id": "politics_023",
+"question": "Which electoral system allocates legislative seats to political parties based directly on the percentage of total votes they receive?",
+"options": [
+"First-Past-The-Post",
+"Ranked-choice voting",
+"Proportional representation",
+"Two-round system"
+],
+"correctAnswer": "Proportional representation",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "Proportional representation aims to create a body that closely mirrors the wider public vote distribution, favoring multi-party systems.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"elections",
+"systems"
+]
+},
+{
+"id": "politics_024",
+"question": "What is the primary characteristic of an autocracy?",
+"options": [
+"Governance by a small group of religious elites",
+"Power concentrated in the hands of a single supreme ruler",
+"A weak central government with strong regional states",
+"Direct rule by the general citizen populace"
+],
+"correctAnswer": "Power concentrated in the hands of a single supreme ruler",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "An autocracy is a system of government where absolute power over a state is held by one person, whose decisions are subject to no external constraints.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"systems",
+"ideology"
+]
+},
+{
+"id": "politics_025",
+"question": "Who served as the first female Prime Minister of the United Kingdom, leading the country from 1979 to 1990?",
+"options": [
+"Theresa May",
+"Angela Merkel",
+"Margaret Thatcher",
+"Indira Gandhi"
+],
+"correctAnswer": "Margaret Thatcher",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "Known as the 'Iron Lady', Margaret Thatcher introduced robust conservative economic and structural reforms across the UK.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"history",
+"uk"
+]
+},
+{
+"id": "politics_026",
+"question": "Which amendment to the United States Constitution explicitly protects freedom of speech, religion, the press, and peaceful assembly?",
+"options": [
+"First Amendment",
+"Second Amendment",
+"Fifth Amendment",
+"Fourteenth Amendment"
+],
+"correctAnswer": "First Amendment",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "The First Amendment prevents the government from establishing a state religion or abridging the citizens' fundamental expressive freedoms.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"us politics",
+"law"
+]
+},
+{
+"id": "politics_027",
+"question": "What is the political term for an informal coalition or agreement where politicians trade votes on separate bills to secure passage of their own?",
+"options": [
+"Pork-barrel politics",
+"Logrolling",
+"Filibustering",
+"Gerontocracy"
+],
+"correctAnswer": "Logrolling",
+"category": "Politics",
+"difficulty": "hard",
+"explanation": "Logrolling occurs frequently in legislatures when lawmakers agree to support each other's individual projects or bills to secure critical majorities.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"parliamentary",
+"theory"
+]
+},
+{
+"id": "politics_028",
+"question": "Which international framework agreement was adopted in 1997 to commit state parties to reduce greenhouse gas emissions?",
+"options": [
+"The Geneva Convention",
+"The Kyoto Protocol",
+"The Treaty of Versailles",
+"The Paris Accord"
+],
+"correctAnswer": "The Kyoto Protocol",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "The Kyoto Protocol operationalized the UNFCCC by committing industrialized nations and economies to stabilize greenhouse gas emissions.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"global affairs",
+"treaties"
+]
+},
+{
+"id": "politics_029",
+"question": "What structural feature defines a bicameral legislature?",
+"options": [
+"Elections held exactly every two years",
+"A body composed of two distinct houses or chambers",
+"Power shared equally between executive and judicial forces",
+"A single parliament operating alongside a constitutional monarch"
+],
+"correctAnswer": "A body composed of two distinct houses or chambers",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "Bicameral systems, such as the US Congress or UK Parliament, separate legislative duties across two chambers to enable internal checks.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"government",
+"parliamentary"
+]
+},
+{
+"id": "politics_030",
+"question": "In international relations, what realist concept asserts that states naturally maximize security by preventing any one state from dominating?",
+"options": [
+"Soft Power",
+"Balance of Power",
+"Détente",
+"Isolationism"
+],
+"correctAnswer": "Balance of Power",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "The Balance of Power theory posits that national security is enhanced when military capability is distributed so no single state is strong enough to dominate all others.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"global affairs",
+"theory"
+]
+},
+{
+"id": "politics_031",
+"question": "Which form of democracy involves citizens voting directly on public policies and laws rather than electing representatives?",
+"options": [
+"Representative democracy",
+"Direct democracy",
+"Constitutional republic",
+"Oligarchy"
+],
+"correctAnswer": "Direct democracy",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "Direct democracy allows citizens to decide policy initiatives directly, as seen historically in ancient Athens or today through referendums.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"democracy",
+"systems"
+]
+},
+{
+"id": "politics_032",
+"question": "What field of study explores the explicit relationship between a state's geographic location and its foreign policy decisions?",
+"options": [
+"Sociobiology",
+"Geopolitics",
+"Macroeconomics",
+"Demography"
+],
+"correctAnswer": "Geopolitics",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "Geopolitics analyzes how physical geography, resources, and spatial distributions shape international state interactions and strategies.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"global affairs",
+"theory"
+]
+},
+{
+"id": "politics_033",
+"question": "The historical document pictured, signed in 1215, famously limited the absolute power of the English monarchy. What is it called?",
+"options": [
+"The Declaration of Independence",
+"The Magna Carta",
+"The Treaty of Westphalia",
+"The English Bill of Rights"
+],
+"correctAnswer": "The Magna Carta",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "The Magna Carta established the foundational principle that everyone, including the king, is subject to the rule of law.",
+"imageUrl": "[https://example.com/images/politics_033.jpg](https://www.google.com/search?q=https://example.com/images/politics_033.jpg)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"history",
+"law"
+]
+},
+{
+"id": "politics_034",
+"question": "Which critical United States Supreme Court case established the principle of judicial review in 1803?",
+"options": [
+"Brown v. Board of Education",
+"Marbury v. Madison",
+"McCulloch v. Maryland",
+"Roe v. Wade"
+],
+"correctAnswer": "Marbury v. Madison",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "Marbury v. Madison gave the Supreme Court the authority to declare acts of Congress unconstitutional, solidifying judicial power.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"us politics",
+"law"
+]
+},
+{
+"id": "politics_035",
+"question": "What name is given to the process where a legislative body formally levels charges against a high-ranking public official for misconduct?",
+"options": [
+"Censure",
+"Impeachment",
+"Recall",
+"Expulsion"
+],
+"correctAnswer": "Impeachment",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "Impeachment is a formal accusation step in a legislative trial; it does not automatically remove the official from office.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"government",
+"law"
+]
+},
+{
+"id": "politics_036",
+"question": "What theory of international relations emphasizes the importance of international institutions, trade, and shared values in preventing conflict?",
+"options": [
+"Realism",
+"Liberalism",
+"Constructivism",
+"Marxism"
+],
+"correctAnswer": "Liberalism",
+"category": "Politics",
+"difficulty": "hard",
+"explanation": "Liberal international relations theory argues that global cooperation, institutional networks, and economic interdependence reduce international security risks.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"global affairs",
+"theory"
+]
+},
+{
+"id": "politics_037",
+"question": "What is a coalition government?",
+"options": [
+"A government led by a military junta",
+"A temporary alliance of multiple political parties formed to achieve a legislative majority",
+"A single-party regime with absolute executive mandate",
+"A governing structure managed entirely by neutral technocrats"
+],
+"correctAnswer": "A temporary alliance of multiple political parties formed to achieve a legislative majority",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "Coalition governments are common in parliamentary systems with proportional representation when no single party wins an outright majority.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"parliamentary",
+"systems"
+]
+},
+{
+"id": "politics_038",
+"question": "Which country is governed under a strict modern absolute monarchy, where the King acts as prime minister and absolute legal authority?",
+"options": [
+"Saudi Arabia",
+"Japan",
+"Jordan",
+"Morocco"
+],
+"correctAnswer": "Saudi Arabia",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "Saudi Arabia remains an absolute monarchy, where the Basic Law dictates that the Quran and Sunnah serve as the state constitution.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"systems",
+"global affairs"
+]
+},
+{
+"id": "politics_039",
+"question": "What critical historical peace treaties, signed in 1648, established the framework of modern state sovereignty in Europe?",
+"options": [
+"The Treaty of Versailles",
+"The Peace of Westphalia",
+"The Congress of Vienna",
+"The Treaty of Utrecht"
+],
+"correctAnswer": "The Peace of Westphalia",
+"category": "Politics",
+"difficulty": "hard",
+"explanation": "The Peace of Westphalia ended the Thirty Years' War, introducing the principle of territorial integrity and non-interference in internal affairs.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"history",
+"treaties"
+]
+},
+{
+"id": "politics_040",
+"question": "What terms are widely used to categorize the standard political spectrum, representing progressive ideas versus traditionalist viewpoints?",
+"options": [
+"North and South",
+"Left and Right",
+"Federal and State",
+"Hawks and Doves"
+],
+"correctAnswer": "Left and Right",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "The spectrum originated from the seating arrangements in the French National Assembly during the Revolution of 1789.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"ideology",
+"theory"
+]
+},
+{
+"id": "politics_041",
+"question": "What form of authoritarian government seeks total control over the public and private lives of its citizens through mass surveillance and propaganda?",
+"options": [
+"Constitutional monarchy",
+"Totalitarianism",
+"Pluralism",
+"Libertarianism"
+],
+"correctAnswer": "Totalitarianism",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "Totalitarian regimes systematically crush opposition, utilize state propaganda networks, and direct all civic institutions toward state goals.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"systems",
+"ideology"
+]
+},
+{
+"id": "politics_042",
+"question": "Who was the primary architect of the Indian Constitution, widely celebrated as its 'Father'?",
+"options": [
+"Mahatma Gandhi",
+"Jawaharlal Nehru",
+"B. R. Ambedkar",
+"Subhas Chandra Bose"
+],
+"correctAnswer": "B. R. Ambedkar",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "Dr. Bhimrao Ramji Ambedkar served as the chairman of the Drafting Committee for India's comprehensive constitution.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"history",
+"law"
+]
+},
+{
+"id": "politics_043",
+"question": "The flag pictured belongs to which international political body, serving as the executive branch of the European Union?",
+"options": [
+"The European Council",
+"The European Parliament",
+"The European Commission",
+"The Court of Justice"
+],
+"correctAnswer": "The European Commission",
+"category": "Politics",
+"difficulty": "hard",
+"explanation": "The European Commission proposes legislation, implements policies, and upholds EU treaties as its operational executive arm.",
+"imageUrl": "[https://example.com/images/politics_043.jpg](https://www.google.com/search?q=https://example.com/images/politics_043.jpg)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"global affairs",
+"institutions"
+]
+},
+{
+"id": "politics_044",
+"question": "What standard political term refers to the entire body of individuals who possess the legal right to vote in an election?",
+"options": [
+"Incumbents",
+"Constituents",
+"Electorate",
+"Delegates"
+],
+"correctAnswer": "Electorate",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "The electorate comprises all citizens of a nation who fulfill legal age and status requirements to participate in public elections.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"elections",
+"democracy"
+]
+},
+{
+"id": "politics_045",
+"question": "Which influential French social philosopher developed the definitive theory on the separation of executive, legislative, and judicial powers?",
+"options": [
+"Voltaire",
+"Baron de Montesquieu",
+"Jean-Jacques Rousseau",
+"Alexis de Tocqueville"
+],
+"correctAnswer": "Baron de Montesquieu",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "Montesquieu published 'The Spirit of the Laws' in 1748, establishing the foundational basis for modern balanced democratic frameworks.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"philosophy",
+"theory"
+]
+},
+{
+"id": "politics_046",
+"question": "What is the primary objective of a standard political action committee (PAC) within United States campaign politics?",
+"options": [
+"To count and verify election day ballots",
+"To raise and distribute campaign funds to candidates running for office",
+"To draft laws directly for congressional committees",
+"To appoint federal judges to regional circuit courts"
+],
+"correctAnswer": "To raise and distribute campaign funds to candidates running for office",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "PACs pool campaign contributions from group members and allocate funds to elect or defeat specific political candidates.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"us politics",
+"elections"
+]
+},
+{
+"id": "politics_047",
+"question": "What specific type of political regime is characterized by governance by a small, wealthy, and highly privileged ruling elite?",
+"options": [
+"Meritocracy",
+"Oligarchy",
+"Monarchy",
+"Kakistocracy"
+],
+"correctAnswer": "Oligarchy",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "An oligarchy concentrates sovereign authority within a small segment of society distinguished by wealth, family ties, or military control.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"systems",
+"ideology"
+]
+},
+{
+"id": "politics_048",
+"question": "Which critical 1954 United States Supreme Court ruling declared segregated public schools fundamentally unconstitutional?",
+"options": [
+"Plessy v. Ferguson",
+"Brown v. Board of Education",
+"Gideon v. Wainwright",
+"Obergefell v. Hodges"
+],
+"correctAnswer": "Brown v. Board of Education",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "Brown v. Board of Education overturned the 'separate but equal' doctrine established decades earlier by Plessy v. Ferguson.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"us politics",
+"law"
+]
+},
+{
+"id": "politics_049",
+"question": "In the context of voting methods, what does the term 'Plurality' explicitly signify?",
+"options": [
+"Receiving more than 50 percent of all cast votes",
+"Receiving the most votes among all candidates, regardless of an absolute majority",
+"Winning through a unanimous decision across electoral college votes",
+"Securing two-thirds of the legislative body's endorsement"
+],
+"correctAnswer": "Receiving the most votes among all candidates, regardless of an absolute majority",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "A candidate can win via plurality in multi-candidate fields by simply securing more votes than their closest competitor.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"elections",
+"theory"
+]
+},
+{
+"id": "politics_050",
+"question": "What foundational socio-political theory explores an implicit contract where citizens surrender certain liberties for state protection?",
+"options": [
+"Divine Right theory",
+"Social Contract theory",
+"Utilitarian theory",
+"Pluralist theory"
+],
+"correctAnswer": "Social Contract theory",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "Social Contract theory was famously advanced by philosophers like Hobbes, Locke, and Rousseau to explain civil government legitimacy.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"philosophy",
+"theory"
+]
+},
+{
+"id": "politics_051",
+"question": "Which executive body within the United Nations possesses the unique authority to issue legally binding resolutions to member states?",
+"options": [
+"The General Assembly",
+"The Security Council",
+"The Trusteeship Council",
+"The Secretariat"
+],
+"correctAnswer": "The Security Council",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "The UN Security Council, composed of 5 permanent and 10 non-permanent members, maintains international peace via binding legal measures.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"global affairs",
+"un"
+]
+},
+{
+"id": "politics_052",
+"question": "What type of public political platform features a nationwide popular vote called by a government to determine a crucial constitutional issue?",
+"options": [
+"Caucus",
+"Primary",
+"Referendum",
+"Gerrymander"
+],
+"correctAnswer": "Referendum",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "Referendums allow the entire electorate to directly approve or reject public laws or constitutional amendments.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"democracy",
+"elections"
+]
+},
+{
+"id": "politics_053",
+"question": "The public building pictured serves as the official operational workspace and residence for the President of which nation?",
+"options": [
+"France",
+"United States",
+"Russia",
+"South Korea"
+],
+"correctAnswer": "United States",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "The White House, located at 1600 Pennsylvania Avenue in Washington, D.C., is the official home and office of the U.S. President.",
+"imageUrl": "[https://example.com/images/politics_053.jpg](https://www.google.com/search?q=https://example.com/images/politics_053.jpg)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"us politics",
+"government"
+]
+},
+{
+"id": "politics_054",
+"question": "What is the standard term length for a judge appointed to the United States Supreme Court?",
+"options": [
+"4 years",
+"10 years",
+"20 years",
+"Life tenure during good behavior"
+],
+"correctAnswer": "Life tenure during good behavior",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "U.S. Supreme Court Justices serve for life or until resignation, insulation from direct short-term political pressures.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"us politics",
+"law"
+]
+},
+{
+"id": "politics_055",
+"question": "Which influential socio-political treatise on the social contract begins with the line, 'Man is born free, and everywhere he is in chains'?",
+"options": [
+"Two Treatises of Government",
+"The Social Contract",
+"The Leviathan",
+"Common Sense"
+],
+"correctAnswer": "The Social Contract",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "Jean-Jacques Rousseau published 'The Social Contract' in 1762, advocating for popular sovereignty and the concept of the general will.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"philosophy",
+"theory"
+]
+},
+{
+"id": "politics_056",
+"question": "What unique diplomatic power allows the 5 permanent members of the UN Security Council to block any substantive draft resolution?",
+"options": [
+"Pocket Veto",
+"Absolute Veto",
+"Executive Override",
+"Judicial Stay"
+],
+"correctAnswer": "Absolute Veto",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "The veto power enables any permanent member (US, UK, France, Russia, China) to stop resolutions regardless of international support.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"global affairs",
+"un"
+]
+},
+{
+"id": "politics_057",
+"question": "What is the primary objective of 'realpolitik' in international diplomacy?",
+"options": [
+"Advancing idealistic human rights frameworks globally",
+" Basing foreign policy strictly on practical, national interest calculations",
+"Prioritizing international consensus and binding trade treaties",
+"Promoting religious alignment across allied nation-states"
+],
+"correctAnswer": " Basing foreign policy strictly on practical, national interest calculations",
+"category": "Politics",
+"difficulty": "hard",
+"explanation": "Realpolitik prioritizes power dynamics and pragmatic state survival factors over abstract ideological or moral concerns.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"global affairs",
+"theory"
+]
+},
+{
+"id": "politics_058",
+"question": "Which system of governance is explicitly ruled by religious leaders who derive legal authority from divine doctrine?",
+"options": [
+"Plutocracy",
+"Theocracy",
+"Meritocracy",
+"Aristocracy"
+],
+"correctAnswer": "Theocracy",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "In a theocracy, religious texts or leadership hierarchies determine civil law, as observed in Vatican City or Iran.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"systems",
+"ideology"
+]
+},
+{
+"id": "politics_059",
+"question": "What primary function does a party whip perform inside a modern legislative assembly?",
+"options": [
+"Presiding over constitutional debates in the lower house",
+"Ensuring that party members attend sessions and vote according to official party policy",
+"Representing the cabinet before the state judicial supreme court",
+"Counting physical election ballots on election night"
+],
+"correctAnswer": "Ensuring that party members attend sessions and vote according to official party policy",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "Whips enforce party discipline, acting as intermediaries to track legislative votes and ensure uniform party alignment.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"parliamentary",
+"government"
+]
+},
+{
+"id": "politics_060",
+"question": "Which complex economic and political indicator explicitly measures a country's average achievements in health, knowledge, and standard of living?",
+"options": [
+"Gross Domestic Product (GDP)",
+"Human Development Index (HDI)",
+"Consumer Price Index (CPI)",
+"Gini Coefficient"
+],
+"correctAnswer": "Human Development Index (HDI)",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "The UN Development Programme uses the HDI to assess national performance beyond pure macroeconomic production values.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"global affairs",
+"economy"
+]
+},
+{
+"id": "politics_061",
+"question": "What specific term describes a political state where independent regional states hand over select powers to a strong central federal system?",
+"options": [
+"Federalism",
+"Feudalism",
+"Totalitarianism",
+"Direct Monarchy"
+],
+"correctAnswer": "Federalism",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "Federalism structures legal governance by splitting power between central national systems and state or provincial authorities.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"government",
+"systems"
+]
+},
+{
+"id": "politics_062",
+"question": "Which global financial institution, headquartered in Washington D.C., provides loans and grants to low-and-middle-income countries for capital projects?",
+"options": [
+"The World Bank",
+"The World Trade Organization",
+"The Federal Reserve",
+"The European Central Bank"
+],
+"correctAnswer": "The World Bank",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "The World Bank aims to reduce poverty by financing infrastructural developments and structural adjustment programs worldwide.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"global affairs",
+"economy"
+]
+},
+{
+"id": "politics_063",
+"question": "The public complex pictured is the Kremlin. It represents the historical and current executive center of power for which nation?",
+"options": [
+"Ukraine",
+"Russia",
+"Poland",
+"Belarus"
+],
+"correctAnswer": "Russia",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "The Moscow Kremlin is a fortified complex that serves as the official residence of the President of the Russian Federation.",
+"imageUrl": "[https://example.com/images/politics_063.jpg](https://www.google.com/search?q=https://example.com/images/politics_063.jpg)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"global affairs",
+"russia"
+]
+},
+{
+"id": "politics_064",
+"question": "In international humanitarian law, which comprehensive conventions establish rules for the humane treatment of wounded soldiers and prisoners of war?",
+"options": [
+"The Geneva Conventions",
+"The Paris Peace Treaties",
+"The Nuremberg Codes",
+"The Hague Declarations"
+],
+"correctAnswer": "The Geneva Conventions",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "The Geneva Conventions comprise four treaties and three protocols that define crucial international protections for non-combatants during wartime.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"law",
+"global affairs"
+]
+},
+{
+"id": "politics_065",
+"question": "What is the term limits for the President of the United States under the Twenty-Second Amendment?",
+"options": [
+"One term of 6 years",
+"Two terms of 4 years each",
+"Three terms of 4 years each",
+"There are no explicit term limits"
+],
+"correctAnswer": "Two terms of 4 years each",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "Passed in 1947 following Franklin D. Roosevelt's four-term presidency, the 22nd Amendment limits individuals to two presidential terms.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"us politics",
+"law"
+]
+},
+{
+"id": "politics_066",
+"question": "What socio-political philosophy focuses on preserving traditional institutions and gradual social evolution over rapid revolutionary transformation?",
+"options": [
+"Socialism",
+"Conservatism",
+"Radicalism",
+"Anarchism"
+],
+"correctAnswer": "Conservatism",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "Conservatism emphasizes the preservation of established customs, social hierarchies, and organic community development.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"ideology",
+"philosophy"
+]
+},
+{
+"id": "politics_067",
+"question": "Which influential modern political thinker introduced the concept of 'hegemony' to explain how states use cultural institutions to maintain power?",
+"options": [
+"Antonio Gramsci",
+"Michel Foucault",
+"John Maynard Keynes",
+"Karl Popper"
+],
+"correctAnswer": "Antonio Gramsci",
+"category": "Politics",
+"difficulty": "hard",
+"explanation": "Gramsci argued that the ruling class maintains control not just through force, but by shaping societal beliefs through cultural institutions.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"philosophy",
+"theory"
+]
+},
+{
+"id": "politics_068",
+"question": "What form of legislative oversight allows a parliamentary minority to challenge an incumbent government to prove it still holds working majority support?",
+"options": [
+"Motion of Censure",
+"Vote of No Confidence",
+"Cloture Motion",
+"Impeachment Resolution"
+],
+"correctAnswer": "Vote of No Confidence",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "If a vote of no confidence passes, the prime minister and cabinet must resign or dissolve parliament to trigger a new general election.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"parliamentary",
+"systems"
+]
+},
+{
+"id": "politics_069",
+"question": "Which prominent constitutional framework features an uncodified constitution scattered across historic statutes, judicial precedents, and convention protocols?",
+"options": [
+"The United States",
+"The United Kingdom",
+"The French Republic",
+"The Federal Republic of Germany"
+],
+"correctAnswer": "The United Kingdom",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "The UK does not have a single written constitutional document; its constitutional laws can be altered by standard Acts of Parliament.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"uk",
+"law"
+]
+},
+{
+"id": "politics_070",
+"question": "What is the primary function of an electoral college system in presidential elections?",
+"options": [
+"To verify individual voter registration lists prior to election day",
+"To filter national popular votes through assigned regional electors to determine the executive head",
+"To fund the political party primary networks",
+"To adjust electoral boundaries following census reports"
+],
+"correctAnswer": "To filter national popular votes through assigned regional electors to determine the executive head",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "The U.S. uses an Electoral College where states are allocated electors based on their total congressional representation.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"elections",
+"us politics"
+]
+},
+{
+"id": "politics_071",
+"question": "Which ideological framework rejects the legitimacy of all forms of involuntary hierarchy, advocating for the total abolition of the state apparatus?",
+"options": [
+"Fascism",
+"Anarchism",
+"Minarchism",
+"Statism"
+],
+"correctAnswer": "Anarchism",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "Anarchism promotes self-managed societies built upon voluntary associations, viewing the state as inherently coercive and undesirable.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"ideology",
+"philosophy"
+]
+},
+{
+"id": "politics_072",
+"question": "What term is used to describe a government where political power is held by the elderly population?",
+"options": [
+"Technocracy",
+"Gerontocracy",
+"Plutocracy",
+"Meritocracy"
+],
+"correctAnswer": "Gerontocracy",
+"category": "Politics",
+"difficulty": "hard",
+"explanation": "A gerontocracy features a leadership class that is significantly older than the average adult populace of the state.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"systems",
+"theory"
+]
+},
+{
+"id": "politics_073",
+"question": "The emblem shown belongs to which major specialized agency of the United Nations responsible for international public health?",
+"options": [
+"UNICEF",
+"UNESCO",
+"World Health Organization (WHO)",
+"World Bank"
+],
+"correctAnswer": "World Health Organization (WHO)",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "Established in 1948, the WHO coordinates global health responses, sets standards, and tracks global epidemiological threats.",
+"imageUrl": "[https://example.com/images/politics_073.jpg](https://www.google.com/search?q=https://example.com/images/politics_073.jpg)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"global affairs",
+"un"
+]
+},
+{
+"id": "politics_074",
+"question": "What major socio-political change occurred in the United States with the passage of the Nineteenth Amendment in 1920?",
+"options": [
+"The total abolition of slavery across all states",
+"The prohibition of manufacturing and selling alcoholic beverages",
+"The expansion of voting rights to female citizens",
+"The establishment of direct elections for U.S. Senators"
+],
+"correctAnswer": "The expansion of voting rights to female citizens",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "The 19th Amendment prohibited the states and federal government from denying citizens the right to vote on account of sex.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"us politics",
+"elections"
+]
+},
+{
+"id": "politics_075",
+"question": "In international relations, what concept describes a nation achieving its goals through attraction and persuasion rather than military or financial coercion?",
+"options": [
+"Hard Power",
+"Soft Power",
+"Brinkmanship",
+"Détente"
+],
+"correctAnswer": "Soft Power",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "Coined by Joseph Nye, soft power leverages cultural values, foreign policies, and diplomacy to shape the preferences of other nations.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"global affairs",
+"theory"
+]
+},
+{
+"id": "politics_076",
+"question": "What is the primary function of the civil service within a modern democratic executive framework?",
+"options": [
+"To draft political manifestos for political party platforms",
+"To carry out and administer the daily operations of public laws and state agencies impartially",
+"To ruling on constitutional legal challenges brought against state departments",
+"To debate foreign treaties within legislative chambers"
+],
+"correctAnswer": "To carry out and administer the daily operations of public laws and state agencies impartially",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "The civil service forms the permanent, professional bureaucracy that serves successive political governments neutrally.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"government",
+"institutions"
+]
+},
+{
+"id": "politics_077",
+"question": "Which prominent Enlightenment philosopher authored 'Two Treatises of Government', heavily influencing the concept of natural rights to life, liberty, and estate?",
+"options": [
+"Thomas Hobbes",
+"John Locke",
+"Immanuel Kant",
+"David Hume"
+],
+"correctAnswer": "John Locke",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "Locke's theories on the consent of the governed and individual rights served as intellectual foundations for the American and French Revolutions.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"philosophy",
+"theory"
+]
+},
+{
+"id": "politics_078",
+"question": "What is the specific political science term for an authoritative decision where a court alters its own judicial precedent to adapt to modern norms?",
+"options": [
+"Stare Decisis",
+"Judicial Overruling",
+"Summary Judgment",
+" Writ of Mandamus"
+],
+"correctAnswer": "Judicial Overruling",
+"category": "Politics",
+"difficulty": "hard",
+"explanation": "Judicial overruling occurs when a higher court decides that a previous landmark legal decision was incorrect or no longer applies.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"law",
+"theory"
+]
+},
+{
+"id": "politics_079",
+"question": "Which political system divides legislative power between a central body and smaller regional divisions while reserving separate spheres of authority?",
+"options": [
+"Unitary system",
+"Federalism",
+"Direct assembly",
+"Authoritarian regime"
+],
+"correctAnswer": "Federalism",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "Federal states (like Canada, Germany, and India) utilize constitutional rules to divide sovereignty between nationwide and provincial governments.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"systems",
+"government"
+]
+},
+{
+"id": "politics_080",
+"question": "What term describes the temporary easing of strained relations and geopolitical tensions between rival superpowers, notably observed during the Cold War?",
+"options": [
+"Brinkmanship",
+"Détente",
+"Appeasement",
+"Containment"
+],
+"correctAnswer": "Détente",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "Détente refers to periods of normalized communications and treaty signings between nations to minimize existential conflict risks.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"global affairs",
+"history"
+]
+},
+{
+"id": "politics_081",
+"question": "In political discourse, what does a 'populist' political dynamic typically claim to represent?",
+"options": [
+"The interests of corporate entities and financial institutions",
+"The will of 'the pure people' against a 'corrupt elite class'",
+"Strict legal adherence to traditional constitutional principles",
+"The foreign policy guidelines of global intergovernmental bodies"
+],
+"correctAnswer": "The will of 'the pure people' against a 'corrupt elite class'",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "Populism combines with various ideologies to construct a narrative of ordinary citizens struggling against established power groupings.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"ideology",
+"theory"
+]
+},
+{
+"id": "politics_082",
+"question": "Which foundational global agreement, drafted in 1948 by a United Nations commission chaired by Eleanor Roosevelt, outlines universal human rights?",
+"options": [
+"The Magna Carta",
+"The Universal Declaration of Human Rights",
+"The Treaty of Rome",
+"The Bill of Rights"
+],
+"correctAnswer": "The Universal Declaration of Human Rights",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "The UDHR serves as a common standard of achievements for all peoples and all nations regarding basic protections.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"global affairs",
+"un"
+]
+},
+{
+"id": "politics_083",
+"question": "The institutional flag shown belongs to the African Union. In which city is its headquarters located?",
+"options": [
+"Nairobi, Kenya",
+"Cairo, Egypt",
+"Addis Ababa, Ethiopia",
+"Johannesburg, South Africa"
+],
+"correctAnswer": "Addis Ababa, Ethiopia",
+"category": "Politics",
+"difficulty": "hard",
+"explanation": "The African Union's headquarters complex is situated in Addis Ababa, symbolizing continental diplomatic coordination.",
+"imageUrl": "[https://example.com/images/politics_083.jpg](https://www.google.com/search?q=https://example.com/images/politics_083.jpg)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"global affairs",
+"institutions"
+]
+},
+{
+"id": "politics_084",
+"question": "What tool of executive privilege allows a U.S. President to issue binding directives to federal agencies without congressional approval?",
+"options": [
+"Executive Order",
+"Legislative Veto",
+"Cloture",
+"Pardon"
+],
+"correctAnswer": "Executive Order",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "Executive orders manage operations of the executive branch and hold the force of law, but can be reviewed by federal courts.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"us politics",
+"government"
+]
+},
+{
+"id": "politics_085",
+"question": "Which macro-level governing ideology seeks to balance democratic political structures with an extensive welfare state and regulated capitalism?",
+"options": [
+"Libertarianism",
+"Social Democracy",
+"Anarcho-syndicalism",
+"Authoritarian Socialism"
+],
+"correctAnswer": "Social Democracy",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "Social democracy aims to reduce inequality through progressive taxation, universal healthcare, and labor union protections within a capitalist economy.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"ideology",
+"philosophy"
+]
+},
+{
+"id": "politics_086",
+"question": "What is the primary objective of a 'shadow cabinet' in Westminster-style parliamentary systems?",
+"options": [
+"To direct intelligence and clandestine foreign operations",
+"To mirror the incumbent government cabinet to scrutinize policies and prepare for leadership",
+"To manage the public budget behind closed judicial hearings",
+"To draft neutral legal interpretations for local state councils"
+],
+"correctAnswer": "To mirror the incumbent government cabinet to scrutinize policies and prepare for leadership",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "Formed by the official opposition party, the shadow cabinet holds ministers accountable and presents alternative policies.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"parliamentary",
+"systems"
+]
+},
+{
+"id": "politics_087",
+"question": "Which historical legal document served as the very first national constitution for the United States prior to the 1787 Philadelphia Convention?",
+"options": [
+"The Declaration of Independence",
+"The Articles of Confederation",
+"The Federalist Papers",
+"The Bill of Rights"
+],
+"correctAnswer": "The Articles of Confederation",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "The Articles of Confederation established a weak central framework that lacked the authority to levy taxes or regulate commerce effectively.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"us politics",
+"history"
+]
+},
+{
+"id": "politics_088",
+"question": "In international diplomacy, what does the term 'Persona Non Grata' translate to and legally imply?",
+"options": [
+"A binding trade agreement between two democratic states",
+"An unwelcome diplomat who is officially barred or expelled from a host country",
+"A state of emergency where constitutional laws are suspended",
+"The immunity from arrest granted to heads of international organizations"
+],
+"correctAnswer": "An unwelcome diplomat who is officially barred or expelled from a host country",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "Under the Vienna Convention, a host state can declare any foreign diplomatic staff member persona non grata without giving an explanation.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"global affairs",
+"law"
+]
+},
+{
+"id": "politics_089",
+"question": "What is the primary mechanism of an initiative voting procedure?",
+"options": [
+"Allowing legislative committees to bypass executive veto power",
+"Enabling citizens to place proposed laws directly on the ballot via petition",
+"Permitting judges to remove public officials from civic office",
+"A automatic recount triggered by narrow election outcomes"
+],
+"correctAnswer": "Enabling citizens to place proposed laws directly on the ballot via petition",
+"category": "Politics",
+"difficulty": "hard",
+"explanation": "Initiatives are tools of direct democracy that allow voters to circumvent the state legislature to enact statutory changes.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"democracy",
+"elections"
+]
+},
+{
+"id": "politics_090",
+"question": "Which classical political philosopher's lectures formed the foundational framework of 'Politics', a treatise analyzing structural governance models in Greece?",
+"options": [
+"Socrates",
+"Plato",
+"Aristotle",
+"Cicero"
+],
+"correctAnswer": "Aristotle",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "Aristotle categorized governments based on who rules and whether they rule in the common interest or self-interest.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"philosophy",
+"history"
+]
+},
+{
+"id": "politics_091",
+"question": "What term describes a condition where no single state has structural hegemony, creating an international framework ruled by two competing superpower states?",
+"options": [
+"Unipolarity",
+"Bipolarity",
+"Multipolarity",
+"Anarchy"
+],
+"correctAnswer": "Bipolarity",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "Bipolar distribution of global power was most clearly exemplified by the geopolitical standoff between the United States and the Soviet Union.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"global affairs",
+"theory"
+]
+},
+{
+"id": "politics_092",
+"question": "What is the explicit role of the 'Speaker of the House' within the United States House of Representatives?",
+"options": [
+"To serve as the primary legal advisor to the Supreme Court",
+"To act as the presiding officer and administrative head of the legislative chamber",
+"To command federal military branches during international actions",
+"To manage diplomatic assignments across global embassies"
+],
+"correctAnswer": "To act as the presiding officer and administrative head of the legislative chamber",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "The Speaker is chosen by members of the House, manages legislative agendas, and is second in the presidential line of succession.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"us politics",
+"government"
+]
+},
+{
+"id": "politics_093",
+"question": "The logo shown belongs to which major specialized global agency focused on international trade regulations and tariff dispute settlements?",
+"options": [
+"The International Monetary Fund",
+"The World Trade Organization (WTO)",
+"The World Bank Group",
+"The G20 Forum"
+],
+"correctAnswer": "The World Trade Organization (WTO)",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "The WTO regulates international trade barriers, providing a structured framework for negotiating trade agreements and resolving commercial friction.",
+"imageUrl": "[https://example.com/images/politics_093.jpg](https://www.google.com/search?q=https://example.com/images/politics_093.jpg)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"global affairs",
+"economy"
+]
+},
+{
+"id": "politics_094",
+"question": "What standard political concept refers to the supreme, independent authority of a state to govern its own internal territory without outside interference?",
+"options": [
+"Federalism",
+"Sovereignty",
+"Jurisdiction",
+"Pluralism"
+],
+"correctAnswer": "Sovereignty",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "Sovereignty means a state holds absolute final legislative power over its citizenry and geographic borders, free from foreign legal dominance.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"theory",
+"government"
+]
+},
+{
+"id": "politics_095",
+"question": "Which specific constitutional type features a system where a prime minister serves as head of government while a monarch acts as ceremonial head of state?",
+"options": [
+"Absolute Monarchy",
+"Constitutional Monarchy",
+"Presidential Republic",
+"Theocracy"
+],
+"correctAnswer": "Constitutional Monarchy",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "Countries like Japan, Spain, and the UK utilize this system, separating active political governance from traditional ceremonial offices.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"systems",
+"government"
+]
+},
+{
+"id": "politics_096",
+"question": "What is the critical distinction of 'hard money' contributions in United States campaign finance laws?",
+"options": [
+"Donations made directly to independent political action committees anonymously",
+"Political donations that are regulated, limited, and given directly to specific candidates",
+"Funds distributed directly by state governments to political party frameworks",
+"Campaign capital sourced entirely from corporate cash reserves"
+],
+"correctAnswer": "Political donations that are regulated, limited, and given directly to specific candidates",
+"category": "Politics",
+"difficulty": "hard",
+"explanation": "Hard money is tracked tightly by the Federal Election Commission (FEC) to reduce corporate or industrial backchannel influence.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"us politics",
+"elections"
+]
+},
+{
+"id": "politics_097",
+"question": "Which influential text on social contract theory and corporate state structures features the quote 'Property is theft'?",
+"options": [
+"The Communist Manifesto",
+"What is Property?",
+"Das Kapital",
+"The Road to Serfdom"
+],
+"correctAnswer": "What is Property?",
+"category": "Politics",
+"difficulty": "hard",
+"explanation": "Written by Pierre-Joseph Proudhon in 1840, this text served as a foundational source for modern anarchist and socialist economic theories.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"philosophy",
+"theory"
+]
+},
+{
+"id": "politics_098",
+"question": "What structural process involves a higher judicial court calling up files from a lower court to review potential legal errors in a decision?",
+"options": [
+"Writ of Habeas Corpus",
+"Writ of Certiorari",
+"Subpoena",
+"Injunction"
+],
+"correctAnswer": "Writ of Certiorari",
+"category": "Politics",
+"difficulty": "hard",
+"explanation": "The U.S. Supreme Court uses a Writ of Certiorari to select the legal appeals cases it intends to hear and rule upon.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"law",
+"us politics"
+]
+},
+{
+"id": "politics_099",
+"question": "What is the primary characteristic of an elite-driven technocracy?",
+"options": [
+"Decisions are made by elected citizens chosen completely at random",
+"Governance is managed by technical experts and engineers chosen based on specialized knowledge",
+"Rule is controlled by hereditary tribal chieftains",
+"Power is exercised solely by military generals who took office via force"
+],
+"correctAnswer": "Governance is managed by technical experts and engineers chosen based on specialized knowledge",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "Technocracies prioritize scientific data, administrative expertise, and objective metrics over partisan political considerations.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"systems",
+"theory"
+]
+},
+{
+"id": "politics_100",
+"question": "Which system of international relations theory posits that the global sphere is fundamentally anarchic because there is no sovereign global government?",
+"options": [
+"Idealism",
+"Liberalism",
+"Realism",
+"Marxism"
+],
+"correctAnswer": "Realism",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "Realism claims that because a world government is absent, sovereign states must rely on military and economic power to ensure self-preservation.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"global affairs",
+"theory"
+]
+},
+{
+"id": "politics_101",
+"question": "What political mechanism allows citizens to remove an elected official from office before their official term expires via a popular vote?",
+"options": [
+"Impeachment",
+"Recall election",
+"Primary contest",
+"Veto override"
+],
+"correctAnswer": "Recall election",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "A recall election is initiated when a sufficient number of citizens sign petitions demanding a vote on a serving official's tenure.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"democracy",
+"elections"
+]
+},
+{
+"id": "politics_102",
+"question": "Which dynamic political ideology combines intense national pride with authoritarian control, suppression of dissent, and dictatorial regimentation of society?",
+"options": [
+"Fascism",
+"Socialism",
+"Pluralism",
+"Libertarianism"
+],
+"correctAnswer": "Fascism",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "Fascism emerged in early 20th-century Europe, elevating the state above individual rights and organizing society along totalitarian lines.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"ideology",
+"history"
+]
+},
+{
+"id": "politics_103",
+"question": "The flag shown belongs to which major regional organization comprised of 10 Southeast Asian nations promoting economic and political integration?",
+"options": [
+"OPEC",
+"ASEAN",
+"BRICS",
+"The Arab League"
+],
+"correctAnswer": "ASEAN",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "The Association of Southeast Asian Nations (ASEAN) fosters intergovernmental cooperation, economic growth, and regional security among its members.",
+"imageUrl": "[https://example.com/images/politics_103.jpg](https://www.google.com/search?q=https://example.com/images/politics_103.jpg)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"global affairs",
+"institutions"
+]
+},
+{
+"id": "politics_104",
+"question": "What core constitutional right prevents the state from holding an individual in custody indefinitely without presenting them before a judge to justify detention?",
+"options": [
+"Ex Post Facto",
+"Habeas Corpus",
+"Double Jeopardy",
+"Eminent Domain"
+],
+"correctAnswer": "Habeas Corpus",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "Habeas Corpus is a foundational legal instrument protecting individuals from arbitrary or unlawful state detention.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"law",
+"democracy"
+]
+},
+{
+"id": "politics_105",
+"question": "In political science, what term describes a state where the political system has completely lost its capacity to enforce law, deliver services, or control its territory?",
+"options": [
+"Unitary state",
+"Failed state",
+"Confederal state",
+"Buffer state"
+],
+"correctAnswer": "Failed state",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "Failed states suffer from a complete erosion of legitimate governing authority, often leading to internal conflict and economic collapse.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"theory",
+"global affairs"
+]
+},
+{
+"id": "politics_106",
+"question": "Which component of the United States federal government holds the exclusive constitutional authority to ratify treaties negotiated with foreign powers?",
+"options": [
+"The House of Representatives",
+"The Senate",
+"The Supreme Court",
+"The Department of State"
+],
+"correctAnswer": "The Senate",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "The US Constitution requires a two-thirds majority vote in the Senate to approve international treaties put forward by the executive branch.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"us politics",
+"government"
+]
+},
+{
+"id": "politics_107",
+"question": "What political science concept describes a state possessing legal democratic institutions on paper, but missing real civil liberties and fair electoral processes?",
+"options": [
+"Direct democracy",
+"Illiberal democracy",
+"Pluralist democracy",
+"Deliberative democracy"
+],
+"correctAnswer": "Illiberal democracy",
+"category": "Politics",
+"difficulty": "hard",
+"explanation": "Illiberal democracies feature standard elections, but the ruling party works to curtail media freedoms, open competition, and judicial independence.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"democracy",
+"theory"
+]
+},
+{
+"id": "politics_108",
+"question": "Which global financial forum, composed of central bank governors and heads of state from 19 leading countries plus the EU, meets annually to manage economic cooperation?",
+"options": [
+"The G7",
+"The G20",
+"The OECD",
+"The United Nations Secretariat"
+],
+"correctAnswer": "The G20",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "The G20 represents a broader distribution of global economic power than the G7 by incorporating major emerging market economies like India and Brazil.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"global affairs",
+"economy"
+]
+},
+{
+"id": "politics_109",
+"question": "What structural economic and political theory focuses on state ownership of production and distribution to eliminate market exploitation?",
+"options": [
+"Capitalism",
+"Socialism",
+"Feudalism",
+"Mercantilism"
+],
+"correctAnswer": "Socialism",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "Socialism advocates for societal or state-level management of industrial assets to distribute goods more equitably than raw market dynamics allow.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"ideology",
+"philosophy"
+]
+},
+{
+"id": "politics_110",
+"question": "Which analytical theory of political science holds that public policy outcomes are primarily shaped by competing interest groups wrestling for legislative influence?",
+"options": [
+"Elitist theory",
+"Pluralist theory",
+"Institutional theory",
+"Marxist theory"
+],
+"correctAnswer": "Pluralist theory",
+"category": "Politics",
+"difficulty": "hard",
+"explanation": "Pluralism views power as widely dispersed among diverse interest groups, ensuring no single faction can maintain complete structural control over the state.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"theory",
+"government"
+]
+},
+{
+"id": "politics_111",
+"question": "Which political philosophy emphasizes individual liberty, limited government oversight, free markets, and the protection of private property?",
+"options": [
+"Classical Liberalism",
+"Democratic Socialism",
+"Authoritarianism",
+"Fascism"
+],
+"correctAnswer": "Classical Liberalism",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "Classical Liberalism emerged in the 18th century with thinkers like John Locke, focusing on maximizing personal freedom and minimizing state intervention.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"philosophy",
+"ideology"
+]
+},
+{
+"id": "politics_112",
+"question": "What is the primary function of an ombudsman in a governmental framework?",
+"options": [
+"To draft annual fiscal budgets",
+"To investigate citizen complaints against public administration",
+"To manage diplomatic relations with foreign powers",
+"To preside over constitutional court hearings"
+],
+"correctAnswer": "To investigate citizen complaints against public administration",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "An ombudsman acts as an independent official appointed to investigate government systemic issues or individual administrative malpractice reported by citizens.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"government",
+"administration"
+]
+},
+{
+"id": "politics_113",
+"question": "Which voting method requires a candidate to secure more than 50% of the cast ballots to win an election outright?",
+"options": [
+"Plurality system",
+"Majority system",
+"Proportional representation",
+"Single transferable vote"
+],
+"correctAnswer": "Majority system",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "Unlike a plurality system where a candidate only needs more votes than any competitor, a majority system requires over half of the total votes.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"elections",
+"voting"
+]
+},
+{
+"id": "politics_114",
+"question": "Which landmark 1648 international treaty is widely credited with establishing the modern concept of state sovereignty?",
+"options": [
+"Treaty of Versailles",
+"Peace of Westphalia",
+"Treaty of Utrecht",
+"Congress of Vienna"
+],
+"correctAnswer": "Peace of Westphalia",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "The Peace of Westphalia ended the Thirty Years' War and introduced the principle of territorial integrity and non-interference in another state's domestic affairs.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"history",
+"sovereignty"
+]
+},
+{
+"id": "politics_115",
+"question": "What is the name of the political strategy where a legislator gives a long speech to delay or prevent a vote on a piece of legislation?",
+"options": [
+"Gerrymandering",
+"Logrolling",
+"Filibuster",
+"Cloture"
+],
+"correctAnswer": "Filibuster",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "A filibuster is a obstructive tactic used in legislative bodies, most notably the United States Senate, to prolong debate and delay a vote.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"legislature",
+"strategy"
+]
+},
+{
+"id": "politics_116",
+"question": "Which country operates under a unique semi-presidential system where both a president and a prime minister wield substantial executive power?",
+"options": [
+"United Kingdom",
+"United States",
+"France",
+"Germany"
+],
+"correctAnswer": "France",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "The French Fifth Republic utilizes a semi-presidential system where the President handles foreign policy and defense, while the Prime Minister leads the domestic government.",
+"imageUrl": "[https://example.com/images/politics_116.jpg](https://www.google.com/search?q=https://example.com/images/politics_116.jpg)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"government",
+"france"
+]
+},
+{
+"id": "politics_117",
+"question": "What political concept describes a situation where power is divided between a central national government and smaller regional governments?",
+"options": [
+"Unitarism",
+"Federalism",
+"Confederation",
+"Autocracy"
+],
+"correctAnswer": "Federalism",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "Federalism establishes a dual layer of governance, allowing states or provinces to retain specific regional autonomy while sharing sovereign power with the national state.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"government",
+"structure"
+]
+},
+{
+"id": "politics_118",
+"question": "Who authored the foundational political text 'The Prince', which analyzes how a ruler can acquire and maintain political power?",
+"options": [
+"Thomas Hobbes",
+"John Locke",
+"Niccolò Machiavelli",
+"Jean-Jacques Rousseau"
+],
+"correctAnswer": "Niccolò Machiavelli",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "Written during the Italian Renaissance, Machiavelli's work focuses on political realism, pragmatism, and the strategic use of power.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"philosophy",
+"literature"
+]
+},
+{
+"id": "politics_119",
+"question": "Which term defines the practice of drawing legislative district boundaries to favor a particular political party or candidate?",
+"options": [
+"Malapportionment",
+"Gerrymandering",
+"Redistricting",
+"Logrolling"
+],
+"correctAnswer": "Gerrymandering",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "Gerrymandering manipulates district borders to cluster opposing voters into few districts or dilute them across many, giving an electoral advantage to the ruling party.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"elections",
+"geography"
+]
+},
+{
+"id": "politics_120",
+"question": "In international relations, what theory posits that the global system is anarchic and that states act primarily out of self-interest and survival?",
+"options": [
+"Liberalism",
+"Constructivism",
+"Realism",
+"Marxism"
+],
+"correctAnswer": "Realism",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "Realism emphasizes power dynamics, security dilemmas, and the competitive, zero-sum nature of sovereign interactions in the absence of a global governing body.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"theory",
+"relations"
+]
+},
+{
+"id": "politics_121",
+"question": "Which form of government consolidates all sovereign authority within a single, highly centralized national administration?",
+"options": [
+"Federal state",
+"Confederate state",
+"Unitary state",
+"Anarchist state"
+],
+"correctAnswer": "Unitary state",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "In a unitary state, subnational units only possess powers that the central government chooses to delegate, unlike federal systems where states have constitutional autonomy.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"government",
+"structure"
+]
+},
+{
+"id": "politics_122",
+"question": "What is the primary objective of a country's monetary policy, typically managed by its central bank?",
+"options": [
+"Determining levels of public taxation",
+"Controlling money supply and interest rates",
+"Regulating international trade tariffs",
+"Allocating government welfare expenditures"
+],
+"correctAnswer": "Controlling money supply and interest rates",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "Monetary policy regulates the economy by managing liquidity, inflation, and credit costs, separate from fiscal policy which handles taxation and government spending.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"economy",
+"policy"
+]
+},
+{
+"id": "politics_123",
+"question": "Which intellectual concept from political philosopher Thomas Hobbes describes human existence before the establishment of formal government?",
+"options": [
+"The Social Contract",
+"The State of Nature",
+"The General Will",
+"The Veil of Ignorance"
+],
+"correctAnswer": "The State of Nature",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "Hobbes famously described life in the 'state of nature' as 'solitary, poor, nasty, brutish, and short,' necessitating a strong sovereign ruler to maintain order.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"philosophy",
+"theory"
+]
+},
+{
+"id": "politics_124",
+"question": "What constitutional system allows the judicial branch to review and potentially invalidate laws passed by the legislature?",
+"options": [
+"Judicial Restraint",
+"Judicial Review",
+"Legislative Supremacy",
+"Executive Prerogative"
+],
+"correctAnswer": "Judicial Review",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "Judicial review ensures that the constitution remains the supreme law of the land by empowering courts to strike down unconstitutional statutes.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"law",
+"judiciary"
+]
+},
+{
+"id": "politics_125",
+"question": "Which international organization is headquartered in Brussels, Belgium, and serves as a prominent military alliance?",
+"options": [
+"United Nations",
+"North Atlantic Treaty Organization",
+"European Union",
+"World Trade Organization"
+],
+"correctAnswer": "North Atlantic Treaty Organization",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "Established in 1949, NATO is an intergovernmental military alliance based on the principle of collective defense among its member nations.",
+"imageUrl": "[https://example.com/images/politics_125.jpg](https://www.google.com/search?q=https://example.com/images/politics_125.jpg)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"alliance",
+"global"
+]
+},
+{
+"id": "politics_126",
+"question": "What political ideology advocates for a classless, stateless society based on common ownership of the means of production?",
+"options": [
+"Capitalism",
+"Communism",
+"Fascism",
+"Conservatism"
+],
+"correctAnswer": "Communism",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "Derived primarily from the works of Karl Marx and Friedrich Engels, communism aims to eliminate private property and social stratification.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"ideology",
+"philosophy"
+]
+},
+{
+"id": "politics_127",
+"question": "Which system of proportional representation allows voters to rank individual candidates in order of preference rather than voting for a rigid party list?",
+"options": [
+"First-Past-The-Post",
+"Mixed-Member Proportional",
+"Single Transferable Vote",
+"Closed List Proportional"
+],
+"correctAnswer": "Single Transferable Vote",
+"category": "Politics",
+"difficulty": "hard",
+"explanation": "The Single Transferable Vote (STV) uses preferential voting in multi-member districts, transferring surplus votes to minimize wasted ballots.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"voting",
+"elections"
+]
+},
+{
+"id": "politics_128",
+"question": "What political term refers to the mutual exchange of legislative favors, such as voting for another lawmaker's bill in return for their support on your own?",
+"options": [
+"Pork-barreling",
+"Filibustering",
+"Logrolling",
+"Gerrymandering"
+],
+"correctAnswer": "Logrolling",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "Logrolling is a common practice in legislative bodies where members build coalitions by backing each other's specialized local or regional provisions.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"legislature",
+"strategy"
+]
+},
+{
+"id": "politics_129",
+"question": "Which executive power allows a president or governor to reject specific lines or provisions of a bill while signing the rest into law?",
+"options": [
+"Pocket veto",
+"Line-item veto",
+"Absolute veto",
+"Legislative veto"
+],
+"correctAnswer": "Line-item veto",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "A line-item veto lets an executive remove specific spending provisions or amendments without killing the entire pieces of legislation.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"executive",
+"law"
+]
+},
+{
+"id": "politics_130",
+"question": "What body of the United Nations is primarily responsible for maintaining international peace and security?",
+"options": [
+"General Assembly",
+"International Court of Justice",
+"Security Council",
+"Secretariat"
+],
+"correctAnswer": "Security Council",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "The UN Security Council consists of fifteen members, including five permanent members with veto power, and can authorize military actions or sanctions.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"global",
+"security"
+]
+},
+{
+"id": "politics_131",
+"question": "Which theory of international relations emphasizes that state behavior is fundamentally shaped by shared ideas, identities, and social norms rather than structural constraints?",
+"options": [
+"Neorealism",
+"Constructivism",
+"Neoliberalism",
+"Classical Realism"
+],
+"correctAnswer": "Constructivism",
+"category": "Politics",
+"difficulty": "hard",
+"explanation": "Constructivism argues that global politics is socially constructed, meaning identities and interests are fluid and generated through international interaction.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"theory",
+"relations"
+]
+},
+{
+"id": "politics_132",
+"question": "What is the term for a public vote on a single specific political question or policy proposal, referred directly to the electorate for approval?",
+"options": [
+"Primary election",
+"Referendum",
+"Recall",
+"Caucus"
+],
+"correctAnswer": "Referendum",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "A referendum is a form of direct democracy that allows citizens to directly cast votes to accept or reject laws or constitutional measures.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"democracy",
+"voting"
+]
+},
+{
+"id": "politics_133",
+"question": "Which political thinker developed the concept of the 'separation of powers' that heavily influenced the architectural design of modern democracies?",
+"options": [
+"Baron de Montesquieu",
+"Voltaire",
+"Thomas Jefferson",
+"Immanuel Kant"
+],
+"correctAnswer": "Baron de Montesquieu",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "In his treatise 'The Spirit of the Laws', Montesquieu argued that political liberty requires dividing legislative, executive, and judicial responsibilities.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"philosophy",
+"history"
+]
+},
+{
+"id": "politics_134",
+"question": "What type of executive coalition is formed when political parties unite to achieve a majority simply to prevent an opposing faction from gaining power?",
+"options": [
+"Grand Coalition",
+"Negative Coalition",
+"Minority Government",
+"Rainbow Coalition"
+],
+"correctAnswer": "Negative Coalition",
+"category": "Politics",
+"difficulty": "hard",
+"explanation": "Negative coalitions occur when ideologically diverse groups agree on what they oppose, joining forces solely to oust or block a shared rival.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"government",
+"parties"
+]
+},
+{
+"id": "politics_135",
+"question": "Which concept describes the process by which individuals internalize and develop their political beliefs, values, and ideologies?",
+"options": [
+"Political Mobilization",
+"Political Socialization",
+"Political Polarization",
+"Political Alienation"
+],
+"correctAnswer": "Political Socialization",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "Political socialization happens throughout an individual's life via agents like family, school, peers, and mass media platforms.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"society",
+"behavior"
+]
+},
+{
+"id": "politics_136",
+"question": "What term is given to government programs or allocations designed to fund local projects that primarily serve to bring money to a representative's district?",
+"options": [
+"Earmarks",
+"Pork-barrel politics",
+"Subsidies",
+"Discretionary funds"
+],
+"correctAnswer": "Pork-barrel politics",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "Pork-barreling involves securing public funding for localized projects to win political favor and votes from constituents in a specific home district.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"legislature",
+"economy"
+]
+},
+{
+"id": "politics_137",
+"question": "Which famous piece of political text contains the line: 'The history of all hitherto existing society is the history of class struggles'?",
+"options": [
+"The Social Contract",
+"Das Kapital",
+"The Communist Manifesto",
+"Common Sense"
+],
+"correctAnswer": "The Communist Manifesto",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "Published in 1848 by Karl Marx and Friedrich Engels, this pamphlet outlines the foundational socio-political goals of communism.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"literature",
+"ideology"
+]
+},
+{
+"id": "politics_138",
+"question": "What form of authoritarian government is defined by a complete control over both the public sphere and the private lives of citizens?",
+"options": [
+"Oligarchy",
+"Totalitarianism",
+"Absolute Monarchy",
+"Plutocracy"
+],
+"correctAnswer": "Totalitarianism",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "Totalitarian regimes suppress all opposition and attempt to regulate every aspect of individual behavior using sweeping state propaganda and terror.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"authoritarianism",
+"regime"
+]
+},
+{
+"id": "politics_139",
+"question": "In political science, what term refers to the moral and legal right of a government to exercise authority and command obedience?",
+"options": [
+"Coercion",
+"Sovereignty",
+"Legitimacy",
+"Hegemony"
+],
+"correctAnswer": "Legitimacy",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "Legitimacy means the governed accept that the authorities have the rightful mandate to govern, lowering the state's reliance on raw force.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"theory",
+"power"
+]
+},
+{
+"id": "politics_140",
+"question": "What mechanism allows voters to remove an elected official from public office before their standard legal term has expired?",
+"options": [
+"Impeachment",
+"Referendum",
+"Recall",
+"Censure"
+],
+"correctAnswer": "Recall",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "A recall election is initiated via a citizen-led petition, allowing the electorate to directly vote on whether an official should be unseated.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"elections",
+"democracy"
+]
+},
+{
+"id": "politics_141",
+"question": "Which diplomatic theory states that democratic nations are highly unlikely to engage in armed military conflict with one another?",
+"options": [
+"Democratic Peace Theory",
+"Commercial Liberalism",
+"Balance of Power Theory",
+"Institutionalist Theory"
+],
+"correctAnswer": "Democratic Peace Theory",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "Democratic Peace Theory claims that constitutional governance, shared values, and democratic norms incentivize peaceful resolution of bilateral disputes.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"relations",
+"theory"
+]
+},
+{
+"id": "politics_142",
+"question": "Which international treaty framework focused on reducing worldwide greenhouse gas emissions was signed in 1997?",
+"options": [
+"Paris Agreement",
+"Kyoto Protocol",
+"Montreal Protocol",
+"Geneva Convention"
+],
+"correctAnswer": "Kyoto Protocol",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "The Kyoto Protocol extended the 1992 UN Framework Convention on Climate Change, committing industrialized states to mandatory emission reductions.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"global",
+"environment"
+]
+},
+{
+"id": "politics_143",
+"question": "What is the term for an electoral system where seats in a legislature are allocated based on the percentage of total votes a political party receives?",
+"options": [
+"First-Past-The-Post",
+"Proportional Representation",
+"Plurality System",
+"Majoritarian System"
+],
+"correctAnswer": "Proportional Representation",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "Proportional Representation aims to create a body that accurately mirrors the electorate's broader party preferences.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"elections",
+"voting"
+]
+},
+{
+"id": "politics_144",
+"question": "Which modern political thinker designed the thought experiment known as the 'Veil of Ignorance' to determine objective societal justice?",
+"options": [
+"Robert Nozick",
+"John Rawls",
+"Karl Popper",
+"Friedrich Hayek"
+],
+"correctAnswer": "John Rawls",
+"category": "Politics",
+"difficulty": "hard",
+"explanation": "In 'A Theory of Justice', Rawls argues that fair societal rules are best devised if architects don't know their own future class, gender, or status.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"philosophy",
+"justice"
+]
+},
+{
+"id": "politics_145",
+"question": "What constitutional entity serves as the ultimate arbiter of legislative and executive compliance in the Federal Republic of Germany?",
+"options": [
+"The Bundestag",
+"The Federal Constitutional Court",
+"The Reichsgericht",
+"The Bundesrat"
+],
+"correctAnswer": "The Federal Constitutional Court",
+"category": "Politics",
+"difficulty": "hard",
+"explanation": "Germany's Bundesverfassungsgericht ensures federal operations stay aligned with the Basic Law (Grundgesetz).",
+"imageUrl": "[https://example.com/images/politics_145.jpg](https://www.google.com/search?q=https://example.com/images/politics_145.jpg)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"law",
+"germany"
+]
+},
+{
+"id": "politics_146",
+"question": "What is the term for a state structure run or heavily controlled by a small group of wealthy individuals or families?",
+"options": [
+"Meritocracy",
+"Plutocracy",
+"Technocracy",
+"Theocracy"
+],
+"correctAnswer": "Plutocracy",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "A plutocracy is a form of oligarchy where governance is directly or indirectly dictated by the accumulation of capital and wealth.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"government",
+"class"
+]
+},
+{
+"id": "politics_147",
+"question": "Which core principle asserts that all citizens and government entities are legally accountable to the exact same established statutory frameworks?",
+"options": [
+"Natural Law",
+"The Rule of Law",
+"Sovereign Immunity",
+"Due Process"
+],
+"correctAnswer": "The Rule of Law",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "The Rule of Law requires that laws are publicly made, equally enforced, and independently adjudicated, avoiding arbitrary exercises of power.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"law",
+"principles"
+]
+},
+{
+"id": "politics_148",
+"question": "Which system of administration is characterized by specialized functions, hierarchical authority, rigid adherence to rules, and impersonal relationships?",
+"options": [
+"Bureaucracy",
+"Autocracy",
+"Adhocracy",
+"Cleptocracy"
+],
+"correctAnswer": "Bureaucracy",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "Sociologist Max Weber famously analyzed bureaucracy as a rational-legal framework designed to optimize administrative efficiency within massive institutions.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"government",
+"administration"
+]
+},
+{
+"id": "politics_149",
+"question": "What is the primary function of a country's fiscal policy, as managed by the executive and legislative branches?",
+"options": [
+"Adjusting commercial banking reserve requirements",
+"Determining public spending and taxation levels",
+"Regulating domestic stock market indices",
+"Fixing currency exchange rate bands"
+],
+"correctAnswer": "Determining public spending and taxation levels",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "Fiscal policy uses government revenue collection and budgeting actions to influence aggregate economic performance.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"policy",
+"economy"
+]
+},
+{
+"id": "politics_150",
+"question": "What theoretical model outlines how political issues progress from public concerns to formal legislative debates and policy enactments?",
+"options": [
+"Agenda-Setting Framework",
+"Rational Choice Theory",
+"Institutional Analysis",
+"Systems Theory"
+],
+"correctAnswer": "Agenda-Setting Framework",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "Agenda setting explains how social issues grab the attention of the public and policymakers, filtering which items enter the legislative mill.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"policy",
+"theory"
+]
+},
+{
+"id": "politics_151",
+"question": "Which international document, adopted by the UN General Assembly in 1948, serves as the foundational catalog of universal liberties?",
+"options": [
+"The Magna Carta",
+"The Declaration of Independence",
+"The Universal Declaration of Human Rights",
+"The Treaty of Rome"
+],
+"correctAnswer": "The Universal Declaration of Human Rights",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "The UDHR was drafted in response to the atrocities of World War II, outlining 30 fundamental rights belonging inherently to all humans.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"global",
+"rights"
+]
+},
+{
+"id": "politics_152",
+"question": "What term is given to a state system that derives its absolute political legitimacy directly from religious texts and clerical authorities?",
+"options": [
+"Autocracy",
+"Theocracy",
+"Aristocracy",
+"Plutocracy"
+],
+"correctAnswer": "Theocracy",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "In a theocracy, legal systems are typically based on religious doctrines, and leadership is maintained by religious hierarchies.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"government",
+"religion"
+]
+},
+{
+"id": "politics_153",
+"question": "Which security concept states that an escalation of military capabilities by one sovereign nation causes rival states to respond with parallel advancements?",
+"options": [
+"Balance of Power",
+"Security Dilemma",
+"Deterrence Theory",
+"Brinkmanship"
+],
+"correctAnswer": "Security Dilemma",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "The security dilemma illustrates how defensive steps taken by one country can inadvertently look offensive to neighbors, triggering an arms race.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"relations",
+"security"
+]
+},
+{
+"id": "politics_154",
+"question": "What structural phenomenon occurs when control of the executive branch is held by one political party while another party controls the legislature?",
+"options": [
+"Coalition Crisis",
+"Divided Government",
+"Parliamentary Deadlock",
+"Bicameral Friction"
+],
+"correctAnswer": "Divided Government",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "Divided governments are structural features of presidential systems that can encourage constitutional checks and balances or result in legislative gridlock.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"government",
+"structure"
+]
+},
+{
+"id": "politics_155",
+"question": "Which treaty signed in 1992 formally transformed the European Community into the modern European Union?",
+"options": [
+"Treaty of Lisbon",
+"Treaty of Nice",
+"Maastricht Treaty",
+"Treaty of Amsterdam"
+],
+"correctAnswer": "Maastricht Treaty",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "The Maastricht Treaty integrated European cooperation frameworks and created the single currency structure, the Euro.",
+"imageUrl": "[https://example.com/images/politics_155.jpg](https://www.google.com/search?q=https://example.com/images/politics_155.jpg)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"europe",
+"treaty"
+]
+},
+{
+"id": "politics_156",
+"question": "What is the name of the legislative chamber that represents subnational states or regions in a bicameral federal system?",
+"options": [
+"Lower House",
+"Upper House",
+"Unicameral Chamber",
+"Executive Council"
+],
+"correctAnswer": "Upper House",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "Upper Houses, like the US Senate or German Bundesrat, are typically structured to safeguard state or provincial rights at the national level.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"legislature",
+"structure"
+]
+},
+{
+"id": "politics_157",
+"question": "Which political model analyzes state activity through the assumption that individual actors make decisions intended to maximize their personal utility?",
+"options": [
+"Behavioralism",
+"Structural Functionalism",
+"Rational Choice Theory",
+"Marxist Analysis"
+],
+"correctAnswer": "Rational Choice Theory",
+"category": "Politics",
+"difficulty": "hard",
+"explanation": "Rational Choice Theory imports economic modeling into politics, assuming voters and politicians weigh costs and benefits strategically.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"theory",
+"methodology"
+]
+},
+{
+"id": "politics_158",
+"question": "What term defines an electoral system where voters cast a ballot for a single candidate, and the candidate with the most votes wins regardless of an absolute majority?",
+"options": [
+"Ranked Choice Voting",
+"Two-Round System",
+"First-Past-The-Post",
+"Proportional List"
+],
+"correctAnswer": "First-Past-The-Post",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "First-Past-The-Post (FPTP) is a single-member district system used widely in the UK, US, and Canada that rewards simple voter pluralities.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"voting",
+"elections"
+]
+},
+{
+"id": "politics_159",
+"question": "Which philosophical concept asserts that human individuals surrender certain liberties to a sovereign authority in exchange for security and civil order?",
+"options": [
+"The Social Contract",
+"Divine Right of Kings",
+"The Utilitarian Principle",
+"Categorical Imperative"
+],
+"correctAnswer": "The Social Contract",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "The Social Contract theory was advanced by thinkers like Hobbes, Locke, and Rousseau to explain the origin and limits of legitimate government.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"philosophy",
+"society"
+]
+},
+{
+"id": "politics_160",
+"question": "What specialized legislative committee is permanently established to evaluate and track bills related to specific policy sectors?",
+"options": [
+"Select Committee",
+"Joint Committee",
+"Standing Committee",
+"Conference Committee"
+],
+"correctAnswer": "Standing Committee",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "Standing committees persist across legislative terms, holding hearings and reviewing legislation on permanent topics like defense or finance.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"legislature",
+"governance"
+]
+},
+{
+"id": "politics_161",
+"question": "In international trade politics, what is the term for a tax or duty imposed by a sovereign government on imported foreign goods?",
+"options": [
+"Embargo",
+"Tariff",
+"Subsidy",
+"Quota"
+],
+"correctAnswer": "Tariff",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "Tariffs are protective economic policies used to make domestic products more competitive against cheaper imported alternatives.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"economy",
+"trade"
+]
+},
+{
+"id": "politics_162",
+"question": "Which judicial philosophy argues that constitutional interpretations should strictly conform to the text as it was originally understood at enactment?",
+"options": [
+"Judicial Activism",
+"Originalism",
+"Living Constitution",
+"Pragmatism"
+],
+"correctAnswer": "Originalism",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "Originalism maintains that changing constitutional meaning requires formal legislative amendments, not shifting judicial interpretations.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"law",
+"judiciary"
+]
+},
+{
+"id": "politics_163",
+"question": "What is the term for a country's total population of eligible citizens who are legally registered and permitted to vote in an election?",
+"options": [
+"Constituency",
+"Electorate",
+"Caucus",
+"Plurality"
+],
+"correctAnswer": "Electorate",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "The size and demographics of the electorate determine active political party platforms during campaign cycles.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"voting",
+"elections"
+]
+},
+{
+"id": "politics_164",
+"question": "Which international body, operating from The Hague, acts as the primary legal organ of the United Nations to settle disputes between states?",
+"options": [
+"International Criminal Court",
+"International Court of Justice",
+"European Court of Human Rights",
+"Permanent Court of Arbitration"
+],
+"correctAnswer": "International Court of Justice",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "The ICJ adjudicates state disputes over borders, treaties, and international law, distinct from the ICC which prosecutes individuals.",
+"imageUrl": "[https://example.com/images/politics_164.jpg](https://www.google.com/search?q=https://example.com/images/politics_164.jpg)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"law",
+"global"
+]
+},
+{
+"id": "politics_165",
+"question": "What is Duverger's Law in political science?",
+"options": [
+"Proportional voting structures always result in autocratic regimes.",
+"Single-member district plurality systems naturally favor a two-party system.",
+"Federal systems suffer greater administrative corruption than unitary states.",
+"Increased citizen voter turnout favors progressive political candidates."
+],
+"correctAnswer": "Single-member district plurality systems naturally favor a two-party system.",
+"category": "Politics",
+"difficulty": "hard",
+"explanation": "Duverger's Law observes that plurality systems squeeze out third parties because voters fear throwing away ballots on marginal options.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"theory",
+"elections"
+]
+},
+{
+"id": "politics_166",
+"question": "What is the term for a political movement or approach that claims to champion the rights of the common people against a corrupt or self-serving elite?",
+"options": [
+"Elitism",
+"Populism",
+"Pluralism",
+"Corporatism"
+],
+"correctAnswer": "Populism",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "Populism can merge with left- or right-wing ideologies, relying on anti-establishment rhetoric to appeal directly to mass public frustration.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"ideology",
+"movements"
+]
+},
+{
+"id": "politics_167",
+"question": "Which influential French social scientist wrote 'Democracy in America' after examining US political dynamics in the 1830s?",
+"options": [
+"Alexis de Tocqueville",
+"Émile Durkheim",
+"Auguste Comte",
+"Voltaire"
+],
+"correctAnswer": "Alexis de Tocqueville",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "Tocqueville analyzed both the strengths of American civic associations and warned of potential social hazards like the 'tyranny of the majority.'",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"history",
+"literature"
+]
+},
+{
+"id": "politics_168",
+"question": "What is the term for a formal political alliance of multiple distinct parties formed to establish a majority government within a parliamentary framework?",
+"options": [
+"Bicameral bloc",
+"Coalition",
+"Caucus",
+"Federation"
+],
+"correctAnswer": "Coalition",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "When no single party achieves an outright legislative majority, coalitions allow them to compromise on a joint policy program to govern.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"parliament",
+"government"
+]
+},
+{
+"id": "politics_169",
+"question": "What international economic entity, conceived at the Bretton Woods Conference in 1944, functions as a global lender of last resort for states facing balance-of-payment crises?",
+"options": [
+"World Bank",
+"International Monetary Fund",
+"World Trade Organization",
+"Federal Reserve"
+],
+"correctAnswer": "International Monetary Fund",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "The IMF provides emergency stabilization loans to sovereign states, often requiring strict fiscal austerity and structural policy reforms in return.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"global",
+"economy"
+]
+},
+{
+"id": "politics_170",
+"question": "Which phrase describes the structural protections that prevent any single branch of government from consolidating excessive sovereign power?",
+"options": [
+"Executive privilege",
+"Checks and balances",
+"Judicial review",
+"Federal mandates"
+],
+"correctAnswer": "Checks and balances",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "Checks and balances give separate government branches constitutional tools to block or regulate actions taken by other branches.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"government",
+"constitution"
+]
+},
+{
+"id": "politics_171",
+"question": "Which theory of international relations posits that international institutions and trade interdependencies can overcome systemic anarchy and encourage state cooperation?",
+"options": [
+"Neorealism",
+"Liberalism",
+"Marxism",
+"Constructivism"
+],
+"correctAnswer": "Liberalism",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "Liberal institutionalism argues that shared democratic values, economic ties, and global frameworks minimize international conflict risks.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"relations",
+"theory"
+]
+},
+{
+"id": "politics_172",
+"question": "What is the term for a political group that actively seeks to influence public policy decisions without contesting elections to win formal public office?",
+"options": [
+"Political party",
+"Interest group",
+"Constituency",
+"Electoral college"
+],
+"correctAnswer": "Interest group",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "Interest groups, or advocacy factions, use methods like lobbying, litigation, and public relations campaigns to shape statutory changes.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"lobbying",
+"influence"
+]
+},
+{
+"id": "politics_173",
+"question": "Which political system distributes legislative seats via a combination of local plurality races and broader national party lists?",
+"options": [
+"Single Non-Transferable Vote",
+"Mixed-Member Proportional",
+"Alternative Vote",
+"First-Past-The-Post"
+],
+"correctAnswer": "Mixed-Member Proportional",
+"category": "Politics",
+"difficulty": "hard",
+"explanation": "MMP systems, used in Germany and New Zealand, provide voters with two ballots: one for a local candidate and one for a preferred political party.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"voting",
+"elections"
+]
+},
+{
+"id": "politics_174",
+"question": "What term defines the absolute, supreme legal authority of a state to govern its own domestic territory free from external interference?",
+"options": [
+"Hegemony",
+"Sovereignty",
+"Jurisdiction",
+"Legitimacy"
+],
+"correctAnswer": "Sovereignty",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "Sovereignty is the core organizing element of the modern global system, establishing that states have complete legal authority over their domains.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"sovereignty",
+"principles"
+]
+},
+{
+"id": "politics_175",
+"question": "Which 19th-century intellectual introduced the concept of 'Utilitarianism', which states that the moral worth of an action or policy is measured by its ability to maximize happiness for the greatest number?",
+"options": [
+"Jeremy Bentham",
+"Immanuel Kant",
+"John Stuart Mill",
+"Friedrich Nietzsche"
+],
+"correctAnswer": "Jeremy Bentham",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "Bentham formulated utilitarianism around quantitative happiness metrics, which John Stuart Mill later refined into qualitative definitions of individual liberty.",
+"imageUrl": "[https://example.com/images/politics_175.jpg](https://www.google.com/search?q=https://example.com/images/politics_175.jpg)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"philosophy",
+"history"
+]
+},
+{
+"id": "politics_176",
+"question": "What core legal doctrine dictates that courts must adhere to historical precedents when ruling on modern legal disputes?",
+"options": [
+"Habeas corpus",
+"Stare decisis",
+"Certiorari",
+"Prima facie"
+],
+"correctAnswer": "Stare decisis",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "Stare decisis promotes legal stability and predictability by requiring courts to honor previous legal rules unless a compelling rationale warrants an override.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"law",
+"judiciary"
+]
+},
+{
+"id": "politics_177",
+"question": "Which ideological faction advocates for a minimal state footprint, limiting public interventions strictly to police protection, military defense, and enforcement of private property rights?",
+"options": [
+"Social Democracy",
+"Libertarianism",
+"Democratic Socialism",
+"Green Politics"
+],
+"correctAnswer": "Libertarianism",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "Libertarianism promotes individual autonomy, laissez-faire capitalist markets, and a minimal state (night-watchman state) apparatus.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"ideology",
+"philosophy"
+]
+},
+{
+"id": "politics_178",
+"question": "What structural feature occurs within a parliamentary democracy when the sitting executive loses a formal legislative vote of confidence?",
+"options": [
+"The legislature is automatically suspended indefinitely.",
+"The government falls, typically triggering new national elections.",
+"The head of state assumes absolute autocratic control.",
+"The supreme court selects a new cabinet directly."
+],
+"correctAnswer": "The government falls, typically triggering new national elections.",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "Votes of no confidence test executive support, forcing a political transition or early parliamentary elections if the ruling government fails to secure a majority.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"parliament",
+"government"
+]
+},
+{
+"id": "politics_179",
+"question": "Which term describes a political leader's use of non-coercive foreign tools—such as cultural appeal, diplomatic values, and educational exchange—to attract international alignment?",
+"options": [
+"Hard power",
+"Soft power",
+"Smart power",
+"Hegemonic power"
+],
+"correctAnswer": "Soft power",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "Coined by Joseph Nye, soft power relies on attraction and persuasion, contrasting with the hard power of military force and economic sanctions.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"relations",
+"diplomacy"
+]
+},
+{
+"id": "politics_180",
+"question": "What is the primary socio-political function of civil society organizations within a stable democratic framework?",
+"options": [
+"Enacting criminal statutes and collecting local taxes",
+"Providing citizens an autonomous arena to organize outside state control",
+"Appointing senior justices to federal appellate courts",
+"Commanding regional military and civil defense units"
+],
+"correctAnswer": "Providing citizens an autonomous arena to organize outside state control",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "Civil society includes NGOs, community groups, and independent associations that foster civic engagement and hold state authorities accountable.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"society",
+"democracy"
+]
+},
+{
+"id": "politics_181",
+"question": "Which political thinker's work 'Two Treatises of Government' argued that humans possess natural rights to life, liberty, and property?",
+"options": [
+"Thomas Hobbes",
+"John Locke",
+"Jean-Jacques Rousseau",
+"Baron de Montesquieu"
+],
+"correctAnswer": "John Locke",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "Locke's natural rights philosophy heavily influenced the American Declaration of Independence and modern liberal constitutional frameworks.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"philosophy",
+"history"
+]
+},
+{
+"id": "politics_182",
+"question": "What structural economic model organizes commercial activities through a combination of free-market capitalism and selective state-owned enterprises?",
+"options": [
+"Laissez-faire capitalism",
+"Mixed economy",
+"Command economy",
+"Anarcho-capitalism"
+],
+"correctAnswer": "Mixed economy",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "Most modern states use mixed economies, protecting private enterprise while funding public infrastructure and running social safety nets.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"economy",
+"policy"
+]
+},
+{
+"id": "politics_183",
+"question": "What is the term for an executive mandate that bypasses normal legislative channels to issue legally binding administrative orders to government agencies?",
+"options": [
+"Executive Order",
+"Statutory Amendment",
+"Judicial Decree",
+"Legislative Veto"
+],
+"correctAnswer": "Executive Order",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "Executive orders are administrative tools used by heads of state to manage internal government operations, but they remain subject to judicial review.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"executive",
+"governance"
+]
+},
+{
+"id": "politics_184",
+"question": "Which international agreement, signed in 1944, established the modern global monetary system and pegged major currencies to the US dollar?",
+"options": [
+"Treaty of Versailles",
+"Bretton Woods Agreement",
+"Plaza Accord",
+"Washington Consensus"
+],
+"correctAnswer": "Bretton Woods Agreement",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "The Bretton Woods system designed the post-WWII economic framework, establishing the IMF and World Bank to maintain global economic stability.",
+"imageUrl": "[https://example.com/images/politics_184.jpg](https://www.google.com/search?q=https://example.com/images/politics_184.jpg)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"history",
+"economy"
+]
+},
+{
+"id": "politics_185",
+"question": "What term is used in political behavior analysis to describe a highly disciplined voter bloc that consistently backs a single political party regardless of candidates or issues?",
+"options": [
+"Swing voters",
+"Partisan base",
+"Independent electorate",
+"Coattail electorate"
+],
+"correctAnswer": "Partisan base",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "The partisan base provides reliable election turnout, requiring campaigns to balance satisfying these core voters with winning over moderates.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"behavior",
+"elections"
+]
+},
+{
+"id": "politics_186",
+"question": "Which theory of international relations focuses on economic exploitation, arguing that global politics is divided into core wealthy states and a dependent periphery?",
+"options": [
+"Realism",
+"World-Systems Theory",
+"Constructivism",
+"Neoliberalism"
+],
+"correctAnswer": "World-Systems Theory",
+"category": "Politics",
+"difficulty": "hard",
+"explanation": "Developed by Immanuel Wallerstein, World-Systems Theory adapts Marxist ideas globally, detailing how core nations exploit the raw resources of peripheral states.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"theory",
+"relations"
+]
+},
+{
+"id": "politics_187",
+"question": "What type of legislature features a single lawmaking chamber rather than two separate assemblies?",
+"options": [
+"Bicameral",
+"Unicameral",
+"Federal",
+"Asymmetric"
+],
+"correctAnswer": "Unicameral",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "Unicameral systems, used in nations like Sweden, New Zealand, and Nebraska, consolidate legislative power into one house to speed up statutory processes.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"legislature",
+"structure"
+]
+},
+{
+"id": "politics_188",
+"question": "What specialized tool allows citizens to initiate a public vote on a new statutory proposal by collecting a legally required threshold of signatures?",
+"options": [
+"Referendum",
+"Initiative",
+"Recall",
+"Veto"
+],
+"correctAnswer": "Initiative",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "An initiative allows voters to put a proposed law directly onto a public ballot, bypassing lawmakers who might otherwise block the reform.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"democracy",
+"voting"
+]
+},
+{
+"id": "politics_189",
+"question": "Which branch of political science uses empirical metrics, statistical surveys, and psychological modeling to analyze how individuals make voting decisions?",
+"options": [
+"Political Philosophy",
+"Comparative Politics",
+"Political Behavior",
+"Public Administration"
+],
+"correctAnswer": "Political Behavior",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "Political behavior tracks social and psychological inputs—like class, ethnicity, and media consumption—to chart voter alignment.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"methodology",
+"behavior"
+]
+},
+{
+"id": "politics_190",
+"question": "What is the primary function of the civil service in a constitutional governance model?",
+"options": [
+"Enacting federal statutes",
+"Executing government policies non-partisanly",
+"Adjudicating criminal appeals",
+"Managing political campaigns"
+],
+"correctAnswer": "Executing government policies non-partisanly",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "The civil service consists of permanent bureaucrats who run government administration objectively across political transitions.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"government",
+"administration"
+]
+},
+{
+"id": "politics_191",
+"question": "Which international human rights court is situated in Strasbourg, France, and enforces the European Convention on Human Rights?",
+"options": [
+"International Court of Justice",
+"European Court of Human Rights",
+"Court of Justice of the European Union",
+"International Criminal Court"
+],
+"correctAnswer": "European Court of Human Rights",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "The ECtHR allows individual citizens to sue member governments directly over civil and political liberty violations.",
+"imageUrl": "[https://example.com/images/politics_191.jpg](https://www.google.com/search?q=https://example.com/images/politics_191.jpg)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"law",
+"europe"
+]
+},
+{
+"id": "politics_192",
+"question": "What political phenomenon describes a dramatic shift in structural voter alignments that redraws the balance of power between parties for decades?",
+"options": [
+"Realignment",
+"Dealignment",
+"Gerrymandering",
+"Coalition shifting"
+],
+"correctAnswer": "Realignment",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "Realignments, often triggered by economic crises or major wars, permanently shift the social coalitions that support competing political parties.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"elections",
+"behavior"
+]
+},
+{
+"id": "politics_193",
+"question": "Which structural feature differentiates a presidential government system from a parliamentary government system?",
+"options": [
+"Presidential systems lack a formal constitution.",
+"The executive is elected independently from the legislature.",
+"Parliamentary systems lack an independent judiciary.",
+"Presidential systems operate with a unicameral assembly."
+],
+"correctAnswer": "The executive is elected independently from the legislature.",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "In presidential systems, the chief executive is elected directly by voters, whereas prime ministers are chosen out of the sitting legislature.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"government",
+"structure"
+]
+},
+{
+"id": "politics_194",
+"question": "What is the name of the socio-political index produced annually by Transparency International to rank states by perceived public corruption?",
+"options": [
+"Human Development Index",
+"Gini Coefficient",
+"Corruption Perceptions Index",
+"Global Peace Index"
+],
+"correctAnswer": "Corruption Perceptions Index",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "The CPI scores nations based on assessments from experts and business figures, highlighting systemic public sector corruption problems.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"global",
+"corruption"
+]
+},
+{
+"id": "politics_195",
+"question": "Which French political philosopher wrote 'The Social Contract' and popularized the democratic ideal of the 'General Will'?",
+"options": [
+"Voltaire",
+"Jean-Jacques Rousseau",
+"Denis Diderot",
+"Montesquieu"
+],
+"correctAnswer": "Jean-Jacques Rousseau",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "Rousseau argued that true political sovereignty requires citizens to collectively define common goods, heavily shaping the French Revolution.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"philosophy",
+"history"
+]
+},
+{
+"id": "politics_196",
+"question": "What is the term for an interest group's strategy of filing friend-of-the-court briefs to influence judicial decisions?",
+"options": [
+"Class action",
+"Amicus curiae",
+"Injunction",
+"Writ of mandamus"
+],
+"correctAnswer": "Amicus curiae",
+"category": "Politics",
+"difficulty": "hard",
+"explanation": "Amicus curiae ('friend of the court') briefs let third-party organizations offer legal arguments, data, and perspectives on high-profile cases.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"law",
+"lobbying"
+]
+},
+{
+"id": "politics_197",
+"question": "Which geopolitical strategy aimed to prevent the geopolitical expansion of the Soviet Union during the Cold War era?",
+"options": [
+"Appeasement",
+"Containment",
+"Détente",
+"Isolationism"
+],
+"correctAnswer": "Containment",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "Formulated by diplomat George F. Kennan, the containment doctrine used economic, political, and military strategies to check Soviet expansion.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"history",
+"relations"
+]
+},
+{
+"id": "politics_198",
+"question": "What is the term for a voting structure that requires voters to register their political party affiliation before participating in a primary election?",
+"options": [
+"Open primary",
+"Closed primary",
+"Blanket primary",
+"Caucus"
+],
+"correctAnswer": "Closed primary",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "Closed primaries keep independent or rival voters from crossing over, ensuring that party bases choose their own general election nominees.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"voting",
+"elections"
+]
+},
+{
+"id": "politics_199",
+"question": "What body functions as the formal administrative executive branch of the European Union, proposing legislation and managing daily operations?",
+"options": [
+"European Parliament",
+"European Commission",
+"Council of the European Union",
+"European Council"
+],
+"correctAnswer": "European Commission",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "The European Commission acts as the EU cabinet, drafting new European regulations and monitoring member compliance with union treaties.",
+"imageUrl": "[https://example.com/images/politics_199.jpg](https://www.google.com/search?q=https://example.com/images/politics_199.jpg)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"europe",
+"government"
+]
+},
+{
+"id": "politics_200",
+"question": "What framework describes the social phenomenon where people stay silent on political issues when they think their views conflict with the majority?",
+"options": [
+"Groupthink",
+"Spiral of Silence",
+"Echo Chamber Effect",
+"Cognitive Dissonance"
+],
+"correctAnswer": "Spiral of Silence",
+"category": "Politics",
+"difficulty": "hard",
+"explanation": "Proposed by Elisabeth Noelle-Neumann, this theory shows how perceived public consensus can isolate and silence dissenting political opinions.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"behavior",
+"theory"
+]
+},
+{
+"id": "politics_201",
+"question": "Which foundational document signed by King John in 1215 established that the monarch was subject to the law, paving the way for constitutional democracy?",
+"options": [
+"English Bill of Rights",
+"Magna Carta",
+"Petition of Right",
+"Instrument of Government"
+],
+"correctAnswer": "Magna Carta",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "The Magna Carta limited arbitrary royal power and introduced early due process concepts, laying foundations for British constitutional development.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"history",
+"law"
+]
+},
+{
+"id": "politics_202",
+"question": "What is the term for a public policy output that primarily benefits a targeted interest group while spreading costs across the general taxpayer base?",
+"options": [
+"Regulatory policy",
+"Distributive policy",
+"Redistributive policy",
+"Constituent policy"
+],
+"correctAnswer": "Distributive policy",
+"category": "Politics",
+"difficulty": "hard",
+"explanation": "Distributive policies fund targeted local infrastructure, agricultural subsidies, or research grants without provoking immediate fiscal pushback from taxpayers.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"policy",
+"economy"
+]
+},
+{
+"id": "politics_203",
+"question": "Which theory assumes that nation-states act rationally because the international system lacks a central governing body to resolve conflicts?",
+"options": [
+"Neoliberalism",
+"Structural Realism",
+"Critical Theory",
+"Constructivism"
+],
+"correctAnswer": "Structural Realism",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "Structural realism (neorealism), defined by Kenneth Waltz, argues that the anarchic global layout forces states to look out for their own security.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"relations",
+"theory"
+]
+},
+{
+"id": "politics_204",
+"question": "What is the name of the constitutional power that allows an executive leader to completely shield communications from legislative oversight?",
+"options": [
+"Executive privilege",
+"Sovereign immunity",
+"Legislative immunity",
+"Executive immunity"
+],
+"correctAnswer": "Executive privilege",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "Executive privilege safeguards the confidentiality of presidential advisors, but courts can overrule it during criminal investigations.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"executive",
+"law"
+]
+},
+{
+"id": "politics_205",
+"question": "What specialized voting option allows voters to choose a whole party ticket with a single mark instead of voting for every candidate individually?",
+"options": [
+"Straight-ticket voting",
+"Split-ticket voting",
+"Ranked-choice voting",
+"Cumulative voting"
+],
+"correctAnswer": "Straight-ticket voting",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "Straight-ticket voting accelerates the voting process for highly partisan voters, tying local down-ballot contests directly to major national party races.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"voting",
+"elections"
+]
+},
+{
+"id": "politics_206",
+"question": "Which international trade bloc, established by the Treaty of Asunción in 1991, promotes free trade and fluid fluid integration across South America?",
+"options": [
+"Andean Community",
+"Mercosur",
+"CARICOM",
+"Pacific Alliance"
+],
+"correctAnswer": "Mercosur",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "Mercosur functions as a regional customs union that harmonizes trade rules and tariffs among South American economies like Brazil and Argentina.",
+"imageUrl": "[https://example.com/images/politics_206.jpg](https://www.google.com/search?q=https://example.com/images/politics_206.jpg)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"trade",
+"alliance"
+]
+},
+{
+"id": "politics_207",
+"question": "What is the term for a state system where power is concentrated in the hands of military leaders who seized control through a coup?",
+"options": [
+"Plutocracy",
+"Junta",
+"Theocracy",
+"Technocracy"
+],
+"correctAnswer": "Junta",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "A junta is an authoritarian military committee that suspends constitutional liberties to run a nation by decree.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"authoritarianism",
+"regime"
+]
+},
+{
+"id": "politics_208",
+"question": "Which historical political text from Thomas Hobbes uses a biblical sea monster to represent the absolute power needed by a sovereign state?",
+"options": [
+"The Prince",
+"Leviathan",
+"De Cive",
+"The Social Contract"
+],
+"correctAnswer": "Leviathan",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "Published in 1651, 'Leviathan' argues that absolute state control is the only way to protect humanity from the chaos of civil war.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"literature",
+"philosophy"
+]
+},
+{
+"id": "politics_209",
+"question": "What type of public policy aims to reduce wealth inequalities by taxing high earners to fund public services for low-income citizens?",
+"options": [
+"Distributive policy",
+"Redistributive policy",
+"Regulatory policy",
+"Constituent policy"
+],
+"correctAnswer": "Redistributive policy",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "Redistributive policies include progressive income taxes, welfare allowances, and Medicaid, which transfer societal resources across economic classes.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"policy",
+"economy"
+]
+},
+{
+"id": "politics_210",
+"question": "Which theory of global politics focuses on how economic dependencies leave developing nations vulnerable to exploitation by wealthy states?",
+"options": [
+"Modernization Theory",
+"Dependency Theory",
+"Neoliberalism",
+"Complex Interdependence"
+],
+"correctAnswer": "Dependency Theory",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "Dependency Theory argues that global economic structures funnel wealth from poor peripheral nations to rich core nations.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"theory",
+"relations"
+]
+},
+{
+"id": "politics_211",
+"question": "What is the name of the legislative process where lawmakers add local funding amendments to unrelated bills to win over specific representatives?",
+"options": [
+"Logrolling",
+"Earmarking",
+"Filibustering",
+"Cloture"
+],
+"correctAnswer": "Earmarking",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "Earmarks direct specific parts of a federal budget toward localized projects, often bypassing the usual competitive review processes.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"legislature",
+"economy"
+]
+},
+{
+"id": "politics_212",
+"question": "What system of government relies on a pool of neutral, technical experts to design and execute state policies rather than elected politicians?",
+"options": [
+"Oligarchy",
+"Technocracy",
+"Plutocracy",
+"Aristocracy"
+],
+"correctAnswer": "Technocracy",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "Technocracies prioritize data-driven solutions and technical competence over ideological debates and political compromises.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"government",
+"theory"
+]
+},
+{
+"id": "politics_213",
+"question": "Which theory of democratic participation argues that regular citizens should be directly involved in policy debates instead of just voting for representatives?",
+"options": [
+"Elite Democracy",
+"Deliberative Democracy",
+"Pluralist Democracy",
+"Procedural Democracy"
+],
+"correctAnswer": "Deliberative Democracy",
+"category": "Politics",
+"difficulty": "hard",
+"explanation": "Deliberative democracy asserts that legitimate lawmaking requires open, rational public debate among citizens rather than just tallying up ballot counts.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"democracy",
+"theory"
+]
+},
+{
+"id": "politics_214",
+"question": "What is the term for a voting pattern where an elector splits their ballot between candidates from different political parties in the same election?",
+"options": [
+"Straight-ticket voting",
+"Split-ticket voting",
+"Ranked-choice voting",
+"Tactical voting"
+],
+"correctAnswer": "Split-ticket voting",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "Split-ticket voting shows that a voter prioritizes individual candidate characteristics over strict political party loyalty.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"voting",
+"behavior"
+]
+},
+{
+"id": "politics_215",
+"question": "Which judicial mandate forces authorities to bring a detained individual before a court to explain the legal basis for their imprisonment?",
+"options": [
+"Writ of Mandamus",
+"Writ of Habeas Corpus",
+"Writ of Certiorari",
+"Writ of Quo Warranto"
+],
+"correctAnswer": "Writ of Habeas Corpus",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "Habeas corpus is a foundational civil liberty safeguard that protects individuals against arbitrary state detentions and secret imprisonments.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"law",
+"rights"
+]
+},
+{
+"id": "politics_216",
+"question": "What type of non-tariff trade barrier sets a strict physical limit on the volume of a specific good that can be imported over a given period?",
+"options": [
+"Tariff",
+"Import Quota",
+"Embargo",
+"Subsidy"
+],
+"correctAnswer": "Import Quota",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "Import quotas protect domestic industries by restricting foreign supplies, raising local prices for those specific commodities.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"trade",
+"policy"
+]
+},
+{
+"id": "politics_217",
+"question": "Which political scientist coined the phrase 'the end of history' to argue that Western liberal democracy represents the final stage of ideological evolution?",
+"options": [
+"Samuel Huntington",
+"Francis Fukuyama",
+"Joseph Nye",
+"John Mearsheimer"
+],
+"correctAnswer": "Francis Fukuyama",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "Fukuyama published his famous thesis following the collapse of the Soviet bloc, viewing it as the definitive global victory for democratic capitalism.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"theory",
+"history"
+]
+},
+{
+"id": "politics_218",
+"question": "What is the term for a voting dynamic where voters select a candidate they don't fully support simply to prevent a worse choice from winning?",
+"options": [
+"Protest voting",
+"Tactical voting",
+"Identity voting",
+"Retrospective voting"
+],
+"correctAnswer": "Tactical voting",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "Tactical (or strategic) voting is common in single-member plurality contests where voters feel third-party selections are functionally wasted.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"voting",
+"behavior"
+]
+},
+{
+"id": "politics_219",
+"question": "Which prominent international financial institution focuses on offering long-term development loans and grants to reduce global poverty?",
+"options": [
+"International Monetary Fund",
+"World Bank",
+"World Trade Organization",
+"Bank for International Settlements"
+],
+"correctAnswer": "World Bank",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "The World Bank funds infrastructural and health initiatives in developing countries, working alongside the IMF's stabilization programs.",
+"imageUrl": "[https://example.com/images/politics_219.jpg](https://www.google.com/search?q=https://example.com/images/politics_219.jpg)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"global",
+"economy"
+]
+},
+{
+"id": "politics_220",
+"question": "What is the name of the political process where state authority and tax revenues are shifted down from central administrations to regional assemblies?",
+"options": [
+"Centralization",
+"Devolution",
+"Amalgamation",
+"Annexation"
+],
+"correctAnswer": "Devolution",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "Devolution allows unitary states like the United Kingdom to grant home-rule powers to territories like Scotland without breaking up federal structures.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"government",
+"structure"
+]
+},
+{
+"id": "politics_221",
+"question": "Which theory of international relations argues that state behaviors are shaped by domestic political layout rather than the structural anarchy of the global arena?",
+"options": [
+"Neorealism",
+"Liberalism",
+"Marxism",
+"Constructivism"
+],
+"correctAnswer": "Liberalism",
+"category": "Politics",
+"difficulty": "hard",
+"explanation": "Liberalism highlights internal variables—like regime type, economic integration, and interest group dynamics—to explain international actions.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"theory",
+"relations"
+]
+},
+{
+"id": "politics_222",
+"question": "What constitutional dynamic gives an executive leader the power to keep military or diplomatic strategies hidden from judicial or legislative scrutiny?",
+"options": [
+"Executive privilege",
+"State Secrets Privilege",
+"Sovereign immunity",
+"Judicial restraint"
+],
+"correctAnswer": "State Secrets Privilege",
+"category": "Politics",
+"difficulty": "hard",
+"explanation": "The state secrets privilege allows governments to block sensitive intelligence or defense documentation from being introduced during court trials.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"law",
+"executive"
+]
+},
+{
+"id": "politics_223",
+"question": "What is the term for a regular citizen who acts as an uncommitted voter, switching party alignments across different election cycles?",
+"options": [
+"Partisan voter",
+"Swing voter",
+"Base voter",
+"Protest voter"
+],
+"correctAnswer": "Swing voter",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "Swing voters are highly prized targets for political strategists because their shifting preferences decide competitive elections.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"voting",
+"elections"
+]
+},
+{
+"id": "politics_224",
+"question": "Which international trade organization replaced the General Agreement on Tariffs and Trade (GATT) framework in 1995?",
+"options": [
+"International Monetary Fund",
+"World Trade Organization",
+"World Bank",
+"UNCTAD"
+],
+"correctAnswer": "World Trade Organization",
+"category": "Politics",
+"difficulty": "easy",
+"explanation": "The WTO regulates international trade rules and provides an independent forum to resolve economic disputes between member states.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"trade",
+"global"
+]
+},
+{
+"id": "politics_225",
+"question": "What political science term describes an organized network of civil servants, legislators, and interest groups working together to dictate policy within a specific sector?",
+"options": [
+"Iron Triangle",
+"Issue Network",
+"Coalition Bloc",
+"Policy Faction"
+],
+"correctAnswer": "Iron Triangle",
+"category": "Politics",
+"difficulty": "medium",
+"explanation": "An Iron Triangle creates a highly stable, self-reinforcing policy environment that can protect its own interests from outside scrutiny.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"policy",
+"influence"
+]
+}
+]

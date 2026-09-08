@@ -1,0 +1,2642 @@
+[
+{
+"id": "military_history_001",
+"question": "Which ancient battle saw the Greek city-states, led by Sparta, hold off a massive Persian army at a narrow coastal pass in 480 BCE?",
+"options": [
+"Battle of Marathon",
+"Battle of Thermopylae",
+"Battle of Salamis",
+"Battle of Plataea"
+],
+"correctAnswer": "Battle of Thermopylae",
+"category": "Military History",
+"difficulty": "easy",
+"explanation": "The Battle of Thermopylae became legendary for the heroic stand of 300 Spartans and their allies against the vast invading empire of Xerxes I.",
+"imageUrl": "[https://images.unsplash.com/photo-1608914619379-cd91be52e93d](https://www.google.com/search?q=https://images.unsplash.com/photo-1608914619379-cd91be52e93d)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"ancient",
+"greece",
+"battles"
+]
+},
+{
+"id": "military_history_002",
+"question": "What was the name of the military strategy used by Germany during World War II characterized by fast, concentrated, and synchronized moving forces?",
+"options": [
+"Sitzkrieg",
+"Schlieffen Plan",
+"Blitzkrieg",
+"Operation Barbarossa"
+],
+"correctAnswer": "Blitzkrieg",
+"category": "Military History",
+"difficulty": "easy",
+"explanation": "Blitzkrieg, meaning 'lightning war', emphasized speed, surprise, and concentrated motorized force to rapidly break through enemy lines.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"wwii",
+"tactics",
+"germany"
+]
+},
+{
+"id": "military_history_003",
+"question": "In which 1805 naval battle did Admiral Horatio Nelson secure British naval supremacy, defeating a combined French and Spanish fleet?",
+"options": [
+"Battle of Trafalgar",
+"Battle of Waterloo",
+"Battle of the Nile",
+"Battle of Copenhagen"
+],
+"correctAnswer": "Battle of Trafalgar",
+"category": "Military History",
+"difficulty": "medium",
+"explanation": "The Battle of Trafalgar thwarted Napoleon's plans to invade Britain and established the Royal Navy as the world's dominant sea power for a century.",
+"imageUrl": "[https://images.unsplash.com/photo-1599420186946-7b6fb4e297f0](https://www.google.com/search?q=https://images.unsplash.com/photo-1599420186946-7b6fb4e297f0)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"naval",
+"napoleonic",
+"britain"
+]
+},
+{
+"id": "military_history_004",
+"question": "Which treaty, signed in 1648, ended the Thirty Years' War and fundamentally shifted European military and political structures toward state sovereignty?",
+"options": [
+"Peace of Utrecht",
+"Treaty of Versailles",
+"Peace of Westphalia",
+"Treaty of Tordesillas"
+],
+"correctAnswer": "Peace of Westphalia",
+"category": "Military History",
+"difficulty": "medium",
+"explanation": "The Peace of Westphalia established the framework for modern international relations and sovereignty, severely reducing the geopolitical dominance of the Holy Roman Empire.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"europe",
+"treaty",
+"seventeenth-century"
+]
+},
+{
+"id": "military_history_005",
+"question": "At the 216 BCE Battle of Cannae, which Carthaginian general executed one of history's most famous double-envelopment tactics to destroy a larger Roman army?",
+"options": [
+"Scipio Africanus",
+"Hannibal Barca",
+"Hamilcar Barca",
+"Hasdrubal"
+],
+"correctAnswer": "Hannibal Barca",
+"category": "Military History",
+"difficulty": "hard",
+"explanation": "Hannibal's flawless encirclement at Cannae remains a textbook military maneuver, resulting in the near-total annihilation of approximately 80,000 Roman troops.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"rome",
+"tactics",
+"punic-wars"
+]
+},
+{
+"id": "military_history_006",
+"question": "What was the code name for the Allied invasion of Normandy on June 6, 1944, during World War II?",
+"options": [
+"Operation Barbarossa",
+"Operation Overlord",
+"Operation Torch",
+"Operation Market Garden"
+],
+"correctAnswer": "Operation Overlord",
+"category": "Military History",
+"difficulty": "easy",
+"explanation": "Operation Overlord was the successful Allied invasion of Western Europe, beginning with the D-Day landings on the beaches of France.",
+"imageUrl": "[https://images.unsplash.com/photo-1547483238-f400e65ccd56](https://images.unsplash.com/photo-1547483238-f400e65ccd56)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"wwii",
+"europe",
+"allies"
+]
+},
+{
+"id": "military_history_007",
+"question": "Which Roman general defeated Hannibal Barca at the Battle of Zama in 202 BCE, effectively ending the Second Punic War?",
+"options": [
+"Julius Caesar",
+"Scipio Africanus",
+"Mark Antony",
+"Pompey the Great"
+],
+"correctAnswer": "Scipio Africanus",
+"category": "Military History",
+"difficulty": "medium",
+"explanation": "Scipio earned his agnomen 'Africanus' following his brilliant victory over Hannibal on Carthaginian soil.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"rome",
+"antiquity",
+"battles"
+]
+},
+{
+"id": "military_history_008",
+"question": "The introduction of which long-range weapon by the English revolutionized medieval warfare at the Battle of Crécy in 1346?",
+"options": [
+"The Crossbow",
+"The Ballista",
+"The English Longbow",
+"The Trebuchet"
+],
+"correctAnswer": "The English Longbow",
+"category": "Military History",
+"difficulty": "easy",
+"explanation": "The English longbow allowed archers to pierce French armor from great distances, neutralizing the traditional dominance of heavily armored knights.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"medieval",
+"weapons",
+"hundred-years-war"
+]
+},
+{
+"id": "military_history_009",
+"question": "Which conflict fought between 1853 and 1856 saw the Russian Empire lose to an alliance of France, Britain, the Ottoman Empire, and Sardinia?",
+"options": [
+"The Crimean War",
+"The Franco-Prussian War",
+"The Napoleonic Wars",
+"The Russo-Turkish War"
+],
+"correctAnswer": "The Crimean War",
+"category": "Military History",
+"difficulty": "medium",
+"explanation": "The Crimean War is notable for the early use of modern technologies like the telegraph and rifled muskets, alongside the pioneering work of Florence Nightingale.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"europe",
+"nineteenth-century",
+"russia"
+]
+},
+{
+"id": "military_history_010",
+"question": "What Japanese city was the target of the first atomic bomb dropped by the United States on August 6, 1945?",
+"options": [
+"Nagasaki",
+"Tokyo",
+"Kyoto",
+"Hiroshima"
+],
+"correctAnswer": "Hiroshima",
+"category": "Military History",
+"difficulty": "easy",
+"explanation": "The atomic bomb 'Little Boy' was dropped on Hiroshima by the B-29 bomber Enola Gay, followed three days later by the bombing of Nagasaki.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"wwii",
+"pacific",
+"weapons"
+]
+},
+{
+"id": "military_history_011",
+"question": "Who was the legendary Prussian military theorist who wrote 'Vom Kriege' (On War), defining war as 'the continuation of politics by other means'?",
+"options": [
+"Gebhard Leberecht von Blücher",
+"Carl von Clausewitz",
+"Helmuth von Moltke",
+"Frederick the Great"
+],
+"correctAnswer": "Carl von Clausewitz",
+"category": "Military History",
+"difficulty": "hard",
+"explanation": "Clausewitz was a Prussian general whose philosophical writings on military strategy deeply influenced modern strategic thought.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"strategy",
+"theory",
+"prussia"
+]
+},
+{
+"id": "military_history_012",
+"question": "Which military engagement in 1815 marked the final defeat of French Emperor Napoleon Bonaparte?",
+"options": [
+"Battle of Austerlitz",
+"Battle of Leipzig",
+"Battle of Waterloo",
+"Battle of Borodino"
+],
+"correctAnswer": "Battle of Waterloo",
+"category": "Military History",
+"difficulty": "easy",
+"explanation": "Napoleon was permanently exiled to the remote island of Saint Helena after his defeat by the Duke of Wellington and Field Marshal von Blücher at Waterloo.",
+"imageUrl": "[https://images.unsplash.com/photo-1599420186946-7b6fb4e297f0](https://images.unsplash.com/photo-1599420186946-7b6fb4e297f0)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"napoleonic",
+"battles",
+"france"
+]
+},
+{
+"id": "military_history_013",
+"question": "What 1863 clash is widely considered the critical turning point of the American Civil War, halting the Confederate invasion of the North?",
+"options": [
+"Battle of Antietam",
+"Battle of Gettysburg",
+"Battle of Bull Run",
+"Battle of Shiloh"
+],
+"correctAnswer": "Battle of Gettysburg",
+"category": "Military History",
+"difficulty": "easy",
+"explanation": "Fought over three days in Pennsylvania, Gettysburg resulted in the largest number of casualties of any battle in the American Civil War.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"civil-war",
+"america",
+"nineteenth-century"
+]
+},
+{
+"id": "military_history_014",
+"question": "The defensive fortification system built by France along its eastern border in the 1930s to deter a German invasion was named what?",
+"options": [
+"Siegfried Line",
+"Mannerheim Line",
+"Maginot Line",
+"Atlantic Wall"
+],
+"correctAnswer": "Maginot Line",
+"category": "Military History",
+"difficulty": "medium",
+"explanation": "The Maginot Line was concrete-heavy and advanced, but it proved ineffective when German forces bypassed it by invading through Belgium.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"wwii",
+"france",
+"fortifications"
+]
+},
+{
+"id": "military_history_015",
+"question": "Which naval vessel class, introduced by Britain in 1906, rendered all existing battleships obsolete due to its 'all-big-gun' armament design?",
+"options": [
+"Dreadnought",
+"Ironclad",
+"Pre-Dreadnought",
+"Supercarrier"
+],
+"correctAnswer": "Dreadnought",
+"category": "Military History",
+"difficulty": "hard",
+"explanation": "HMS Dreadnought sparked a massive naval arms race between the world powers, particularly Great Britain and Germany, leading up to WWI.",
+"imageUrl": "[https://images.unsplash.com/photo-1500530855697-b586d89ba3ee](https://images.unsplash.com/photo-1500530855697-b586d89ba3ee)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"naval",
+"wwi",
+"technology"
+]
+},
+{
+"id": "military_history_016",
+"question": "The 1453 Siege of Constantinople, which marked the end of the Byzantine Empire, was led by which Ottoman Sultan?",
+"options": [
+"Suleiman the Magnificent",
+"Mehmed II",
+"Osman I",
+"Selim I"
+],
+"correctAnswer": "Mehmed II",
+"category": "Military History",
+"difficulty": "medium",
+"explanation": "Mehmed II earned the title 'The Conqueror' after successfully breaching Constantinople's ancient walls using massive, advanced cannons.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"ottoman",
+"siege",
+"medieval"
+]
+},
+{
+"id": "military_history_017",
+"question": "Which fundamental ancient Chinese military text is attributed to the strategic thinker Sun Tzu?",
+"options": [
+"The Book of Five Rings",
+"The Art of War",
+"Wuzi",
+"The Grand Strategy"
+],
+"correctAnswer": "The Art of War",
+"category": "Military History",
+"difficulty": "easy",
+"explanation": "The Art of War outlines enduring principles of strategy, deception, and flexible maneuvering, remaining influential in both military and business spheres today.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"china",
+"strategy",
+"ancient"
+]
+},
+{
+"id": "military_history_018",
+"question": "During World War I, the 1915 Gallipoli Campaign was primarily fought to secure a sea route to which allied empire?",
+"options": [
+"The Russian Empire",
+"The French Third Republic",
+"The Kingdom of Italy",
+"The British Empire"
+],
+"correctAnswer": "The Russian Empire",
+"category": "Military History",
+"difficulty": "medium",
+"explanation": "The Allied campaign aimed to knock the Ottoman Empire out of the war and open a warm-water supply route to Russia via the Black Sea.",
+"imageUrl": "[https://images.unsplash.com/photo-1506744038136-46273834b3fb](https://images.unsplash.com/photo-1506744038136-46273834b3fb)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"wwi",
+"ottoman",
+"campaigns"
+]
+},
+{
+"id": "military_history_019",
+"question": "What 1942 naval battle is widely considered the crucial strategic turning point of the Pacific Theater in World War II?",
+"options": [
+"Battle of the Coral Sea",
+"Battle of Leyte Gulf",
+"Battle of Midway",
+"Battle of Guadalcanal"
+],
+"correctAnswer": "Battle of Midway",
+"category": "Military History",
+"difficulty": "medium",
+"explanation": "Thanks to successful codebreaking, the US Navy ambushed and sank four Japanese aircraft carriers, permanently shifting the initiative in the Pacific.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"wwii",
+"naval",
+"pacific"
+]
+},
+{
+"id": "military_history_020",
+"question": "Which French national heroine emerged during the Hundred Years' War, famously breaking the Siege of Orléans in 1429?",
+"options": [
+"Joan of Arc",
+"Eleanor of Aquitaine",
+"Marie Antoinette",
+"Catherine de' Medici"
+],
+"correctAnswer": "Joan of Arc",
+"category": "Military History",
+"difficulty": "easy",
+"explanation": "Joan of Arc rallied exhausted French forces, securing key victories before being captured, tried, and burned at the stake by the English.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"medieval",
+"france",
+"hundred-years-war"
+]
+},
+{
+"id": "military_history_021",
+"question": "What was the name of the elite heavy infantry units that formed the backbone of the Ottoman Empire's standing army from the 14th to 19th centuries?",
+"options": [
+"Mamluks",
+"Janissaries",
+"Sipahis",
+"Immortals"
+],
+"correctAnswer": "Janissaries",
+"category": "Military History",
+"difficulty": "medium",
+"explanation": "Originally formed from Christian youths taken through the devshirme system, the Janissaries became a highly disciplined and powerful military caste.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"ottoman",
+"infantry",
+"elite"
+]
+},
+{
+"id": "military_history_022",
+"question": "Fought in 1916, which grueling conflict became the longest single battle of World War I, epitomizing the horrors of attrition warfare?",
+"options": [
+"Battle of the Somme",
+"Battle of Verdun",
+"Battle of Passchendaele",
+"Battle of Tannenberg"
+],
+"correctAnswer": "Battle of Verdun",
+"category": "Military History",
+"difficulty": "medium",
+"explanation": "The Battle of Verdun lasted nearly ten months and cost over 700,000 French and German casualties, leaving a lasting scar on France.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"wwi",
+"france",
+"attrition"
+]
+},
+{
+"id": "military_history_023",
+"question": "Which brilliant military campaign saw Alexander the Great defeat Persian King Darius III for the final time in 331 BCE?",
+"options": [
+"Battle of Issus",
+"Battle of Gaugamela",
+"Battle of the Granicus",
+"Battle of the Hydaspes"
+],
+"correctAnswer": "Battle of Gaugamela",
+"category": "Military History",
+"difficulty": "hard",
+"explanation": "Alexander's tactical genius at Gaugamela shattered Persian power and led directly to the collapse of the Achaemenid Empire.",
+"imageUrl": "[https://images.unsplash.com/photo-1599733589046-10c005739ef9](https://images.unsplash.com/photo-1599733589046-10c005739ef9)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"alexander-the-great",
+"ancient",
+"persia"
+]
+},
+{
+"id": "military_history_024",
+"question": "What 1954 siege resulted in a decisive Viet Minh victory, ending French colonial rule in Indochina?",
+"options": [
+"Battle of Dien Bien Phu",
+"Tet Offensive",
+"Battle of Hue",
+"Siege of Khe Sanh"
+],
+"correctAnswer": "Battle of Dien Bien Phu",
+"category": "Military History",
+"difficulty": "medium",
+"explanation": "General Vo Nguyen Giap's forces surrounded and bombarded the French garrison, shocking Western powers and shifting cold-war dynamics.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"vietnam",
+"asia",
+"post-wwii"
+]
+},
+{
+"id": "military_history_025",
+"question": "Which innovative military unit structure, utilizing flexible cohorts instead of rigid phalanxes, allowed Rome to conquer the Mediterranean?",
+"options": [
+"The Macedonian Phalanx",
+"The Maniple/Manipular Legion",
+"The Sacred Band",
+"The Hoplite Wall"
+],
+"correctAnswer": "The Maniple/Manipular Legion",
+"category": "Military History",
+"difficulty": "hard",
+"explanation": "The 'checkerboard' manipular system gave Roman commanders unparalleled flexibility on uneven terrain compared to the dense Greek phalanx.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"rome",
+"tactics",
+"infantry"
+]
+},
+{
+"id": "military_history_026",
+"question": "Which aircraft carrier-based raid in April 1942 served as the first US strike against the Japanese home islands following Pearl Harbor?",
+"options": [
+"The Doolittle Raid",
+"Operation Vengeance",
+"Operation Hailstone",
+"The Tokyo Fireraids"
+],
+"correctAnswer": "The Doolittle Raid",
+"category": "Military History",
+"difficulty": "medium",
+"explanation": "Led by Lt. Col. James Doolittle, B-25 bombers took off from the USS Hornet, providing a massive boost to American morale.",
+"imageUrl": "[https://images.unsplash.com/photo-1473968512647-3e447244af8f](https://images.unsplash.com/photo-1473968512647-3e447244af8f)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"wwii",
+"aviation",
+"usa"
+]
+},
+{
+"id": "military_history_027",
+"question": "What 1066 battle resulted in the Norman conquest of England and the death of King Harold Godwinson?",
+"options": [
+"Battle of Stamford Bridge",
+"Battle of Hastings",
+"Battle of Bannockburn",
+"Battle of Agincourt"
+],
+"correctAnswer": "Battle of Hastings",
+"category": "Military History",
+"difficulty": "easy",
+"explanation": "William the Conqueror defeated the Anglo-Saxon forces, forever altering English language, culture, and governance.",
+"imageUrl": "[https://images.unsplash.com/photo-1599420186946-7b6fb4e297f0](https://images.unsplash.com/photo-1599420186946-7b6fb4e297f0)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"medieval",
+"england",
+"normans"
+]
+},
+{
+"id": "military_history_028",
+"question": "Which nation was famously partitioned by Germany and the Soviet Union under the secret protocols of the 1939 Molotov-Ribbentrop Pact?",
+"options": [
+"Czechoslovakia",
+"Poland",
+"France",
+"Finland"
+],
+"correctAnswer": "Poland",
+"category": "Military History",
+"difficulty": "easy",
+"explanation": "The joint invasion of Poland in September 1939 directly precipitated the outbreak of World War II in Europe.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"wwii",
+"poland",
+"diplomacy"
+]
+},
+{
+"id": "military_history_029",
+"question": "Who was the legendary Native American leader who led Lakota and Cheyenne warriors to victory against Lt. Col. Custer at the Battle of the Little Bighorn?",
+"options": [
+"Geronimo",
+"Sitting Bull",
+"Chief Joseph",
+"Tecumseh"
+],
+"correctAnswer": "Sitting Bull",
+"category": "Military History",
+"difficulty": "medium",
+"explanation": "Sitting Bull united several tribes to defend their lands, resulting in the total destruction of Custer's immediate command in 1876.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"america",
+"frontier",
+"indigenous"
+]
+},
+{
+"id": "military_history_030",
+"question": "Which armored vehicle, introduced by the British at the Battle of the Flers-Courcelette in 1916, was designed to break the trench warfare stalemate?",
+"options": [
+"The Tank",
+"The Armored Car",
+"The Half-track",
+"The Mobile Artillery"
+],
+"correctAnswer": "The Tank",
+"category": "Military History",
+"difficulty": "easy",
+"explanation": "Codenamed 'tanks' to maintain secrecy during production, these heavy tracked vehicles could cross trenches and wire entanglements.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"wwi",
+"technology",
+"armor"
+]
+},
+{
+"id": "military_history_031",
+"question": "The 1805 Battle of Austerlitz is widely celebrated as the greatest tactical masterpiece of which military commander?",
+"options": [
+"The Duke of Wellington",
+"Napoleon Bonaparte",
+"Tsar Alexander I",
+"Frederick the Great"
+],
+"correctAnswer": "Napoleon Bonaparte",
+"category": "Military History",
+"difficulty": "medium",
+"explanation": "Known as the 'Battle of the Three Emperors', Napoleon decisively defeated a combined Russo-Austrian army using brilliant misdirection.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"napoleonic",
+"tactics",
+"france"
+]
+},
+{
+"id": "military_history_032",
+"question": "What 1991 US-led military operation successfully liberated Kuwait from occupying Iraqi forces?",
+"options": [
+"Operation Desert Storm",
+"Operation Iraqi Freedom",
+"Operation Enduring Freedom",
+"Operation Restore Hope"
+],
+"correctAnswer": "Operation Desert Storm",
+"category": "Military History",
+"difficulty": "easy",
+"explanation": "Desert Storm utilized a massive, precise air campaign followed by a swift 100-hour ground offensive to rout Iraqi troops.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"modern",
+"middle-east",
+"coalition"
+]
+},
+{
+"id": "military_history_033",
+"question": "Which long conflict (1618–1648) devastated Central Europe and began as a religious war within the Holy Roman Empire?",
+"options": [
+"The Hundred Years' War",
+"The Seven Years' War",
+"The Thirty Years' War",
+"The War of the Spanish Succession"
+],
+"correctAnswer": "The Thirty Years' War",
+"category": "Military History",
+"difficulty": "medium",
+"explanation": "It evolved into a massive struggle for European power balance, resulting in millions of casualties due to violence, famine, and disease.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"europe",
+"seventeenth-century",
+"religion"
+]
+},
+{
+"id": "military_history_034",
+"question": "Which Swedish King, known as the 'Lion of the North', revolutionized early modern warfare with integrated combined arms tactics before dying at the Battle of Lützen?",
+"options": [
+"Charles XII",
+"Gustavus Adolphus",
+"Gustav I Vasa",
+"Charles X Gustav"
+],
+"correctAnswer": "Gustavus Adolphus",
+"category": "Military History",
+"difficulty": "hard",
+"explanation": "Gustavus Adolphus revolutionized military doctrine by synchronizing highly trained infantry, cavalry, and mobile field artillery.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"sweden",
+"tactics",
+"tacticians"
+]
+},
+{
+"id": "military_history_035",
+"question": "The surprise attack by the North Vietnamese and Viet Cong during the Lunar New Year in 1968 is known by what name?",
+"options": [
+"The Easter Offensive",
+"The Tet Offensive",
+"The Gulf of Tonkin Incident",
+"The Christmas Bombings"
+],
+"correctAnswer": "The Tet Offensive",
+"category": "Military History",
+"difficulty": "easy",
+"explanation": "While a military failure for the communists, the Tet Offensive was a massive psychological turning point that eroded US public support for the war.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"vietnam",
+"cold-war",
+"asia"
+]
+},
+{
+"id": "military_history_036",
+"question": "Which ancient civilization famously deployed the 'Immortals'—a heavy infantry force kept strictly at a constant strength of exactly 10,000 soldiers?",
+"options": [
+"The Roman Empire",
+"The Achaemenid Persian Empire",
+"The Spartan Hegemony",
+"The Carthaginian Empire"
+],
+"correctAnswer": "The Achaemenid Persian Empire",
+"category": "Military History",
+"difficulty": "medium",
+"explanation": "If an Immortal was killed or fell ill, he was immediately replaced, creating the illusion that the force was undying.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"ancient",
+"persia",
+"infantry"
+]
+},
+{
+"id": "military_history_037",
+"question": "What 1942–1943 urban campaign is widely regarded as the bloodiest battle in human history and the ultimate turning point of World War II in Europe?",
+"options": [
+"Battle of Kursk",
+"Battle of Berlin",
+"Battle of Stalingrad",
+"Siege of Leningrad"
+],
+"correctAnswer": "Battle of Stalingrad",
+"category": "Military History",
+"difficulty": "easy",
+"explanation": "The catastrophic surrender of the German 6th Army at Stalingrad permanently broke Nazi offensive momentum on the Eastern Front.",
+"imageUrl": "[https://images.unsplash.com/photo-1505142446731-5d42c13df45b](https://images.unsplash.com/photo-1505142446731-5d42c13df45b)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"wwii",
+"ussr",
+"battles"
+]
+},
+{
+"id": "military_history_038",
+"question": "In 1588, which European power's massive 'Invincible Armada' was defeated by a combination of English fire ships and devastating storms?",
+"options": [
+"France",
+"Portugal",
+"Spain",
+"The Netherlands"
+],
+"correctAnswer": "Spain",
+"category": "Military History",
+"difficulty": "easy",
+"explanation": "King Philip II of Spain launched the Armada to overthrow Elizabeth I, but its failure severely checked Spanish dominance.",
+"imageUrl": "[https://images.unsplash.com/photo-1534447677768-be436bb09401](https://images.unsplash.com/photo-1534447677768-be436bb09401)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"naval",
+"spain",
+"sixteenth-century"
+]
+},
+{
+"id": "military_history_039",
+"question": "Which Byzantine secret weapon, an incendiary liquid capable of burning even on water, was famously used in naval defenses against Arab sieges?",
+"options": [
+"Wildfire",
+"Greek Fire",
+"Sulfur Blaze",
+"Byzantine Napalm"
+],
+"correctAnswer": "Greek Fire",
+"category": "Military History",
+"difficulty": "medium",
+"explanation": "The exact composition of Greek fire was a closely guarded state secret, ensuring Byzantine naval dominance for centuries.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"byzantine",
+"naval",
+"weapons"
+]
+},
+{
+"id": "military_history_040",
+"question": "What 1943 engagement between German and Soviet forces remains history's largest tank battle?",
+"options": [
+"Battle of Kursk",
+"Battle of El Alamein",
+"Battle of the Bulge",
+"Battle of Brody"
+],
+"correctAnswer": "Battle of Kursk",
+"category": "Military History",
+"difficulty": "medium",
+"explanation": "The German offensive (Operation Citadel) failed to breach deep Soviet defensive networks, which featured massive armored counterattacks.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"wwii",
+"armor",
+"ussr"
+]
+},
+{
+"id": "military_history_041",
+"question": "Which treaty formally ended the American Revolutionary War in 1783, recognizing the independence of the United States?",
+"options": [
+"Treaty of Ghent",
+"Treaty of Paris",
+"Treaty of Versailles",
+"Treaty of Utrecht"
+],
+"correctAnswer": "Treaty of Paris",
+"category": "Military History",
+"difficulty": "easy",
+"explanation": "Signed by representatives of King George III and the United States, the treaty established generous borders for the new nation.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"revolution",
+"america",
+"treaty"
+]
+},
+{
+"id": "military_history_042",
+"question": "What nickname was given to the highly effective Soviet truck-mounted multiple rocket launchers used extensively during World War II?",
+"options": [
+"Stuka",
+"Katyusha",
+"Panzerfaust",
+"Nebelwerfer"
+],
+"correctAnswer": "Katyusha",
+"category": "Military History",
+"difficulty": "medium",
+"explanation": "Known by German soldiers as 'Stalin's Organs' due to their distinctive howling sound, Katyushas could deliver devastating area-of-effect bombardments.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"wwii",
+"artillery",
+"ussr"
+]
+},
+{
+"id": "military_history_043",
+"question": "Which major global conflict (1756–1763) is considered by many historians to be the true 'First World War' due to its global theater layout spanning Europe, the Americas, and India?",
+"options": [
+"The Thirty Years' War",
+"The Seven Years' War",
+"The War of the Austrian Succession",
+"The Napoleonic Wars"
+],
+"correctAnswer": "The Seven Years' War",
+"category": "Military History",
+"difficulty": "hard",
+"explanation": "Fought primarily between Britain and France and their respective allies, it fundamentally reshaped colonial empires across the globe.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"global",
+"eighteenth-century",
+"britain"
+]
+},
+{
+"id": "military_history_044",
+"question": "At which 1389 battle did the Ottoman Empire defeat a coalition of Balkan states, cementing centuries of Ottoman rule in southeastern Europe?",
+"options": [
+"Battle of Kosovo",
+"Battle of Nicopolis",
+"Battle of Mohács",
+"Battle of Varna"
+],
+"correctAnswer": "Battle of Kosovo",
+"category": "Military History",
+"difficulty": "hard",
+"explanation": "Both Sultan Murad I and Serbian Prince Lazar perished in this historic clash, which holds profound national and cultural symbolism in the Balkans.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"balkans",
+"ottoman",
+"medieval"
+]
+},
+{
+"id": "military_history_045",
+"question": "What 1950 amphibious operation, executed by UN forces under General Douglas MacArthur, completely reversed the early momentum of the Korean War?",
+"options": [
+"The Inchon Landing",
+"The Pusan Perimeter Defense",
+"Operation Chromite",
+"The Battle of Chosin Reservoir"
+],
+"correctAnswer": "The Inchon Landing",
+"category": "Military History",
+"difficulty": "medium",
+"explanation": "Officially named Operation Chromite, this daring surprise landing behind North Korean lines led to the recapture of Seoul.",
+"imageUrl": "[https://images.unsplash.com/photo-1547483238-f400e65ccd56](https://images.unsplash.com/photo-1547483238-f400e65ccd56)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"korean-war",
+"amphibious",
+"macarthur"
+]
+},
+{
+"id": "military_history_046",
+"question": "Which iconic Japanese military commander unified feudal Japan in the early 17th century and established a long-lasting shogunate?",
+"options": [
+"Oda Nobunaga",
+"Toyotomi Hideyoshi",
+"Tokugawa Ieyasu",
+"Takeda Shingen"
+],
+"correctAnswer": "Tokugawa Ieyasu",
+"category": "Military History",
+"difficulty": "medium",
+"explanation": "Following his decisive victory at the Battle of Sekigahara in 1600, Ieyasu consolidated power and began the peaceful Edo period.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"japan",
+"samurai",
+"shogunate"
+]
+},
+{
+"id": "military_history_047",
+"question": "The legendary 1917 capture of the port of Aqaba during the Arab Revolt was coordinated with the help of which famous British officer?",
+"options": [
+"T.E. Lawrence",
+"Bernard Montgomery",
+"Charles Gordon",
+"Lord Kitchener"
+],
+"correctAnswer": "T.E. Lawrence",
+"category": "Military History",
+"difficulty": "easy",
+"explanation": "Popularly known as 'Lawrence of Arabia', his guerrilla warfare strategies heavily disrupted Ottoman operations across the Middle East.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"wwi",
+"guerrilla",
+"middle-east"
+]
+},
+{
+"id": "military_history_048",
+"question": "Which French fortress town withstood a brutal, month-long German siege in 1870, becoming an iconic symbol of French resistance during the Franco-Prussian War?",
+"options": [
+"Sedan",
+"Metz",
+"Belfort",
+"Verdun"
+],
+"correctAnswer": "Belfort",
+"category": "Military History",
+"difficulty": "hard",
+"explanation": "Belfort's heroic defense under Colonel Denfert-Rochereau earned it a status that allowed it to remain French while Alsace-Moselle was ceded.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"france",
+"prussia",
+"nineteenth-century"
+]
+},
+{
+"id": "military_history_049",
+"question": "What 490 BCE battle saw an outnumbered Athenian army route an invading Persian force, inspiring a legendary run back to Athens to declare victory?",
+"options": [
+"Battle of Marathon",
+"Battle of Thermopylae",
+"Battle of Salamis",
+"Battle of Plataea"
+],
+"correctAnswer": "Battle of Marathon",
+"category": "Military History",
+"difficulty": "easy",
+"explanation": "The Athenian victory proved the Persian Empire could be beaten, and the modern marathon race honors the messenger Pheidippides.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"ancient",
+"greece",
+"marathon"
+]
+},
+{
+"id": "military_history_050",
+"question": "Which German field marshal was nicknamed 'The Desert Fox' for his brilliant tactical achievements in North Africa during World War II?",
+"options": [
+"Heinz Guderian",
+"Erwin Rommel",
+"Erich von Manstein",
+"Gerd von Rundstedt"
+],
+"correctAnswer": "Erwin Rommel",
+"category": "Military History",
+"difficulty": "easy",
+"explanation": "Rommel led the Afrika Korps with high flexibility and tactical surprise, gaining the respect of both his troops and his Allied opponents.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"wwii",
+"africa",
+"generals"
+]
+},
+{
+"id": "military_history_051",
+"question": "What was the name of the final major German offensive campaign on the Western Front in WWII, launched through the snowy Ardennes forest in late 1944?",
+"options": [
+"Operation Citadel",
+"Battle of the Bulge",
+"Operation Sea Lion",
+"Battle of Hürtgen Forest"
+],
+"correctAnswer": "Battle of the Bulge",
+"category": "Military History",
+"difficulty": "easy",
+"explanation": "The surprise attack created a 'bulge' in the Allied line, but heroic defense, particularly at Bastogne, exhausted Germany's remaining reserves.",
+"imageUrl": "[https://images.unsplash.com/photo-1547483238-f400e65ccd56](https://images.unsplash.com/photo-1547483238-f400e65ccd56)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"wwii",
+"europe",
+"allies"
+]
+},
+{
+"id": "military_history_052",
+"question": "Which legendary Carthaginian explorer and admiral wrote a rare account of coastal African exploration that influenced ancient Mediterranean naval charts?",
+"options": [
+"Hanno the Navigator",
+"Hamilcar Barca",
+"Hannibal",
+"Mago Barca"
+],
+"correctAnswer": "Hanno the Navigator",
+"category": "Military History",
+"difficulty": "hard",
+"explanation": "Hanno led a major fleet through the Straits of Gibraltar around the 5th century BCE, expanding ancient knowledge of naval voyaging.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"ancient",
+"carthage",
+"naval"
+]
+},
+{
+"id": "military_history_053",
+"question": "What technological innovation in personal protection dramatically declined following the perfection of early gunpowder firearms like the arquebus in the 16th century?",
+"options": [
+"The Phalanx",
+"Plate Armor",
+"The Wooden Shield",
+"Chainmail"
+],
+"correctAnswer": "Plate Armor",
+"category": "Military History",
+"difficulty": "medium",
+"explanation": "As bullet velocity increased, the heavy steel plate armor worn by traditional knights became impractical and easy to penetrate.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"technology",
+"firearms",
+"armor"
+]
+},
+{
+"id": "military_history_054",
+"question": "Which historical treaty, signed in 1898, saw Spain cede control of Puerto Rico, Guam, and the Philippines to the United States?",
+"options": [
+"Treaty of Madrid",
+"Treaty of Paris",
+"Treaty of Washington",
+"Treaty of Havana"
+],
+"correctAnswer": "Treaty of Paris",
+"category": "Military History",
+"difficulty": "medium",
+"explanation": "This treaty concluded the Spanish-American War, signaling Spain's final imperial collapse and America's rise as a global power.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"treaty",
+"america",
+"colonialism"
+]
+},
+{
+"id": "military_history_055",
+"question": "At the 1415 Battle of Agincourt, which English monarch famously led his heavily outnumbered army to victory over the French?",
+"options": [
+"Edward III",
+"Richard Lionheart",
+"Henry V",
+"Henry IV"
+],
+"correctAnswer": "Henry V",
+"category": "Military History",
+"difficulty": "medium",
+"explanation": "Henry V relied heavily on English longbowmen to shatter charging French cavalry in wet, muddy conditions.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"medieval",
+"hundred-years-war",
+"england"
+]
+},
+{
+"id": "military_history_056",
+"question": "What code name was assigned to the massive secret US research project that successfully designed and built the first nuclear weapons?",
+"options": [
+"Project Horizon",
+"The Manhattan Project",
+"Operation Trinity",
+"The Iron Project"
+],
+"correctAnswer": "The Manhattan Project",
+"category": "Military History",
+"difficulty": "easy",
+"explanation": "Led by J. Robert Oppenheimer and Major General Leslie Groves, the project culminated in the historic Trinity test in July 1945.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"wwii",
+"weapons",
+"technology"
+]
+},
+{
+"id": "military_history_057",
+"question": "Which ancient military standard, characterized by an eagle icon, served as a profound source of institutional pride for Roman legions?",
+"options": [
+"Labarum",
+"Aquila",
+"Vexillum",
+"Draco"
+],
+"correctAnswer": "Aquila",
+"category": "Military History",
+"difficulty": "hard",
+"explanation": "Losing an Aquila (eagle standard) was considered the ultimate military disgrace, and Rome went to great lengths to recover captured ones.",
+"imageUrl": "[https://images.unsplash.com/photo-1543051932-6ef9fecfbc80](https://images.unsplash.com/photo-1543051932-6ef9fecfbc80)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"rome",
+"antiquity",
+"culture"
+]
+},
+{
+"id": "military_history_058",
+"question": "Which critical naval battle in 480 BCE saw the outnumbered Greek fleets trap and destroy the Persian fleet in narrow waters?",
+"options": [
+"Battle of Mycale",
+"Battle of Salamis",
+"Battle of Actium",
+"Battle of Artemisium"
+],
+"correctAnswer": "Battle of Salamis",
+"category": "Military History",
+"difficulty": "medium",
+"explanation": "Orchestrated by Themistocles, the Greek victory at Salamis crippled Xerxes' supply lines and saved the Peloponnese from invasion.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"ancient",
+"greece",
+"naval"
+]
+},
+{
+"id": "military_history_059",
+"question": "What defensive network, built by the Roman Empire across northern Britain, marked the furthest permanent frontier of the empire?",
+"options": [
+"Antonine Wall",
+"Hadrian's Wall",
+"Limes Germanicus",
+"Aurelian Wall"
+],
+"correctAnswer": "Hadrian's Wall",
+"category": "Military History",
+"difficulty": "easy",
+"explanation": "Constructed under Emperor Hadrian starting in 122 CE, the stone wall served to secure Roman Britain against Caledonian tribes.",
+"imageUrl": "[https://images.unsplash.com/photo-1510798831971-661eb04b3739](https://images.unsplash.com/photo-1510798831971-661eb04b3739)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"rome",
+"britain",
+"fortifications"
+]
+},
+{
+"id": "military_history_060",
+"question": "The 1961 Bay of Pigs invasion was a failed covert paramilitary operation targeting which country's government?",
+"options": [
+"Vietnam",
+"Cuba",
+"Nicaragua",
+"Iran"
+],
+"correctAnswer": "Cuba",
+"category": "Military History",
+"difficulty": "easy",
+"explanation": "Funded and directed by the US CIA, the invasion used Cuban exiles in an attempt to overthrow Fidel Castro, resulting in a swift defeat.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"cold-war",
+"cuba",
+"covert"
+]
+},
+{
+"id": "military_history_061",
+"question": "Which legendary military commander served as the supreme chieftain of the Huns, terrorizing both the Eastern and Western Roman Empires in the 5th century?",
+"options": [
+"Alaric",
+"Odoacer",
+"Attila",
+"Genseric"
+],
+"correctAnswer": "Attila",
+"category": "Military History",
+"difficulty": "easy",
+"explanation": "Nicknamed the 'Scourge of God' by Romans, Attila launched devastating campaigns across Europe before his death in 453 CE.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"ancient",
+"huns",
+"europe"
+]
+},
+{
+"id": "military_history_062",
+"question": "What 1914 battle checked the initial German advance into France, leading directly to the establishment of the Western Front's trench network?",
+"options": [
+"First Battle of the Marne",
+"Battle of Tannenberg",
+"Battle of Ypres",
+"Battle of Liege"
+],
+"correctAnswer": "First Battle of the Marne",
+"category": "Military History",
+"difficulty": "medium",
+"explanation": "An Allied counteroffensive halted the Schlieffen Plan's momentum, prompting both sides to dig in for long-term trench warfare.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"wwi",
+"france",
+"trenches"
+]
+},
+{
+"id": "military_history_063",
+"question": "Which powerful aircraft type proved its strategic superiority over traditional battleships during the attacks on Taranto and Pearl Harbor?",
+"options": [
+"The Torpedo Bomber",
+"The Heavy Strategic Bomber",
+"The Interceptor",
+"The Reconnaissance Plane"
+],
+"correctAnswer": "The Torpedo Bomber",
+"category": "Military History",
+"difficulty": "medium",
+"explanation": "Carrier-launched torpedo aircraft proved they could strike anchored fleets inside shallow harbors, fundamentally changing modern naval doctrine.",
+"imageUrl": "[https://images.unsplash.com/photo-1540962351504-03099e0a754b](https://images.unsplash.com/photo-1540962351504-03099e0a754b)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"naval",
+"wwii",
+"aviation"
+]
+},
+{
+"id": "military_history_064",
+"question": "The historic 1683 Battle of Vienna is famous for featuring a massive, decisive cavalry charge led by which elite military force?",
+"options": [
+"The Polish Winged Hussars",
+"The French Musketeers",
+"The Cossacks",
+"The Mamluks"
+],
+"correctAnswer": "The Polish Winged Hussars",
+"category": "Military History",
+"difficulty": "medium",
+"explanation": "Led by Polish King John III Sobieski, the Winged Hussars executed history's largest recorded cavalry charge to break the Ottoman siege.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"cavalry",
+"austria",
+"seventeenth-century"
+]
+},
+{
+"id": "military_history_065",
+"question": "Which major military alliance was formed in 1949 by Western nations to provide collective security against the threat of Soviet expansion?",
+"options": [
+"The Warsaw Pact",
+"NATO",
+"The League of Nations",
+"SEATO"
+],
+"correctAnswer": "NATO",
+"category": "Military History",
+"difficulty": "easy",
+"explanation": "The North Atlantic Treaty Organization (NATO) established that an attack against one member state would be considered an attack against all.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"cold-war",
+"alliances",
+"modern"
+]
+},
+{
+"id": "military_history_066",
+"question": "What 1879 battle saw an indigenous Zulu army defeat a technologically advanced British expeditionary force in South Africa?",
+"options": [
+"Battle of Rorke's Drift",
+"Battle of Isandlwana",
+"Battle of Ulundi",
+"Battle of Blood River"
+],
+"correctAnswer": "Battle of Isandlwana",
+"category": "Military History",
+"difficulty": "hard",
+"explanation": "Utilizing the 'buffalo horns' tactical formation, the Zulus overwhelmed and wiped out a significant British column, shocking imperial Britain.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"africa",
+"colonialism",
+"nineteenth-century"
+]
+},
+{
+"id": "military_history_067",
+"question": "Which Spanish military conqueror led the expedition that directly caused the fall of the Aztec Empire in the early 16th century?",
+"options": [
+"Francisco Pizarro",
+"Hernán Cortés",
+"Hernando de Soto",
+"Juan Ponce de León"
+],
+"correctAnswer": "Hernán Cortés",
+"category": "Military History",
+"difficulty": "easy",
+"explanation": "Cortés utilized superior technology, native alliances, and the introduction of smallpox to capture Tenochtitlan.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"conquistadors",
+"americas",
+"spain"
+]
+},
+{
+"id": "military_history_068",
+"question": "What was the designation of the German encryption device whose codes were cracked by Allied intelligence at Bletchley Park during World War II?",
+"options": [
+"Enigma",
+"Lorenz",
+"Purple",
+"Sigaba"
+],
+"correctAnswer": "Enigma",
+"category": "Military History",
+"difficulty": "easy",
+"explanation": "Decoupling the complex Enigma cipher gave the Allies critical strategic advantages, particularly during the Battle of the Atlantic.",
+"imageUrl": "[https://images.unsplash.com/photo-1516321318423-f06f85e504b3](https://images.unsplash.com/photo-1516321318423-f06f85e504b3)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"intelligence",
+"wwii",
+"technology"
+]
+},
+{
+"id": "military_history_069",
+"question": "Which ancient conflict (431–404 BCE) saw Athens lose its empire and maritime supremacy to a coalition led by Sparta?",
+"options": [
+"The Persian Wars",
+"The Peloponnesian War",
+"The Corinthian War",
+"The Theban Hegemony"
+],
+"correctAnswer": "The Peloponnesian War",
+"category": "Military History",
+"difficulty": "medium",
+"explanation": "Fought across the Greek world, the war permanently weakened the city-states, paving the way for the later Macedonian conquest.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"greece",
+"ancient",
+"sparta"
+]
+},
+{
+"id": "military_history_070",
+"question": "At which 1862 battle, the bloodiest single-day clash in American military history, did Union forces halt General Lee's first invasion of Maryland?",
+"options": [
+"Battle of Gettysburg",
+"Battle of Antietam",
+"Battle of Fredericksburg",
+"Battle of Chancellorsville"
+],
+"correctAnswer": "Battle of Antietam",
+"category": "Military History",
+"difficulty": "medium",
+"explanation": "The tactical draw at Antietam provided President Lincoln the political leverage to issue the Emancipation Proclamation.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"civil-war",
+"america",
+"nineteenth-century"
+]
+},
+{
+"id": "military_history_071",
+"question": "Which unique defensive military formation, involving tightly locked shields and projecting long pikes, did the ancient Macedonians use to dominate Greece?",
+"options": [
+"The Testudo",
+"The Macedonian Phalanx",
+"The Shieldwall",
+"The Wedge"
+],
+"correctAnswer": "The Macedonian Phalanx",
+"category": "Military History",
+"difficulty": "medium",
+"explanation": "Developed by Philip II, this formation armed infantrymen with a massive 18–20 foot pike called a sarissa, creating an impenetrable wall.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"tactics",
+"ancient",
+"macedon"
+]
+},
+{
+"id": "military_history_072",
+"question": "What 1916 naval engagement between the British Grand Fleet and the German High Seas Fleet was the largest naval battle of World War I?",
+"options": [
+"Battle of Dogger Bank",
+"Battle of Jutland",
+"Battle of Heligoland Bight",
+"Battle of Coronel"
+],
+"correctAnswer": "Battle of Jutland",
+"category": "Military History",
+"difficulty": "hard",
+"explanation": "Though the British sustained heavier initial losses, Jutland confirmed British strategic control of the North Sea, keeping the German fleet confined.",
+"imageUrl": "[https://images.unsplash.com/photo-1500530855697-b586d89ba3ee](https://images.unsplash.com/photo-1500530855697-b586d89ba3ee)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"wwi",
+"naval",
+"britain"
+]
+},
+{
+"id": "military_history_073",
+"question": "The legendary code talkers who used their complex native language to transmit secure tactical messages for the US military in the Pacific were from which tribe?",
+"options": [
+"Cherokee",
+"Apache",
+"Navajo",
+"Sioux"
+],
+"correctAnswer": "Navajo",
+"category": "Military History",
+"difficulty": "easy",
+"explanation": "The Navajo language's unwritten, tonal structure allowed code talkers to transmit vital communications under heavy combat that Japan never deciphered.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"wwii",
+"pacific",
+"communications"
+]
+},
+{
+"id": "military_history_074",
+"question": "Which treaty signed in 1918 pulled revolutionary Russia out of World War I at the cost of massive territorial concessions to the Central Powers?",
+"options": [
+"Treaty of Versailles",
+"Treaty of Brest-Litovsk",
+"Treaty of Trianon",
+"Treaty of Saint-Germain"
+],
+"correctAnswer": "Treaty of Brest-Litovsk",
+"category": "Military History",
+"difficulty": "medium",
+"explanation": "Signed by the new Bolshevik government, the treaty ceded vast lands containing agricultural and industrial infrastructure before Germany's defeat.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"wwi",
+"russia",
+"treaty"
+]
+},
+{
+"id": "military_history_075",
+"question": "What historic 732 CE engagement near north-central France saw Charles Martel halt the expansion of the Umayyad Caliphate into Western Europe?",
+"options": [
+"Battle of Tours",
+"Battle of Roncevaux Pass",
+"Battle of Toulouse",
+"Battle of Poitiers"
+],
+"correctAnswer": "Battle of Tours",
+"category": "Military History",
+"difficulty": "medium",
+"explanation": "Also called the Battle of Poitiers, Martel's victory established the Frankish Carolingian dynasty as Europe's primary Christian power.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"medieval",
+"france",
+"battles"
+]
+},
+{
+"id": "military_history_076",
+"question": "Which heavy, long-range ballistic missile system was developed by Nazi Germany to terrorize London and other Allied cities during late WWII?",
+"options": [
+"V-1 Flying Bomb",
+"V-2 Rocket",
+"Wasserfall",
+"Fritz X"
+],
+"correctAnswer": "V-2 Rocket",
+"category": "Military History",
+"difficulty": "medium",
+"explanation": "The V-2 was the world's first long-range guided ballistic missile, supersonic in flight and impossible to intercept with existing radar technology.",
+"imageUrl": "[https://images.unsplash.com/photo-1541185933-ef5d8ed016c2](https://images.unsplash.com/photo-1541185933-ef5d8ed016c2)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"wwii",
+"technology",
+"weapons"
+]
+},
+{
+"id": "military_history_077",
+"question": "During the Third Crusade, which Muslim military leader successfully defended Jerusalem against the armies of Richard the Lionheart?",
+"options": [
+"Baibars",
+"Saladin",
+"Nur ad-Din",
+"Al-Kamil"
+],
+"correctAnswer": "Saladin",
+"category": "Military History",
+"difficulty": "easy",
+"explanation": "Saladin united Muslim forces across Egypt and Syria, capturing Jerusalem in 1187 and earning widespread respect for his chivalrous leadership.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"crusades",
+"medieval",
+"leaders"
+]
+},
+{
+"id": "military_history_078",
+"question": "What 1192 naval conflict between Japanese samurai clans concluded the Genpei War and saw the tragic demise of the young Emperor Antoku?",
+"options": [
+"Battle of Dan-no-ura",
+"Battle of Sekigahara",
+"Battle of Hakodate",
+"Battle of Mikatagahara"
+],
+"correctAnswer": "Battle of Dan-no-ura",
+"category": "Military History",
+"difficulty": "hard",
+"explanation": "The Minamoto clan's decisive naval victory over the Taira led directly to the establishment of the Kamakura Shogunate.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"japan",
+"naval",
+"samurai"
+]
+},
+{
+"id": "military_history_079",
+"question": "Which historic defense system, characterized by locking shields tightly overhead, was used by Roman legionaries to advance against arrow fire?",
+"options": [
+"Phalanx",
+"Testudo",
+"Shieldwall",
+"Schiltron"
+],
+"correctAnswer": "Testudo",
+"category": "Military History",
+"difficulty": "easy",
+"explanation": "Meaning 'tortoise', the testudo formation created a continuous armor shell that protected soldiers during siege operations.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"rome",
+"tactics",
+"antiquity"
+]
+},
+{
+"id": "military_history_080",
+"question": "What 1953 agreement established a heavily fortified Demilitarized Zone (DMZ), halting active hostilities in the Korean War?",
+"options": [
+"Panmunjom Armistice Agreement",
+"Treaty of Seoul",
+"Geneva Accords",
+"Pyongyang Accord"
+],
+"correctAnswer": "Panmunjom Armistice Agreement",
+"category": "Military History",
+"difficulty": "medium",
+"explanation": "Signed by UN, North Korean, and Chinese commanders, the armistice established a ceasefire but never culminated in a formal peace treaty.",
+"imageUrl": "[https://images.unsplash.com/photo-1531266752426-aad472b7bbf4](https://images.unsplash.com/photo-1531266752426-aad472b7bbf4)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"korean-war",
+"modern",
+"treaty"
+]
+},
+{
+"id": "military_history_081",
+"question": "Which Carthaginian military stronghold in Iberia was captured by Scipio Africanus in a brilliant amphibious surprise assault in 209 BCE?",
+"options": [
+"Saguntum",
+"Carthago Nova",
+"Gades",
+"Tarraco"
+],
+"correctAnswer": "Carthago Nova",
+"category": "Military History",
+"difficulty": "hard",
+"explanation": "Scipio exploited a unique tidal drop to wade through a shallow lagoon, taking the lightly defended northern wall of Carthage's regional capital.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"rome",
+"punic-wars",
+"strategy"
+]
+},
+{
+"id": "military_history_082",
+"question": "What 1982 conflict saw the United Kingdom retake a South Atlantic island archipelago following a surprise invasion by Argentina?",
+"options": [
+"The Falklands War",
+"The Suez Crisis",
+"The Grenada Conflict",
+"The Cod Wars"
+],
+"correctAnswer": "The Falklands War",
+"category": "Military History",
+"difficulty": "easy",
+"explanation": "Prime Minister Margaret Thatcher ordered a task force to liberate the islands, engaging in major naval and air actions over 74 days.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"modern",
+"naval",
+"britain"
+]
+},
+{
+"id": "military_history_083",
+"question": "Which French general and military mastermind oversaw the construction of complex star-fort fortresses that transformed 17th-century European siege warfare?",
+"options": [
+"Sébastien Le Prestre de Vauban",
+"Marquis de Lafayette",
+"Viscount Turenne",
+"Prince de Condé"
+],
+"correctAnswer": "Sébastien Le Prestre de Vauban",
+"category": "Military History",
+"difficulty": "hard",
+"explanation": "Vauban perfected both the engineering of low-profile geometric forts and the methodical siege tactics required to breach them.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"fortifications",
+"france",
+"seventeenth-century"
+]
+},
+{
+"id": "military_history_084",
+"question": "What 1940 operation successfully evacuated over 330,000 Allied soldiers from the beaches of France following a catastrophic collapse against German blitzkrieg?",
+"options": [
+"Operation Dynamo",
+"Operation Jubilee",
+"Operation Sea Lion",
+"Operation Compass"
+],
+"correctAnswer": "Operation Dynamo",
+"category": "Military History",
+"difficulty": "medium",
+"explanation": "Popularly known as the 'Miracle of Dunkirk', Dynamo utilized a flotilla of naval ships and civilian craft to rescue British and French forces.",
+"imageUrl": "[https://images.unsplash.com/photo-1547483238-f400e65ccd56](https://images.unsplash.com/photo-1547483238-f400e65ccd56)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"wwii",
+"dunkirk",
+"evacuation"
+]
+},
+{
+"id": "military_history_085",
+"question": "Which ancient treaty, signed in 1259 BCE following the Battle of Kadesh, is considered history's oldest surviving international peace accord?",
+"options": [
+"Treaty of Kadesh",
+"Treaty of Babylon",
+"Treaty of Memphis",
+"Treaty of Hattusa"
+],
+"correctAnswer": "Treaty of Kadesh",
+"category": "Military History",
+"difficulty": "medium",
+"explanation": "Signed between Egyptian Pharaoh Ramesses II and Hittite King Hattusili III, it established eternal peace and a mutual defense pact.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"ancient",
+"treaty",
+"egypt"
+]
+},
+{
+"id": "military_history_086",
+"question": "Who was the supreme allied commander of all military operations in the Southwest Pacific Area during World War II?",
+"options": [
+"General Dwight D. Eisenhower",
+"General Douglas MacArthur",
+"Admiral Chester Nimitz",
+"General George Patton"
+],
+"correctAnswer": "General Douglas MacArthur",
+"category": "Military History",
+"difficulty": "easy",
+"explanation": "MacArthur directed the 'island-hopping' campaign to liberate New Guinea and the Philippines, later accepting Japan's formal surrender.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"wwii",
+"pacific",
+"generals"
+]
+},
+{
+"id": "military_history_087",
+"question": "The introduction of which technological advancement dramatically increased the rate of infantry fire during the late 17th century by replacing matchlocks?",
+"options": [
+"The Flintlock Mechanism",
+"The Percussion Cap",
+"The Minie Ball",
+"The Cartridge System"
+],
+"correctAnswer": "The Flintlock Mechanism",
+"category": "Military History",
+"difficulty": "medium",
+"explanation": "Flintlocks used a piece of flint to spark gunpowder mechanically, making firearms more reliable and easier to load in damp weather.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"technology",
+"firearms",
+"early-modern"
+]
+},
+{
+"id": "military_history_088",
+"question": "Which decisive 1281 naval campaign saw a massive Mongol invasion fleet destroyed by a sudden typhoon off the coast of Japan?",
+"options": [
+"Battle of Hakata Bay",
+"The Kamikaze Storm Defense",
+"Battle of Tsushima",
+"Battle of Miyajima"
+],
+"correctAnswer": "The Kamikaze Storm Defense",
+"category": "Military History",
+"difficulty": "medium",
+"explanation": "The Japanese labeled these timely typhoons 'Kamikaze' (Divine Wind), believing the gods had intervened to save their nation from Kublai Khan.",
+"imageUrl": "[https://images.unsplash.com/photo-1534447677768-be436bb09401](https://images.unsplash.com/photo-1534447677768-be436bb09401)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"japan",
+"mongols",
+"naval"
+]
+},
+{
+"id": "military_history_089",
+"question": "What 1806 clash saw Napoleon's main army completely smash the legendary military machine of the Prussian Empire in a single day?",
+"options": [
+"Battle of Jena-Auerstedt",
+"Battle of Ulm",
+"Battle of Friedland",
+"Battle of Eylau"
+],
+"correctAnswer": "Battle of Jena-Auerstedt",
+"category": "Military History",
+"difficulty": "hard",
+"explanation": "The dual victory at Jena and Auerstedt led to the total collapse of the Prussian state and forced sweeping reforms in military doctrine.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"napoleonic",
+"prussia",
+"battles"
+]
+},
+{
+"id": "military_history_090",
+"question": "Which historic global conflict was directly triggered by the assassination of Archduke Franz Ferdinand in Sarajevo on June 28, 1914?",
+"options": [
+"World War I",
+"World War II",
+"The Franco-Prussian War",
+"The Balkan Wars"
+],
+"correctAnswer": "World War I",
+"category": "Military History",
+"difficulty": "easy",
+"explanation": "The assassination triggered a diplomatic crisis that quickly mobilized Europe's complex alliance networks into full-scale global war.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"wwi",
+"origins",
+"europe"
+]
+},
+{
+"id": "military_history_091",
+"question": "The legendary 1918 'Red Baron', history's top-scoring fighter ace of World War I with 80 credited aerial victories, belonged to which military?",
+"options": [
+"German Imperial Army Air Service",
+"British Royal Flying Corps",
+"French Air Force",
+"Austro-Hungarian Aviation Troops"
+],
+"correctAnswer": "German Imperial Army Air Service",
+"category": "Military History",
+"difficulty": "easy",
+"explanation": "Manfred von Richthofen, famously piloting a vibrant red Fokker triplane, became a feared symbol of early aerial dogfighting.",
+"imageUrl": "[https://images.unsplash.com/photo-1473968512647-3e447244af8f](https://images.unsplash.com/photo-1473968512647-3e447244af8f)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"wwi",
+"aviation",
+"germany"
+]
+},
+{
+"id": "military_history_092",
+"question": "Which 1314 battle secured Scottish independence from England under the direct command of King Robert the Bruce?",
+"options": [
+"Battle of Stirling Bridge",
+"Battle of Bannockburn",
+"Battle of Falkirk",
+"Battle of Flodden"
+],
+"correctAnswer": "Battle of Bannockburn",
+"category": "Military History",
+"difficulty": "medium",
+"explanation": "Robert the Bruce used localized terrain and defensive pike rings called schiltrons to outmaneuver Edward II's heavy cavalry forces.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"medieval",
+"scotland",
+"independence"
+]
+},
+{
+"id": "military_history_093",
+"question": "What 1941 naval catastrophic operation saw the US Pacific Fleet severely damaged by a surprise carrier-based air attack from imperial Japan?",
+"options": [
+"Attack on Pearl Harbor",
+"Bombing of Darwin",
+"Raid on Singapore",
+"Battle of Wake Island"
+],
+"correctAnswer": "Attack on Pearl Harbor",
+"category": "Military History",
+"difficulty": "easy",
+"explanation": "The surprise attack on Hawaii crippled the US battleship fleet, forcing America's immediate entry into World War II.",
+"imageUrl": "[https://images.unsplash.com/photo-1540962351504-03099e0a754b](https://images.unsplash.com/photo-1540962351504-03099e0a754b)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"wwii",
+"pearl-harbor",
+"naval"
+]
+},
+{
+"id": "military_history_094",
+"question": "Which tactical encirclement operation during the American Revolutionary War concluded with General Cornwallis surrendering his entire army in 1781?",
+"options": [
+"Battle of Saratoga",
+"Siege of Yorktown",
+"Battle of Trenton",
+"Battle of Bunker Hill"
+],
+"correctAnswer": "Siege of Yorktown",
+"category": "Military History",
+"difficulty": "easy",
+"explanation": "Supported heavily by French naval and ground forces, Washington trapped Cornwallis against the coast, ending major hostilities in America.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"revolution",
+"america",
+"siege"
+]
+},
+{
+"id": "military_history_095",
+"question": "At which 1905 naval battle did the Japanese fleet under Admiral Togo wipe out the Russian Baltic Fleet, shocking Western empires?",
+"options": [
+"Battle of Port Arthur",
+"Battle of Tsushima",
+"Battle of the Yellow Sea",
+"Battle of Chemulpo Bay"
+],
+"correctAnswer": "Battle of Tsushima",
+"category": "Military History",
+"difficulty": "hard",
+"explanation": "Tsushima was the first decisive modern naval battle won by an Asian power over a European power using steel pre-dreadnought battleships.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"naval",
+"japan",
+"russo-japanese"
+]
+},
+{
+"id": "military_history_096",
+"question": "What 1965 battle serves as the first major conventional ground engagement between regular US Army troops and the People's Army of Vietnam?",
+"options": [
+"Battle of Ia Drang",
+"Battle of Khe Sanh",
+"Battle of Dak To",
+"Battle of Hamburger Hill"
+],
+"correctAnswer": "Battle of Ia Drang",
+"category": "Military History",
+"difficulty": "medium",
+"explanation": "Ia Drang pioneered large-scale airmobile tactics, relying heavily on helicopters to insert troops and provide immediate close-air support.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"vietnam",
+"tactics",
+"aviation"
+]
+},
+{
+"id": "military_history_097",
+"question": "Which prominent military alliance was created in 1955 by the Soviet Union and its satellite nations to counter the collective strength of NATO?",
+"options": [
+"The Warsaw Pact",
+"COMECON",
+"The Iron Bloc",
+"The Moscow Coalition"
+],
+"correctAnswer": "The Warsaw Pact",
+"category": "Military History",
+"difficulty": "easy",
+"explanation": "The Warsaw Pact cemented Europe's division into two armed ideological blocs during the height of the Cold War.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"cold-war",
+"alliances",
+"ussr"
+]
+},
+{
+"id": "military_history_098",
+"question": "The introduction of the 'Minie ball' bullet combined with what rifle advancement caused catastrophic casualties during the American Civil War?",
+"options": [
+"The Smoothbore Barrel",
+"The Rifled Musket",
+"The Breech-loading Action",
+"The Magazine Feed"
+],
+"correctAnswer": "The Rifled Musket",
+"category": "Military History",
+"difficulty": "medium",
+"explanation": "The Minie ball expanded into the barrel's rifling grooves, radically increasing range and accuracy against outdated infantry tactics.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"civil-war",
+"technology",
+"weapons"
+]
+},
+{
+"id": "military_history_099",
+"question": "Which historic military conflict (1337–1453) was fought between the House of Plantagenet of England and the House of Valois of France over French throne rights?",
+"options": [
+"The War of the Roses",
+"The Hundred Years' War",
+"The Seven Years' War",
+"The Burgundian Wars"
+],
+"correctAnswer": "The Hundred Years' War",
+"category": "Military History",
+"difficulty": "easy",
+"explanation": "The long, intermittent conflict shaped national identities and saw rapid evolutionary shifts in medieval arms and army structures.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"france",
+"england",
+"medieval"
+]
+},
+{
+"id": "military_history_100",
+"question": "At which crucial 1942 urban campaign did British forces under General Montgomery halt Erwin Rommel's advance toward the Suez Canal?",
+"options": [
+"Battle of El Alamein",
+"Battle of Tobruk",
+"Battle of Kasserine Pass",
+"Battle of Benghazi"
+],
+"correctAnswer": "Battle of El Alamein",
+"category": "Military History",
+"difficulty": "medium",
+"explanation": "The Second Battle of El Alamein marked a decisive Allied turning point in North Africa, forcing the Axis into a permanent retreat.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"wwii",
+"africa",
+"allies"
+]
+},
+{
+"id": "military_history_101",
+"question": "Which legendary multi-tiered fortification network, built around Constantinople, withstood countless sieges for over a millennium?",
+"options": [
+"The Theodosian Walls",
+"The Aurelian Walls",
+"The Servian Walls",
+"The Anastasiana Wall"
+],
+"correctAnswer": "The Theodosian Walls",
+"category": "Military History",
+"difficulty": "hard",
+"explanation": "Constructed during the reign of Theodosius II, these stone barriers featured deep moats and nested walls that redefined medieval fortification.",
+"imageUrl": "[https://images.unsplash.com/photo-1543051932-6ef9fecfbc80](https://images.unsplash.com/photo-1543051932-6ef9fecfbc80)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"byzantine",
+"fortifications",
+"siege"
+]
+},
+{
+"id": "military_history_102",
+"question": "What 1944 aerial operation, the largest airborne drop in history up to that time, failed to secure critical bridges across the Rhine in the Netherlands?",
+"options": [
+"Operation Market Garden",
+"Operation Varsity",
+"Operation Overlord",
+"Operation Husky"
+],
+"correctAnswer": "Operation Market Garden",
+"category": "Military History",
+"difficulty": "medium",
+"explanation": "Conceived by Field Marshal Montgomery, the bold plan failed to seize the final bridge at Arnhem, stalling the Allied advance into Germany.",
+"imageUrl": "[https://images.unsplash.com/photo-1473968512647-3e447244af8f](https://images.unsplash.com/photo-1473968512647-3e447244af8f)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"wwii",
+"airborne",
+"allies"
+]
+},
+{
+"id": "military_history_103",
+"question": "Which historic global naval conflict in 1571 saw an alliance of Christian states defeat the main fleet of the Ottoman Empire?",
+"options": [
+"Battle of Lepanto",
+"Battle of Preveza",
+"Battle of Navarino",
+"Battle of Djerba"
+],
+"correctAnswer": "Battle of Lepanto",
+"category": "Military History",
+"difficulty": "medium",
+"explanation": "Fought primarily with galley fleets in the Gulf of Patras, Lepanto permanently checked Ottoman maritime expansion into the western Mediterranean.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"naval",
+"ottoman",
+"sixteenth-century"
+]
+},
+{
+"id": "military_history_104",
+"question": "Who was the brilliant tactical general who earned the nickname 'Stonewall' at the First Battle of Bull Run during the American Civil War?",
+"options": [
+"Thomas J. Jackson",
+"Robert E. Lee",
+"James Longstreet",
+"J.E.B. Stuart"
+],
+"correctAnswer": "Thomas J. Jackson",
+"category": "Military History",
+"difficulty": "easy",
+"explanation": "Jackson earned the famous moniker when his brigade held firm against a heavy Union assault, becoming a Confederate icon.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"civil-war",
+"america",
+"generals"
+]
+},
+{
+"id": "military_history_105",
+"question": "What 405 BCE naval showdown saw the Spartan fleet under Lysander destroy the Athenian fleet, effectively ending the Peloponnesian War?",
+"options": [
+"Battle of Aegospotami",
+"Battle of Cynossema",
+"Battle of Arginusae",
+"Battle of Cyzicus"
+],
+"correctAnswer": "Battle of Aegospotami",
+"category": "Military History",
+"difficulty": "hard",
+"explanation": "Lysander captured almost the entire Athenian fleet by surprise, cutting off Athens' grain route and forcing its total surrender.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"ancient",
+"greece",
+"naval"
+]
+},
+{
+"id": "military_history_106",
+"question": "Which iconic multi-barrel mechanical rapid-fire weapon was introduced during the American Civil War, paving the way for the modern machine gun?",
+"options": [
+"The Gatling Gun",
+"The Maxim Gun",
+"The Mitrailleuse",
+"The Lewis Gun"
+],
+"correctAnswer": "The Gatling Gun",
+"category": "Military History",
+"difficulty": "easy",
+"explanation": "Invented by Richard Gatling, this hand-cranked weapon provided unprecedented continuous firepower and revolutionized infantry suppression.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"technology",
+"weapons",
+"civil-war"
+]
+},
+{
+"id": "military_history_107",
+"question": "What 1704 battle saw the Duke of Marlborough crush a combined French and Bavarian army, saving Vienna during the War of the Spanish Succession?",
+"options": [
+"Battle of Blenheim",
+"Battle of Ramillies",
+"Battle of Malplaquet",
+"Battle of Oudenarde"
+],
+"correctAnswer": "Battle of Blenheim",
+"category": "Military History",
+"difficulty": "hard",
+"explanation": "Blenheim shattered the myth of French military invincibility under Louis XIV, shifting the European balance of power.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"europe",
+"eighteenth-century",
+"battles"
+]
+},
+{
+"id": "military_history_108",
+"question": "Which historic codename was used for the massive Allied amphibious invasion of Sicily in July 1943?",
+"options": [
+"Operation Husky",
+"Operation Avalanche",
+"Operation Shingle",
+"Operation Torch"
+],
+"correctAnswer": "Operation Husky",
+"category": "Military History",
+"difficulty": "medium",
+"explanation": "Operation Husky opened a strategic gateway into southern Europe, leading directly to the collapse of Benito Mussolini's regime.",
+"imageUrl": "[https://images.unsplash.com/photo-1547483238-f400e65ccd56](https://images.unsplash.com/photo-1547483238-f400e65ccd56)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"wwii",
+"amphibious",
+"italy"
+]
+},
+{
+"id": "military_history_109",
+"question": "Which unique tactical structure, featuring tiered files of oarsmen and a heavy bronze ram, dominated Mediterranean naval combat during classical antiquity?",
+"options": [
+"The Trireme",
+"The Quinquereme",
+"The Galley",
+"The Dromon"
+],
+"correctAnswer": "The Trireme",
+"category": "Military History",
+"difficulty": "easy",
+"explanation": "The trireme relied on three rows of oars on each side, offering high speed and maneuverability to ram enemy wooden vessels.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"naval",
+"ancient",
+"greece"
+]
+},
+{
+"id": "military_history_110",
+"question": "What 1917 battle saw the first mass, concentrated deployment of tanks in history, breaching the German Hindenburg Line?",
+"options": [
+"Battle of Cambrai",
+"Battle of the Somme",
+"Battle of Passchendaele",
+"Battle of Arras"
+],
+"correctAnswer": "Battle of Cambrai",
+"category": "Military History",
+"difficulty": "medium",
+"explanation": "The British deployed over 400 Mark IV tanks at Cambrai, proving that organized armor could easily break through heavy wire and trench barriers.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"wwi",
+"armor",
+"technology"
+]
+}
+]

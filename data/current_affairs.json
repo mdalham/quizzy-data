@@ -1,0 +1,2378 @@
+﻿[
+{
+"id": "ca_001",
+"question": "Which country officially joined NATO as its 32nd member in March 2024?",
+"options": [
+"Finland",
+"Sweden",
+"Ukraine",
+"Austria"
+],
+"correctAnswer": "Sweden",
+"category": "Current Affairs",
+"difficulty": "easy",
+"explanation": "Sweden officially became the 32nd member of NATO on March 7, 2024, ending decades of post-World War II neutrality.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"NATO",
+"Geopolitics",
+"Europe"
+]
+},
+{
+"id": "ca_002",
+"question": "Which country hosted the 2024 Summer Olympic Games?",
+"options": [
+"Japan",
+"United States",
+"France",
+"Australia"
+],
+"correctAnswer": "France",
+"category": "Current Affairs",
+"difficulty": "easy",
+"explanation": "The 2024 Summer Olympics were held in Paris, France, from July 26 to August 11, 2024.",
+"imageUrl": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Olympics",
+"Sports",
+"Paris"
+]
+},
+{
+"id": "ca_003",
+"question": "Who won the 2024 United States Presidential Election?",
+"options": [
+"Joe Biden",
+"Kamala Harris",
+"Donald Trump",
+"Nikki Haley"
+],
+"correctAnswer": "Donald Trump",
+"category": "Current Affairs",
+"difficulty": "easy",
+"explanation": "Donald Trump won the US Presidential Election held on November 5, 2024, securing a second non-consecutive term.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"US Politics",
+"Elections"
+]
+},
+{
+"id": "ca_004",
+"question": "Which space agency successfully launched the Europa Clipper mission in October 2024 to study Jupiter's icy moon?",
+"options": [
+"ESA",
+"NASA",
+"JAXA",
+"ISRO"
+],
+"correctAnswer": "NASA",
+"category": "Current Affairs",
+"difficulty": "easy",
+"explanation": "NASA launched the Europa Clipper spacecraft on October 14, 2024, to investigate whether Jupiter's moon Europa has conditions suitable for life.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Space",
+"NASA",
+"Science"
+]
+},
+{
+"id": "ca_005",
+"question": "In 2024, which country overtook Japan to become the world's third-largest economy in nominal GDP terms?",
+"options": [
+"India",
+"Germany",
+"United Kingdom",
+"Brazil"
+],
+"correctAnswer": "Germany",
+"category": "Current Affairs",
+"difficulty": "easy",
+"explanation": "Official data released in early 2024 confirmed that Germany bypassed Japan as the world's third-largest economy, primarily due to a sharp drop in the value of the yen.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Economy",
+"Global"
+]
+},
+{
+"id": "ca_006",
+"question": "Who was appointed as the Prime Minister of the United Kingdom following the July 2024 General Election?",
+"options": [
+"Rishi Sunak",
+"Keir Starmer",
+"Boris Johnson",
+"Ed Davey"
+],
+"correctAnswer": "Keir Starmer",
+"category": "Current Affairs",
+"difficulty": "easy",
+"explanation": "Keir Starmer became Prime Minister after leading the Labour Party to a landslide victory in the UK General Election on July 4, 2024.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"UK",
+"Politics",
+"Elections"
+]
+},
+{
+"id": "ca_007",
+"question": "Which tech company became the first to reach a $3.5 trillion market capitalization in mid-2024, driven by the AI boom?",
+"options": [
+"Apple",
+"Microsoft",
+"NVIDIA",
+"Alphabet"
+],
+"correctAnswer": "Microsoft",
+"category": "Current Affairs",
+"difficulty": "easy",
+"explanation": "Microsoft was the first to scale past the $3.5 trillion milestone in mid-2024, fueled intensely by its enterprise cloud and OpenAI partnerships.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Tech",
+"Business",
+"AI"
+]
+},
+{
+"id": "ca_008",
+"question": "Which social media application was banned on official government devices by multiple Western countries over cybersecurity concerns throughout 2023 and 2024?",
+"options": [
+"Instagram",
+"TikTok",
+"X (Twitter)",
+"Telegram"
+],
+"correctAnswer": "TikTok",
+"category": "Current Affairs",
+"difficulty": "easy",
+"explanation": "TikTok faced widespread bans on government-issued devices across the US, UK, Canada, and EU bodies due to data security and privacy anxieties.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Tech",
+"Security",
+"Social Media"
+]
+},
+{
+"id": "ca_009",
+"question": "What is the name of OpenAI's advanced reasoning model series launched in late 2024, engineered to think before responding?",
+"options": [
+"GPT-4o",
+"OpenAI o1",
+"Gemini 1.5",
+"Claude 3 Opus"
+],
+"correctAnswer": "OpenAI o1",
+"category": "Current Affairs",
+"difficulty": "easy",
+"explanation": "OpenAI introduced the 'o1' model series in September 2024, designed with advanced chain-of-thought processing capabilities for complex problem-solving.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"AI",
+"OpenAI",
+"Technology"
+]
+},
+{
+"id": "ca_010",
+"question": "The historic 2024 ICC Men's T20 World Cup was co-hosted by the West Indies and which other nation?",
+"options": [
+"United States",
+"Canada",
+"England",
+"India"
+],
+"correctAnswer": "United States",
+"category": "Current Affairs",
+"difficulty": "easy",
+"explanation": "The June 2024 ICC Men's T20 World Cup was co-hosted by the West Indies and the United States, marking the first time a major ICC tournament was played in the US.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Cricket",
+"Sports"
+]
+},
+{
+"id": "ca_011",
+"question": "Which film won the Best Picture award at the 96th Academy Awards in March 2024?",
+"options": [
+"Barbie",
+"Oppenheimer",
+"Poor Things",
+"The Zone of Interest"
+],
+"correctAnswer": "Oppenheimer",
+"category": "Current Affairs",
+"difficulty": "easy",
+"explanation": "Christopher Nolan's 'Oppenheimer' dominated the 96th Academy Awards, winning seven Oscars, including Best Picture.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Oscars",
+"Entertainment",
+"Movies"
+]
+},
+{
+"id": "ca_012",
+"question": "Which country suffered a devastating 7.4 magnitude earthquake in April 2024, centered near Hualien City?",
+"options": [
+"Japan",
+"Taiwan",
+"Philippines",
+"Indonesia"
+],
+"correctAnswer": "Taiwan",
+"category": "Current Affairs",
+"difficulty": "easy",
+"explanation": "Taiwan was hit by a powerful 7.4 magnitude earthquake on April 3, 2024, its strongest seismic event in 25 years.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Disaster",
+"Taiwan"
+]
+},
+{
+"id": "ca_013",
+"question": "Who became the new King of Denmark in January 2024 following the abdication of Queen Margrethe II?",
+"options": [
+"King Frederik X",
+"King Christian XI",
+"King Willem-Alexander",
+"King Carl XVI Gustaf"
+],
+"correctAnswer": "King Frederik X",
+"category": "Current Affairs",
+"difficulty": "easy",
+"explanation": "Queen Margrethe II officially signed her historic abdication on January 14, 2024, passing the crown to her eldest son, King Frederik X.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Royalty",
+"Denmark",
+"Europe"
+]
+},
+{
+"id": "ca_014",
+"question": "Which global music icon became the first artist to win Album of the Year four times at the Grammy Awards in February 2024?",
+"options": [
+"Beyoncé",
+"Taylor Swift",
+"Adele",
+"Billie Eilish"
+],
+"correctAnswer": "Taylor Swift",
+"category": "Current Affairs",
+"difficulty": "easy",
+"explanation": "Taylor Swift made history at the 66th Annual Grammy Awards by winning Album of the Year for 'Midnights', marking her fourth win in the category.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Music",
+"Grammys",
+"Entertainment"
+]
+},
+{
+"id": "ca_015",
+"question": "Which African nation experienced a major political transition when Bassirou Diomaye Faye was elected president in March 2024?",
+"options": [
+"Nigeria",
+"Senegal",
+"Ghana",
+"Kenya"
+],
+"correctAnswer": "Senegal",
+"category": "Current Affairs",
+"difficulty": "easy",
+"explanation": "Bassirou Diomaye Faye won Senegal's presidential election in March 2024 just weeks after being released from prison, representing a significant opposition triumph.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Africa",
+"Politics",
+"Elections"
+]
+},
+{
+"id": "ca_016",
+"question": "What major environmental summit, COP29, was held in November 2024 to address global climate finance goals?",
+"options": [
+"Baku, Azerbaijan",
+"Dubai, UAE",
+"Belem, Brazil",
+"Cairo, Egypt"
+],
+"correctAnswer": "Baku, Azerbaijan",
+"category": "Current Affairs",
+"difficulty": "easy",
+"explanation": "The 2024 United Nations Climate Change Conference (COP29) took place in Baku, Azerbaijan, focusing heavily on setting new climate finance targets.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Climate Change",
+"Environment",
+"UN"
+]
+},
+{
+"id": "ca_017",
+"question": "Which European city hosted the final of the UEFA Euro 2024 football tournament?",
+"options": [
+"London",
+"Munich",
+"Berlin",
+"Madrid"
+],
+"correctAnswer": "Berlin",
+"category": "Current Affairs",
+"difficulty": "easy",
+"explanation": "The UEFA Euro 2024 final was held at the Olympiastadion in Berlin, Germany, where Spain defeated England to claim the title.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Football",
+"Sports",
+"Euro 2024"
+]
+},
+{
+"id": "ca_018",
+"question": "What is the name of Apple's first spatial computing headset that was officially released in the US in February 2024?",
+"options": [
+"Apple Glass",
+"Apple Vision Pro",
+"iView",
+"Apple Reality"
+],
+"correctAnswer": "Apple Vision Pro",
+"category": "Current Affairs",
+"difficulty": "easy",
+"explanation": "The Apple Vision Pro mixed-reality headset officially launched in retail stores across the United States on February 2, 2024.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Tech",
+"Apple",
+"Gadgets"
+]
+},
+{
+"id": "ca_019",
+"question": "In May 2024, the International Criminal Court (ICC) prosecutor requested arrest warrants for leaders of which two entities regarding war crimes?",
+"options": [
+"Russia and Ukraine",
+"Israel and Hamas",
+"Syria and Turkey",
+"Sudan and South Sudan"
+],
+"correctAnswer": "Israel and Hamas",
+"category": "Current Affairs",
+"difficulty": "easy",
+"explanation": "ICC Prosecutor Karim Khan announced applications for arrest warrants targeting top Israeli officials and Hamas leaders over alleged war crimes and crimes against humanity.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Global News",
+"ICC",
+"Geopolitics"
+]
+},
+{
+"id": "ca_020",
+"question": "Which country launched the 'Chang'e 6' lunar mission in May 2024, successfully retrieving the first-ever samples from the far side of the Moon?",
+"options": [
+"India",
+"United States",
+"Japan",
+"China"
+],
+"correctAnswer": "China",
+"category": "Current Affairs",
+"difficulty": "easy",
+"explanation": "China's Chang'e 6 mission returned to Earth in June 2024, carrying the historic first soil and rock samples collected from the lunar far side.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Space",
+"Moon",
+"China"
+]
+},
+{
+"id": "ca_021",
+"question": "Who was sworn in as Mexico's first female president in October 2024?",
+"options": [
+"Xóchitl Gálvez",
+"Claudia Sheinbaum",
+"Beatriz Gutiérrez",
+"Margarita Zavala"
+],
+"correctAnswer": "Claudia Sheinbaum",
+"category": "Current Affairs",
+"difficulty": "easy",
+"explanation": "Claudia Sheinbaum, a climate scientist and former mayor of Mexico City, won a landslide election victory and took office on October 1, 2024.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Mexico",
+"Politics",
+"Global Leaders"
+]
+},
+{
+"id": "ca_022",
+"question": "Which country won the 2024 Copa América soccer tournament held in the United States?",
+"options": [
+"Brazil",
+"Colombia",
+"Argentina",
+"Uruguay"
+],
+"correctAnswer": "Argentina",
+"category": "Current Affairs",
+"difficulty": "easy",
+"explanation": "Argentina defeated Colombia 1-0 in extra time to win the 2024 Copa América final at Hard Rock Stadium in Florida.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Football",
+"Sports"
+]
+},
+{
+"id": "ca_023",
+"question": "Which automotive company surpassed Tesla in global pure electric vehicle (EV) sales for the first time in the final quarter of 2023 and early 2024?",
+"options": [
+"Toyota",
+"BYD",
+"Volkswagen",
+"Hyundai"
+],
+"correctAnswer": "BYD",
+"category": "Current Affairs",
+"difficulty": "easy",
+"explanation": "Chinese automaker BYD overtook Tesla as the world's top seller of battery electric vehicles in Q4 2023, carrying that momentum deeply into 2024.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Automotive",
+"EV",
+"Business"
+]
+},
+{
+"id": "ca_024",
+"question": "What is the primary focus of the landmark EU AI Act, which was finalized and approved by the European Parliament in early 2024?",
+"options": [
+"Banning all commercial AI use",
+"Regulating AI based on its potential risk level",
+"Nationalizing AI cloud data infrastructure",
+"Enforcing global tax rates on AI software profits"
+],
+"correctAnswer": "Regulating AI based on its potential risk level",
+"category": "Current Affairs",
+"difficulty": "easy",
+"explanation": "The European Union's Artificial Intelligence Act establishes a risk-based framework that applies tougher regulations to high-risk AI implementations.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"AI",
+"Regulation",
+"Europe"
+]
+},
+{
+"id": "ca_025",
+"question": "Which city was named the World Design Capital for the year 2024?",
+"options": [
+"San Diego and Tijuana",
+"Valencia",
+"Seoul",
+"Cape Town"
+],
+"correctAnswer": "San Diego and Tijuana",
+"category": "Current Affairs",
+"difficulty": "easy",
+"explanation": "The binational region of San Diego (USA) and Tijuana (Mexico) was selected jointly as the World Design Capital for 2024.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Design",
+"Global Cities"
+]
+},
+{
+"id": "ca_026",
+"question": "Who won the Nobel Peace Prize in October 2024?",
+"options": [
+"Narges Mohammadi",
+"Nihon Hidankyo",
+"Volodymyr Zelenskyy",
+"The UN Refugee Agency"
+],
+"correctAnswer": "Nihon Hidankyo",
+"category": "Current Affairs",
+"difficulty": "easy",
+"explanation": "The Norwegian Nobel Committee awarded the 2024 Nobel Peace Prize to Nihon Hidankyo, a Japanese organization of atomic bomb survivors, for their efforts to achieve a world free of nuclear weapons.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Nobel Prize",
+"Peace",
+"Japan"
+]
+},
+{
+"id": "ca_027",
+"question": "Which country suffered an exceptional economic and political crisis leading to mass protests and the resignation of Prime Minister Sheikh Hasina in August 2024?",
+"options": [
+"Sri Lanka",
+"Pakistan",
+"Bangladesh",
+"Myanmar"
+],
+"correctAnswer": "Bangladesh",
+"category": "Current Affairs",
+"difficulty": "easy",
+"explanation": "Massive student-led protests in Bangladesh culminated in Prime Minister Sheikh Hasina resigning and fleeing the country on August 5, 2024.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Bangladesh",
+"Global News",
+"Politics"
+]
+},
+{
+"id": "ca_028",
+"question": "What rare astronomical phenomenon drew tens of millions of viewers across North America on April 8, 2024?",
+"options": [
+"Total Solar Eclipse",
+"Transit of Venus",
+"Halley's Comet approach",
+"Super Blood Moon"
+],
+"correctAnswer": "Total Solar Eclipse",
+"category": "Current Affairs",
+"difficulty": "easy",
+"explanation": "A massive total solar eclipse swept across North America on April 8, 2024, stretching from Mexico through the United States and into eastern Canada.",
+"imageUrl": "https://images.unsplash.com/photo-1506703719100-a0f3a48c0f86?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Astronomy",
+"Eclipse"
+]
+},
+{
+"id": "ca_029",
+"question": "In 2024, which popular tourism hub introduced a daily visitor entry fee for day-trippers to combat overtourism?",
+"options": [
+"Paris",
+"Venice",
+"Barcelona",
+"Kyoto"
+],
+"correctAnswer": "Venice",
+"category": "Current Affairs",
+"difficulty": "easy",
+"explanation": "Venice launched a pilot program in April 2024 charging day-trippers a €5 entry fee on peak days to manage extreme tourist congestion.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Tourism",
+"Venice",
+"Europe"
+]
+},
+{
+"id": "ca_030",
+"question": "Which company built the 'Odysseus' lunar lander, which made history in February 2024 as the first commercial spacecraft to land on the Moon?",
+"options": [
+"SpaceX",
+"Intuitive Machines",
+"Astrobotic Technology",
+"Blue Origin"
+],
+"correctAnswer": "Intuitive Machines",
+"category": "Current Affairs",
+"difficulty": "easy",
+"explanation": "Intuitive Machines, a Houston-based company, successfully touched down its Odysseus lander on the Moon on February 22, 2024, under NASA's commercial program.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Space",
+"Commercial Space",
+"Moon"
+]
+},
+{
+"id": "ca_031",
+"question": "Which country hosted the 16th BRICS Summit in October 2024, following its major expansion?",
+"options": [
+"Brazil",
+"Russia",
+"India",
+"South Africa"
+],
+"correctAnswer": "Russia",
+"category": "Current Affairs",
+"difficulty": "easy",
+"explanation": "Russia hosted the BRICS Summit in Kazan in October 2024, welcoming newly integrated members such as Egypt, Ethiopia, Iran, and the UAE.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"BRICS",
+"Geopolitics",
+"Russia"
+]
+},
+{
+"id": "ca_032",
+"question": "In 2024, which tennis legend officially announced his retirement from professional tennis after the Davis Cup Finals?",
+"options": [
+"Roger Federer",
+"Rafael Nadal",
+"Novak Djokovic",
+"Andy Murray"
+],
+"correctAnswer": "Rafael Nadal",
+"category": "Current Affairs",
+"difficulty": "easy",
+"explanation": "Rafael Nadal announced that he would retire from professional tennis following the Davis Cup Finals in November 2024.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Tennis",
+"Sports"
+]
+},
+{
+"id": "ca_033",
+"question": "Which company acquired the popular design collaboration platform Figma for $20 billion before terminating the deal in late 2023 due to regulatory roadblocks lasting into 2024?",
+"options": [
+"Microsoft",
+"Adobe",
+"Google",
+"Canva"
+],
+"correctAnswer": "Adobe",
+"category": "Current Affairs",
+"difficulty": "easy",
+"explanation": "Adobe and Figma mutually called off their planned merger in December 2023 because of intensive antitrust scrutiny from UK and EU watchdogs.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Tech",
+"Business",
+"Antitrust"
+]
+},
+{
+"id": "ca_034",
+"question": "What new country name did the nation formerly known as Swaziland adopt, which continued to see integration in global affairs in 2024?",
+"options": [
+"Lesotho",
+"Eswatini",
+"Malawi",
+"Zambia"
+],
+"correctAnswer": "Eswatini",
+"category": "Current Affairs",
+"difficulty": "easy",
+"explanation": "The Kingdom of Eswatini (formerly Swaziland) engaged in several international summits and economic agreements through 2024 under its official name.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Geography",
+"Africa"
+]
+},
+{
+"id": "ca_035",
+"question": "Which nation won the AFC Asian Cup football tournament in February 2024?",
+"options": [
+"Japan",
+"South Korea",
+"Qatar",
+"Jordan"
+],
+"correctAnswer": "Qatar",
+"category": "Current Affairs",
+"difficulty": "easy",
+"explanation": "Qatar defended their title on home soil by defeating Jordan 3-1 in the final of the AFC Asian Cup on February 10, 2024.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Football",
+"Sports",
+"Asia"
+]
+},
+{
+"id": "ca_036",
+"question": "Who was appointed as the new CEO of Starbucks in August 2024 to engineer a global turnaround?",
+"options": [
+"Laxman Narasimhan",
+"Brian Niccol",
+"Howard Schultz",
+"John Donahoe"
+],
+"correctAnswer": "Brian Niccol",
+"category": "Current Affairs",
+"difficulty": "easy",
+"explanation": "Starbucks replaced Laxman Narasimhan with Chipotle CEO Brian Niccol in August 2024 to restore growth and improve store experiences.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Business",
+"Starbucks"
+]
+},
+{
+"id": "ca_037",
+"question": "Which country won the Eurovision Song Contest in May 2024?",
+"options": [
+"Croatia",
+"Switzerland",
+"Ukraine",
+"Ireland"
+],
+"correctAnswer": "Switzerland",
+"category": "Current Affairs",
+"difficulty": "easy",
+"explanation": "Switzerland won the 2024 Eurovision Song Contest in Malmö, Sweden, represented by Nemo with the song 'The Code'.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Eurovision",
+"Music",
+"Entertainment"
+]
+},
+{
+"id": "ca_038",
+"question": "Which massive video game franchise launched its highly anticipated trailer in December 2023, setting records for viewership throughout 2024?",
+"options": [
+"Grand Theft Auto VI",
+"Call of Duty: Black Ops 6",
+"The Elder Scrolls VI",
+"Cyberpunk 2077"
+],
+"correctAnswer": "Grand Theft Auto VI",
+"category": "Current Affairs",
+"difficulty": "easy",
+"explanation": "Rockstar Games released the first official trailer for Grand Theft Auto VI, breaking YouTube records and dominating entertainment news into 2024.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Gaming",
+"Entertainment"
+]
+},
+{
+"id": "ca_039",
+"question": "Which country experienced an intense series of volcanic eruptions near the town of Grindavík throughout late 2023 and all of 2024?",
+"options": [
+"Italy",
+"Iceland",
+"Japan",
+"New Zealand"
+],
+"correctAnswer": "Iceland",
+"category": "Current Affairs",
+"difficulty": "easy",
+"explanation": "Iceland's Reykjanes Peninsula suffered multiple dramatic volcanic fissure eruptions, displacing the entire population of Grindavík.",
+"imageUrl": "https://images.unsplash.com/photo-1601042879364-f3947d3f9c16?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Iceland",
+"Volcano",
+"Environment"
+]
+},
+{
+"id": "ca_040",
+"question": "What name did Turkey officially request the international community use to refer to the country, appearing universally at the UN by 2024?",
+"options": [
+"Turkistan",
+"Türkiye",
+"Turkia",
+"Republic of Turkiye"
+],
+"correctAnswer": "Türkiye",
+"category": "Current Affairs",
+"difficulty": "easy",
+"explanation": "The United Nations and other international bodies fully transitioned to using 'Türkiye' following a formal rebranding campaign by the country's government.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Türkiye",
+"Diplomacy"
+]
+},
+{
+"id": "ca_041",
+"question": "What is the name of the mega-merger partner that Swiss banking giant UBS fully integrated in 2024 after a historic government-backed rescue in 2023?",
+"options": [
+"Credit Suisse",
+"Julius Baer",
+"Deutsche Bank",
+"BNP Paribas"
+],
+"correctAnswer": "Credit Suisse",
+"category": "Current Affairs",
+"difficulty": "medium",
+"explanation": "UBS completed the operational and legal merger of its former rival Credit Suisse in 2024, following an emergency acquisition orchestrated by Swiss authorities.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Banking",
+"Economy",
+"Switzerland"
+]
+},
+{
+"id": "ca_042",
+"question": "In 2024, which country passed the controversial 'Safety of Rwanda' bill, aiming to deport asylum seekers to East Africa?",
+"options": [
+"France",
+"Germany",
+"United Kingdom",
+"Belgium"
+],
+"correctAnswer": "United Kingdom",
+"category": "Current Affairs",
+"difficulty": "medium",
+"explanation": "The UK Parliament passed the Safety of Rwanda Act in April 2024, declaring Rwanda a safe country to bypass court blocks against deportations, before the policy was scrapped by the subsequent Labour government.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"UK",
+"Immigration",
+"Policy"
+]
+},
+{
+"id": "ca_043",
+"question": "Who was elected Prime Minister of India for a historic third consecutive term in June 2024?",
+"options": [
+"Rahul Gandhi",
+"Narendra Modi",
+"Amit Shah",
+"Arvind Kejriwal"
+],
+"correctAnswer": "Narendra Modi",
+"category": "Current Affairs",
+"difficulty": "medium",
+"explanation": "Narendra Modi secured a third consecutive term as Prime Minister, though his party, the BJP, had to rely on coalition partners to form a majority.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"India",
+"Elections",
+"Politics"
+]
+},
+{
+"id": "ca_044",
+"question": "The world's largest single-site solar power plant, the 2-gigawatt Al Dhafra Solar PV project, was inaugurated in late 2023 leading up to climate milestones in 2024. Where is it located?",
+"options": [
+"Saudi Arabia",
+"United Arab Emirates",
+"Qatar",
+"Egypt"
+],
+"correctAnswer": "United Arab Emirates",
+"category": "Current Affairs",
+"difficulty": "medium",
+"explanation": "The Al Dhafra project is located in the United Arab Emirates, located roughly 35 kilometers from Abu Dhabi, powering roughly 200,000 homes.",
+"imageUrl": "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Solar",
+"Energy",
+"UAE"
+]
+},
+{
+"id": "ca_045",
+"question": "In January 2024, which country's space agency achieved a precision soft landing on the Moon with its SLIM (Smart Lander for Investigating Moon) craft?",
+"options": [
+"India",
+"Japan",
+"South Korea",
+"Israel"
+],
+"correctAnswer": "Japan",
+"category": "Current Affairs",
+"difficulty": "medium",
+"explanation": "Japan became the fifth country to land on the Moon when its SLIM spacecraft successfully landed upside down but functional on January 19, 2024.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Space",
+"Japan",
+"Moon"
+]
+},
+{
+"id": "ca_046",
+"question": "Which tech billionaire was arrested by French authorities at an airport outside Paris in August 2024 over allegations regarding content moderation on his platform?",
+"options": [
+"Elon Musk",
+"Pavel Durov",
+"Mark Zuckerberg",
+"Vitalik Buterin"
+],
+"correctAnswer": "Pavel Durov",
+"category": "Current Affairs",
+"difficulty": "medium",
+"explanation": "Telegram founder and CEO Pavel Durov was detained in France over allegations that his platform failed to properly combat criminal behavior and cyber offenses.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Telegram",
+"Law",
+"Tech"
+]
+},
+{
+"id": "ca_047",
+"question": "Which country filed a case at the International Court of Justice (ICJ) in late 2023 accusing Israel of violating the Genocide Convention in Gaza?",
+"options": [
+"South Africa",
+"Brazil",
+"Ireland",
+"Egypt"
+],
+"correctAnswer": "South Africa",
+"category": "Current Affairs",
+"difficulty": "medium",
+"explanation": "South Africa initiated proceedings at the ICJ in December 2023, leading to highly watched public hearings and provisional measures issued throughout 2024.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"ICJ",
+"Geopolitics",
+"Law"
+]
+},
+{
+"id": "ca_048",
+"question": "Which company's Falcon 9 rocket suffered a rare in-flight failure in July 2024, temporarily grounding the workhorse vehicle?",
+"options": [
+"Boeing",
+"Blue Origin",
+"SpaceX",
+"Rocket Lab"
+],
+"correctAnswer": "SpaceX",
+"category": "Current Affairs",
+"difficulty": "medium",
+"explanation": "A liquid oxygen leak in the second stage of a Falcon 9 rocket caused a failure during a Starlink deployment mission, marking the rocket's first failure in over 300 launches.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"SpaceX",
+"Aerospace"
+]
+},
+{
+"id": "ca_049",
+"question": "What major global infrastructure corridor was announced at the 2023 G20 New Delhi Summit to link India, the Middle East, and Europe, progressing in design phases into 2024?",
+"options": [
+"Belt and Road Initiative",
+"IMEC",
+"Trans-African Trail",
+"INSTC"
+],
+"correctAnswer": "IMEC",
+"category": "Current Affairs",
+"difficulty": "medium",
+"explanation": "The India-Middle East-Europe Economic Corridor (IMEC) was unveiled as a transformative ship-to-rail transit network aimed at boosting trade integration.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Trade",
+"G20",
+"Geopolitics"
+]
+},
+{
+"id": "ca_050",
+"question": "Who was selected by the European Parliament in July 2024 to serve a second 5-year term as President of the European Commission?",
+"options": [
+"Roberta Metsola",
+"Ursula von der Leyen",
+"Charles Michel",
+"Christine Lagarde"
+],
+"correctAnswer": "Ursula von der Leyen",
+"category": "Current Affairs",
+"difficulty": "medium",
+"explanation": "Ursula von der Leyen won a clear majority vote in the European Parliament to secure her second consecutive term heading the EU's executive branch.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"EU",
+"Politics",
+"Europe"
+]
+},
+{
+"id": "ca_051",
+"question": "Which African country suffered catastrophic humanitarian blockades and a severe civil war involving the SAF and RSF throughout 2023 and 2024?",
+"options": [
+"Ethiopia",
+"Sudan",
+"Somalia",
+"Democratic Republic of the Congo"
+],
+"correctAnswer": "Sudan",
+"category": "Current Affairs",
+"difficulty": "medium",
+"explanation": "The civil war between the Sudanese Armed Forces (SAF) and the paramilitary Rapid Support Forces (RSF) triggered one of the world's worst displacement crises.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Sudan",
+"Conflict",
+"Global Crisis"
+]
+},
+{
+"id": "ca_052",
+"question": "What major global financial hub suffered a historic, multi-billion dollar money laundering scandal involving asset seizures of luxury real estate, gold, and crypto throughout 2023–2024?",
+"options": [
+"Hong Kong",
+"Singapore",
+"Zurich",
+"London"
+],
+"correctAnswer": "Singapore",
+"category": "Current Affairs",
+"difficulty": "medium",
+"explanation": "Singapore authorities seized over S$3 billion in assets linked to a massive foreign money laundering ring, leading to sweeping banking reviews.",
+"imageUrl": "https://images.unsplash.com/photo-1525625293386-3f8f99389edd?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Singapore",
+"Finance",
+"Crime"
+]
+},
+{
+"id": "ca_053",
+"question": "Which country passed a landmark law in April 2024 to legalize recreational cannabis consumption, becoming the third EU nation to do so?",
+"options": [
+"Netherlands",
+"Germany",
+"Spain",
+"Portugal"
+],
+"correctAnswer": "Germany",
+"category": "Current Affairs",
+"difficulty": "medium",
+"explanation": "Germany officially legalized the possession and cultivation of cannabis for personal use under specific framework laws starting April 1, 2024.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Germany",
+"Law",
+"Europe"
+]
+},
+{
+"id": "ca_054",
+"question": "Who was crowned king of Malaysia in January 2024 under the country's unique rotating monarchy system?",
+"options": [
+"Sultan Ibrahim Iskandar",
+"Sultan Abdullah Ahmad Shah",
+"Sultan Nazrin Shah",
+"Sultan Sharafuddin"
+],
+"correctAnswer": "Sultan Ibrahim Iskandar",
+"category": "Current Affairs",
+"difficulty": "medium",
+"explanation": "Sultan Ibrahim Iskandar from the southern state of Johor was officially sworn in as Malaysia's 17th king for a 5-year term.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Malaysia",
+"Royalty"
+]
+},
+{
+"id": "ca_055",
+"question": "In June 2024, Wikileaks founder Julian Assange was released from prison after striking a plea deal with which country?",
+"options": [
+"United Kingdom",
+"United States",
+"Australia",
+"Sweden"
+],
+"correctAnswer": "United States",
+"category": "Current Affairs",
+"difficulty": "medium",
+"explanation": "Julian Assange pleaded guilty to one felony count of violating the US Espionage Act, received credit for time served in the UK, and returned home to Australia a free man.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Law",
+"WikiLeaks"
+]
+},
+{
+"id": "ca_056",
+"question": "Which major container ship crashed into the Francis Scott Key Bridge in Baltimore in March 2024, causing its collapse?",
+"options": [
+"Ever Given",
+"Dali",
+"Maersk McKinney",
+"Ocean Grace"
+],
+"correctAnswer": "Dali",
+"category": "Current Affairs",
+"difficulty": "medium",
+"explanation": "The Singapore-flagged container ship 'Dali' suffered a total power loss and struck a support pillar of the Baltimore bridge on March 26, 2024.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Disaster",
+"Shipping",
+"US"
+]
+},
+{
+"id": "ca_057",
+"question": "Which South American nation held a high-stakes referendum in late 2023, claiming sovereignty over the oil-rich Essequibo region governed by neighboring Guyana?",
+"options": [
+"Venezuela",
+"Brazil",
+"Colombia",
+"Suriname"
+],
+"correctAnswer": "Venezuela",
+"category": "Current Affairs",
+"difficulty": "medium",
+"explanation": "Venezuela's government held a referendum claiming control over Essequibo, creating severe geopolitical tensions with Guyana that persisted into 2024.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Geopolitics",
+"South America"
+]
+},
+{
+"id": "ca_058",
+"question": "Which country experienced sudden, massive political unrest in May 2024 after its Prime Minister, Robert Fico, survived an assassination attempt?",
+"options": [
+"Hungary",
+"Slovakia",
+"Poland",
+"Czech Republic"
+],
+"correctAnswer": "Slovakia",
+"category": "Current Affairs",
+"difficulty": "medium",
+"explanation": "Slovak Prime Minister Robert Fico was shot multiple times and critically wounded in a politically motivated assassination attempt in Handlová.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Europe",
+"Politics"
+]
+},
+{
+"id": "ca_059",
+"question": "The United States passed a major foreign aid bill in April 2024 providing billions of dollars in military assistance to which three regions?",
+"options": [
+"Ukraine, Israel, and Taiwan",
+"Ukraine, Egypt, and South Korea",
+"Israel, Jordan, and the Philippines",
+"Taiwan, Japan, and Poland"
+],
+"correctAnswer": "Ukraine, Israel, and Taiwan",
+"category": "Current Affairs",
+"difficulty": "medium",
+"explanation": "The $95 billion national security supplemental package approved by Congress targeted aid primarily for Ukraine, Israel, and security partners in the Indo-Pacific.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"US Politics",
+"Military",
+"Global"
+]
+},
+{
+"id": "ca_060",
+"question": "Which global shipping artery saw severe traffic drops in 2023–2024 because of targeted commercial vessel drone attacks by Houthi rebels?",
+"options": [
+"Strait of Malacca",
+"Red Sea / Bab al-Mandab Strait",
+"Panama Canal",
+"Strait of Hormuz"
+],
+"correctAnswer": "Red Sea / Bab al-Mandab Strait",
+"category": "Current Affairs",
+"difficulty": "medium",
+"explanation": "Houthi drone and missile strikes in the Red Sea forced major maritime cargo carriers to divert routes entirely around Africa's Cape of Good Hope.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Trade",
+"Conflict",
+"Middle East"
+]
+},
+{
+"id": "ca_061",
+"question": "Who was elected Prime Minister of Japan in late 2024 following the resignation of Fumio Kishida?",
+"options": [
+"Shigeru Ishiba",
+"Shinjiro Koizumi",
+"Sanae Takaichi",
+"Taro Kono"
+],
+"correctAnswer": "Shigeru Ishiba",
+"category": "Current Affairs",
+"difficulty": "medium",
+"explanation": "Shigeru Ishiba won the LDP leadership election in September 2024 and took office as Japan's Prime Minister in October.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Japan",
+"Politics"
+]
+},
+{
+"id": "ca_062",
+"question": "Which Central American country reached global headlines as President Nayib Bukele won a crushing reelection victory in February 2024?",
+"options": [
+"Honduras",
+"El Salvador",
+"Guatemala",
+"Costa Rica"
+],
+"correctAnswer": "El Salvador",
+"category": "Current Affairs",
+"difficulty": "medium",
+"explanation": "Nayib Bukele won over 80% of the vote in El Salvador, driven by massive domestic popularity over his heavy anti-gang crackdowns.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"El Salvador",
+"Elections"
+]
+},
+{
+"id": "ca_063",
+"question": "Which major European nation saw unprecedented historic farmer protests involving tractor blockades of capitals over green regulations and fuel subsidies in early 2024?",
+"options": [
+"France",
+"Sweden",
+"United Kingdom",
+"Portugal"
+],
+"correctAnswer": "France",
+"category": "Current Affairs",
+"difficulty": "medium",
+"explanation": "French farmers converged on Paris with thousands of tractors, echoing similar protests across Germany, Belgium, and Italy against agricultural policies.",
+"imageUrl": "https://images.unsplash.com/photo-1594142403912-7bb3d8ebfa09?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Protests",
+"Agriculture",
+"France"
+]
+},
+{
+"id": "ca_064",
+"question": "Which auto manufacturer suffered a massive multi-day plant shutdown in Europe in March 2024 following an arson attack on its electrical grid by eco-activists?",
+"options": [
+"Volkswagen",
+"Tesla",
+"BMW",
+"Stellantis"
+],
+"correctAnswer": "Tesla",
+"category": "Current Affairs",
+"difficulty": "medium",
+"explanation": "Tesla's Gigafactory near Berlin, Germany, lost power and halted production for days after an activist group set fire to a nearby electricity pylon.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Tesla",
+"Business",
+"Germany"
+]
+},
+{
+"id": "ca_065",
+"question": "Which South American nation elected the radical libertarian outsider Javier Milei as president in late 2023, shifting policy dramatically into 2024?",
+"options": [
+"Chile",
+"Argentina",
+"Peru",
+"Ecuador"
+],
+"correctAnswer": "Argentina",
+"category": "Current Affairs",
+"difficulty": "medium",
+"explanation": "Javier Milei won Argentina's presidency promising shock economic reforms, spending cuts, and deregulation to fight hyperinflation.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Argentina",
+"Economy",
+"Politics"
+]
+},
+{
+"id": "ca_066",
+"question": "In early 2024, the UN's aviation agency (ICAO) reported that global air passenger traffic had achieved what milestone compared to pre-pandemic levels?",
+"options": [
+"Fully recovered to 2019 levels",
+"Remained 30% below 2019 levels",
+"Surpassed 2019 levels by double",
+"Dropped further due to fuel prices"
+],
+"correctAnswer": "Fully recovered to 2019 levels",
+"category": "Current Affairs",
+"difficulty": "medium",
+"explanation": "Air traffic analysis confirmed that by the opening quarter of 2024, global aviation demands had completely rebounded to match or slightly exceed 2019 data.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Aviation",
+"Travel",
+"Economy"
+]
+},
+{
+"id": "ca_067",
+"question": "Which nation held a snap general election in June-July 2024 called by President Emmanuel Macron following a surge by far-right parties in EU elections?",
+"options": [
+"Italy",
+"France",
+"Spain",
+"Belgium"
+],
+"correctAnswer": "France",
+"category": "Current Affairs",
+"difficulty": "medium",
+"explanation": "President Emmanuel Macron shocked France by dissolving the National Assembly and calling a snap election, which resulted in a hung parliament dominated by a left-wing coalition.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"France",
+"Elections",
+"Europe"
+]
+},
+{
+"id": "ca_068",
+"question": "What is the name of the deep-space communication test NASA successfully conducted in late 2023 and 2024, streaming laser data from millions of miles away?",
+"options": [
+"DSOC",
+"LaserNet",
+"DeepOptics",
+"OrionLink"
+],
+"correctAnswer": "DSOC",
+"category": "Current Affairs",
+"difficulty": "medium",
+"explanation": "NASA's Deep Space Optical Communications (DSOC) experiment successfully beamed near-infrared laser data from the Psyche spacecraft, transforming future deep-space communications bandwidth.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Space",
+"NASA",
+"Tech"
+]
+},
+{
+"id": "ca_069",
+"question": "Which country transitioned its official currency from the kuna to the euro, fully entering the eurozone and Schengen Area?",
+"options": [
+"Croatia",
+"Bulgaria",
+"Romania",
+"Slovenia"
+],
+"correctAnswer": "Croatia",
+"category": "Current Affairs",
+"difficulty": "medium",
+"explanation": "Croatia achieved full Eurozone and border-free Schengen zone membership, representing a major integration milestone.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Euro",
+"Europe",
+"Croatia"
+]
+},
+{
+"id": "ca_070",
+"question": "Which critical water passage faced historic transit limits in 2023–2024 because of severe climate-induced droughts?",
+"options": [
+"Suez Canal",
+"Panama Canal",
+"Kiel Canal",
+"Erie Canal"
+],
+"correctAnswer": "Panama Canal",
+"category": "Current Affairs",
+"difficulty": "medium",
+"explanation": "A severe lack of rainfall in Gatun Lake forced the Panama Canal Authority to cut daily ship transits significantly, altering international trade routes.",
+"imageUrl": "https://images.unsplash.com/photo-1543872084-c7bd3822856f?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Climate Change",
+"Shipping",
+"Panama"
+]
+},
+{
+"id": "ca_071",
+"question": "What is the name of the specialized multilateral maritime security task force launched by the US in late 2023 to protect Red Sea shipping lines?",
+"options": [
+"Operation Prosperity Guardian",
+"Operation Sentinel",
+"Operation Ocean Shield",
+"Operation Red Sea Defense"
+],
+"correctAnswer": "Operation Prosperity Guardian",
+"category": "Current Affairs",
+"difficulty": "medium",
+"explanation": "The US Department of Defense established Operation Prosperity Guardian to address Houthi attacks on merchant vessels in the Red Sea and Gulf of Aden.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Military",
+"Red Sea",
+"US"
+]
+},
+{
+"id": "ca_072",
+"question": "Which Asian nation legalized same-sex marriage in June 2024, becoming the first country in Southeast Asia to do so?",
+"options": [
+"Vietnam",
+"Thailand",
+"Philippines",
+"Singapore"
+],
+"correctAnswer": "Thailand",
+"category": "Current Affairs",
+"difficulty": "medium",
+"explanation": "Thailand's Senate voted overwhelmingly to approve a marriage equality bill, making it the third territory in Asia to legalize same-sex marriage, after Taiwan and Nepal.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Thailand",
+"Law",
+"Human Rights"
+]
+},
+{
+"id": "ca_073",
+"question": "Which major global aerospace firm faced continuous safety and quality control crises in 2024 after a mid-cabin door plug blew out on an Alaska Airlines flight in January?",
+"options": [
+"Airbus",
+"Boeing",
+"Lockheed Martin",
+"Bombardier"
+],
+"correctAnswer": "Boeing",
+"category": "Current Affairs",
+"difficulty": "medium",
+"explanation": "The door plug blowout on a Boeing 737 MAX 9 aircraft led to massive FAA groundings, production caps, and intensive safety audits across Boeing's manufacturing lines.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Aviation",
+"Boeing",
+"Safety"
+]
+},
+{
+"id": "ca_074",
+"question": "In 2024, which international court delivered a landmark ruling stating that climate change protection constitutes a fundamental human right, ruling against Switzerland?",
+"options": [
+"International Court of Justice (ICJ)",
+"European Court of Human Rights (ECHR)",
+"International Criminal Court (ICC)",
+"Inter-American Court of Human Rights"
+],
+"correctAnswer": "European Court of Human Rights (ECHR)",
+"category": "Current Affairs",
+"difficulty": "medium",
+"explanation": "In April 2024, the ECHR ruled in favor of a group of elderly Swiss women, stating Switzerland's inadequate climate policies breached their human rights.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Climate Change",
+"Law",
+"Europe"
+]
+},
+{
+"id": "ca_075",
+"question": "Which global event took place in Dubai from late November to mid-December 2023, resulting in the historic 'UAE Consensus' to transition away from fossil fuels?",
+"options": [
+"COP27",
+"COP28",
+"World Economic Forum",
+"G20 Summit"
+],
+"correctAnswer": "COP28",
+"category": "Current Affairs",
+"difficulty": "medium",
+"explanation": "COP28, hosted by the UAE, produced a historic international agreement explicitly naming the transition away from all fossil fuels for the first time.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"COP28",
+"Environment",
+"Climate Change"
+]
+},
+{
+"id": "ca_076",
+"question": "In early 2024, what major social media network completely changed its premium subscription features to allow users to hide their public checkmarks?",
+"options": [
+"Instagram",
+"X (formerly Twitter)",
+"LinkedIn",
+"Reddit"
+],
+"correctAnswer": "X (formerly Twitter)",
+"category": "Current Affairs",
+"difficulty": "medium",
+"explanation": "Elon Musk's platform X rolled out updates to Premium tiers that allowed paying subscribers to conceal their verification checkmarks from public feeds.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"X",
+"Tech",
+"Social Media"
+]
+},
+{
+"id": "ca_077",
+"question": "Which country suffered a tragic air crash in May 2024 that claimed the lives of its President Ebrahim Raisi and Foreign Minister Hossein Amir-Abdollahian?",
+"options": [
+"Iraq",
+"Iran",
+"Syria",
+"Pakistan"
+],
+"correctAnswer": "Iran",
+"category": "Current Affairs",
+"difficulty": "medium",
+"explanation": "A helicopter carrying Iranian President Raisi and other top diplomats crashed in a mountainous region of northwestern Iran due to bad weather.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Iran",
+"Politics",
+"Global News"
+]
+},
+{
+"id": "ca_078",
+"question": "What country became the center of global dynamic shifts by passing a strict anti-LGBTQ bill in February 2024 that drew intense condemnation from the UN and World Bank?",
+"options": [
+"Ghana",
+"Uganda",
+"Kenya",
+"Nigeria"
+],
+"correctAnswer": "Ghana",
+"category": "Current Affairs",
+"difficulty": "medium",
+"explanation": "Ghana's parliament approved the 'Human Sexual Rights and Family Values Bill,' criminalizing LGBTQ relationships and advocacy, triggering ongoing economic aid friction.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Ghana",
+"Law",
+"Human Rights"
+]
+},
+{
+"id": "ca_079",
+"question": "Which company became the focal point of the global AI hardware boom in 2024, briefly surpassing Microsoft and Apple as the world's most valuable public company?",
+"options": [
+"Intel",
+"NVIDIA",
+"AMD",
+"TSMC"
+],
+"correctAnswer": "NVIDIA",
+"category": "Current Affairs",
+"difficulty": "medium",
+"explanation": "Driven by insatiable market demand for its AI data center chips (GPUs), NVIDIA's market cap surged past $3.3 trillion in June 2024, placing it temporarily at number one.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"NVIDIA",
+"AI",
+"Tech Market"
+]
+},
+{
+"id": "ca_080",
+"question": "Who was appointed as the new Prime Minister of France in September 2024 to resolve the country's deadlocked parliament?",
+"options": [
+"Gabriel Attal",
+"Michel Barnier",
+"Jean-Luc Mélenchon",
+"Élisabeth Borne"
+],
+"correctAnswer": "Michel Barnier",
+"category": "Current Affairs",
+"difficulty": "medium",
+"explanation": "President Emmanuel Macron appointed Michel Barnier, the former conservative EU Brexit negotiator, as Prime Minister following the summer's snap elections.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"France",
+"Politics"
+]
+},
+{
+"id": "ca_081",
+"question": "In 2024, astronomers validated that Earth's length of day is subtly increasing due to tidal friction. What exact entity manages the standard leap second additions?",
+"options": [
+"IERS (International Earth Rotation and Reference Systems Service)",
+"NASA Astronomical Unit",
+"Greenwich Observatory Council",
+"International Bureau of Weights and Measures"
+],
+"correctAnswer": "IERS (International Earth Rotation and Reference Systems Service)",
+"category": "Current Affairs",
+"difficulty": "hard",
+"explanation": "The IERS monitors planetary rotation variances. In 2022-2024, debates concluded on phasing out leap seconds entirely by 2035.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Science",
+"Timekeeping"
+]
+},
+{
+"id": "ca_082",
+"question": "What is the specific legal mechanism used by the European Commission in early 2024 to open formal non-compliance proceedings against TikTok under the Digital Services Act (DSA)?",
+"options": [
+"Article 66 Enforcement",
+"Formal Proceeding under Article 66",
+"Systemic Risk and Minor Protection Review",
+"Antitrust Market Investigation"
+],
+"correctAnswer": "Systemic Risk and Minor Protection Review",
+"category": "Current Affairs",
+"difficulty": "hard",
+"explanation": "The EU launched formal investigations under the DSA into TikTok's algorithmic designs, addictive traits, and default minor privacy limits.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"EU Law",
+"DSA",
+"Tech Regulation"
+]
+},
+{
+"id": "ca_083",
+"question": "Which country won a landmark legal judgment against its central bank assets at the UK Supreme Court in a long-standing gold custody dispute?",
+"options": [
+"Venezuela",
+"Russia",
+"Iran",
+"Libya"
+],
+"correctAnswer": "Venezuela",
+"category": "Current Affairs",
+"difficulty": "hard",
+"explanation": "The case over who controls $1.95 billion of Venezuelan gold stored in the Bank of England went through critical legal rulings regarding the recognition of executive power.",
+"imageUrl": "https://images.unsplash.com/photo-1610374792793-f016b77ca51a?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Law",
+"Finance",
+"UK"
+]
+},
+{
+"id": "ca_084",
+"question": "What is the name of the dark-matter research instrument located 4,850 feet underground in South Dakota that achieved record-breaking sensitivity milestones in 2024?",
+"options": [
+"LUX-ZEPLIN (LZ)",
+"XENONnT",
+"PandaX-4T",
+"IceCube"
+],
+"correctAnswer": "LUX-ZEPLIN (LZ)",
+"category": "Current Affairs",
+"difficulty": "hard",
+"explanation": "The LZ experiment, utilizing liquid xenon, published highly advanced constraints on WIMPs (Weakly Interacting Massive Particles) in 2024.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Physics",
+"Science"
+]
+},
+{
+"id": "ca_085",
+"question": "What is the technical designation of the specialized UN treaty finalized in 2024 to regulate genetic resources and traditional knowledge associated with intellectual property?",
+"options": [
+"WIPO Treaty on Intellectual Property, Genetic Resources and Associated Traditional Knowledge",
+"The Nagoya Protocol Update 2024",
+"The Paris Bio-Patent Accord",
+"The TRIPS Amendment 2024"
+],
+"correctAnswer": "WIPO Treaty on Intellectual Property, Genetic Resources and Associated Traditional Knowledge",
+"category": "Current Affairs",
+"difficulty": "hard",
+"explanation": "WIPO member states successfully negotiated and concluded this historic international treaty after decades of diplomatic friction.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"WIPO",
+"Intellectual Property",
+"UN"
+]
+},
+{
+"id": "ca_086",
+"question": "In May 2024, which international scientific collaboration released the most precise 3D map of the universe ever made, tracking expansion via dark energy?",
+"options": [
+"DESI (Dark Energy Spectroscopic Instrument)",
+"James Webb Team",
+"Euclid Telescope Consortium",
+"Hubble Deep Field Project"
+],
+"correctAnswer": "DESI (Dark Energy Spectroscopic Instrument)",
+"category": "Current Affairs",
+"difficulty": "hard",
+"explanation": "DESI announced preliminary map results tracking over 6 million galaxies, indicating that dark energy might be evolving over time rather than remaining constant.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Astronomy",
+"Physics",
+"Science"
+]
+},
+{
+"id": "ca_087",
+"question": "Which country suffered a dramatic sovereign default restructuring process in 2024, finalizing a historic debt overhaul with international bondholders?",
+"options": [
+"Zambia",
+"Sri Lanka",
+"Ghana",
+"Argentina"
+],
+"correctAnswer": "Zambia",
+"category": "Current Affairs",
+"difficulty": "hard",
+"explanation": "Zambia made history by finalizing its restructuring deals under the G20 Common Framework after nearly four years of deadlocked sovereign default negotiations.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Sovereign Debt",
+"Economy",
+"Africa"
+]
+},
+{
+"id": "ca_088",
+"question": "What is the name of the rare, ultra-high-energy cosmic ray detected in late 2023 that scientists studied throughout 2024, possessing energy levels second only to the Oh-My-God particle?",
+"options": [
+"Amaterasu particle",
+"Helios wave",
+"Izanagi ray",
+"Susanoo emission"
+],
+"correctAnswer": "Amaterasu particle",
+"category": "Current Affairs",
+"difficulty": "hard",
+"explanation": "Named after the Japanese sun goddess, the Amaterasu particle was detected via Utah's Telescope Array, leaving scientists puzzled by its origin in empty space.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Physics",
+"Space Science"
+]
+},
+{
+"id": "ca_089",
+"question": "Which specific Pacific island nation signed the historic 'Falepili Union' treaty with Australia, granting Australia veto power over its security pacts in exchange for climate refuge?",
+"options": [
+"Tuvalu",
+"Nauru",
+"Kiribati",
+"Vanuatu"
+],
+"correctAnswer": "Tuvalu",
+"category": "Current Affairs",
+"difficulty": "hard",
+"explanation": "The treaty signed between Australia and Tuvalu serves as a landmark climate displacement and defense pact, coming into sharp diplomatic play through 2024.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Climate Policy",
+"Geopolitics",
+"Pacific"
+]
+},
+{
+"id": "ca_090",
+"question": "What is the corporate name of the private venture that developed the 'Slim' and 'Peregrine' lunar mission software modules that underwent critical reviews in early 2024?",
+"options": [
+"Astrobotic Technology",
+"Intuitive Machines",
+"Firefly Aerospace",
+"SpaceIL"
+],
+"correctAnswer": "Astrobotic Technology",
+"category": "Current Affairs",
+"difficulty": "hard",
+"explanation": "Astrobotic's Peregrine lander suffered a propellant leak shortly after launch in January 2024, failing its lunar touchdown attempt but gathering valuable telemetry data.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Space",
+"Aerospace"
+]
+},
+{
+"id": "ca_091",
+"question": "Which international body released the BBNJ Agreement (High Seas Treaty) for signatures, passing critical ratification milestones throughout 2024?",
+"options": [
+"United Nations",
+"International Maritime Organization",
+"World Wildlife Fund",
+"International Union for Conservation of Nature"
+],
+"correctAnswer": "United Nations",
+"category": "Current Affairs",
+"difficulty": "hard",
+"explanation": "The High Seas Treaty, formalized under UNCLOS, creates frameworks to protect marine biodiversity in international waters outside national jurisdictions.",
+"imageUrl": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?w=500",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"UN",
+"Environment",
+"Ocean"
+]
+},
+{
+"id": "ca_092",
+"question": "In early 2024, which multi-state bank collapsed and was acquired by Fulton Bank, reminding the financial world of the regional banking panics of 2023?",
+"options": [
+"Republic First Bank",
+"Signature Bank",
+"Silicon Valley Bank",
+"First Republic Bank"
+],
+"correctAnswer": "Republic First Bank",
+"category": "Current Affairs",
+"difficulty": "hard",
+"explanation": "Philadelphia-based Republic First Bank (trading as Republic Bank) was closed by Pennsylvania regulators in April 2024, with its deposits assumed by Fulton Bank.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Banking",
+"Finance",
+"US"
+]
+},
+{
+"id": "ca_093",
+"question": "What is the technical name of the specialized semiconductor manufacturing standard that the United States subsidized heavily through Intel and TSMC under the CHIPS Act in 2024?",
+"options": [
+"2nm Gate-All-Around (GAA)",
+"High-NA EUV Lithography",
+"FinFET 3nm technology",
+"Extreme Ultra-Low Doping"
+],
+"correctAnswer": "High-NA EUV Lithography",
+"category": "Current Affairs",
+"difficulty": "hard",
+"explanation": "Intel successfully installed the world's first commercial High-NA EUV machine from ASML in Oregon in 2024, a core benchmark for advanced node manufacturing.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Tech",
+"Semiconductor",
+"Business"
+]
+},
+{
+"id": "ca_094",
+"question": "Which entity won the landmark antitrust lawsuit brought by the US Department of Justice in August 2024, where a federal judge declared it an illegal monopoly over search?",
+"options": [
+"Apple",
+"Google",
+"Meta",
+"Amazon"
+],
+"correctAnswer": "Google",
+"category": "Current Affairs",
+"difficulty": "hard",
+"explanation": "U.S. District Judge Amit Mehta ruled that Google had acted as an illegal monopolist to maintain its search engine dominance, a major antitrust decision.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Antitrust",
+"Google",
+"Law"
+]
+},
+{
+"id": "ca_095",
+"question": "What major regulatory enforcement mechanism did the US Federal Trade Commission (FTC) vote to implement in April 2024, facing intense court challenges from business groups?",
+"options": [
+"A comprehensive ban on non-compete clauses",
+"A complete ban on target ads for minors",
+"Mandatory AI usage labels on all software",
+"A cap on credit card late fees"
+],
+"correctAnswer": "A comprehensive ban on non-compete clauses",
+"category": "Current Affairs",
+"difficulty": "hard",
+"explanation": "The FTC approved a final rule banning most worker non-compete agreements nationwide, aiming to boost wage growth, though it instantly faced fierce judicial resistance.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"FTC",
+"Law",
+"Labor"
+]
+},
+{
+"id": "ca_096",
+"question": "Which biotechnology firm made world headlines in early 2024 after its experimental 'Neuralink' telepathy chip was successfully implanted in a human patient's brain?",
+"options": [
+"Neuralink",
+"Synchron",
+"Blackrock Neurotech",
+"Emotiv"
+],
+"correctAnswer": "Neuralink",
+"category": "Current Affairs",
+"difficulty": "hard",
+"explanation": "Elon Musk's Neuralink successfully implanted its device in Noland Arbaugh in January 2024, enabling him to control a computer mouse cursor using his thoughts.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Neuralink",
+"Biotech",
+"Tech"
+]
+},
+{
+"id": "ca_097",
+"question": "What is the name of the high-stakes nuclear fusion reactor in France (the world's largest magnetic confinement plasma physics experiment) that reached structural milestones in 2024 despite timeline shifts?",
+"options": [
+"ITER",
+"JET",
+"NIF",
+"KSTAR"
+],
+"correctAnswer": "ITER",
+"category": "Current Affairs",
+"difficulty": "hard",
+"explanation": "The International Thermonuclear Experimental Reactor (ITER) project continued deep components restructuring and system repairs through 2024 in Saint-Paul-lez-Durance.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Fusion",
+"Physics",
+"Energy"
+]
+},
+{
+"id": "ca_098",
+"question": "Which country hosted the 50th G7 Summit in June 2024, centering discussions on using frozen Russian assets to back loans for Ukraine?",
+"options": [
+"Italy",
+"Japan",
+"Canada",
+"Germany"
+],
+"correctAnswer": "Italy",
+"category": "Current Affairs",
+"difficulty": "hard",
+"explanation": "The 50th G7 summit took place in Apulia, Italy, where world leaders agreed on a major deal to leverage profits from frozen Russian assets for Ukraine.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"G7",
+"Geopolitics",
+"Italy"
+]
+},
+{
+"id": "ca_099",
+"question": "Which international standard-setting agency issued the first globally unified corporate sustainability reporting rules (S1 and S2) that came into force in 2024?",
+"options": [
+"ISSB (International Sustainability Standards Board)",
+"GRI (Global Reporting Initiative)",
+"SEC Sustainability Office",
+"World Economic Forum Panel"
+],
+"correctAnswer": "ISSB (International Sustainability Standards Board)",
+"category": "Current Affairs",
+"difficulty": "hard",
+"explanation": "The ISSB's landmark frameworks create a global baseline for sustainability and climate-related financial disclosures across corporate financial systems.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Finance",
+"Climate Policy",
+"Business"
+]
+},
+{
+"id": "ca_100",
+"question": "What is the name of the critical maritime choke point where a commercial cargo ship called the 'Rubymar' was sunk in March 2024 after being struck by Houthi ballistic missiles?",
+"options": [
+"Bab al-Mandab Strait",
+"Strait of Hormuz",
+"Bosporus Strait",
+"Suez Canal"
+],
+"correctAnswer": "Bab al-Mandab Strait",
+"category": "Current Affairs",
+"difficulty": "hard",
+"explanation": "The UK-owned bulk carrier Rubymar sank in the Bab al-Mandab Strait, marking the first ship totally destroyed during the 2023–2024 Red Sea shipping crisis.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"Red Sea",
+"Conflict",
+"Shipping"
+]
+}
+]

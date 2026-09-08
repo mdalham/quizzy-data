@@ -1,0 +1,4602 @@
+[
+{
+"id": "economics_001",
+"question": "What is the fundamental problem that economics seeks to solve?",
+"options": [
+"Scarcity of resources",
+"Inflation control",
+"Stock market volatility",
+"Overproduction of goods"
+],
+"correctAnswer": "Scarcity of resources",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "Economics primarily deals with how society manages its scarce resources to satisfy unlimited wants and needs.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"basics",
+"scarcity"
+]
+},
+{
+"id": "economics_002",
+"question": "Which school of economic thought is most closely associated with Adam Smith?",
+"options": [
+"Keynesian Economics",
+"Marxist Economics",
+"Classical Economics",
+"Behavioral Economics"
+],
+"correctAnswer": "Classical Economics",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "Adam Smith is widely considered the father of Classical Economics, emphasizing free markets and the 'invisible hand'.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"history",
+"theory"
+]
+},
+{
+"id": "economics_003",
+"question": "What does a demand curve typically look like on a standard economic graph?",
+"options": [
+"Slopes upward from left to right",
+"Slopes downward from left to right",
+"A perfectly horizontal line",
+"A perfectly vertical line"
+],
+"correctAnswer": "Slopes downward from left to right",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "According to the law of demand, as price decreases, quantity demanded increases, creating a downward slope.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"microeconomics",
+"demand"
+]
+},
+{
+"id": "economics_004",
+"question": "Which institution regulates the money supply and interest rates in the United States?",
+"options": [
+"The Department of the Treasury",
+"The Federal Reserve System",
+"The Securities and Exchange Commission",
+"The World Bank"
+],
+"correctAnswer": "The Federal Reserve System",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "The Federal Reserve acts as the central bank of the United States, managing monetary policy to foster economic stability.",
+"imageUrl": "[https://images.unsplash.com/photo-1526304640581-d334cdbbf45e](https://images.unsplash.com/photo-1526304640581-d334cdbbf45e)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"finance",
+"macroeconomics"
+]
+},
+{
+"id": "economics_005",
+"question": "What term describes the value of the next best alternative given up when making a choice?",
+"options": [
+"Sunk cost",
+"Marginal cost",
+"Opportunity cost",
+"Fixed cost"
+],
+"correctAnswer": "Opportunity cost",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "Opportunity cost measures the trade-off of choosing one option over another by looking at the foregone benefit.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"basics",
+"choice"
+]
+},
+{
+"id": "economics_006",
+"question": "Gross Domestic Product (GDP) measures which of the following?",
+"options": [
+"The total wealth of all citizens in a country",
+"The total market value of all final goods and services produced within a country in a year",
+"The total amount of tax revenue collected by the government",
+"The net exports minus net imports of a nation"
+],
+"correctAnswer": "The total market value of all final goods and services produced within a country in a year",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "GDP serves as a primary indicator of a country's economic health by calculating total economic output.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"macroeconomics",
+"gdp"
+]
+},
+{
+"id": "economics_007",
+"question": "What type of market structure is dominated by a single seller?",
+"options": [
+"Oligopoly",
+"Monopoly",
+"Monopolistic Competition",
+"Perfect Competition"
+],
+"correctAnswer": "Monopoly",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "A monopoly exists when one enterprise is the sole provider of a particular commodity or service.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"markets",
+"microeconomics"
+]
+},
+{
+"id": "economics_008",
+"question": "What is the term for a general and progressive increase in prices across an economy?",
+"options": [
+"Deflation",
+"Stagflation",
+"Hyperinflation",
+"Inflation"
+],
+"correctAnswer": "Inflation",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "Inflation reduces the purchasing power of money, meaning each unit of currency buys fewer goods.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"macroeconomics",
+"inflation"
+]
+},
+{
+"id": "economics_009",
+"question": "If a product has highly elastic demand, what happens when its price rises slightly?",
+"options": [
+"The quantity demanded drops significantly",
+"The quantity demanded increases slightly",
+"The quantity demanded remains unchanged",
+"Total revenue always increases"
+],
+"correctAnswer": "The quantity demanded drops significantly",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "Elastic demand means consumers are sensitive to price changes, so a small price hike causes a large drop in sales.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"elasticity",
+"microeconomics"
+]
+},
+{
+"id": "economics_010",
+"question": "Which of the following describes fiscal policy?",
+"options": [
+"The central bank's control of interest rates",
+"The government's management of spending and taxation",
+"The regulation of corporate trade merges",
+"The establishment of international trade tariffs"
+],
+"correctAnswer": "The government's management of spending and taxation",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "Fiscal policy uses government expenditure and revenue collection to influence the overall path of the economy.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"policy",
+"macroeconomics"
+]
+},
+{
+"id": "economics_011",
+"question": "What occurs when a government spends more money in a fiscal year than it collects in revenue?",
+"options": [
+"Trade surplus",
+"Budget surplus",
+"Budget deficit",
+"National debt"
+],
+"correctAnswer": "Budget deficit",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "A budget deficit occurs on an annual basis when spending exceeds revenue, adding to the total accumulated national debt.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"policy",
+"finance"
+]
+},
+{
+"id": "economics_012",
+"question": "Which curve illustrates the trade-off between the production of two different goods given finite resources?",
+"options": [
+"Lorenz Curve",
+"Laffer Curve",
+"Production Possibilities Frontier",
+"Phillips Curve"
+],
+"correctAnswer": "Production Possibilities Frontier",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "The Production Possibilities Frontier (PPF) shows the maximum possible output combinations of two goods an economy can achieve.",
+"imageUrl": "[https://images.unsplash.com/photo-1551288049-bebda4e38f71](https://images.unsplash.com/photo-1551288049-bebda4e38f71)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"graphs",
+"basics"
+]
+},
+{
+"id": "economics_013",
+"question": "What is the primary characteristic of a 'public good' in economic theory?",
+"options": [
+"It is provided exclusively by private corporations",
+"It is non-excludable and non-rivalrous",
+"It can only be consumed by low-income individuals",
+"It carries a high sales tax rate to fund public services"
+],
+"correctAnswer": "It is non-excludable and non-rivalrous",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "Public goods, like national defense or street lighting, cannot easily exclude people from use, and one person's use does not reduce availability to others.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"microeconomics",
+"theory"
+]
+},
+{
+"id": "economics_014",
+"question": "Which index is most commonly used to measure consumer price inflation?",
+"options": [
+"Producer Price Index (PPI)",
+"Gross Domestic Product Deflator",
+"Consumer Price Index (CPI)",
+"S&P 500 Index"
+],
+"correctAnswer": "Consumer Price Index (CPI)",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "The CPI tracks changes in the price level of a market basket of consumer goods and services purchased by households.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"macroeconomics",
+"inflation"
+]
+},
+{
+"id": "economics_015",
+"question": "What type of unemployment occurs when workers are transitioning between jobs or entering the workforce for the first time?",
+"options": [
+"Structural unemployment",
+"Cyclical unemployment",
+"Frictional unemployment",
+"Seasonal unemployment"
+],
+"correctAnswer": "Frictional unemployment",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "Frictional unemployment is temporary and normal, representing the time lag when people search for new or better positions.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"labor",
+"macroeconomics"
+]
+},
+{
+"id": "economics_016",
+"question": "According to the Law of Supply, what happens as the price of a good increases?",
+"options": [
+"Producers are willing to supply more of that good",
+"Producers reduce production to create scarcity",
+"Consumers purchase more units of that good",
+"The supply curve shifts entirely to the left"
+],
+"correctAnswer": "Producers are willing to supply more of that good",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "The Law of Supply states that higher prices lead to an increase in quantity supplied, assuming other factors remain equal.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"microeconomics",
+"supply"
+]
+},
+{
+"id": "economics_017",
+"question": "Which of the following is a classic example of a negative externality?",
+"options": [
+"A student getting a free vaccination",
+"A factory polluting a nearby river during manufacturing",
+"A business investing in worker safety programs",
+"An individual planting flowers in their front yard"
+],
+"correctAnswer": "A factory polluting a nearby river during manufacturing",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "A negative externality occurs when a third party suffers an unintended cost due to an economic transaction.",
+"imageUrl": "[https://images.unsplash.com/photo-1611273426858-450d8e3c9fce](https://images.unsplash.com/photo-1611273426858-450d8e3c9fce)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"environment",
+"microeconomics"
+]
+},
+{
+"id": "economics_018",
+"question": "What is the economic term for a market condition where a small number of large firms dominate the industry?",
+"options": [
+"Monopoly",
+"Oligopoly",
+"Perfect Competition",
+"Monopsony"
+],
+"correctAnswer": "Oligopoly",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "An oligopoly features limited competition where a few large firms can heavily influence prices and production levels.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"markets",
+"microeconomics"
+]
+},
+{
+"id": "economics_019",
+"question": "What does the Laffer Curve illustrate in public finance?",
+"options": [
+"The relationship between economic growth and wealth inequality",
+"The relationship between tax rates and total tax revenue collected",
+"The trade-off between inflation and unemployment rates",
+"The distribution of income across households in an economy"
+],
+"correctAnswer": "The relationship between tax rates and total tax revenue collected",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "The Laffer Curve suggests that higher tax rates do not always lead to more revenue if they discourage economic activity.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"taxes",
+"macroeconomics"
+]
+},
+{
+"id": "economics_020",
+"question": "Which international organization was created in 1944 to oversee the global financial system and exchange rates?",
+"options": [
+"World Trade Organization (WTO)",
+"International Monetary Fund (IMF)",
+"World Economic Forum (WEF)",
+"European Central Bank (ECB)"
+],
+"correctAnswer": "International Monetary Fund (IMF)",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "The IMF was established at the Bretton Woods Conference to foster global monetary cooperation and financial stability.",
+"imageUrl": "[https://images.unsplash.com/photo-1541872703-74c5e44368f9](https://images.unsplash.com/photo-1541872703-74c5e44368f9)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"global",
+"history"
+]
+},
+{
+"id": "economics_021",
+"question": "What economic concept is defined as a general slowdown in economic activity lasting for two consecutive quarters?",
+"options": [
+"Depression",
+"Stagflation",
+"Recession",
+"Contraction"
+],
+"correctAnswer": "Recession",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "A recession is traditionally defined by macroeconomists as two consecutive quarters of declining real GDP.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"macroeconomics",
+"cycles"
+]
+},
+{
+"id": "economics_022",
+"question": "If a government imposes a binding price ceiling on rent, what is the most likely long-term result?",
+"options": [
+"A surplus of affordable housing units",
+"A shortage of rental housing units",
+"An immediate increase in landlords building luxury apartments",
+"No change in the housing market structure"
+],
+"correctAnswer": "A shortage of rental housing units",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "A price ceiling set below market equilibrium increases quantity demanded while decreasing quantity supplied, leading to a shortage.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"microeconomics",
+"policy"
+]
+},
+{
+"id": "economics_023",
+"question": "Which curve graphically represents the degree of income inequality within a nation?",
+"options": [
+"Phillips Curve",
+"Lorenz Curve",
+"Kuznets Curve",
+"Engel Curve"
+],
+"correctAnswer": "Lorenz Curve",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "The Lorenz Curve plots cumulative percentages of total income received against cumulative numbers of recipients, showing inequality.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"inequality",
+"macroeconomics"
+]
+},
+{
+"id": "economics_024",
+"question": "What is the term for a tax that takes a larger percentage of income from high-income earners than from low-income earners?",
+"options": [
+"Regressive tax",
+"Flat tax",
+"Progressive tax",
+"Proportional tax"
+],
+"correctAnswer": "Progressive tax",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "An income tax system where tax rates increase as taxable income increases is categorized as progressive.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"taxes",
+"policy"
+]
+},
+{
+"id": "economics_025",
+"question": "Who authored the 1936 book 'The General Theory of Employment, Interest and Money'?",
+"options": [
+"Milton Friedman",
+"Karl Marx",
+"John Maynard Keynes",
+"David Ricardo"
+],
+"correctAnswer": "John Maynard Keynes",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "Keynes' landmark text revolutionized macroeconomics, advocating for government intervention during recessions.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"history",
+"theory"
+]
+},
+{
+"id": "economics_026",
+"question": "What happens to a nation's currency value during a process of devaluation under a fixed exchange rate system?",
+"options": [
+"Its value is deliberately lowered relative to other currencies",
+"Its value rises automatically due to market demand",
+"It becomes completely unbacked by physical gold",
+"It is replaced entirely by a regional digital currency"
+],
+"correctAnswer": "Its value is deliberately lowered relative to other currencies",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "Devaluation is a deliberate downward adjustment of the official value of a country's currency by its monetary authority.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"trade",
+"finance"
+]
+},
+{
+"id": "economics_027",
+"question": "Which of the following describes a Giffen good?",
+"options": [
+"A luxury item for which demand increases as price increases",
+"An inferior product for which demand increases as price increases due to income effects",
+"A normal good that obeys the typical downward-sloping demand pattern",
+"A product whose demand drops to zero if the price changes slightly"
+],
+"correctAnswer": "An inferior product for which demand increases as price increases due to income effects",
+"category": "Economics",
+"difficulty": "hard",
+"explanation": "A Giffen good is a rare exception to the law of demand where a price increase increases demand because the income effect dominates.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"microeconomics",
+"theory"
+]
+},
+{
+"id": "economics_028",
+"question": "What mathematical value represents the Gini Coefficient of a society with absolute, perfect income equality?",
+"options": [
+"1.0",
+"0.5",
+"0.0",
+"100.0"
+],
+"correctAnswer": "0.0",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "The Gini Coefficient ranges from 0 to 1, where 0 represents perfect equality and 1 represents absolute inequality.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"math",
+"inequality"
+]
+},
+{
+"id": "economics_029",
+"question": "What is the primary objective of the World Trade Organization (WTO)?",
+"options": [
+"To provide short-term emergency loans to indebted nations",
+"To regulate global cryptocurrency standards",
+"To reduce trade barriers and mediate international trade disputes",
+"To set global minimum wage thresholds"
+],
+"correctAnswer": "To reduce trade barriers and mediate international trade disputes",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "The WTO enforces agreements and facilitates negotiations to promote global trade with minimal barriers.",
+"imageUrl": "[https://images.unsplash.com/photo-1454165804606-c3d57bc86b40](https://images.unsplash.com/photo-1454165804606-c3d57bc86b40)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"trade",
+"global"
+]
+},
+{
+"id": "economics_030",
+"question": "In microeconomics, a firm maximizes profit by producing at a level where which two variables are equal?",
+"options": [
+"Total Revenue and Total Cost",
+"Marginal Revenue and Marginal Cost",
+"Average Variable Cost and Price",
+"Fixed Cost and Variable Cost"
+],
+"correctAnswer": "Marginal Revenue and Marginal Cost",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "The golden rule of profit maximization states that a firm should produce up to the point where $MR = MC$.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"microeconomics",
+"profit"
+]
+},
+{
+"id": "economics_031",
+"question": "What phenomenon occurs when expansionary fiscal policy raises interest rates, thereby reducing private sector investment?",
+"options": [
+"The Multiplier Effect",
+"Stagflation",
+"Crowding Out",
+"Liquidity Trap"
+],
+"correctAnswer": "Crowding Out",
+"category": "Economics",
+"difficulty": "hard",
+"explanation": "Crowding out happens when government borrowing drives up interest rates, making it more expensive for private entities to borrow and invest.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"macroeconomics",
+"policy"
+]
+},
+{
+"id": "economics_032",
+"question": "What specific economic situation is characterized by stagnant economic growth combined with high inflation?",
+"options": [
+"Hyperinflation",
+"Deflationary spiral",
+"Stagflation",
+"Depression"
+],
+"correctAnswer": "Stagflation",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "Stagflation presents a unique policy dilemma because actions to fix high inflation can worsen unemployment, and vice versa.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"macroeconomics",
+"inflation"
+]
+},
+{
+"id": "economics_033",
+"question": "Which prominent economist is widely regarded as the leader of the Monetarist School of Economics?",
+"options": [
+"John Maynard Keynes",
+"Milton Friedman",
+"Joseph Schumpeter",
+"Thomas Malthus"
+],
+"correctAnswer": "Milton Friedman",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "Milton Friedman advocated for strict control of the money supply as the primary means to stabilize economic cycles.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"history",
+"theory"
+]
+},
+{
+"id": "economics_034",
+"question": "What are two goods called if an increase in the price of one leads to an increase in the demand for the other?",
+"options": [
+"Complementary goods",
+"Substitute goods",
+"Inferior goods",
+"Veblen goods"
+],
+"correctAnswer": "Substitute goods",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "Substitute goods (like tea and coffee) replace each other; a price rise for one drives consumers toward the other.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"microeconomics",
+"demand"
+]
+},
+{
+"id": "economics_035",
+"question": "What historical event in 1929 sparked a worldwide economic meltdown and heavily shaped early macroeconomic theories?",
+"options": [
+"The Wall Street Crash",
+"The end of World War I",
+"The South Sea Bubble",
+"The Nixon Shock"
+],
+"correctAnswer": "The Wall Street Crash",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "The 1929 stock market crash triggered the Great Depression, prompting extensive study into government economic intervention.",
+"imageUrl": "[https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f](https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"history",
+"finance"
+]
+},
+{
+"id": "economics_036",
+"question": "What is the term for a market structure where there is only one single buyer for a specific product or labor service?",
+"options": [
+"Monopoly",
+"Monopsony",
+"Duopoly",
+"Oligopsony"
+],
+"correctAnswer": "Monopsony",
+"category": "Economics",
+"difficulty": "hard",
+"explanation": "A monopsony occurs when a buyer has sufficient leverage to dictate the terms and price of a goods or labor market.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"microeconomics",
+"markets"
+]
+},
+{
+"id": "economics_037",
+"question": "Which field of economics combines psychological insights with traditional economic theory to explain human decision-making?",
+"options": [
+"Econometrics",
+"Macroeconomics",
+"Behavioral Economics",
+"Development Economics"
+],
+"correctAnswer": "Behavioral Economics",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "Behavioral economics studies why people sometimes make irrational choices that contradict standard economic models.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"psychology",
+"theory"
+]
+},
+{
+"id": "economics_038",
+"question": "What does the original Phillips Curve illustrate?",
+"options": [
+"An inverse relationship between inflation and unemployment",
+"A positive relationship between tax rates and investments",
+"The limits of production efficiency in manufacturing",
+"The connection between income and demand for public goods"
+],
+"correctAnswer": "An inverse relationship between inflation and unemployment",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "The traditional Phillips Curve suggests that policymakers face a direct short-run trade-off between keeping inflation or unemployment low.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"macroeconomics",
+"graphs"
+]
+},
+{
+"id": "economics_039",
+"question": "What is currency called that has value solely because a government decrees it as legal tender, without backing by a physical commodity?",
+"options": [
+"Commodity money",
+"Fiat money",
+"Representative money",
+"Crypto money"
+],
+"correctAnswer": "Fiat money",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "Most modern currencies, such as the US Dollar and the Euro, are fiat money backed by public trust in the issuing government.",
+"imageUrl": "[https://images.unsplash.com/photo-1601597111158-2fceff292cdc](https://images.unsplash.com/photo-1601597111158-2fceff292cdc)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"money",
+"finance"
+]
+},
+{
+"id": "economics_040",
+"question": "Which type of tariff is a flat fee charged per unit of an imported good, regardless of its value?",
+"options": [
+"Ad valorem tariff",
+"Specific tariff",
+"Compound tariff",
+"Proportional tariff"
+],
+"correctAnswer": "Specific tariff",
+"category": "Economics",
+"difficulty": "hard",
+"explanation": "A specific tariff is levied as a fixed charge for each item of imported good (e.g., $3 per barrel of oil).",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"trade",
+"policy"
+]
+},
+{
+"id": "economics_041",
+"question": "What is the economic term for a strategy where a firm sells products below cost to drive competitors out of the market?",
+"options": [
+"Price discrimination",
+"Predatory pricing",
+"Price skimming",
+"Collusive pricing"
+],
+"correctAnswer": "Predatory pricing",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "Predatory pricing is an anti-competitive practice intended to establish a monopoly by undercutting competitors until they fail.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"microeconomics",
+"strategy"
+]
+},
+{
+"id": "economics_042",
+"question": "What branch of economics applies statistical and mathematical methods to analyze economic data?",
+"options": [
+"Macroeconomics",
+"Econometrics",
+"Game Theory",
+"Statonomics"
+],
+"correctAnswer": "Econometrics",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "Econometrics uses quantitative models to test economic hypotheses and forecast future trends based on empirical data.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"math",
+"data"
+]
+},
+{
+"id": "economics_043",
+"question": "What concept explains why the total utility gained from consuming additional units of a good eventually decreases?",
+"options": [
+"Diminishing marginal utility",
+"The substitution effect",
+"The income effect",
+"Diseconomies of scale"
+],
+"correctAnswer": "Diminishing marginal utility",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "The law of diminishing marginal utility states that the more you consume of an item, the less extra satisfaction you get from each additional unit.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"microeconomics",
+"utility"
+]
+},
+{
+"id": "economics_044",
+"question": "Which of the following describes the 'Velocity of Money'?",
+"options": [
+"The speed at which central banks print physical bills",
+"The rate at which inflation reduces currency purchasing power",
+"The frequency with which a single unit of currency is spent on final goods and services within a timeframe",
+"The speed of digital transactions across global banking networks"
+],
+"correctAnswer": "The frequency with which a single unit of currency is spent on final goods and services within a timeframe",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "Velocity of money measures how fast cash moves through the economy to purchase domestic goods and services.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"macroeconomics",
+"money"
+]
+},
+{
+"id": "economics_045",
+"question": "What concept refers to a firm's long-run average costs decreasing as its total volume of production increases?",
+"options": [
+"Diminishing returns",
+"Economies of scale",
+"Comparative advantage",
+"Perfect efficiency"
+],
+"correctAnswer": "Economies of scale",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "Economies of scale occur when large-scale production leads to cost advantages by spreading fixed costs over more units.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"microeconomics",
+"business"
+]
+},
+{
+"id": "economics_046",
+"question": "Which European country introduced the Euro as an official currency at its inception in 1999?",
+"options": [
+"United Kingdom",
+"France",
+"Sweden",
+"Switzerland"
+],
+"correctAnswer": "France",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "France was one of the original 11 founding eurozone members, whereas countries like the UK and Sweden opted out.",
+"imageUrl": "[https://images.unsplash.com/photo-1471623322305-1e428da6ae52](https://images.unsplash.com/photo-1471623322305-1e428da6ae52)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"global",
+"currency"
+]
+},
+{
+"id": "economics_047",
+"question": "What type of financial instrument represents an ownership share in a corporation?",
+"options": [
+"Bond",
+"Stock",
+"Derivative",
+"Treasury Bill"
+],
+"correctAnswer": "Stock",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "Purchasing shares of stock provides investors with equity ownership in a firm, unlike bonds, which represent debt obligations.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"finance",
+"investing"
+]
+},
+{
+"id": "economics_048",
+"question": "What theory states that nations should specialize in producing goods for which they hold a lower opportunity cost than trading partners?",
+"options": [
+"Absolute Advantage",
+"Comparative Advantage",
+"Mercantilism",
+"Protectionism"
+],
+"correctAnswer": "Comparative Advantage",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "David Ricardo's theory of comparative advantage demonstrates that mutual trade gains exist even if one nation is less efficient overall.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"trade",
+"theory"
+]
+},
+{
+"id": "economics_049",
+"question": "Which of the following occurs when a business practices third-degree price discrimination?",
+"options": [
+"Charging every individual buyer their exact maximum willingness to pay",
+"Charging different prices based on the total quantity of units purchased",
+"Charging different prices to distinct segments of consumers, such as students or seniors",
+"Setting prices based purely on production cost variations"
+],
+"correctAnswer": "Charging different prices to distinct segments of consumers, such as students or seniors",
+"category": "Economics",
+"difficulty": "hard",
+"explanation": "Third-degree price discrimination divides consumers into demographic groups with differing elasticities of demand.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"microeconomics",
+"pricing"
+]
+},
+{
+"id": "economics_050",
+"question": "What is the standard formula for calculating GDP using the expenditure approach?",
+"options": [
+"GDP = C + I + G + (X - M)",
+"GDP = C + S + T",
+"GDP = Price x Quantity",
+"GDP = Wages + Rent + Interest + Profit"
+],
+"correctAnswer": "GDP = C + I + G + (X - M)",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "GDP equals Consumption (C) plus Investment (I) plus Government spending (G) plus Net Exports (X - M).",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"macroeconomics",
+"gdp"
+]
+},
+{
+"id": "economics_051",
+"question": "What market situation occurs when the quantity supplied exactly equals the quantity demanded?",
+"options": [
+"Surplus",
+"Shortage",
+"Equilibrium",
+"Stagnation"
+],
+"correctAnswer": "Equilibrium",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "Equilibrium is the point of balance where market forces stabilize and there is no inherent tendency for the price to change.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"microeconomics",
+"markets"
+]
+},
+{
+"id": "economics_052",
+"question": "What type of policy includes open market operations, reserve requirements, and discount rates?",
+"options": [
+"Fiscal policy",
+"Monetary policy",
+"Trade policy",
+"Antitrust policy"
+],
+"correctAnswer": "Monetary policy",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "Monetary policy is managed by a central bank to govern the availability and cost of money in an economy.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"policy",
+"macroeconomics"
+]
+},
+{
+"id": "economics_053",
+"question": "Which economic dynamic is illustrated by a circular flow model?",
+"options": [
+"The exchange of goods, services, and money between households and firms",
+"The depreciation of physical capital assets over time",
+"The progression of a nation through demographic transitions",
+"The growth path of a stock portfolio over a working life"
+],
+"correctAnswer": "The exchange of goods, services, and money between households and firms",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "The circular flow diagram is a foundational model showing how products and factors flow through markets.",
+"imageUrl": "[https://images.unsplash.com/photo-1559526324-4b87b5e36e44](https://images.unsplash.com/photo-1559526324-4b87b5e36e44)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"basics",
+"models"
+]
+},
+{
+"id": "economics_054",
+"question": "What basic economic concept states that as a consumer's income rises, their demand for an 'inferior good' falls?",
+"options": [
+"Law of Demand",
+"Income Effect",
+"Substitution Effect",
+"Engel's Law"
+],
+"correctAnswer": "Income Effect",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "Inferior goods are low-cost options that consumers replace with higher-quality substitutes when their budget expands.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"demand",
+"microeconomics"
+]
+},
+{
+"id": "economics_055",
+"question": "What is the economic term for the unrecoverable loss of total economic surplus caused by market inefficiencies like tariffs or taxes?",
+"options": [
+"Deadweight loss",
+"Opportunity cost",
+"Sunk cost",
+"Economic deficit"
+],
+"correctAnswer": "Deadweight loss",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "Deadweight loss represents transactions that fail to occur because artificial barriers shift the price away from market equilibrium.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"efficiency",
+"microeconomics"
+]
+},
+{
+"id": "economics_056",
+"question": "Which of the following is considered a primary factor of production in classical economics?",
+"options": [
+"Currency",
+"Labor",
+"Stocks",
+"Consumer demand"
+],
+"correctAnswer": "Labor",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "The traditional factors of production are Land, Labor, Capital, and Entrepreneurship.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"basics",
+"production"
+]
+},
+{
+"id": "economics_057",
+"question": "What strategic scenario does the 'Prisoner's Dilemma' illustrate in economic game theory?",
+"options": [
+"How individual rational choices can lead to a suboptimal collective outcome",
+"How monopolists set perfect price discriminatory models",
+"Why inflation always triggers higher structural unemployment",
+"The path toward achieving absolute comparative trade benefits"
+],
+"correctAnswer": "How individual rational choices can lead to a suboptimal collective outcome",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "In a Prisoner's Dilemma, both parties have a dominant strategy to defect, resulting in a worse outcome than mutual cooperation.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"game theory",
+"decision"
+]
+},
+{
+"id": "economics_058",
+"question": "What historical trade philosophy asserted that a nation's wealth was measured by its gold bullion and required maintaining a trade surplus?",
+"options": [
+"Feudalism",
+"Mercantilism",
+"Physiocracy",
+"Capitalism"
+],
+"correctAnswer": "Mercantilism",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "Mercantilism dominated Western Europe from the 16th to 18th centuries, promoting heavy regulation, protectionism, and colonial exploitation.",
+"imageUrl": "[https://images.unsplash.com/photo-1518818419601-72c8673f5852](https://images.unsplash.com/photo-1518818419601-72c8673f5852)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"history",
+"trade"
+]
+},
+{
+"id": "economics_059",
+"question": "If the price elasticity of supply for a product is exactly equal to zero, how is the supply categorized?",
+"options": [
+"Perfecty elastic",
+"Unit elastic",
+"Perfecty inelastic",
+"Relatively elastic"
+],
+"correctAnswer": "Perfecty inelastic",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "Perfectly inelastic supply implies that quantity supplied remains completely constant regardless of price adjustments (e.g., land or unique artifacts).",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"elasticity",
+"supply"
+]
+},
+{
+"id": "economics_060",
+"question": "What economic indicator tracks changes in prices received by domestic producers for their outputs?",
+"options": [
+"Consumer Price Index (CPI)",
+"Producer Price Index (PPI)",
+"GDP Deflator",
+"Cost of Living Index"
+],
+"correctAnswer": "Producer Price Index (PPI)",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "The PPI measures inflation from the perspective of the seller or producer rather than the consumer.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"inflation",
+"data"
+]
+},
+{
+"id": "economics_061",
+"question": "What dynamic occurs in a 'liquidity trap'?",
+"options": [
+"Conventional monetary policy becomes ineffective because interest rates are near zero",
+"Commercial banks run completely out of cash reserves due to a financial panic",
+"The stock market collapses causing an immediate freeze on all corporate bonds",
+"Hyperinflation forces a government to completely abandon its currency"
+],
+"correctAnswer": "Conventional monetary policy becomes ineffective because interest rates are near zero",
+"category": "Economics",
+"difficulty": "hard",
+"explanation": "In a liquidity trap, consumers choose to hoard cash instead of investing, preventing low interest rates from stimulating growth.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"macroeconomics",
+"policy"
+]
+},
+{
+"id": "economics_062",
+"question": "What type of good is a luxury car whose demand increases as its price increases because it acts as a status symbol?",
+"options": [
+"Giffen good",
+"Veblen good",
+"Normal good",
+"Public good"
+],
+"correctAnswer": "Veblen good",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "Veblen goods violate the law of demand because their high price enhances their perceived exclusivity and prestige.",
+"imageUrl": "[https://images.unsplash.com/photo-1503376780353-7e6692767b70](https://images.unsplash.com/photo-1503376780353-7e6692767b70)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"microeconomics",
+"theory"
+]
+},
+{
+"id": "economics_063",
+"question": "What are two goods called if an increase in the price of one leads to a decrease in the demand for the other?",
+"options": [
+"Substitutes",
+"Complements",
+"Inferior goods",
+"Independent goods"
+],
+"correctAnswer": "Complements",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "Complementary goods (like printers and ink cartridges) are consumed together, so a price hike in one impacts both.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"microeconomics",
+"demand"
+]
+},
+{
+"id": "economics_064",
+"question": "Who introduced the concept of 'creative destruction' to explain how economic innovation drives growth?",
+"options": [
+"Karl Marx",
+"Joseph Schumpeter",
+"John Forbes Nash",
+"Thomas Sowell"
+],
+"correctAnswer": "Joseph Schumpeter",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "Schumpeter described creative destruction as the industrial mutation that continuously revolutionizes the economic structure from within.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"history",
+"growth"
+]
+},
+{
+"id": "economics_065",
+"question": "What is the relationship between bond prices and market interest rates?",
+"options": [
+"They move in opposite directions",
+"They move in the same direction",
+"They have no correlation whatsoever",
+"They move together only during high inflation cycles"
+],
+"correctAnswer": "They move in opposite directions",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "As interest rates rise, new bonds pay higher yields, making older bonds with lower yields less valuable, driving down their prices.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"finance",
+"bonds"
+]
+},
+{
+"id": "economics_066",
+"question": "What economic concept is defined as the maximum price legal limits permit a seller to charge?",
+"options": [
+"Price floor",
+"Price ceiling",
+"Market equilibrium",
+"Subsidy tariff"
+],
+"correctAnswer": "Price ceiling",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "Price ceilings are government-imposed limits meant to prevent prices from climbing too high, often resulting in shortages.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"policy",
+"microeconomics"
+]
+},
+{
+"id": "economics_067",
+"question": "What index measures the total income earned by a nation's permanent residents, regardless of where the production takes place?",
+"options": [
+"Gross Domestic Product (GDP)",
+"Gross National Product (GNP)",
+"Net Domestic Product (NDP)",
+"Personal Disposable Income (PDI)"
+],
+"correctAnswer": "Gross National Product (GNP)",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "GNP measures output based on ownership of production factors by nationals, whereas GDP measures production based on geographic boundaries.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"macroeconomics",
+"gdp"
+]
+},
+{
+"id": "economics_068",
+"question": "Which agreement, signed in 1992, established a vast free-trade zone across Canada, the United States, and Mexico?",
+"options": [
+"NAFTA",
+"MERCOSUR",
+"Trans-Pacific Partnership (TPP)",
+"USMCA"
+],
+"correctAnswer": "NAFTA",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "The North American Free Trade Agreement (NAFTA) eliminated most tariffs on products traded between the three nations.",
+"imageUrl": "[https://images.unsplash.com/photo-1508514177221-188b1cf16e9d](https://images.unsplash.com/photo-1508514177221-188b1cf16e9d)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"trade",
+"history"
+]
+},
+{
+"id": "economics_069",
+"question": "What type of merger occurs between two companies operating in the exact same industry and stage of production?",
+"options": [
+"Vertical merger",
+"Conglomerate merger",
+"Horizontal merger",
+"Concentric merger"
+],
+"correctAnswer": "Horizontal merger",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "A horizontal merger occurs when direct competitors combine, often raising antitrust scrutiny regarding market power.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"microeconomics",
+"business"
+]
+},
+{
+"id": "economics_070",
+"question": "What economic term describes a cost that has already been incurred and cannot be recovered by any future alternative choices?",
+"options": [
+"Opportunity cost",
+"Fixed cost",
+"Sunk cost",
+"Implicit cost"
+],
+"correctAnswer": "Sunk cost",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "Economists advise that sunk costs should be ignored when making rational decisions about future actions.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"basics",
+"choice"
+]
+},
+{
+"id": "economics_071",
+"question": "What economic model or theorem suggests that private parties can resolve externalities efficiently without government intervention if transaction costs are zero?",
+"options": [
+"Say's Law",
+"Coase Theorem",
+"Okun's Law",
+"Heckscher-Ohlin Theorem"
+],
+"correctAnswer": "Coase Theorem",
+"category": "Economics",
+"difficulty": "hard",
+"explanation": "Ronald Coase argued that clear property rights allow individuals to negotiate solutions to externalities effectively on their own.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"theory",
+"microeconomics"
+]
+},
+{
+"id": "economics_072",
+"question": "What is the term for the percentage of bank deposits that a financial institution must legally hold in cash or at the central bank?",
+"options": [
+"Discount rate",
+"Reserve ratio",
+"Liquidity index",
+"Capital buffer"
+],
+"correctAnswer": "Reserve ratio",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "The reserve ratio limits the capacity of fractional-reserve commercial banks to create money through new lending.",
+"imageUrl": "[https://images.unsplash.com/photo-1544377193-33dcf4d68fb5](https://images.unsplash.com/photo-1544377193-33dcf4d68fb5)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"banking",
+"macroeconomics"
+]
+},
+{
+"id": "economics_073",
+"question": "Which type of elasticity measures how much the quantity demanded of one good changes in response to a price change of another good?",
+"options": [
+"Price elasticity of demand",
+"Income elasticity of demand",
+"Cross-price elasticity of demand",
+"Supply elasticity of substitution"
+],
+"correctAnswer": "Cross-price elasticity of demand",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "Cross-price elasticity indicates whether two separate commodities function as substitutes (positive value) or complements (negative value).",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"elasticity",
+"microeconomics"
+]
+},
+{
+"id": "economics_074",
+"question": "What law states that 'supply creates its own demand'?",
+"options": [
+"Say's Law",
+"Gresham's Law",
+"Okun's Law",
+"Engel's Law"
+],
+"correctAnswer": "Say's Law",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "Named after Jean-Baptiste Say, this classical concept asserts that the production of goods generates sufficient income to purchase them.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"history",
+"theory"
+]
+},
+{
+"id": "economics_075",
+"question": "What is the economic term for a prolonged, severe contraction in economic activity, much deeper than a standard recession?",
+"options": [
+"Stagflation",
+"Hyperinflation",
+"Depression",
+"Deflationary freeze"
+],
+"correctAnswer": "Depression",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "An economic depression involves massive unemployment, sharp drops in industrial output, and extended financial distress.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"macroeconomics",
+"cycles"
+]
+},
+{
+"id": "economics_076",
+"question": "What is the formal economic term for a situation where market mechanisms fail to allocate resources efficiently on their own?",
+"options": [
+"Government failure",
+"Market failure",
+"Structural deficit",
+"Deadweight mismatch"
+],
+"correctAnswer": "Market failure",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "Market failures occur due to monopolies, externalities, asymmetric information, or public goods, often justifying intervention.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"theory",
+"microeconomics"
+]
+},
+{
+"id": "economics_077",
+"question": "Which of the following values represents an income elasticity of demand for a luxury good?",
+"options": [
+"Negative value less than 0",
+"Positive value between 0 and 1",
+"Positive value greater than 1",
+"Exactly equal to 0"
+],
+"correctAnswer": "Positive value greater than 1",
+"category": "Economics",
+"difficulty": "hard",
+"explanation": "Luxury goods have an income elasticity greater than 1, meaning expenditure grows disproportionately faster than income increases.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"elasticity",
+"microeconomics"
+]
+},
+{
+"id": "economics_078",
+"question": "What specific type of tariff or protectionist barrier limits the literal physical quantity of a good that can be imported?",
+"options": [
+"Ad valorem tax",
+"Import quota",
+"Embargo",
+"Subsidy cap"
+],
+"correctAnswer": "Import quota",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "An import quota sets a physical restriction on the volume of specific products entering a market during a set period.",
+"imageUrl": "[https://images.unsplash.com/photo-1578575437130-527eed3abbec](https://images.unsplash.com/photo-1578575437130-527eed3abbec)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"trade",
+"policy"
+]
+},
+{
+"id": "economics_079",
+"question": "What name is given to the interest rate that the Federal Reserve charges commercial banks for short-term emergency loans?",
+"options": [
+"Federal funds rate",
+"Prime rate",
+"Discount rate",
+"Treasury yield"
+],
+"correctAnswer": "Discount rate",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "The discount rate serves as a backup liquidity source for commercial banks directly from the central bank's discount window.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"banking",
+"macroeconomics"
+]
+},
+{
+"id": "economics_080",
+"question": "What paradox states that water, which is essential for life, is cheap, while diamonds, which are non-essential, are expensive?",
+"options": [
+"The Paradox of Thrift",
+"The Diamond-Water Paradox",
+"The Leontief Paradox",
+"The Lucas Paradox"
+],
+"correctAnswer": "The Diamond-Water Paradox",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "Solved by marginal utility theory, the paradox shows value depends on the utility of the next additional unit, not total utility.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"utility",
+"basics"
+]
+},
+{
+"id": "economics_081",
+"question": "Which of the following market structures features zero barriers to entry and perfectly identical standardized products?",
+"options": [
+"Monopolistic Competition",
+"Oligopoly",
+"Perfect Competition",
+"Monopoly"
+],
+"correctAnswer": "Perfect Competition",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "Perfect competition is a theoretical baseline where firms are price takers due to identical products and perfect market knowledge.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"markets",
+"microeconomics"
+]
+},
+{
+"id": "economics_082",
+"question": "What is the monetary term for the process where a central bank purchases long-term government bonds to inject liquidity directly into the economy?",
+"options": [
+"Open market sales",
+"Quantitative easing",
+"Fiscal stimulus",
+"Currency devaluation"
+],
+"correctAnswer": "Quantitative easing",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "Quantitative easing (QE) is an unconventional monetary policy used to lower long-term interest rates when standard rates are near zero.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"policy",
+"macroeconomics"
+]
+},
+{
+"id": "economics_083",
+"question": "Which prominent economist formulated the 'Paradox of Thrift'?",
+"options": [
+"Adam Smith",
+"John Maynard Keynes",
+"Milton Friedman",
+"David Ricardo"
+],
+"correctAnswer": "John Maynard Keynes",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "The Paradox of Thrift states that if everyone tries to save more during a recession, aggregate demand falls, worsening the downturn.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"theory",
+"macroeconomics"
+]
+},
+{
+"id": "economics_084",
+"question": "What type of tax takes a larger percentage of revenue from low-income households than from high-income households?",
+"options": [
+"Progressive tax",
+"Regressive tax",
+"Proportional tax",
+"Marginal tax"
+],
+"correctAnswer": "Regressive tax",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "Sales taxes are typically regressive because lower-income consumers spend a larger share of their total budget on taxable goods.",
+"imageUrl": "[https://images.unsplash.com/photo-1554224155-8d04cb21cd6c](https://images.unsplash.com/photo-1554224155-8d04cb21cd6c)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"taxes",
+"policy"
+]
+},
+{
+"id": "economics_085",
+"question": "What economic law states that 'bad money drives out good money' from circulation under a bimetallic or fixed standard?",
+"options": [
+"Say's Law",
+"Gresham's Law",
+"Okun's Law",
+"Goodhart's Law"
+],
+"correctAnswer": "Gresham's Law",
+"category": "Economics",
+"difficulty": "hard",
+"explanation": "Gresham's Law notes that if two coins have equal legal value but different intrinsic values, people hoard the more valuable coin.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"history",
+"money"
+]
+},
+{
+"id": "economics_086",
+"question": "What type of costs include the actual out-of-pocket monetary payments made by a firm for resource inputs?",
+"options": [
+"Implicit costs",
+"Explicit costs",
+"Sunk costs",
+"Opportunity costs"
+],
+"correctAnswer": "Explicit costs",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "Explicit costs are tangible expenses like wages, rent, and materials, which are tracked by traditional accounting methods.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"microeconomics",
+"business"
+]
+},
+{
+"id": "economics_087",
+"question": "What does a negative cross-price elasticity of demand between two products reveal?",
+"options": [
+"The products are substitutes",
+"The products are complements",
+"The products are inferior goods",
+"The products are completely unrelated"
+],
+"correctAnswer": "The products are complements",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "A negative value means that as the price of product A increases, the quantity demanded for product B decreases.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"elasticity",
+"microeconomics"
+]
+},
+{
+"id": "economics_088",
+"question": "Which economic dynamic describes a situation where an individual relies on a public resource without contributing to its cost?",
+"options": [
+"The Free Rider Problem",
+"Tragedy of the Commons",
+"Adverse Selection",
+"Moral Hazard"
+],
+"correctAnswer": "The Free Rider Problem",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "The free-rider problem stems from non-excludable goods, where individuals benefit without paying, often leading to underprovision.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"microeconomics",
+"public goods"
+]
+},
+{
+"id": "economics_089",
+"question": "Which major index tracks the performance of 30 prominent, blue-chip companies publicly traded on stock exchanges in the US?",
+"options": [
+"NASDAQ Composite",
+"S&P 500",
+"Dow Jones Industrial Average",
+"Russell 2000"
+],
+"correctAnswer": "Dow Jones Industrial Average",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "The Dow Jones (DJIA) is a price-weighted stock index representing major industrial leaders in the American economy.",
+"imageUrl": "[https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3](https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"finance",
+"investing"
+]
+},
+{
+"id": "economics_090",
+"question": "What is the economic term for an empirical rule connecting changes in the unemployment rate directly to changes in real GDP growth?",
+"options": [
+"Phillips Law",
+"Okun's Law",
+"Say's Law",
+"Taylor Rule"
+],
+"correctAnswer": "Okun's Law",
+"category": "Economics",
+"difficulty": "hard",
+"explanation": "Okun's Law states that for every 1% increase in the unemployment rate, a country's GDP will be roughly an additional 2% lower than potential GDP.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"macroeconomics",
+"labor"
+]
+},
+{
+"id": "economics_091",
+"question": "What core characteristic differentiates Monopolistic Competition from Perfect Competition?",
+"options": [
+"Monopolistic competition features fewer sellers",
+"Monopolistic competition involves differentiated products rather than identical ones",
+"Perfect competition has higher structural barriers to entry",
+"Perfect competition permits long-run positive economic profits"
+],
+"correctAnswer": "Monopolistic competition involves differentiated products rather than identical ones",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "Firms in monopolistic competition use branding and unique product features to exert slight control over their pricing.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"markets",
+"microeconomics"
+]
+},
+{
+"id": "economics_092",
+"question": "What occurs when an individual alters their behavior to take more risks because they possess insurance coverage?",
+"options": [
+"Adverse selection",
+"Moral hazard",
+"Asymmetric arbitrage",
+"Bounded rationality"
+],
+"correctAnswer": "Moral hazard",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "Moral hazard arises when a party insulated from risk acts differently than they would if they were fully exposed to it.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"theory",
+"microeconomics"
+]
+},
+{
+"id": "economics_093",
+"question": "What basic macro policy equation represents the money multiplier effect?",
+"options": [
+"Multiplier = 1 / Reserve Requirement",
+"Multiplier = Inflation / Unemployment",
+"Multiplier = Marginal Propensity to Consume x Price",
+"Multiplier = GDP / Interest Rate"
+],
+"correctAnswer": "Multiplier = 1 / Reserve Requirement",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "The maximum money expansion possible via banking deposits equals the inverse of the designated reserve ratio.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"banking",
+"math"
+]
+},
+{
+"id": "economics_094",
+"question": "Which logo represents an international economic cartel that coordinates petroleum production policies among member nations?",
+"options": [
+"OPEC",
+"OECD",
+"APEC",
+"NAFTA"
+],
+"correctAnswer": "OPEC",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "The Organization of the Petroleum Exporting Countries (OPEC) manages oil output to regulate global market pricing.",
+"imageUrl": "[https://images.unsplash.com/photo-1535732820275-9ffd998cac22](https://images.unsplash.com/photo-1535732820275-9ffd998cac22)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"global",
+"energy"
+]
+},
+{
+"id": "economics_095",
+"question": "What type of unemployment increases during economic downturns and recessions?",
+"options": [
+"Frictional unemployment",
+"Structural unemployment",
+"Cyclical unemployment",
+"Seasonal unemployment"
+],
+"correctAnswer": "Cyclical unemployment",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "Cyclical unemployment directly follows business cycles, rising during contractions and dropping during expansions.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"labor",
+"macroeconomics"
+]
+},
+{
+"id": "economics_096",
+"question": "What classic microeconomic dilemma occurs when shared open access resources are overexploited and degraded?",
+"options": [
+"Tragedy of the Commons",
+"Free Rider Paradox",
+"Market Clearing Fault",
+"Giffen Trap"
+],
+"correctAnswer": "Tragedy of the Commons",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "The Tragedy of the Commons happens when individuals act in self-interest to deplete a shared resource, like fish stocks.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"environment",
+"microeconomics"
+]
+},
+{
+"id": "economics_097",
+"question": "What structural economic model uses an Edgeworth Box to demonstrate efficient trade allocation?",
+"options": [
+"General Equilibrium Theory",
+"Keynesian Cross Model",
+"Solow Growth Model",
+"IS-LM Framework"
+],
+"correctAnswer": "General Equilibrium Theory",
+"category": "Economics",
+"difficulty": "hard",
+"explanation": "The Edgeworth Box maps the distribution of goods between two consumers to illustrate Pareto-efficient trade allocations.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"theory",
+"microeconomics"
+]
+},
+{
+"id": "economics_098",
+"question": "What is the formal economic term for a tax structure where the average tax rate remains constant across all income levels?",
+"options": [
+"Progressive tax",
+"Regressive tax",
+"Proportional tax",
+"Surtax"
+],
+"correctAnswer": "Proportional tax",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "A proportional tax (or flat tax) applies the exact same percentage of taxation regardless of income size.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"taxes",
+"policy"
+]
+},
+{
+"id": "economics_099",
+"question": "What metric scales nominal GDP values down to reflect inflation adjustments, converting it into real GDP?",
+"options": [
+"Consumer Price Index",
+"GDP Deflator",
+"Purchasing Power Parity index",
+"Producer Price Index"
+],
+"correctAnswer": "GDP Deflator",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "The GDP deflator measures price adjustments for all domestically produced final goods and services, acting as a broad inflation index.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"macroeconomics",
+"gdp"
+]
+},
+{
+"id": "economics_100",
+"question": "Which country's flag represents the economic history of hyperinflation where banknotes were printed in denominations of one hundred trillion dollars in 2008?",
+"options": [
+"Venezuela",
+"Zimbabwe",
+"Argentina",
+"Germany"
+],
+"correctAnswer": "Zimbabwe",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "Zimbabwe experienced severe hyperinflation in the late 2000s, leading to the issuance of historic 100-trillion-dollar currency notes.",
+"imageUrl": "[https://images.unsplash.com/photo-1574944985070-8f3ebc6b79d2](https://images.unsplash.com/photo-1574944985070-8f3ebc6b79d2)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"history",
+"inflation"
+]
+},
+{
+"id": "economics_101",
+"question": "What is the name of the theory stating that asset prices fully reflect all available information at any given time?",
+"options": [
+"Behavioral Asset Model",
+"Efficient Market Hypothesis",
+"Arbitrage Pricing Theory",
+"Random Walk Framework"
+],
+"correctAnswer": "Efficient Market Hypothesis",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "Developed by Eugene Fama, the Efficient Market Hypothesis asserts it is impossible to consistently beat the market because stock prices incorporate all known data.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"finance",
+"theory"
+]
+},
+{
+"id": "economics_102",
+"question": "In a standard monopoly, how does marginal revenue relate to the price of the good sold?",
+"options": [
+"Marginal revenue is equal to price",
+"Marginal revenue is greater than price",
+"Marginal revenue is less than price",
+"Marginal revenue has a constant ratio of double the price"
+],
+"correctAnswer": "Marginal revenue is less than price",
+"category": "Economics",
+"difficulty": "hard",
+"explanation": "Because a monopolist faces a downward-sloping demand curve, it must lower the price on all units to sell an additional unit, making $MR < P$.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"microeconomics",
+"monopoly"
+]
+},
+{
+"id": "economics_103",
+"question": "What economic baseline indicator adds up the total number of unemployed people and divides it by the total labor force?",
+"options": [
+"Labor participation index",
+"Unemployment rate",
+"Employment-to-population ratio",
+"Underemployment score"
+],
+"correctAnswer": "Unemployment rate",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "The unemployment rate excludes individuals who are not actively searching for work or who have left the labor force.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"labor",
+"macroeconomics"
+]
+},
+{
+"id": "economics_104",
+"question": "What is the term for government financial assistance granted to domestic businesses to protect them against foreign imports?",
+"options": [
+"Tariff",
+"Quota",
+"Subsidy",
+"Embargo"
+],
+"correctAnswer": "Subsidy",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "Subsidies lower production costs for domestic suppliers, allowing them to compete more effectively with international goods.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"policy",
+"trade"
+]
+},
+{
+"id": "economics_105",
+"question": "Which famous work published in 1776 contains the definitive original analysis of the division of labor?",
+"options": [
+"Das Kapital",
+"The Wealth of Nations",
+"The General Theory",
+"Principles of Political Economy"
+],
+"correctAnswer": "The Wealth of Nations",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "Adam Smith's 'The Wealth of Nations' introduced key tenets of capitalism and free trade to the modern world.",
+"imageUrl": "[https://images.unsplash.com/photo-1544947950-fa07a98d237f](https://images.unsplash.com/photo-1544947950-fa07a98d237f)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"history",
+"literature"
+]
+},
+{
+"id": "economics_106",
+"question": "What metric estimates economic exchange adjustments between countries based on what a standardized basket of goods costs in each nation?",
+"options": [
+"Consumer Price Index (CPI)",
+"Purchasing Power Parity (PPP)",
+"Foreign Exchange Ratio (FXR)",
+"Gross National Income (GNI)"
+],
+"correctAnswer": "Purchasing Power Parity (PPP)",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "PPP scales currency measurements to account for differences in local living costs and inflation, offering a clearer international comparison.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"global",
+"macroeconomics"
+]
+},
+{
+"id": "economics_107",
+"question": "What type of efficiency is achieved when an economy produces goods at the lowest possible average total cost?",
+"options": [
+"Allocative efficiency",
+"Productive efficiency",
+"Pareto efficiency",
+"Dynamic efficiency"
+],
+"correctAnswer": "Productive efficiency",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "Productive efficiency occurs when production takes place at the minimum point of the long-run average cost curve.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"microeconomics",
+"efficiency"
+]
+},
+{
+"id": "economics_108",
+"question": "What happens to the supply curve for a product when production technology improves significantly?",
+"options": [
+"Shifts completely to the left",
+"Shifts completely to the right",
+"Remains stationary while demand slopes upward",
+"Becomes perfectly vertical"
+],
+"correctAnswer": "Shifts completely to the right",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "Technological improvements lower marginal production costs, enabling producers to supply more output at any given price.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"supply",
+"microeconomics"
+]
+},
+{
+"id": "economics_109",
+"question": "What economic metric describes an allocation of resources where it is impossible to make one person better off without making someone else worse off?",
+"options": [
+"Nash Equilibrium",
+"Pareto Efficiency",
+"Socialist Equity",
+"Comparative Balance"
+],
+"correctAnswer": "Pareto Efficiency",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "Named after Vilfredo Pareto, this concept defines an optimal state of resource distribution where zero net gains remain unexploited.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"efficiency",
+"theory"
+]
+},
+{
+"id": "economics_110",
+"question": "Which sector of the economy is directly represented by activities like farming, logging, and mining natural resources?",
+"options": [
+"Primary sector",
+"Secondary sector",
+"Tertiary sector",
+"Quaternary sector"
+],
+"correctAnswer": "Primary sector",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "The primary sector deals with the extraction and harvesting of natural raw materials from the earth.",
+"imageUrl": "[https://images.unsplash.com/photo-1500937386664-56d1dfef3854](https://images.unsplash.com/photo-1500937386664-56d1dfef3854)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"industry",
+"basics"
+]
+},
+{
+"id": "economics_111",
+"question": "What economic concept is defined as inflation caused by an increase in aggregate demand that outpaces aggregate supply?",
+"options": [
+"Cost-push inflation",
+"Demand-pull inflation",
+"Built-in inflation",
+"Hyperinflation"
+],
+"correctAnswer": "Demand-pull inflation",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "Demand-pull inflation occurs when excessive spending pull up prices, often summarized as 'too much money chasing too few goods'.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"inflation",
+"macroeconomics"
+]
+},
+{
+"id": "economics_112",
+"question": "What specific framework tracks all financial transactions between a single country and the rest of the world over a set period?",
+"options": [
+"Balance of Trade",
+"Balance of Payments",
+"Capital Account ledger",
+"Net Foreign Asset register"
+],
+"correctAnswer": "Balance of Payments",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "The Balance of Payments includes the current account (trade in goods/services) and the financial/capital accounts.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"trade",
+"global"
+]
+},
+{
+"id": "economics_113",
+"question": "Which economic dynamic describes asymmetric information where bad-quality items risk driving good-quality items out of a market before a transaction occurs?",
+"options": [
+"Moral hazard",
+"Adverse selection",
+"Free rider risk",
+"Monopoly leverage"
+],
+"correctAnswer": "Adverse selection",
+"category": "Economics",
+"difficulty": "hard",
+"explanation": "Adverse selection happens before a deal is made, notably described in George Akerlof's 'The Market for Lemons' paper on used cars.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"theory",
+"microeconomics"
+]
+},
+{
+"id": "economics_114",
+"question": "What classic economic growth model highlights the importance of technological progress as an exogenous driver of long-term growth?",
+"options": [
+"Harrod-Domar Model",
+"Solow-Swan Growth Model",
+"Endogenous Growth Model",
+"Malthusian Model"
+],
+"correctAnswer": "Solow-Swan Growth Model",
+"category": "Economics",
+"difficulty": "hard",
+"explanation": "The Solow model shows that capital accumulation alone cannot sustain long-run growth due to diminishing returns, pointing to technical progress.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"growth",
+"theory"
+]
+},
+{
+"id": "economics_115",
+"question": "What type of currency standard was officially abandoned by the United States under President Nixon in 1971?",
+"options": [
+"The Silver Standard",
+"The Gold Standard",
+"The Bimetallic standard",
+"The Sovereign Debt standard"
+],
+"correctAnswer": "The Gold Standard",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "The 'Nixon Shock' ended the direct convertibility of the United States Dollar into gold, dismantling the post-WWII Bretton Woods system.",
+"imageUrl": "[https://images.unsplash.com/photo-1610374792793-f016b77ca51a](https://images.unsplash.com/photo-1610374792793-f016b77ca51a)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"history",
+"money"
+]
+},
+{
+"id": "economics_116",
+"question": "What index represents a combination of a nation's inflation rate and its unemployment rate added together?",
+"options": [
+"Misery Index",
+"Stagnation score",
+"Discomfort Ratio",
+"Economic Hardship Indicator"
+],
+"correctAnswer": "Misery Index",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "The Misery Index was created to illustrate the stagflation landscape of the 1970s and gauge household economic stress.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"macroeconomics",
+"data"
+]
+},
+{
+"id": "economics_117",
+"question": "In game theory, what term describes a state where no player has an incentive to unilaterally deviate from their chosen strategy?",
+"options": [
+"Dominant Strategy equilibrium",
+"Nash Equilibrium",
+"Pareto point",
+"Zero-sum resolution"
+],
+"correctAnswer": "Nash Equilibrium",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "Named after mathematician John Nash, this foundational concept identifies steady states where strategies are mutually optimal.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"game theory",
+"theory"
+]
+},
+{
+"id": "economics_118",
+"question": "What type of economic system relies completely on customs, history, and time-honored beliefs to shape production choices?",
+"options": [
+"Command economy",
+"Market economy",
+"Traditional economy",
+"Mixed economy"
+],
+"correctAnswer": "Traditional economy",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "Traditional economies are heavily agrarian or subsistence-based, relying on ancestral patterns rather than government plans or modern markets.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"basics",
+"systems"
+]
+},
+{
+"id": "economics_119",
+"question": "What economic indicator tracks structural changes in wealth inequality by comparing the top 20% of earners directly to the bottom 20%?",
+"options": [
+"Palma Ratio",
+"Quintile Share Ratio",
+"Gini Indicator",
+"Atkinson Index"
+],
+"correctAnswer": "Quintile Share Ratio",
+"category": "Economics",
+"difficulty": "hard",
+"explanation": "The Quintile Share Ratio (or S80/S20 ratio) measures inequality by dividing the total income of the richest fifth by that of the poorest fifth.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"inequality",
+"macroeconomics"
+]
+},
+{
+"id": "economics_120",
+"question": "Which logo represents the federal regulatory agency responsible for monitoring antitrust laws and consumer protection in the United States?",
+"options": [
+"SEC",
+"FTC",
+"FDA",
+"IRS"
+],
+"correctAnswer": "FTC",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "The Federal Trade Commission (FTC) reviews large corporate mergers and stops anti-competitive business patterns.",
+"imageUrl": "[https://images.unsplash.com/photo-1450133064473-71024230f91b](https://images.unsplash.com/photo-1450133064473-71024230f91b)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"policy",
+"microeconomics"
+]
+},
+{
+"id": "economics_121",
+"question": "What is the economic term for a resource that is rivalrous but non-excludable?",
+"options": [
+"Public good",
+"Private good",
+"Common resource",
+"Club good"
+],
+"correctAnswer": "Common resource",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "Common resources, such as ocean fish stocks or shared pastures, face exploitation risks because anyone can access them, but usage reduces availability for others.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"microeconomics",
+"theory"
+]
+},
+{
+"id": "economics_122",
+"question": "What shape does a standard short-run marginal cost curve typically exhibit on an economic chart?",
+"options": [
+"U-shape",
+"J-shape",
+"Downward-sloping straight line",
+"Perfect horizontal line"
+],
+"correctAnswer": "U-shape",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "Marginal costs initially decline due to specialization benefits before eventually rising due to the law of diminishing marginal returns.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"graphs",
+"microeconomics"
+]
+},
+{
+"id": "economics_123",
+"question": "What basic law of economics asserts that as more units of a variable input are added to fixed inputs, production output gains eventually shrink?",
+"options": [
+"Law of Supply",
+"Law of Diminishing Returns",
+"Law of Economies of Scale",
+"Say's Law"
+],
+"correctAnswer": "Law of Diminishing Returns",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "The law of diminishing returns states that overcrowding fixed resources with variable inputs causes marginal efficiency to decline.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"microeconomics",
+"production"
+]
+},
+{
+"id": "economics_124",
+"question": "Which country is home to the European Central Bank (ECB) headquarters?",
+"options": [
+"Belgium",
+"France",
+"Germany",
+"Luxembourg"
+],
+"correctAnswer": "Germany",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "The European Central Bank is located in Frankfurt, Germany, where it frames monetary strategy for the eurozone.",
+"imageUrl": "[https://images.unsplash.com/photo-1486406146926-c627a92ad1ab](https://images.unsplash.com/photo-1486406146926-c627a92ad1ab)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"global",
+"banking"
+]
+},
+{
+"id": "economics_125",
+"question": "What is the structural term for an economy where production decisions are split between market mechanisms and government plans?",
+"options": [
+"Command economy",
+"Mixed economy",
+"Laissez-faire economy",
+"Barter economy"
+],
+"correctAnswer": "Mixed economy",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "Most modern developed nations function as mixed economies, blending private market initiatives with public safety regulations.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"basics",
+"systems"
+]
+},
+{
+"id": "economics_126",
+"question": "What type of trade policy uses tariffs or quotas to restrict foreign competition and shield domestic manufacturing?",
+"options": [
+"Free trade",
+"Protectionism",
+"Mercantilism",
+"Global integration"
+],
+"correctAnswer": "Protectionism",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "Protectionism aims to boost domestic industry, but it can lead to higher consumer prices and retaliatory trade actions.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"trade",
+"policy"
+]
+},
+{
+"id": "economics_127",
+"question": "What type of good is electricity infrastructure, which is non-rivalrous but excludable through subscription fees?",
+"options": [
+"Public good",
+"Common resource",
+"Club good",
+"Private good"
+],
+"correctAnswer": "Club good",
+"category": "Economics",
+"difficulty": "hard",
+"explanation": "Club goods are excludable but non-rivalrous up to a point of congestion, like cable television or toll roads.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"microeconomics",
+"theory"
+]
+},
+{
+"id": "economics_128",
+"question": "What is the standard name for an inflation pattern that accelerates out of control, often defined as exceeding 50% per month?",
+"options": [
+"Stagflation",
+"Core inflation",
+"Hyperinflation",
+"Creeping inflation"
+],
+"correctAnswer": "Hyperinflation",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "Hyperinflation typically stems from extreme growth in the money supply, fully destroying currency trust.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"inflation",
+"macroeconomics"
+]
+},
+{
+"id": "economics_129",
+"question": "Which financial market allows investors to purchase and trade ownership shares of public corporations?",
+"options": [
+"Bond market",
+"Commodities market",
+"Stock market",
+"Foreign exchange market"
+],
+"correctAnswer": "Stock market",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "Stock markets provide capital to corporations by allowing shares to be bought and sold via centralized public exchanges.",
+"imageUrl": "[https://images.unsplash.com/photo-1535320903710-d993d3d77d29](https://images.unsplash.com/photo-1535320903710-d993d3d77d29)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"finance",
+"investing"
+]
+},
+{
+"id": "economics_130",
+"question": "What curve maps the threshold combinations of investment and savings that clear the market in the classical IS-LM model?",
+"options": [
+"The IS curve",
+"The LM curve",
+"The Phillips Curve",
+"The BP curve"
+],
+"correctAnswer": "The IS curve",
+"category": "Economics",
+"difficulty": "hard",
+"explanation": "The 'Investment-Savings' (IS) curve represents equilibrium points across the goods market at various interest rates.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"macroeconomics",
+"models"
+]
+},
+{
+"id": "economics_131",
+"question": "What is the economic term for the situation where a buyer has more information about a product than the seller, or vice versa?",
+"options": [
+"Market parity",
+"Asymmetric information",
+"Rational ignorance",
+"Perfect transparency"
+],
+"correctAnswer": "Asymmetric information",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "Asymmetric information can lead to market imbalances or failures, often seen in insurance markets and used car sales.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"theory",
+"microeconomics"
+]
+},
+{
+"id": "economics_132",
+"question": "Which of the following elements forms a core part of an expansionary fiscal policy toolkit?",
+"options": [
+"Raising corporate income tax rates",
+"Increasing government spending on public infrastructure",
+"Selling short-term treasury bills to commercial banks",
+"Increasing the minimum banking reserve ratio"
+],
+"correctAnswer": "Increasing government spending on public infrastructure",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "Expansionary fiscal policy injects money into the economy by either cutting taxes or increasing government spending to stimulate demand.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"policy",
+"macroeconomics"
+]
+},
+{
+"id": "economics_133",
+"question": "What macro calculation determines the 'Labor Force Participation Rate'?",
+"options": [
+"(Labor Force / Total Working-Age Population) x 100",
+"(Employed Workers / Total Population) x 100",
+"(Unemployed Workers / Labor Force) x 100",
+"(Labor Force / Employed Workers) x 100"
+],
+"correctAnswer": "(Labor Force / Total Working-Age Population) x 100",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "This rate tracks the portion of the working-age population that is either currently employed or actively seeking employment.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"labor",
+"macroeconomics"
+]
+},
+{
+"id": "economics_134",
+"question": "What type of cost does not vary with a firm's level of production in the short run?",
+"options": [
+"Variable cost",
+"Marginal cost",
+"Fixed cost",
+"Average cost"
+],
+"correctAnswer": "Fixed cost",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "Fixed costs, such as rent or equipment leases, must be paid regardless of whether the factory produces zero or thousands of units.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"microeconomics",
+"business"
+]
+},
+{
+"id": "economics_135",
+"question": "Which iconic landmark city hosts the headquarters of the World Bank Group?",
+"options": [
+"New York City",
+"Geneva",
+"Washington, D.C.",
+"London"
+],
+"correctAnswer": "Washington, D.C.",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "The World Bank Group is based in Washington, D.C., where it focuses on providing loans to developing countries to reduce poverty.",
+"imageUrl": "[https://images.unsplash.com/photo-1502082553048-f009c37129b9](https://images.unsplash.com/photo-1502082553048-f009c37129b9)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"global",
+"history"
+]
+},
+{
+"id": "economics_136",
+"question": "What is the economic term for a market structure with only two dominant sellers?",
+"options": [
+"Monopoly",
+"Duopoly",
+"Oligopoly",
+"Monopsony"
+],
+"correctAnswer": "Duopoly",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "A duopoly is a specific type of oligopoly where two competing firms control the vast majority of market share (e.g., Boeing and Airbus).",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"markets",
+"microeconomics"
+]
+},
+{
+"id": "economics_137",
+"question": "What theory states that population growth tends to outpace food production, leading to inevitable starvation and poverty cycles?",
+"options": [
+"Marxist Theory",
+"Keynesian Growth Model",
+"Malthusian Catastrophe theory",
+"Ricardian Rent Theory"
+],
+"correctAnswer": "Malthusian Catastrophe theory",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "Thomas Malthus posited that population grew geometrically while food supply grew arithmetically, creating inevitable crises.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"history",
+"theory"
+]
+},
+{
+"id": "economics_138",
+"question": "What dynamic occurs when a country's exports exceed its imports?",
+"options": [
+"Trade deficit",
+"Trade surplus",
+"Fiscal shortfall",
+"Capital drain"
+],
+"correctAnswer": "Trade surplus",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "A trade surplus indicates a positive net trade balance, meaning more wealth flows into the domestic market via foreign transactions.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"trade",
+"global"
+]
+},
+{
+"id": "economics_139",
+"question": "Which of the following metrics serves as an implicit floor under wages, preventing market clearing rates from falling lower?",
+"options": [
+"Price index ceiling",
+"Minimum wage law",
+"Basic corporate welfare cap",
+"Earned income credit threshold"
+],
+"correctAnswer": "Minimum wage law",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "A minimum wage law acts as a price floor in the labor market. If set above equilibrium, it can cause an excess supply of labor.",
+"imageUrl": "[https://images.unsplash.com/photo-1521898284481-a5ec348cb555](https://images.unsplash.com/photo-1521898284481-a5ec348cb555)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"labor",
+"policy"
+]
+},
+{
+"id": "economics_140",
+"question": "What is the name of the mathematical model that defines the optimal spending mix based on indifference curves and a budget line?",
+"options": [
+"Consumer Choice Theory",
+"Producer Equilibrium",
+"Production frontier scale",
+"Elasticity matrix model"
+],
+"correctAnswer": "Consumer Choice Theory",
+"category": "Economics",
+"difficulty": "hard",
+"explanation": "Consumer choice theory assumes individuals maximize utility where their indifference curve is tangent to their budget constraint line.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"utility",
+"microeconomics"
+]
+},
+{
+"id": "economics_141",
+"question": "What does a vertical long-run Phillips Curve reveal about the relationship between inflation and unemployment?",
+"options": [
+"Lower inflation leads to higher unemployment over time",
+"There is no long-run trade-off between inflation and unemployment",
+"Hyperinflation can permanently eradicate cyclical unemployment",
+"Unemployment always tracks at zero in the long run"
+],
+"correctAnswer": "There is no long-run trade-off between inflation and unemployment",
+"category": "Economics",
+"difficulty": "hard",
+"explanation": "In the long run, the economy stabilizes at its natural rate of unemployment regardless of the rate of inflation.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"macroeconomics",
+"graphs"
+]
+},
+{
+"id": "economics_142",
+"question": "What is the term for a market structure where a single buyer dominates the industry?",
+"options": [
+"Monopoly",
+"Oligopoly",
+"Monopsony",
+"Monopolistic Competition"
+],
+"correctAnswer": "Monopsony",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "A monopsony gives the buyer significant power to influence the price of goods or labor, often seen in small towns with a single major employer.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"markets",
+"microeconomics"
+]
+},
+{
+"id": "economics_143",
+"question": "What type of goods are public parks and national defense, where users cannot be easily excluded and use by one does not diminish use by another?",
+"options": [
+"Private goods",
+"Public goods",
+"Common resources",
+"Club goods"
+],
+"correctAnswer": "Public goods",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "Public goods are defined by two key characteristics: they are non-excludable and non-rivalrous in consumption.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"theory",
+"basics"
+]
+},
+{
+"id": "economics_144",
+"question": "Which international trade block uses a unified passport and shares the Euro across most member nations?",
+"options": [
+"ASEAN",
+"European Union",
+"BRICS",
+"Mercosur"
+],
+"correctAnswer": "European Union",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "The European Union creates an integrated single market allowing free movement of goods, services, capital, and labor.",
+"imageUrl": "[https://images.unsplash.com/photo-1486406146926-c627a92ad1ab](https://images.unsplash.com/photo-1486406146926-c627a92ad1ab)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"global",
+"trade"
+]
+},
+{
+"id": "economics_145",
+"question": "What type of taxation system applies a higher tax rate as an individual's income level increases?",
+"options": [
+"Regressive tax",
+"Proportional tax",
+"Progressive tax",
+"Flat tax"
+],
+"correctAnswer": "Progressive tax",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "Progressive tax systems aim to reduce income inequality by collecting a higher percentage of tax from wealthier individuals.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"taxes",
+"policy"
+]
+},
+{
+"id": "economics_146",
+"question": "What index measures structural changes in the cost of a typical fixed basket of goods to calculate consumer inflation?",
+"options": [
+"Producer Price Index",
+"Consumer Price Index",
+"GDP Deflator",
+"Employment Cost Index"
+],
+"correctAnswer": "Consumer Price Index",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "The Consumer Price Index (CPI) tracks price changes over time from the perspective of urban consumer spending.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"inflation",
+"macroeconomics"
+]
+},
+{
+"id": "economics_147",
+"question": "What is the term for a temporary economic contraction characterized by a decline in real GDP for two consecutive quarters?",
+"options": [
+"Depression",
+"Stagflation",
+"Recession",
+"Disinflation"
+],
+"correctAnswer": "Recession",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "A recession is a period of temporary economic decline during which trade and industrial activity are reduced.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"cycles",
+"macroeconomics"
+]
+},
+{
+"id": "economics_148",
+"question": "What economic concept is defined as the total value of all final goods and services produced within a country's borders in a specific time frame?",
+"options": [
+"Gross National Product",
+"Net National Product",
+"Gross Domestic Product",
+"Disposable Personal Income"
+],
+"correctAnswer": "Gross Domestic Product",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "Gross Domestic Product (GDP) serves as a key indicator used to gauge the health of a country's economy.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"macroeconomics",
+"gdp"
+]
+},
+{
+"id": "economics_149",
+"question": "What curve shows the relationship between tax rates and tax revenues?",
+"options": [
+"Phillips Curve",
+"Laffer Curve",
+"Lorenz Curve",
+"Kuznets Curve"
+],
+"correctAnswer": "Laffer Curve",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "The Laffer Curve illustrates that higher tax rates do not always lead to higher revenue if they discourage economic activity.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"taxes",
+"graphs"
+]
+},
+{
+"id": "economics_150",
+"question": "Which prominent landmark city serves as the home base for the International Monetary Fund?",
+"options": [
+"New York",
+"London",
+"Washington, D.C.",
+"Geneva"
+],
+"correctAnswer": "Washington, D.C.",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "The IMF is headquartered in Washington, D.C., and works to foster global monetary cooperation and financial stability.",
+"imageUrl": "[https://images.unsplash.com/photo-1541872703-74c5e44368f9](https://images.unsplash.com/photo-1541872703-74c5e44368f9)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"global",
+"history"
+]
+},
+{
+"id": "economics_151",
+"question": "What type of inflation is triggered by a sudden surge in raw material costs or wages across an economy?",
+"options": [
+"Demand-pull inflation",
+"Cost-push inflation",
+"Structural inflation",
+"Hyperinflation"
+],
+"correctAnswer": "Cost-push inflation",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "Cost-push inflation occurs when overall prices increase due to increases in the cost of wages and raw materials.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"inflation",
+"macroeconomics"
+]
+},
+{
+"id": "economics_152",
+"question": "What historical school of economic thought argued that government intervention is necessary to stabilize the economy during recessions?",
+"options": [
+"Classical Economics",
+"Keynesian Economics",
+"Monetarism",
+"Austrian Economics"
+],
+"correctAnswer": "Keynesian Economics",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "Keynesian economics advocates for increased government spending and lower taxes to stimulate demand during an economic downturn.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"theory",
+"history"
+]
+},
+{
+"id": "economics_153",
+"question": "What is the term for a market situation where a small number of large firms dominate an industry?",
+"options": [
+"Monopoly",
+"Oligopoly",
+"Perfect Competition",
+"Monopolistic Competition"
+],
+"correctAnswer": "Oligopoly",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "An oligopoly features a market structure with high barriers to entry, dominated by a few large firms like commercial airlines.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"markets",
+"microeconomics"
+]
+},
+{
+"id": "economics_154",
+"question": "What tool does a central bank use when it buys or sells government securities to control the money supply?",
+"options": [
+"Discount window lending",
+"Open market operations",
+"Reserve requirement adjustments",
+"Fiscal expenditure tweaks"
+],
+"correctAnswer": "Open market operations",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "Open market operations are a flexible tool used by central banks to adjust liquidity and guide interest rates.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"policy",
+"macroeconomics"
+]
+},
+{
+"id": "economics_155",
+"question": "What type of unemployment occurs when there is a mismatch between the skills of workers and the requirements of available jobs?",
+"options": [
+"Frictional unemployment",
+"Cyclical unemployment",
+"Structural unemployment",
+"Seasonal unemployment"
+],
+"correctAnswer": "Structural unemployment",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "Structural unemployment is often long-term and can be caused by technological shifts or industry declines.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"labor",
+"macroeconomics"
+]
+},
+{
+"id": "economics_156",
+"question": "What occurs when the value of a nation's imports exceeds the value of its exports?",
+"options": [
+"Trade surplus",
+"Trade deficit",
+"Fiscal deficit",
+"Capital surplus"
+],
+"correctAnswer": "Trade deficit",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "A trade deficit means a country is buying more goods and services from abroad than it is selling overseas.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"trade",
+"global"
+]
+},
+{
+"id": "economics_157",
+"question": "What name is given to the value of the next best alternative given up when making an economic choice?",
+"options": [
+"Sunk cost",
+"Opportunity cost",
+"Marginal cost",
+"Explicit cost"
+],
+"correctAnswer": "Opportunity cost",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "Opportunity cost is a key concept in economics that highlights the trade-offs inherent in any decision.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"basics",
+"choice"
+]
+},
+{
+"id": "economics_158",
+"question": "Which economic curve graphically represents the level of income inequality within a population?",
+"options": [
+"Phillips Curve",
+"Lorenz Curve",
+"Laffer Curve",
+"Kuznets Curve"
+],
+"correctAnswer": "Lorenz Curve",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "The Lorenz Curve shows the cumulative share of income earned by cumulative segments of the population.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"inequality",
+"graphs"
+]
+},
+{
+"id": "economics_159",
+"question": "What is the term for a cost or benefit of an economic activity experienced by an unrelated third party?",
+"options": [
+"Externality",
+"Internal cost",
+"Public surplus",
+"Opportunity trade"
+],
+"correctAnswer": "Externality",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "Externalities can be negative (like pollution) or positive (like vaccinations) and represent market inefficiencies.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"theory",
+"microeconomics"
+]
+},
+{
+"id": "economics_160",
+"question": "Which global intergovernmental organization regulates and facilitates international trade?",
+"options": [
+"World Bank",
+"International Monetary Fund",
+"World Trade Organization",
+"World Economic Forum"
+],
+"correctAnswer": "World Trade Organization",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "The WTO establishes rules for global trade and helps resolve trade disputes between member nations.",
+"imageUrl": "[https://images.unsplash.com/photo-1454165804606-c3d57bc86b40](https://images.unsplash.com/photo-1454165804606-c3d57bc86b40)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"trade",
+"global"
+]
+},
+{
+"id": "economics_161",
+"question": "If a good has a price elasticity of demand equal to 0.2, how is its demand classified?",
+"options": [
+"Perfecty elastic",
+"Inelastic",
+"Elastic",
+"Unit elastic"
+],
+"correctAnswer": "Inelastic",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "An elasticity less than 1 indicates that percentage changes in price result in smaller percentage changes in quantity demanded.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"elasticity",
+"microeconomics"
+]
+},
+{
+"id": "economics_162",
+"question": "What theory states that nations should export goods they can produce at a lower opportunity cost than other nations?",
+"options": [
+"Absolute Advantage",
+"Comparative Advantage",
+"Mercantilism",
+"Protectionism"
+],
+"correctAnswer": "Comparative Advantage",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "The principle of comparative advantage, popularized by David Ricardo, explains why mutual gains from trade exist.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"trade",
+"theory"
+]
+},
+{
+"id": "economics_163",
+"question": "What financial institution manages monetary policy and regulates the commercial banking system within a country?",
+"options": [
+"Investment Bank",
+"Commercial Bank",
+"Central Bank",
+"Credit Union"
+],
+"correctAnswer": "Central Bank",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "Examples of central banks include the Federal Reserve in the US and the Bank of England in the UK.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"banking",
+"macroeconomics"
+]
+},
+{
+"id": "economics_164",
+"question": "What concept describes an economic equilibrium that cannot be changed to make anyone better off without making someone else worse off?",
+"options": [
+"Nash Equilibrium",
+"Pareto Efficiency",
+"Market Clearing Balance",
+"Social Optimum"
+],
+"correctAnswer": "Pareto Efficiency",
+"category": "Economics",
+"difficulty": "hard",
+"explanation": "Pareto efficiency represents a baseline criteria for evaluating resource allocation and economic welfare.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"efficiency",
+"theory"
+]
+},
+{
+"id": "economics_165",
+"question": "Which economic term refers to currency that has value because of a government decree rather than physical backing?",
+"options": [
+"Commodity money",
+"Fiat money",
+"Representative money",
+"Digital standard"
+],
+"correctAnswer": "Fiat money",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "Fiat money depends on public trust in the stability of the legal and governmental system that issues it.",
+"imageUrl": "[https://images.unsplash.com/photo-1601597111158-2fceff292cdc](https://images.unsplash.com/photo-1601597111158-2fceff292cdc)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"money",
+"basics"
+]
+},
+{
+"id": "economics_166",
+"question": "What type of good experience an increase in demand as consumer incomes rise?",
+"options": [
+"Inferior good",
+"Normal good",
+"Giffen good",
+"Complementary good"
+],
+"correctAnswer": "Normal good",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "Most consumer goods, such as clothing and electronics, fall under the category of normal goods.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"demand",
+"microeconomics"
+]
+},
+{
+"id": "economics_167",
+"question": "What specific paradox states that individual attempts to increase savings during a recession can cause total aggregate demand to decline?",
+"options": [
+"Paradox of Thrift",
+"Diamond-Water Paradox",
+"Leontief Paradox",
+"Lucas Paradox"
+],
+"correctAnswer": "Paradox of Thrift",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "The Paradox of Thrift, popularized by Keynes, shows that collective rational behavior can produce unintended macroeconomic harm.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"theory",
+"macroeconomics"
+]
+},
+{
+"id": "economics_168",
+"question": "What baseline indicator is calculated by adding up the number of employed and unemployed individuals who are actively looking for work?",
+"options": [
+"Working population",
+"Labor force",
+"Participation threshold",
+"Employment index"
+],
+"correctAnswer": "Labor force",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "The labor force excludes students, retirees, and others who are not actively seeking employment.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"labor",
+"basics"
+]
+},
+{
+"id": "economics_169",
+"question": "What is the name of the economic curve showing an inverse relationship between inflation and unemployment in the short run?",
+"options": [
+"Lorenz Curve",
+"Phillips Curve",
+"Laffer Curve",
+"IS Curve"
+],
+"correctAnswer": "Phillips Curve",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "The short-run Phillips curve suggests a policy trade-off, though this relationship broke down during 1970s stagflation.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"macroeconomics",
+"graphs"
+]
+},
+{
+"id": "economics_170",
+"question": "Which historic treaty signed in 1992 created the single market and established the Eurozone framework?",
+"options": [
+"Treaty of Versailles",
+"Maastricht Treaty",
+"Treaty of Rome",
+"Lisbon Treaty"
+],
+"correctAnswer": "Maastricht Treaty",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "The Maastricht Treaty integrated European nations further and set fiscal convergence criteria for adopting the shared currency.",
+"imageUrl": "[https://images.unsplash.com/photo-1471623322305-1e428da6ae52](https://images.unsplash.com/photo-1471623322305-1e428da6ae52)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"global",
+"history"
+]
+},
+{
+"id": "economics_171",
+"question": "What tool of monetary policy refers to the minimum interest rate the central bank charges commercial banks for borrowing short-term reserves?",
+"options": [
+"Federal funds rate",
+"Discount rate",
+"Prime rate",
+"Treasury rate"
+],
+"correctAnswer": "Discount rate",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "Adjusting the discount rate influences credit availability and signals monetary policy intent to financial markets.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"policy",
+"banking"
+]
+},
+{
+"id": "economics_172",
+"question": "What is the term for a market structure with a single seller and no close substitutes for its product?",
+"options": [
+"Monopoly",
+"Oligopoly",
+"Perfect Competition",
+"Monopsony"
+],
+"correctAnswer": "Monopoly",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "Monopolies can lead to higher consumer prices and lower output levels compared to competitive markets.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"monopoly",
+"microeconomics"
+]
+},
+{
+"id": "economics_173",
+"question": "What type of efficiency is achieved when resource allocation maximizes total consumer and producer surplus?",
+"options": [
+"Productive efficiency",
+"Allocative efficiency",
+"Dynamic efficiency",
+"Technical efficiency"
+],
+"correctAnswer": "Allocative efficiency",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "Allocative efficiency occurs when goods are produced up to the point where marginal benefit equals marginal cost.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"efficiency",
+"microeconomics"
+]
+},
+{
+"id": "economics_174",
+"question": "What framework tracks a country's net trade in goods, services, and net earnings on cross-border investments?",
+"options": [
+"Capital Account",
+"Financial Account",
+"Current Account",
+"Reserve Balance"
+],
+"correctAnswer": "Current Account",
+"category": "Economics",
+"difficulty": "hard",
+"explanation": "The current account is a key component of the balance of payments statement used in international macroeconomics.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"trade",
+"global"
+]
+},
+{
+"id": "economics_175",
+"question": "What basic law of demand states that, all else equal, an increase in a product's price causes what change?",
+"options": [
+"Demand curve shifts left",
+"Quantity demanded decreases",
+"Demand curve shifts right",
+"Quantity demanded increases"
+],
+"correctAnswer": "Quantity demanded decreases",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "The law of demand describes the inverse relationship between price adjustments and user purchases.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"demand",
+"basics"
+]
+},
+{
+"id": "economics_176",
+"question": "What metric scales down the long-run average total cost as a firm increases its output volume?",
+"options": [
+"Diminishing returns",
+"Economies of scale",
+"Specialization deficit",
+"Marginal efficiency"
+],
+"correctAnswer": "Economies of scale",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "Economies of scale provide a significant competitive advantage to large-scale operations.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"business",
+"microeconomics"
+]
+},
+{
+"id": "economics_177",
+"question": "What specific game theory matrix demonstrates how self-interested rational strategies can yield worse group outcomes?",
+"options": [
+"Prisoner's Dilemma",
+"Battle of the Sexes",
+"Cournot Duopoly",
+"Hawk-Dove game"
+],
+"correctAnswer": "Prisoner's Dilemma",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "The Prisoner's Dilemma is a fundamental framework used to analyze oligopolistic behavior and cartel stability.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"game theory",
+"theory"
+]
+},
+{
+"id": "economics_178",
+"question": "What type of intervention is a rent control policy that sets a legal cap below market rates?",
+"options": [
+"Price floor",
+"Price ceiling",
+"Subsidy quota",
+"Tax bracket"
+],
+"correctAnswer": "Price ceiling",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "While intended to protect tenants, binding price ceilings often lead to housing shortages and reduced property maintenance.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"policy",
+"microeconomics"
+]
+},
+{
+"id": "economics_179",
+"question": "Which of the following values represents the Gini Coefficient of a society with absolute, perfect inequality?",
+"options": [
+"0.0",
+"0.5",
+"1.0",
+"100.0"
+],
+"correctAnswer": "1.0",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "A Gini coefficient of 1 means one individual earns all the income, while everyone else earns zero.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"inequality",
+"math"
+]
+},
+{
+"id": "economics_180",
+"question": "Which major stock index tracks 500 of the largest publicly traded corporations in the United States?",
+"options": [
+"Dow Jones Industrial Average",
+"S&P 500",
+"NASDAQ Composite",
+"Russell 3000"
+],
+"correctAnswer": "S&P 500",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "The S&P 500 is a market-capitalization-weighted index and a key indicator of American economic performance.",
+"imageUrl": "[https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3](https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"finance",
+"investing"
+]
+},
+{
+"id": "economics_181",
+"question": "What economic concept describes an individual taking greater risks because the financial burden is borne by an insurance provider?",
+"options": [
+"Adverse selection",
+"Moral hazard",
+"Asymmetric arbitrage",
+"Bounded rationality"
+],
+"correctAnswer": "Moral hazard",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "Moral hazard occurs when a party insulated from risk acts differently than they would if they were fully exposed to it.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"theory",
+"microeconomics"
+]
+},
+{
+"id": "economics_182",
+"question": "What is the term for a tax that takes a larger percentage of income from low-income earners than from high-income earners?",
+"options": [
+"Progressive tax",
+"Regressive tax",
+"Proportional tax",
+"Flat tax"
+],
+"correctAnswer": "Regressive tax",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "Sales taxes are often considered regressive because lower-income individuals spend a larger share of their income on consumption.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"taxes",
+"policy"
+]
+},
+{
+"id": "economics_183",
+"question": "In a competitive labor market, what function does a corporate employer fulfill?",
+"options": [
+"Supplier of labor",
+"Demander of labor",
+"Price regulator",
+"Arbitrage clearing house"
+],
+"correctAnswer": "Demander of labor",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "Firms demand labor from households, which supply their time and skills in exchange for wages.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"labor",
+"basics"
+]
+},
+{
+"id": "economics_184",
+"question": "What formula defines the velocity of money based on the quantity theory equation?",
+"options": [
+"V = (P * Y) / M",
+"V = M / (P * Y)",
+"V = P * M * Y",
+"V = GDP - Inflation"
+],
+"correctAnswer": "V = (P * Y) / M",
+"category": "Economics",
+"difficulty": "hard",
+"explanation": "Derived from $MV = PY$, velocity measures how frequently currency changes hands to purchase final output.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"macroeconomics",
+"money"
+]
+},
+{
+"id": "economics_185",
+"question": "What unique category of inferior good experiences an increase in demand as its price increases due to a dominant income effect?",
+"options": [
+"Veblen good",
+"Giffen good",
+"Normal good",
+"Public good"
+],
+"correctAnswer": "Giffen good",
+"category": "Economics",
+"difficulty": "hard",
+"explanation": "Giffen goods are theoretical anomalies where a price increase strains a consumer's budget, forcing them to buy more of the basic staple.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"theory",
+"microeconomics"
+]
+},
+{
+"id": "economics_186",
+"question": "What macroeconomic index represents stagnant economic growth combined with high structural inflation?",
+"options": [
+"Hyperinflation",
+"Stagflation",
+"Deflationary spiral",
+"Disinflation"
+],
+"correctAnswer": "Stagflation",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "Stagflation presents a difficult policy challenge because measures to reduce inflation can worsen unemployment.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"inflation",
+"macroeconomics"
+]
+},
+{
+"id": "economics_187",
+"question": "What is the economic term for an unrecoverable cost that has already been incurred and should be ignored in future choices?",
+"options": [
+"Opportunity cost",
+"Sunk cost",
+"Fixed cost",
+"Implicit cost"
+],
+"correctAnswer": "Sunk cost",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "Sunk costs can lead to the 'sunk cost fallacy', where entities continue investing in failing projects to justify past expenditures.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"basics",
+"choice"
+]
+},
+{
+"id": "economics_188",
+"question": "Which mathematical tool uses an box layout to demonstrate efficient resource allocations between two consumers?",
+"options": [
+"Edgeworth Box",
+"Nash Grid",
+"Pareto Matrix",
+"Cournot Frame"
+],
+"correctAnswer": "Edgeworth Box",
+"category": "Economics",
+"difficulty": "hard",
+"explanation": "The Edgeworth Box maps indifference curves to identify Pareto-efficient points along a contract curve.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"theory",
+"graphs"
+]
+},
+{
+"id": "economics_189",
+"question": "What is the standard formula for calculating GDP using the income approach?",
+"options": [
+"GDP = C + I + G + NX",
+"GDP = Wages + Rent + Interest + Profits",
+"GDP = Price * Quantity",
+"GDP = Consumption + Savings"
+],
+"correctAnswer": "GDP = Wages + Rent + Interest + Profits",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "The income approach calculates economic output by summing the total income earned by factors of production.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"macroeconomics",
+"gdp"
+]
+},
+{
+"id": "economics_190",
+"question": "Which flagship international institution provides development loans and grants to low-income countries for capital projects?",
+"options": [
+"International Monetary Fund",
+"World Bank",
+"World Trade Organization",
+"Federal Reserve"
+],
+"correctAnswer": "World Bank",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "The World Bank focuses on long-term economic development and poverty reduction in developing nations.",
+"imageUrl": "[https://images.unsplash.com/photo-1454165804606-c3d57bc86b40](https://images.unsplash.com/photo-1454165804606-c3d57bc86b40)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"global",
+"history"
+]
+},
+{
+"id": "economics_191",
+"question": "What specific rule states that profit maximization occurs when marginal revenue equals marginal cost?",
+"options": [
+"Golden Rule of Profit Maximization",
+"Say's Profit Balance",
+"Equilibrium Maximization Law",
+"Marginal Choice Rule"
+],
+"correctAnswer": "Golden Rule of Profit Maximization",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "Firms maximize profits or minimize losses by producing up to the point where the cost of the last unit equals its revenue.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"microeconomics",
+"profit"
+]
+},
+{
+"id": "economics_192",
+"question": "What type of good is a luxury watch whose demand increases alongside its price due to its status-enhancing appeal?",
+"options": [
+"Giffen good",
+"Veblen good",
+"Normal good",
+"Inferior good"
+],
+"correctAnswer": "Veblen good",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "Veblen goods challenge traditional demand models because their value is derived partly from conspicuous consumption.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"theory",
+"microeconomics"
+]
+},
+{
+"id": "economics_193",
+"question": "What specific mechanism refers to a loss of total economic surplus caused by market distortions like taxes or regulations?",
+"options": [
+"Deadweight loss",
+"Opportunity drain",
+"Sunk allocation",
+"Marginal deficit"
+],
+"correctAnswer": "Deadweight loss",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "Deadweight loss represents trades that do not occur, reducing overall economic efficiency.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"efficiency",
+"microeconomics"
+]
+},
+{
+"id": "economics_194",
+"question": "Which prominent central banker chaired the Federal Reserve from 1987 to 2006, heavily shaping modern financial regulation?",
+"options": [
+"Paul Volcker",
+"Alan Greenspan",
+"Ben Bernanke",
+"Janet Yellen"
+],
+"correctAnswer": "Alan Greenspan",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "Alan Greenspan's long tenure was marked by a commitment to low interest rates and financial deregulation.",
+"imageUrl": "[https://images.unsplash.com/photo-1526304640581-d334cdbbf45e](https://images.unsplash.com/photo-1526304640581-d334cdbbf45e)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"history",
+"banking"
+]
+},
+{
+"id": "economics_195",
+"question": "What specific model shows the trade-off between the production levels of two distinct categories of goods?",
+"options": [
+"Lorenz Curve",
+"Production Possibilities Frontier",
+"Laffer Curve",
+"Phillips Curve"
+],
+"correctAnswer": "Production Possibilities Frontier",
+"category": "Economics",
+"difficulty": "easy",
+"explanation": "The PPF demonstrates scarcity, opportunity cost, and efficiency in production choices.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"basics",
+"graphs"
+]
+},
+{
+"id": "economics_196",
+"question": "What core characteristic defines a club good?",
+"options": [
+"Rivalrous and excludable",
+"Non-rivalrous and non-excludable",
+"Rivalrous and non-excludable",
+"Non-rivalrous and excludable"
+],
+"correctAnswer": "Non-rivalrous and excludable",
+"category": "Economics",
+"difficulty": "hard",
+"explanation": "Club goods include services like satellite television, where access can be restricted, but usage does not diminish availability for others.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"theory",
+"microeconomics"
+]
+},
+{
+"id": "economics_197",
+"question": "What is the name of the theory stating that individual trade transactions can settle externalities effectively if property rights are defined and transaction costs are zero?",
+"options": [
+"Coase Theorem",
+"Say's Law",
+"Okun's Theorem",
+"Arrow's Paradox"
+],
+"correctAnswer": "Coase Theorem",
+"category": "Economics",
+"difficulty": "hard",
+"explanation": "The Coase Theorem suggests that private negotiation can resolve externality problems without government intervention under specific conditions.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"theory",
+"microeconomics"
+]
+},
+{
+"id": "economics_198",
+"question": "What type of merger joins two companies operating at different stages of the same supply chain?",
+"options": [
+"Horizontal merger",
+"Vertical merger",
+"Conglomerate merger",
+"Concentric merger"
+],
+"correctAnswer": "Vertical merger",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "An example of a vertical merger is an automobile manufacturer acquiring a tire company to secure its supply chain.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"business",
+"microeconomics"
+]
+},
+{
+"id": "economics_199",
+"question": "What metric is used to determine how much the quantity demanded of a product shifts when consumer income increases?",
+"options": [
+"Price elasticity of demand",
+"Income elasticity of demand",
+"Cross-price elasticity",
+"Supply substitution index"
+],
+"correctAnswer": "Income elasticity of demand",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "Income elasticity of demand helps businesses categorize products as normal, inferior, or luxury goods.",
+"imageUrl": null,
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"elasticity",
+"microeconomics"
+]
+},
+{
+"id": "economics_200",
+"question": "Which physical artifact matches the historic Bretton Woods agreement layout that fixed global currency parameters to gold after World War II?",
+"options": [
+"Gold Bullion Bar",
+"The US Dollar Note",
+"The Euro Coin",
+"The British Sovereign"
+],
+"correctAnswer": "The US Dollar Note",
+"category": "Economics",
+"difficulty": "medium",
+"explanation": "The Bretton Woods agreement established the US Dollar as the global reserve currency, backed directly by gold reserves.",
+"imageUrl": "[https://images.unsplash.com/photo-1502920514313-52581002a659](https://images.unsplash.com/photo-1502920514313-52581002a659)",
+"createdBy": "system",
+"createdAt": "2026-01-01T00:00:00.000Z",
+"updatedAt": "2026-01-01T00:00:00.000Z",
+"isUserGenerated": false,
+"tags": [
+"history",
+"money"
+]
+}
+]
